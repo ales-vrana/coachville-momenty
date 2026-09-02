@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/coachville-momenty", "destination": "https://coachville-momenty.vercel.app/coachville-momenty" },
-    { "source": "/coachville-momenty/:path*", "destination": "https://coachville-momenty.vercel.app/coachville-momenty/:path*" }
-  ]
-}
