@@ -1,0 +1,47 @@
+{
+  "slug": "eva-valova",
+  "displayName": "Eva Valová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 13,
+  "priorProfessionText": "učitelka angličtiny na ZŠ (15 let), výchovná a kariérní poradkyně",
+  "priorProfessionCat": "školství",
+  "regionType": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "15 let učitelka angličtiny na ZŠ; jako výchovná a kariérní poradkyně měla i po dalším studiu pocit chybějících kompetencí pro rozhovory s dětmi, rodiči a kolegy"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "v prosinci se dozvěděla o výcviku, v březnu naskočila do nového běhu; zkušební hodina s kamarádkou koučkou; obavy: čas (škola ji neuvolňovala, potřebovala odpoledne a online) a finance"
+    },
+    {
+      "label": "2. až 3. měsíc",
+      "text": "při koučování s tréninkovým partnerem v roli hráče zjistila, že nechce zůstat zaměstnankyní; místo základního výcviku pokračovala na profesionální úroveň"
+    },
+    {
+      "label": "1. rok",
+      "text": "150 hodin praxe; oblíbení hráči podnikatelé (kolegové ve škole zájem neměli); oslovovat lidi jí nebylo příjemné, nechala se na to koučovat; změnil se jí přístup ve výuce"
+    },
+    {
+      "label": "Dnes (13. měsíc)",
+      "text": "plný úvazek ve škole a koučování odpoledne; začala podnikat; plán: příští školní rok poloviční úvazek podle růstu praxe; partner podporuje"
+    }
+  ]
+}

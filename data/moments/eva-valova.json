@@ -1,0 +1,267 @@
+[
+  {
+    "id": "ev001",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 1,
+    "endUtt": 4,
+    "quote": "No tak já jsem vlastně do CoachVille nastoupila zhruba před rokem. No a vedlo k tomu to, že jsem vlastně ve škole dostala možnost stát se i kariérním a výchovným poradcem, a přesto, že jsem si vystudovala teda ještě nějaké studium navíc k tomu, tak jsem měla pořád pocit, že nemám ještě všechny ty důležité kompetence k tomu, abych mohla s těma dětma mluvit, abych mohla mluvit s jejich rodiči, abych mohla mluvit s kolegy, a aby to bylo efektivní. Takže mi přišel do cesty koučovací výcvik a já jsem se rozhodla, že do toho půjdu a že vlastně se budu dál rozvíjet a vzdělávat. A bylo to to nejlepší rozhodnutí asi v mém životě.",
+    "summary": "Patnáct let učí angličtinu na základní škole. Když dostala roli výchovné a kariérní poradkyně, měla i po dalším studiu pocit, že jí chybí kompetence pro rozhovory s dětmi, rodiči a kolegy. Do CoachVille nastoupila zhruba před rokem, aby si je doplnila.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "15 let učitelka angličtiny; v CoachVille zhruba rok",
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Vstupní záměr byl použití v práci (E4), ne kariéra kouče. Věta „nejlepší rozhodnutí v životě“ je názor, do souhrnu nepatří. Promluva 2 („Hezký.“) je zřejmě tazatel, ne host."
+  },
+  {
+    "id": "ev002",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 8,
+    "endUtt": 9,
+    "quote": "No, určitě k tomu vedlo to, že jsem prostě chtěla dál na sobě nějak pracovat. Říkala jsem si, že mi to nestačí, to, že jsem teda dostudovala si něco, že vlastně potřebuji ještě něco dál pracovat na sobě. No a největší asi výzva byla, tak samozřejmě já jsem řešila, jestli to budu zvládat časově, jestli vlastně ten výcvik bude v podstatě dostupný pro mě, protože ve škole už nebo v práci už mě nechtěli moc uvolňovat v průběhu vyučování, takže jsem hledala něco, co by vlastně bylo umožněno studovat a dodělávat si ještě další vzdělání i odpoledne, v odpoledních hodinách. Navíc CoachVille nabízelo online, což bylo super, protože nemusím nikam cestovat a zapnu si doma počítač. A další věc, ještě samozřejmě finanční stránka. Ale nelituju ničeho a šla jsem do toho a jsem za to moc ráda.",
+    "summary": "Největší otázka před startem byl čas: škola ji už nechtěla uvolňovat během vyučování, potřebovala výcvik odpoledne. CoachVille bylo online, takže nemusela nikam cestovat, jen zapnout doma počítač. Druhá věc byla finanční stránka; ničeho nelituje.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vedle-prace-a-rodiny",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Vedle práce stupeň B: kdy (odpoledne, online) bez hodin týdně. Finance jen zmíněné, bez první reakce na cenu, proto tag ceny netaguji."
+  },
+  {
+    "id": "ev003",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 11,
+    "endUtt": 14,
+    "quote": "No tak hlavně jako překvapení vlastně, co to koučování je. Já jsem se sice teda nechala, jakoby předtím, než jsem nastoupila do výcviku, když jsem se rozhodovala, tak jsem si vyzkoušela jako jednu hodinu s kamarádkou koučkou, takže tak trošičku jsem jako vytušila, ale stejně tam jakoby došlo k takovému vlastně překvapení nebo úplně objevení toho, co to vlastně koučování je. Protože předtím byla nějaká taková moje představa o tom, že vlastně jsou sportovní kouči, kteří teda vedou k nějakým lepším výkonům a dávají úkoly nějak jako lidem, aby se posunovali a podobně. A zjistila jsem, že to je vlastně úplně o něčem jiném. Že vlastně to není o tom, že bych zadávala někomu úkoly, ale spíš je to taková společná tvorba a posun vlastně pro ty hráče.",
+    "summary": "Než se rozhodla, vyzkoušela si jednu hodinu s kamarádkou koučkou. I tak ji ve výcviku překvapilo, co koučování je: čekala sportovní kouče, kteří zadávají úkoly, a zjistila, že je to společná tvorba. Musela se odnaučit skákat do řeči a naučit se otevřené otázky a naslouchání.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň A tagu 11 (ukázková hodina před rozhodnutím), bez čísel. Návyk z profese učitelky (skákat do řeči, zadávat úkoly) pro tag S1."
+  },
+  {
+    "id": "ev005",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 16,
+    "endUtt": 21,
+    "quote": "No, zásadní moment vlastně přišel, já nevím, to bylo tak možná dva, tři měsíce potom, co jsem začala, kdy jsem koučovala se svým partnerem a byla jsem vlastně v roli hráče, a najednou přišlo takové jakoby uvědomění. Protože já jsem vlastně do toho výcviku vstupovala s tím, že vlastně si chci rozšířit nějaké svoje kompetence a vlastně si jenom doplnit to, co vlastně už dělám, to zaměstnání. No a vlastně v průběhu toho koučování s tím mým partnerem jsem přišla na takovou jako myšlenku, že vlastně možná ani nechci být zaměstnanec už dál. Že bych vlastně asi moc toužila potom mít nějakou časovou svobodu ve svém životě, aby mě nikdo neomezoval v tom, jestli se budu někde dál vzdělávat a v jakém čase a podobně. Takže to bylo takové asi důležité uvědomění, že vlastně proč do toho nejít úplně naplno a proč se nestát profesionálním koučem, a proč takový, takže třeba i tu školu neopustit v budoucnu.",
+    "summary": "Zlom přišel dva až tři měsíce po startu: při koučování s tréninkovým partnerem, v roli hráče, si uvědomila, že už možná nechce být zaměstnankyně a touží po časové svobodě. Do výcviku šla jen doplnit kompetence pro školu; místo základního výcviku pokračovala dál na profesionální úroveň.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 3,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Třetí výskyt vzorce „musím kvůli koučování změnit celý život?“ (dv003, zk012, ev005). Eva je opačný případ: změnu nemusela, sama ji chtěla. Kandidát na nový tag D5/R4, viz návrh 2. 9."
+  },
+  {
+    "id": "ev006",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 39,
+    "endUtt": 40,
+    "quote": "No, taky obrovský. Myslím si, že to u mě to úplně jako přehodilo taky ten přístup k tomu učení vlastně celkově. Úplně zásadní věc, kterou jako asi jsem začala vnímat, že chyba není chyba, ale kámoš. Takže myslím si, že ten přístup k těm dětem a k tomu celkově fakt té výuce se mi změnil diametrálně. Snažím se, aby děti víc přemýšlely, to znamená, vnáším tam ten koučovací přístup, kladu jim víc otázek a nechávám je, aby si na to přišli sami. Není to takové, jako já vám to teďka tady všechno nadiktuju a vy se to potom naučte, ale ten přístup se změnil úplně radikálně u mě.",
+    "summary": "Ve výuce se jí změnil přístup radikálně: chyba není chyba, ale kámoš. Dětem klade víc otázek a nechává je přijít na věci samy, místo aby všechno nadiktovala a nechala je to naučit.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň A tagu 2 bez čísla: konkrétní změna ve třídě (otázky, chyby), bez měřitelného důsledku."
+  },
+  {
+    "id": "ev007",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 44,
+    "endUtt": 47,
+    "quote": "Jo, jo, jo. Tak tohle je vlastně taky jiné, protože my vlastně koučujeme hnedka od začátku, hnedka od první hodiny. A vlastně se mi strašně líbí, že ty tréninky jsou hodně praktické, že vlastně hnedka od prvního tréninku jste přiřazení do dvojice a můžete si to zkoušet všecko, co vlastně, o čem se tam bavíme, tak si to potom prakticky zkoušíme. Takže člověk se to vlastně učí tak nějak jako přirozeně, že to přirozeně jde do krve. Není to o tom, že bych strávila celou noc někde nad učebnicí a biflovala něco do hlavy, abych to pak mohla použít, ale je to takové přirozené.",
+    "summary": "Ve výcviku podle ní nikdy nejste sami: máte partnery, Aleše a průvodce. Na rozdíl od českého školství, které hledá chyby, se tu chyby smí dělat. A nečeká se na papír: koučuje se od první hodiny, od prvního tréninku ve dvojici, takže se to učí přirozeně, ne nocí nad učebnicí.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "k-cemu-papir",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Co dala škola: partneři, průvodci, praxe od první hodiny; co sama: zkoušet od prvního tréninku. Tag K čemu papír stupeň B: praxe před certifikátem (150 hodin za rok podle úvodu), credential nezazní."
+  },
+  {
+    "id": "ev008",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 71,
+    "endUtt": 81,
+    "quote": "Ono se to tak nějak stalo. Já jsem si je asi jako přitáhla. Je fakt, že v rodinném prostředí pocházím teda z podnikatelského prostředí. Přestože jsem se snažila i třeba v tom školství nějak, tak tam nějak mezi kolegy moc zájem nebyl, a paradoxně nějak jsem si přitáhla asi víc ty podnikatele.",
+    "summary": "Její oblíbení hráči jsou paradoxně podnikatelé, ne lidé ze školství. Mezi kolegy ve škole zájem nebyl; podnikatele si podle svých slov přitáhla, sama pochází z podnikatelské rodiny a podnikala jen krátce (soukromá angličtina). Koučovat je může, protože jim neradí a nikdy nejde jen o podnikání.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S2 stupeň A: učitelka koučuje podnikatele s větší zkušeností než ona. Tag C1 stupeň B: odkud klienti nepřišli (kolegové) a odkud přišli, bez počtu a bez informace o platbě. Úsek obsahuje pět krátkých replik tazatele."
+  },
+  {
+    "id": "ev009",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 83,
+    "endUtt": 84,
+    "quote": "No, jako je to tak, jako asi vždycky to bylo a zatím to je takové vždycky to vykročení z té mojí komfortní zóny. Nebylo pro mě úplně příjemné ze začátku oslovovat lidi. Necítila jsem se v tom úplně dobře, takže bylo potřeba vlastně nějak trošku si i zvýšit tady to jako sebevědomí, že to zvládnu, že to dokážu. Ale je fakt, že s tím mi taky vlastně pomohli partneři koučové, protože jsem se na to nechala koučovat. A posunulo mě to, pomohlo mi to. Takže je to hlavně o nějakém vykročení z té mojí komfortní zóny. Nebát se říct, jsem kouč a",
+    "summary": "Největší výzva byla a je vykročit z komfortní zóny: oslovovat lidi jí ze začátku nebylo příjemné a potřebovala si zvýšit sebevědomí, že to zvládne. Pomohli jí tréninkoví partneři, nechala se na to koučovat. Nebát se říct: jsem kouč.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "oslovovat lidi jí nebylo příjemné a chybělo jí sebevědomí, že to zvládne",
+    "topics": [
+      "nechci-oslovovat",
+      "sebeduvera",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C2 stupeň B: přiznává neochotu oslovovat a mechanismus (koučování na to), bez přesných slov a počtu pokusů. Jediné přiznání v rozhovoru, bez měsíců či peněz (tag Co bylo těžší stupeň B)."
+  },
+  {
+    "id": "ev010",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 88,
+    "endUtt": 91,
+    "quote": "No jako asi, byla to chuť učit se něco nového, rozvíjet se, nečekat právě jako až třeba za rok, za dva, no to je takové, jako to odkládání je vlastně k ničemu, takže jít do toho. Takže já jsem se rozhodla vlastně poměrně rychle. Já jsem se nějak jako v prosinci dozvěděla, že tady ten výcvik je možný, a vlastně hnedka, když se otevřel v březnu nový běh, tak jsem naskočila a nečekala jsem na nic.",
+    "summary": "V prosinci se dozvěděla, že výcvik existuje, a v březnu naskočila do nového běhu; na nic nečekala. Dnes si říká, že škoda, že jí koučování nepřišlo do cesty dřív: mohla být dál, podnikat a mít časovou svobodu daleko dřív.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "cena-cekani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň A: délka (prosinec až březen), co rozhodlo (chuť učit se, neodkládat). Cena čekání jen slovy hosta, bez čísel."
+  },
+  {
+    "id": "ev011",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 97,
+    "endUtt": 101,
+    "quote": "Já jsem to měla tak na začátku, že jsem si říkala, vlastně budu to dělat jenom při práci, ale vlastně se to mění. Ráda bych opravdu jakoby ten třeba poloviční úvazek v příštím školním roce. Pro mě asi důležitým faktorem samozřejmě jsou finance, takže vlastně tak, jak se mi daří rozrůstat tu svoji koučovací praxi, tak úměrně k tomu vlastně zužuju to svoje stávající zaměstnání a postupně to překlápím. Takže je to opravdu na každém, jak moc do toho třeba chce šlápnout a jak moc to cítí, že už třeba chce změnu, nebo nechce změnu. Dá se to dělat vlastně na tisíc různých způsobů.",
+    "summary": "Zatím má plný úvazek ve škole a koučuje odpoledne. Na začátku plánovala koučovat jen při práci; teď zvažuje, že v příštím školním roce přejde na poloviční úvazek. Rozhodují finance: jak se rozrůstá koučovací praxe, úměrně zužuje zaměstnání a postupně to překlápí.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 13,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň A: práce i koučování zároveň, milník (poloviční úvazek) navázaný na růst praxe, bez čísel klientů. Protipól Heleny (odchod po měsíci) a Kamily (kratší úvazek po 1,5 roce)."
+  },
+  {
+    "id": "ev012",
+    "episode": "eva-valova",
+    "guest": "eva-valova",
+    "startUtt": 103,
+    "endUtt": 104,
+    "quote": "Tak mám štěstí, partner mě podporuje tady v tom, ten mě podporuje v tom, že jako, protože sám podniká, takže mě vlastně podporuje v tom, abych taky zkoušela začít podnikat, nebo podnikala taky. Maminka byla trošičku z toho překvapená, říkala, ať dávám bacha, jestli neblbnu, teda takhle už pomalu na stará kolena. Ale vlastně to pochopili, mám štěstí, že to okolí je docela podporující a pomáhají mi v té cestě, takže je to fajn.",
+    "summary": "Partner ji podporuje, sám podniká a povzbuzuje ji, aby také podnikala. Maminka byla překvapená a říkala, ať dává bacha, jestli neblbne „na stará kolena“; pak to pochopila. Okolí ji podle ní podporuje a pomáhá.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-rekl-partner",
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Druhý moment tématu Co řekl partner (Kamila, Eva): oba partneři pro. Odpor přišel od matky, s věkovou poznámkou (S2)."
+  }
+]

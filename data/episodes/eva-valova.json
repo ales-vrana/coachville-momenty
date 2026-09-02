@@ -1,0 +1,111 @@
+{
+  "slug": "eva-valova",
+  "title": "Učitelka Eva se stává koučem, jaká je její cesta za profesionálním koučováním?",
+  "guestSlugs": [
+    "eva-valova"
+  ],
+  "vimeoId": "819240116",
+  "vimeoHash": "b055db34de",
+  "vimeoUrl": "https://vimeo.com/819240116/b055db34de",
+  "recordedAt": "2023-04-01",
+  "durationS": 2300,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 49,
+      "title": "Učitelka a poradkyně"
+    },
+    {
+      "t": 136,
+      "title": "Obavy: čas a finance"
+    },
+    {
+      "t": 217,
+      "title": "Co koučování není"
+    },
+    {
+      "t": 277,
+      "title": "Odnaučit se"
+    },
+    {
+      "t": 322,
+      "title": "Zlom ve 3. měsíci: nechci být zaměstnanec"
+    },
+    {
+      "t": 459,
+      "title": "Dvoudenní a komunita"
+    },
+    {
+      "t": 545,
+      "title": "Být koučovaná"
+    },
+    {
+      "t": 688,
+      "title": "Kouč jako zrcadlo"
+    },
+    {
+      "t": 762,
+      "title": "Chyba je kámoš: koučování ve výuce"
+    },
+    {
+      "t": 831,
+      "title": "Výcvik a české školství"
+    },
+    {
+      "t": 987,
+      "title": "150 hodin praxe"
+    },
+    {
+      "t": 1097,
+      "title": "Domněnky o koučování"
+    },
+    {
+      "t": 1233,
+      "title": "Koučování ve školství"
+    },
+    {
+      "t": 1334,
+      "title": "Podnikatelé jako hráči"
+    },
+    {
+      "t": 1465,
+      "title": "Vykročit z komfortní zóny"
+    },
+    {
+      "t": 1574,
+      "title": "Nečekat"
+    },
+    {
+      "t": 1676,
+      "title": "Vliv na život"
+    },
+    {
+      "t": 1761,
+      "title": "Plný úvazek a plán na poloviční"
+    },
+    {
+      "t": 1925,
+      "title": "Partner a maminka"
+    },
+    {
+      "t": 1976,
+      "title": "Reakce okolí"
+    },
+    {
+      "t": 2094,
+      "title": "Vzkaz hráčům"
+    },
+    {
+      "t": 2192,
+      "title": "Motto a závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/eva-valova.json"
+}
