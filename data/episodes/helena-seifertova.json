@@ -1,0 +1,107 @@
+{
+  "slug": "helena-seifertova",
+  "title": "2000 odkoučovaných hodin s platícími klienty",
+  "guestSlugs": [
+    "helena-seifertova"
+  ],
+  "vimeoId": "817735791",
+  "vimeoHash": "38ceafe553",
+  "vimeoUrl": "https://vimeo.com/817735791/38ceafe553",
+  "recordedAt": "2023-04-01",
+  "durationS": 2620,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 25,
+      "title": "Pátým rokem, technická profese"
+    },
+    {
+      "t": 142,
+      "title": "Půl roku výběru školy"
+    },
+    {
+      "t": 211,
+      "title": "Duchovní bič a pokora"
+    },
+    {
+      "t": 297,
+      "title": "Předávat zkušenosti? Ne, nehodnotit"
+    },
+    {
+      "t": 338,
+      "title": "Kolem 2 000 hodin"
+    },
+    {
+      "t": 386,
+      "title": "Nová hra po třech letech"
+    },
+    {
+      "t": 486,
+      "title": "Klíčové momenty: trenér, mentor, polštář"
+    },
+    {
+      "t": 578,
+      "title": "Odchod ze zaměstnání po prvním měsíci"
+    },
+    {
+      "t": 681,
+      "title": "Co jsem si myslela o koučování"
+    },
+    {
+      "t": 784,
+      "title": "Plavat z rybníka do oceánu"
+    },
+    {
+      "t": 910,
+      "title": "Hráč, který vybudoval podnik"
+    },
+    {
+      "t": 1047,
+      "title": "Být koučovaná"
+    },
+    {
+      "t": 1189,
+      "title": "ACC, PCC a praktikum"
+    },
+    {
+      "t": 1319,
+      "title": "Rozdíl mezi ACC a PCC"
+    },
+    {
+      "t": 1457,
+      "title": "Odhodit pochybnosti"
+    },
+    {
+      "t": 1617,
+      "title": "Oblíbení hráči a témata"
+    },
+    {
+      "t": 1809,
+      "title": "Komunita a džungle korporátu"
+    },
+    {
+      "t": 1954,
+      "title": "Trénink není škola: chyby jsou dovolené"
+    },
+    {
+      "t": 2225,
+      "title": "Vzkaz hráčům"
+    },
+    {
+      "t": 2335,
+      "title": "Sen Polynésie a nová hra"
+    },
+    {
+      "t": 2539,
+      "title": "Motto a závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/helena-seifertova.json"
+}

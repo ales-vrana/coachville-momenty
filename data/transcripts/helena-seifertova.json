@@ -1,0 +1,827 @@
+{
+  "episode": "helena-seifertova",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 8,
+      "speaker": "CoachVille",
+      "text": "Já vás vítám u dalšího rozhovoru, tentokrát s profesionální koučkou Helenou Seifertovou. Ahoj, Helčo."
+    },
+    {
+      "i": 1,
+      "t": 15,
+      "speaker": "Helena Seifertová",
+      "text": "Ahoj všichni, ahoj, Aleši."
+    },
+    {
+      "i": 2,
+      "t": 18,
+      "speaker": "CoachVille",
+      "text": "Helčo, pojď se nám představit. Pojď nám povědět, jak ses vlastně dostala ke koučování, jak dlouho se tomu věnuješ."
+    },
+    {
+      "i": 3,
+      "t": 25,
+      "speaker": "Helena Seifertová",
+      "text": "Koučování se věnuju pátým rokem a dostala jsem se k tomu vlastně přes můj vedlejší zájem, ne přes zaměstnání, protože já jsem měla technickou profesi. A vedle toho mě zajímalo, jak to vlastně je v tom spirituálním světě, jak je to s lidma po stránce psychologické. A pak bylo jenom logickým vyústěním, že jsem začala hledat koučovací školu a jak se dostat víc do hloubky toho profesionálního koučinku."
+    },
+    {
+      "i": 4,
+      "t": 58,
+      "speaker": "CoachVille",
+      "text": "Čili předtím, než ses vydala do koučování, tak co jsi dělala za profesi a co vlastně vedlo k tomu, že jsi začala uvažovat o tom, že se staneš koučem?"
+    },
+    {
+      "i": 5,
+      "t": 70,
+      "speaker": "Helena Seifertová",
+      "text": "Moje profese byla technická, vedoucí provozu vodovodů a kanalizací, a zároveň tam byla spousta setkávání s lidmi. Ta profese byla hodně o tom potkávání se s lidmi a řešit různé situace, ať už na obecních úřadech, nebo ve službách. A to mě vedlo k tomu, jak líp zdokonalit komunikaci, to mě vedlo k tomu, jak líp poznávat lidi, jak zjistit, co je vede k jednání, které právě zrovna musím zažívat. A to už byl jen krátkej krůček k tomu zajímat se o to, co to vlastně je koučování, a hodně mě to zaujalo."
+    },
+    {
+      "i": 6,
+      "t": 116,
+      "speaker": "CoachVille",
+      "text": "A ono je to vlastně už nějaká doba. Když si vybavíš dobu, kdy jsi začínala, kdy ses rozhodovala o tom vstupu, co vlastně v té chvíli toho startu bylo pro tebe důležité ke zvážení, co bylo impulzem k tomu, že ses přidala právě do CoachVille?"
+    },
+    {
+      "i": 7,
+      "t": 142,
+      "speaker": "Helena Seifertová",
+      "text": "Nebylo to tak úplně jednoduchý, já jsem zjišťovala hodně dlouho předtím, tak půl roku, rok, jakou školu, jakým směrem se vydat, s kým se propojit, a zároveň jsem mluvila i s koučema, kteří už tu dráhu nastoupili. Takže to bylo takové docela uvážené rozhodnutí a volila jsem mezi dvěma školama, tou jednou a CoachVille a Alešem Vránou. A mně se líbilo, že je to s mladýma lidma, že je to o hře, že je to o životě, a to mě tam hodně bavilo."
+    },
+    {
+      "i": 8,
+      "t": 183,
+      "speaker": "CoachVille",
+      "text": "A když jsi vlastně začala v tréninku, co bylo pro tebe to uvědomění nebo překvapení a ta zkušenost na začátku? Protože to je jako významný moment v životě každého kouče, že je významný rozdíl,"
+    },
+    {
+      "i": 9,
+      "t": 201,
+      "speaker": "CoachVille",
+      "text": "co se děje jako v životě předtím a co se začne dít poté. Jak na to období vzpomínáš, co byly takové nějaké tvoje zážitky, uvědomění?"
+    },
+    {
+      "i": 10,
+      "t": 211,
+      "speaker": "Helena Seifertová",
+      "text": "Já bych řekla, že na tom začátku duchovní bič. Po nástupu do tréninku, ty jo, pokora."
+    },
+    {
+      "i": 11,
+      "t": 221,
+      "speaker": "Helena Seifertová",
+      "text": "Úplnej průser, úplně. Jako já jsem nastupovala do tréninku s tím, že už něco umím, a pak jsem to sakra rychle přehodnocovala. A nebylo to úplně jednoduchý, ono si tam člověk sáhne na dno, když najednou musí všechna svoje přesvědčení změnit a přehodnotit. A mně hodně pomohl jeden z nás, jen tak mimochodem řekl, že když jsi mluvil se svým mentorem, tak on ti řekl, jako mlč a poslouchej, ty jsi to řekl trochu jadrnějším jazykem. A já jsem si tam uvědomila, no jasně,"
+    },
+    {
+      "i": 12,
+      "t": 258,
+      "speaker": "Helena Seifertová",
+      "text": "já o tom nevím vůbec nic. Pro začátek tak mlč a poslouchej. A uč se. A to bylo ono."
+    },
+    {
+      "i": 13,
+      "t": 268,
+      "speaker": "CoachVille",
+      "text": "Čili to byla velká proměna."
+    },
+    {
+      "i": 14,
+      "t": 274,
+      "speaker": "Helena Seifertová",
+      "text": "No, to byla."
+    },
+    {
+      "i": 15,
+      "t": 276,
+      "speaker": "CoachVille",
+      "text": "No totiž, ta častá hypotéza, se kterou lidé do toho doufají, jakože chtějí předávat svoje zkušenosti, a o tom vlastně objevují, že koučování funguje mnohem silněji a že předávání zkušeností je jenom jako drobná část z toho. Co si o tom myslíš?"
+    },
+    {
+      "i": 16,
+      "t": 297,
+      "speaker": "Helena Seifertová",
+      "text": "To bylo přesně ono. Jo, já tady budu někomu předávat zkušenosti, on mě bude poslouchat. No, ale to fakt ne."
+    },
+    {
+      "i": 17,
+      "t": 309,
+      "speaker": "CoachVille",
+      "text": "Co jsi objevila místo toho?"
+    },
+    {
+      "i": 18,
+      "t": 310,
+      "speaker": "Helena Seifertová",
+      "text": "Místo toho? Učit se o nehodnocení. A to bylo fakt pro mě klíčový úplně. Nehodnotit. Poslouchat a slyšet, co ti lidé říkají. To není jenom o tom, že slyším slova, ale co je za nima. To mě teď baví čím dál víc, to propojování, to je něco, co začínám objevovat, a hodně mě to baví."
+    },
+    {
+      "i": 19,
+      "t": 338,
+      "speaker": "CoachVille",
+      "text": "A ono, když to zmiňuješ teď, tak teď vlastně je téměř pět let od tvýho startu. A kolik máš vlastně dneska odkoučováno hodin? Kolem dvou tisíc. Wow. A to bychom tenhle rozhovor mohli vést asi hodně dlouho, abychom se podívali na všechno, tak zkusíme aspoň tu špičku ledovce poodkrýt. Vlastně, co tě na koučování baví? Za těch dva tisíce hodin sis určitě už našla spoustu věcí a aspektů toho,"
+    },
+    {
+      "i": 20,
+      "t": 375,
+      "speaker": "CoachVille",
+      "text": "co je pro tebe na koučování zajímavé nebo zábavné, nebo takový ten faktor, který z toho pro tebe dělá ten zážitek?"
+    },
+    {
+      "i": 21,
+      "t": 386,
+      "speaker": "Helena Seifertová",
+      "text": "Zábavné je, když v průběhu koučování, přestože už je tam taková ta profesionalita, že dopředu nevím, co mi ten člověk řekne, tak někde se to tam objeví. A je velmi zajímavé slyšet, co z toho člověka vlastně nakonec vychází, že je to úplně něco jiného, a je zajímavé na tom stavět, protože pak to má ten dopad. Mám příklad ze včerejška, kdy koučujeme asi třetím rokem společně a včera jsme designovaly novou hru,"
+    },
+    {
+      "i": 22,
+      "t": 423,
+      "speaker": "Helena Seifertová",
+      "text": "protože najednou to bylo o penězích a najednou to bylo o tom, aha, já myslím, že peníze vydělám jenom v zaměstnání. No ale co, když já budu podnikat? A najednou tam byla úplně nová hra. To je to, co mě baví."
+    },
+    {
+      "i": 23,
+      "t": 437,
+      "speaker": "CoachVille",
+      "text": "Jo, moment změny."
+    },
+    {
+      "i": 24,
+      "t": 440,
+      "speaker": "CoachVille",
+      "text": "A budovat na myšlenkách, z myšlenek našich hráčů. Je totiž docela časté, že se lidé domnívají, že jako něco pro někoho dalšího víme, že víme, co by on měl nebo jak by měl. A často se to může právě dost lišit od toho, jak to je ve skutečnosti. To je moc pěkné. Helčo, když si vybavíš tu svoji cestu, to je cesta hrdiny, tak na tvojí cestě hrdiny určitě byla nějaká údolí, rozcestí."
+    },
+    {
+      "i": 25,
+      "t": 475,
+      "speaker": "CoachVille",
+      "text": "Za tu dobu od té doby, kdy ses začala zajímat o koučování, až do dneška, co bys řekla, že byly nějaké klíčové momenty pro tebe?"
+    },
+    {
+      "i": 26,
+      "t": 486,
+      "speaker": "Helena Seifertová",
+      "text": "Na začátku klíčový moment, kdy jsem dostala pozvání jít do tréninku. To pro mě byl opravdu klíčový moment. Další moment nastal asi v půlce prvního tréninku, kdy jsem právě díky té duchovní biči měla rozhovor se svým trenérem, a on mi řekl, no nevím, jestli můžeš s tímhle nastavením pokračovat."
+    },
+    {
+      "i": 27,
+      "t": 512,
+      "speaker": "Helena Seifertová",
+      "text": "A to byl opravdu klíčový moment, kdy jsem si uvědomila, že musím něco změnit. A přišla ta pokora. A to uvědomění."
+    },
+    {
+      "i": 28,
+      "t": 523,
+      "speaker": "Helena Seifertová",
+      "text": "A zároveň jsem měla obrovské štěstí na to, že jsem měla svýho mentora, že ještě fungovala agentura, že kolem mě bylo spousta lidí, kteří byli ochotní mi pomoct. Spousta Vnitřních Svobod. Spousta koučování s ostatními kouči. To byly vždycky momenty, které mě posouvaly dál. A každej novej trénink, já jsem se na něj neskutečně těšila, na každý nový trénink. A byla jsem vděčná i za to, že jsem měla ten finanční polštář a mohla jsem do těch tréninků jít."
+    },
+    {
+      "i": 29,
+      "t": 556,
+      "speaker": "Helena Seifertová",
+      "text": "To bylo hodně důležité na tom začátku, protože já jsem pak odešla ze zaměstnání a už jsem se věnovala jenom koučování. Takže to byly ty..."
+    },
+    {
+      "i": 30,
+      "t": 567,
+      "speaker": "CoachVille",
+      "text": "A jak dlouho ti to vlastně zabralo od doby, kdy ses přidala do tréninku, než ses vlastně mohla oprostit od práce?"
+    },
+    {
+      "i": 31,
+      "t": 578,
+      "speaker": "Helena Seifertová",
+      "text": "Tím, že jsem měla ten polštář finanční, tak já jsem to udělala po prvním měsíci."
+    },
+    {
+      "i": 32,
+      "t": 587,
+      "speaker": "Helena Seifertová",
+      "text": "Protože v té době já jsem dělala stavbyvedoucího v Praze a jezdila jsem vlastně ráno... Čili asi neexistuje moc větší rozdíl"
+    },
+    {
+      "i": 33,
+      "t": 602,
+      "speaker": "CoachVille",
+      "text": "v životním stylu, než který jsi zaznamenala poté, že?"
+    },
+    {
+      "i": 34,
+      "t": 607,
+      "speaker": "Helena Seifertová",
+      "text": "Jo, jo, už nikdy víc, ano."
+    },
+    {
+      "i": 35,
+      "t": 610,
+      "speaker": "CoachVille",
+      "text": "Že nějak zmizelo dojíždění a celodenní práce. Jaký to na tebe má dopad?"
+    },
+    {
+      "i": 36,
+      "t": 619,
+      "speaker": "Helena Seifertová",
+      "text": "Úžasné to je. Já fakt za to děkuju každej den, protože organizuju si čas sama, všechno, co potřebuju, mám, dokážu si to zajistit. A hlavně bych řekla, že ta změna je v tom, že vidím úplně jiné možnosti než dřív. Dřív to bylo opravdu o tom, poslouchej svýho šéfa, vydělej si peníze na základní potřeby a nekoukej moc dál. A teď je to o tom, koukej dál, protože si vyděláš, protože můžeš tvořit a je to na tobě."
+    },
+    {
+      "i": 37,
+      "t": 654,
+      "speaker": "CoachVille",
+      "text": "To je úplně krásně cítit, svoboda."
+    },
+    {
+      "i": 38,
+      "t": 659,
+      "speaker": "CoachVille",
+      "text": "Hele, to vidíte? A Helča to prakticky realizuje, a vlastně už od svýho samotného začátku v koučování. Hezký. Helčo, a co sis vlastně myslela o koučování dříve a jak to vnímáš teď, po těch 2000 hodinách praxe?"
+    },
+    {
+      "i": 39,
+      "t": 681,
+      "speaker": "Helena Seifertová",
+      "text": "Ty jsi to už řekl na tom začátku, když jsme začali, že to bylo o tom, že jsem si myslela, že budu předávat rady, co už znám, co už umím. A tak to pak není."
+    },
+    {
+      "i": 40,
+      "t": 694,
+      "speaker": "Helena Seifertová",
+      "text": "Je to opravdu o tom naučit se ty koučovací dovednosti, kterých není úplně málo. A kdybych měla jmenovat: přítomný okamžik, přijímající komunikace, aktivní naslouchání, ale jít do hloubky. Ono po prvním tréninku to vypadá velmi jednoduše. Když jsem opakovala, což je důležité, opakovat ty tréninky, pro mě je to neuvěřitelně důležitá věc, já to potřebuju, tak najednou tam byla úplně jiná hloubka, úplně jiná dimenze, úplně jiná úroveň."
+    },
+    {
+      "i": 41,
+      "t": 730,
+      "speaker": "Helena Seifertová",
+      "text": "A s každým odkoučovaným setkáním, ať už jsem jako v roli hráče, nebo v roli kouče, objevuju pokaždý něco. Pokaždý tam je něco novýho. A propojujou se ty dovednosti s tím životem a s tím rozšířeným vědomím toho přítomného okamžiku. A to je něco, co mě baví fakt čím dál víc."
+    },
+    {
+      "i": 42,
+      "t": 757,
+      "speaker": "CoachVille",
+      "text": "Hezký."
+    },
+    {
+      "i": 43,
+      "t": 761,
+      "speaker": "CoachVille",
+      "text": "Ono vlastně za pět let a za dva tisíce odkoučovaných hodin se člověk setká se spoustou témat, se spoustou lidí. Jaké to pro tebe je učit se s tvými hráči o životě, o jejich životě, o sobě, o koučování? Jaké to pro tebe je, jak bys to popsala?"
+    },
+    {
+      "i": 44,
+      "t": 784,
+      "speaker": "Helena Seifertová",
+      "text": "Jaké to je? Já bych řekla, že je to jako, takže když nejdřív se člověk učí plavat v malém rybníku, pak si řekne, tak já to zkusím v té řece, ta řeka ho dovede do toho moře a možná mě čeká ten oceán. Já ráda plavu, tak možná proto přišlo tohle, takže je to asi jako plavat."
+    },
+    {
+      "i": 45,
+      "t": 817,
+      "speaker": "Helena Seifertová",
+      "text": "Na začátku možná ve studené vodě, která není zrovna příjemná, ale čím dál víc je to příjemný a někdy mě baví jít do toho proudu a zažít si tu [nesrozumitelné] v tom proudu a doplavat, kam je potřeba."
+    },
+    {
+      "i": 46,
+      "t": 838,
+      "speaker": "CoachVille",
+      "text": "Mě by zajímalo, kam bychom mohli umístit lidi, kteří ještě nikdy neabsolvovali koučovací výcvik a říkají, no já taky tak nějak koučuju. Tak to jsou ti lidi, kteří jsou jako na břehu a myslí si, že jsou tak trošku už v té vodě."
+    },
+    {
+      "i": 47,
+      "t": 854,
+      "speaker": "Helena Seifertová",
+      "text": "Možná po kotníky, a teprve se začínají smáčet."
+    },
+    {
+      "i": 48,
+      "t": 862,
+      "speaker": "CoachVille",
+      "text": "Hezky. Thomas Leonard říkal, že každý je koučem, jen někteří lidé mají výsadu se tímto živit. A ty jsi mezi nimi."
+    },
+    {
+      "i": 49,
+      "t": 875,
+      "speaker": "CoachVille",
+      "text": "To je velké privilegium, být u toho, když se věci mění v životě tvých hráčů. Čili to je vlastně něco, co možná stojí za to tomu věnovat trošku pozornosti. Myslím, že to má dopad na tebe a tvoje uvědomění o tom, jak život funguje. Když máš možnost nahlédnout do života dalších lidí, do jejich cesty za jejich vítězstvími."
+    },
+    {
+      "i": 50,
+      "t": 910,
+      "speaker": "Helena Seifertová",
+      "text": "Je to úžasná věc, ale ne vždycky se dějou věci, které jsou jenom úžasné a skvělé a báječné, protože na té cestě u každého je spousta úskalí nebo děr, já nevím, jak to nazvat. Ale mám jednoho úžasnýho hráče, který vlastně vybudoval teď svůj podnik,"
+    },
+    {
+      "i": 51,
+      "t": 943,
+      "speaker": "Helena Seifertová",
+      "text": "založil rodinu a žádal o ruku, a bylo to úžasný."
+    },
+    {
+      "i": 52,
+      "t": 948,
+      "speaker": "Helena Seifertová",
+      "text": "A já jsem s ním šla tu cestu."
+    },
+    {
+      "i": 53,
+      "t": 953,
+      "speaker": "Helena Seifertová",
+      "text": "A objevovali jsme tam ty věci, které mu brání. A třeba to byly úplné drobnosti, jako jenom že změnil přístup k rannímu vstávání, nebo že začal delegovat, nebo že si najal asistentku. A všechny tyhle kroky postupně ho vedly k tomu, kým je teď. On se měnil i jako osobnost a je z něj teď člověk, který si je vědom sám sebe,"
+    },
+    {
+      "i": 54,
+      "t": 989,
+      "speaker": "Helena Seifertová",
+      "text": "který umí rozvíjet firmu a má našlápnuto na další skvělé věci. A to je to, co mě baví. A to je ten dopad, který tam může být."
+    },
+    {
+      "i": 55,
+      "t": 1003,
+      "speaker": "CoachVille",
+      "text": "Být u toho, když nastává evoluce. A trošku tu evoluci akcelerovat tam, kde se má tendenci zpomalovat. Helčo, a jaký vlastně vnímáš dopad toho, že to si málokdo uvědomuje, jak silné to je, a mě určitě zajímá, jak to vnímáš. Když jsi vlastně nastoupila do výcviku, tak jsi začala být koučovaná, protože jsi měla jednoho a potom více a více tréninkových partnerů, se kterými jste se koučovali navzájem."
+    },
+    {
+      "i": 56,
+      "t": 1041,
+      "speaker": "CoachVille",
+      "text": "Jakou myslíš, že tohle hraje roli pro tebe?"
+    },
+    {
+      "i": 57,
+      "t": 1047,
+      "speaker": "Helena Seifertová",
+      "text": "Já bych řekla, že zásadní. Ani si neumím představit, že by byl kouč, který jde na té cestě a není koučovaný. Já si to vůbec nějak neumím představit, že by to mohlo být."
+    },
+    {
+      "i": 58,
+      "t": 1065,
+      "speaker": "CoachVille",
+      "text": "Ano, protože ten svět bez toho jsi nezažila."
+    },
+    {
+      "i": 59,
+      "t": 1071,
+      "speaker": "CoachVille",
+      "text": "Jasně. Super. Čili to je vlastně pro tebe nezastupitelná součást té cesty. Co myslíš, že ti to dalo, jak bys to jako popsala, protože za tu dobu máš v roli hráče pravděpodobně velmi mnoho hodin."
+    },
+    {
+      "i": 60,
+      "t": 1090,
+      "speaker": "Helena Seifertová",
+      "text": "Jo, ano, mám."
+    },
+    {
+      "i": 61,
+      "t": 1094,
+      "speaker": "CoachVille",
+      "text": "Co ti to dává, když jsi pravidelně koučovaná, a co ti to přináší, jak bys to popsala?"
+    },
+    {
+      "i": 62,
+      "t": 1101,
+      "speaker": "Helena Seifertová",
+      "text": "Mě baví strategie a mám ráda, když věci jsou strukturovaný a když se z chaosu mění do té struktury a zase zpět do toho chaosu, takže to mě hodně baví. A když jsem koučovaná, tak právě potřebuji kolikrát objevit, jestli jsem v tom chaosu, a nebo v té struktuře, že někdy to splývá, a to mě může držet na té cestě [nesrozumitelné], protože mám jasný záměr, mám jasné cíle. Ať už jsem dělala první certifikaci, nebo druhou, vždycky tam ten záměr byl. A bylo to speciální, když jsem se zasekla, protože ty chvíle samozřejmě přijdou. Nechce se, přijde tam takové a proč to mám dělat, a vždyť mě to nebaví. A pak je dobré mít vedle sebe někoho, s kým to proberu, a najednou je tam zase ta chuť do toho a dělat dál ty věci, které mě baví."
+    },
+    {
+      "i": 63,
+      "t": 1160,
+      "speaker": "CoachVille",
+      "text": "Super. A ty jsi vlastně dosáhla certifikace ICF ACC a později ICF PCC. Pojď teďka říct něco o té cestě za těmi certifikacemi, protože to je nedílná součást výcviku, a myslím si, že to může být velmi zajímavé, když to budou posluchači mít možnost poznat i z tvýho pohledu."
+    },
+    {
+      "i": 64,
+      "t": 1189,
+      "speaker": "Helena Seifertová",
+      "text": "Já jsem od začátku měla, že chci být mistr v koučování. Nevím proč, prostě to tam bylo od začátku. Já jsem to měla vždycky takhle nastavený. A proto ty certifikace byly jasný postup. Já jsem tam nic jiného neměla. A není to kvůli tomu, že bych měla certifikaci, ale že jsem za tím cítila ty dovednosti, to, co potřebuju umět. A to tam bylo to hlavní a důležitý, protože samotná ta certifikace pro mě na začátku byla noční můra. Nebýt koučována, tak bych asi tou cestou neprošla. Takže i pokud se ptáš na vliv koučování koučů na kouče, tak i tohle byl jeden z těch důvodů. A vlastně to bylo postupné."
+    },
+    {
+      "i": 65,
+      "t": 1244,
+      "speaker": "Helena Seifertová",
+      "text": "Udělat tréninky, jít na praktika, zdokonalit se v těch dovednostech. Po každém tam bylo něco, co jsem objevila. Praktikum pro mě byl klíčovej moment toho udělat tu cestu schůdnou a dotáhnout to do konce."
+    },
+    {
+      "i": 66,
+      "t": 1267,
+      "speaker": "CoachVille",
+      "text": "Já doplním pro posluchače, že praktikum je způsob, jak koučové získávají zpětnou vazbu v rámci... Super. Helčo, jak bys vlastně popsala ten rozdíl v tom, jak jsi koučovala, když jsi koučovala na úrovni ACC, a v čem se to změnilo, když jsi koučovala na úrovni PCC? Protože to je vlastně cesta, kterou se profesionální kouči samozřejmě vydávají, protože je to vlastně vyšší úroveň té kompetence, protože ICF má tři levely, ACC, PCC a MCC."
+    },
+    {
+      "i": 67,
+      "t": 1303,
+      "speaker": "CoachVille",
+      "text": "A zkus trošku jako popsat vlastně, jaký ten rozdíl byl třeba pro tebe, nebo jaký vnímáš, že mohl být pro tvoje hráče, když jsi vlastně udělala ten krok, velký milník na cestě za certifikací PCC."
+    },
+    {
+      "i": 68,
+      "t": 1319,
+      "speaker": "Helena Seifertová",
+      "text": "Mě to docela trvalo. Nevyšlo mi to úplně snadno, protože jsem tam nedokázala právě vidět ten rozdíl, o kterém chceš slyšet, že budu mluvit. A ten rozdíl podle mě je v tom, že jít za ten horizont toho, co ten člověk sám vidí. To, kde může být, a propojovat to s tím, kde je, a jak tu cestu k tomu nadesignovat, otevřít, vidět ty možnosti."
+    },
+    {
+      "i": 69,
+      "t": 1351,
+      "speaker": "Helena Seifertová",
+      "text": "Jako kdyby koučovací dovednosti byly samozřejmostí a k tomu byla nadstavba propojování toho aktivního naslouchání."
+    },
+    {
+      "i": 70,
+      "t": 1361,
+      "speaker": "CoachVille",
+      "text": "A jak to ovlivnilo vlastně to, jak ses cítila v koučovacích konverzacích, když vlastně tvoje kompetence postupně vyrostla, tak k čemu to u tebe vedlo?"
+    },
+    {
+      "i": 71,
+      "t": 1377,
+      "speaker": "Helena Seifertová",
+      "text": "Mnohem víc si užívám každé to setkání. Ty pochybnosti zmizely. Já jsem se vždycky před každým setkáním připravovala a [nesrozumitelné] ještě ty dovednosti, a bylo to pro mě jako vyčerpávající."
+    },
+    {
+      "i": 72,
+      "t": 1397,
+      "speaker": "Helena Seifertová",
+      "text": "A teď je to, ne že bych se, je to jiný způsob přípravy."
+    },
+    {
+      "i": 73,
+      "t": 1406,
+      "speaker": "CoachVille",
+      "text": "Čili cítíš více sebedůvěry, méně pochybností a připravuješ se jinačím způsobem. Dobrá, dobrá. Helčo, a co bys doporučila lidem, kteří se na tuhle cestu chtějí vydat, kteří by třeba jednoho dne chtěli být tam, kde jsi dneska ty, to znamená, že se živí koučováním, mají svoji koučovací praxi, mají za sebou stovky a tisíce hodin odkoučovaných? Tak co bys vlastně těmto zájemcům o koučování doporučila na jejich cestě v tom začátku, v té úvodní fázi, ať už je to předtím, než do tréninku vstoupí,"
+    },
+    {
+      "i": 74,
+      "t": 1447,
+      "speaker": "CoachVille",
+      "text": "nebo poté, co začnou. Pojď nám nasdílet něco, co bys považovala pro ně za užitečné."
+    },
+    {
+      "i": 75,
+      "t": 1457,
+      "speaker": "Helena Seifertová",
+      "text": "Odhodit pochybnosti. To bych jim poradila jako první. To se lehce řekne, hůř udělá."
+    },
+    {
+      "i": 76,
+      "t": 1467,
+      "speaker": "CoachVille",
+      "text": "Čím bys ty pochybnosti nahradila? Protože odhodit je určitě zajímavý koncept, ale co bys doporučila místo toho?"
+    },
+    {
+      "i": 77,
+      "t": 1477,
+      "speaker": "Helena Seifertová",
+      "text": "Místo toho bych doporučila tu cestu toho učení, toho zvyšování té kompetence v jednotlivých dovednostech. Vyzkoušet si to, experimentovat, zkoušet furt dokola, pokaždý něco novýho, bez těch pochybností ale. Protože vždycky se může objevit, taky můžu mít setkání, které vyhodnotím třeba, hele, zrovna jsem se moc nepředvedla, mohlo to být lepší,"
+    },
+    {
+      "i": 78,
+      "t": 1509,
+      "speaker": "Helena Seifertová",
+      "text": "ale to může být vždycky. Důležité je, že do toho člověk jde, nezastavit se a jít do toho, dělat ty věci. No a co, že mi řekne, že se mnou nebude spolupracovat? No a co, že si na začátku, když jsem ho zvala na koučovací hodinu, myslel, že ho zvu na rande? No a co? To přece nevadí."
+    },
+    {
+      "i": 79,
+      "t": 1531,
+      "speaker": "CoachVille",
+      "text": "Ano, jasně. Totiž pochybnosti dokážou zabrat člověku spoustu pozornosti, čili nahradit je uvědoměním si té cesty postupného učení je určitě skvělej nápad. A to je rozhodně něco, co bude fungovat. Nebo taky mě napadlo, že vlastně to vychází jako z praxe. Já jsem třeba vždycky měl tolik hráčů, že jsem nějak neměl čas na ty pochybnosti."
+    },
+    {
+      "i": 80,
+      "t": 1563,
+      "speaker": "CoachVille",
+      "text": "Čili že můžeš mít hlavu plnou pochybností, nebo praxi plnou hráčů. A ono potom, když hráči se rozvíjí, rostou, mají výsledky, tak ty pochybnosti tam do toho nějak potom už nesedí, že jo. Jako co chtějí prostě, jako ty pochybnosti, jako. Tady je dostatek důkazů o tom, že koučování funguje, že moje koučování funguje. A to vlastně je i ta cesta, že jo, že se učíme, jak být lepším koučem,"
+    },
+    {
+      "i": 81,
+      "t": 1595,
+      "speaker": "CoachVille",
+      "text": "a s každou koučovací hodinou."
+    },
+    {
+      "i": 82,
+      "t": 1598,
+      "speaker": "CoachVille",
+      "text": "Čili díky moc za tohle doporučení. Pojď povědět, kdo jsou vlastně tvoji oblíbení hráči, jak bys charakterizovala někoho, s kým se ti dobře spolupracuje. Protože je možné, že třeba nás teďka poslouchá někdo, komu jsi sympatická. Kdo jsou tvoji oblíbení hráči, se kterýma se ti dobře spolupracuje?"
+    },
+    {
+      "i": 83,
+      "t": 1617,
+      "speaker": "Helena Seifertová",
+      "text": "Lidé, kteří mají tah na branku, něco chtějí dokázat, mají odvahu, baví je leadership, baví je strategie, baví je designovat různé aktivity. To myslím, že je moje srdcovka."
+    },
+    {
+      "i": 84,
+      "t": 1639,
+      "speaker": "CoachVille",
+      "text": "Hezký. A jaká témata s nima ráda probíráš? To už jsi vlastně jako pár z nich možná jako zmínila. Ale máš nějaké oblíbené téma, oblíbenou životní oblast, ve které se cítíš jako doma?"
+    },
+    {
+      "i": 85,
+      "t": 1659,
+      "speaker": "Helena Seifertová",
+      "text": "Dlouho jsem si myslela, že to nejsou vztahy, ale vypadá to, že ano. Protože ať už je to leadership, nebo ať už je to budování organizace, podniků, vždycky jsou tam vztahy. Ať už firemní, nebo soukromé. Vždycky je to o sladění toho, život v práci nebo být s rodinou, ten balans, jak to udělat, aby to bylo pro všechny to nejlepší, co může být."
+    },
+    {
+      "i": 86,
+      "t": 1690,
+      "speaker": "Helena Seifertová",
+      "text": "Takže tohle je něco, co mě hodně baví."
+    },
+    {
+      "i": 87,
+      "t": 1694,
+      "speaker": "CoachVille",
+      "text": "Mně se teďka vybavilo víc takových zkušeností, kdy nám někdo říkal, no to koučování, to je hodně byznys. A já jsem se ptal, no, koho bys chtěla koučovat, jako s jakýma tématama? A říkali často, jakože no, spíš ty vztahy. Jo, a ono je potom jako zajímavé si uvědomit, že v byznysu jsou vztahy."
+    },
+    {
+      "i": 88,
+      "t": 1719,
+      "speaker": "CoachVille",
+      "text": "To je krásné, jak někdy vlastně jakože jednoduše zkreslíme realitu. Ale to je vlastně jenom díky tomu, že vlastně lidé nemají, že jo, náhled do toho, jak to skutečně funguje, jo, že vlastně v několika koučovacích hodinách se stejně prostě dostaneme k tomu, že koučujeme lidskou bytost, takže potom vlastně ta témata, kterýma začneme, jsou v podstatě jenom tím začátkem. Hezký. Helčo, děkuji za to. Pojď povědět vlastně něco"
+    },
+    {
+      "i": 89,
+      "t": 1754,
+      "speaker": "CoachVille",
+      "text": "o tvojí zkušenosti s CoachVille a s komunitou CoachVille, protože tady vlastně jsi jako mnoho let s námi a jsme v tomhle dobrodružství společně. Jak bys to přiblížila někomu, kdo vlastně toho ještě není součástí, jaké to je být součástí té komunity, jaké to je být opakovaně na tréninku, že pět let opakovaně na tréninku a máš nějaké zkušenosti? A když si představíš, že někdo vlastně je teprve jako předtím, než se do toho s námi pustí, tak"
+    },
+    {
+      "i": 90,
+      "t": 1791,
+      "speaker": "CoachVille",
+      "text": "je možné, že mu to můžeš nějak přiblížit svými vlastními slovy a skrze vlastní zkušenosti. Jaké to pro tebe je, co třeba pro tebe jsou nějaké principy, které tam pro tebe jako fungují, které jsou pro tebe užitečné, podporující, jak bys to popsala?"
+    },
+    {
+      "i": 91,
+      "t": 1809,
+      "speaker": "Helena Seifertová",
+      "text": "Pokud někdo přijde z džungle korporátu, kde je opravdu to prostředí výsledkové, bojující, každej spíš kouká sám na sebe, tak najednou je tady CoachVille a je tady podpora, je tady sounáležitost, tady jsou změny. Jeden podporuje druhýho, pomáhá mu. Potřebuješ koučovat, potřebuješ něco změnit? Jo, pojďme se domluvit, dejme hodinu, dvě, je to úplně v pohodě."
+    },
+    {
+      "i": 92,
+      "t": 1845,
+      "speaker": "Helena Seifertová",
+      "text": "Našla jsem si spoustu přátel. Máme společné projekty. Je to úplně jinej svět."
+    },
+    {
+      "i": 93,
+      "t": 1861,
+      "speaker": "Helena Seifertová",
+      "text": "Já bych se zeptala ještě, Aleši, na ten rozdíl. Třeba na začátku, kdy byla agentura, která už teď není, tak my jsme se pravidelně scházeli ještě s mentorem. To teď není, ale zase je novej koncept a scházíme se na dvoudenních akcích. To jsou takové dva, tři dny, kdy se potkáváme všichni dohromady, kdo chceme, a vždycky je tam prostředí, které je nejenom podporující, ale spousta nových poznatků, spousta nových příležitostí, možností, které se tam otevírají. A také se vidíme naživo, nejenom online, ono to je někdy úplně jiné, vidět se naživo, a je to velmi příjemné."
+    },
+    {
+      "i": 94,
+      "t": 1906,
+      "speaker": "Helena Seifertová",
+      "text": "A řekla bych, že mě teď hodně baví právě to, že tam není tolik pochybností, že je tam ten tah na branku, to, že se začíná projevovat to, že koučování je běžná součást života snad každého člověka, protože to dřív nebylo, a taky kam to vedlo. A teď to je ta možnost a můžou se upravovat komunikace, můžou se upravovat vztahy."
+    },
+    {
+      "i": 95,
+      "t": 1938,
+      "speaker": "Helena Seifertová",
+      "text": "Vztahy, společnosti můžou začít fungovat trochu jiným způsobem. A to nemluvím o školství."
+    },
+    {
+      "i": 96,
+      "t": 1947,
+      "speaker": "CoachVille",
+      "text": "To je kapitola sama pro sebe."
+    },
+    {
+      "i": 97,
+      "t": 1950,
+      "speaker": "CoachVille",
+      "text": "Hezký."
+    },
+    {
+      "i": 98,
+      "t": 1954,
+      "speaker": "Helena Seifertová",
+      "text": "A když jsme u toho školství, tak on trénink může vypadat jako taková škola, ale je to opravdu o něčem jiném. Tady se nikdo nemusí bát, že bude zkoušenej a hodnocenej. To bych řekla, že je tak velký rozdíl oproti běžné zkušenosti, že je potřeba to zažít."
+    },
+    {
+      "i": 99,
+      "t": 1974,
+      "speaker": "CoachVille",
+      "text": "Já vlastně někdy zmiňuji, že my to máme v CoachVille přesně opačně, jak to je v českém školství."
+    },
+    {
+      "i": 100,
+      "t": 1983,
+      "speaker": "CoachVille",
+      "text": "Že lidé často přichází v nějaké obavě o to, jaké jsou povinnosti a co všechno nesmím pohnojit. Kdy bude zkouška a za co budu potrestán? A co vlastně musím a co nesmím? A jsou potom překvapení, že existuje jako spousta věcí, které můžou, velmi málo věcí, které nesmí, velmi málo věcí, které musí."
+    },
+    {
+      "i": 101,
+      "t": 2015,
+      "speaker": "CoachVille",
+      "text": "Jak jsi to měla ty tady tohle vlastně? Jako že jsi taky absolventem českého školství, taky jsi zažila přístup v CoachVille. Jak bys to popsala specificky? Co tam vlastně považuješ za nějaké odlišnosti?"
+    },
+    {
+      "i": 102,
+      "t": 2035,
+      "speaker": "Helena Seifertová",
+      "text": "Bylo zajímavé, když jsem to u sebe pozorovala, protože já jsem z rodiny vědců, takže experimenty a vědecké práce byly jakoby denní součást. No ale to byl jiný experiment. Tam se nesměly dělat chyby. Kdežto tady ano. A mně hodně dlouho trvalo dovolit si dělat chyby. Přestože člověk běžně stále dělá,"
+    },
+    {
+      "i": 103,
+      "t": 2066,
+      "speaker": "Helena Seifertová",
+      "text": "tak mně trvalo strašně dlouho, než jsem si dovolila být komfortní s tím, že můžu udělat chybu. A že z té chyby se něco naučím. Že naopak, dokud tu chybu neudělám, tak ji nebudu umět udělat správně. Já myslím, že jsem těch chyb udělala, kolik ještě jich máš, 101 koučovacích chyb?"
+    },
+    {
+      "i": 104,
+      "t": 2090,
+      "speaker": "CoachVille",
+      "text": "Ano, 101 koučovacích chyb. Já myslím, že všechny."
+    },
+    {
+      "i": 105,
+      "t": 2094,
+      "speaker": "CoachVille",
+      "text": "Dokonce my jsme v koučování tak daleko, že i vyučujeme ty chyby, jo?"
+    },
+    {
+      "i": 106,
+      "t": 2100,
+      "speaker": "CoachVille",
+      "text": "Takže nejenom, že se tady naučí koučovat dobře, nebo skvěle, nebo mistrovsky, ale taky blbě. Na to máme taky postup."
+    },
+    {
+      "i": 107,
+      "t": 2111,
+      "speaker": "Helena Seifertová",
+      "text": "Mohla bych ho vyučovat."
+    },
+    {
+      "i": 108,
+      "t": 2116,
+      "speaker": "CoachVille",
+      "text": "Já myslím, že to je vlastně krásné, si tohle jako moct dovolit. No totiž často lidé, kteří do toho tréninku vstupují, tak vlastně to je taková ta jako intuitivní myšlenka, která říká něco jako no tak hlavně to musím dělat jako správně a co nejdřív to dělat jako perfektně. Skoro jako by se měli stát kouči během jedné, dvou odkoučovaných hodin, nebo že se to má podařit během jednoho týdne. Nicméně to je jako graduální postupný proces, kdy neustále probíhá učení a neustále probíhají hodiny a hodiny koučovací praxe, kdy existují jenom dva stavy. To, jak koučujete dneska, a jak můžete zítra koučovat líp."
+    },
+    {
+      "i": 109,
+      "t": 2168,
+      "speaker": "CoachVille",
+      "text": "Tam není vlastně jako, že byste koučovali už dobře. Za to vás tady jako nikdo nepoplácá po rameni."
+    },
+    {
+      "i": 110,
+      "t": 2178,
+      "speaker": "CoachVille",
+      "text": "Protože s další koučovací hodinou to může být úplně jinak. A my se samozřejmě potřebujeme orientovat v tom, jak být lepším koučem pro naše hráče už v příští hodině. Helčo, co bys vzkázala budoucím hráčům? Někdo třeba uvažuje o tom, že vyzkoušel služby kouče, ještě to třeba nezažil, nebo má nějaké zkušenosti s kouči, kteří nejsou součástí CoachVille, to jsem slyšel, že je velmi velký rozdíl mít kouče z CoachVille, nebo mít kouče odněkud jinud. Co bys vzkázala hráčům, kteří o tom potenciálně uvažují, co by pro ně mohlo být zajímavým přínosem, když si koučování vyzkouší jako hráči?"
+    },
+    {
+      "i": 111,
+      "t": 2225,
+      "speaker": "Helena Seifertová",
+      "text": "Ať si dobře vyberou svého kouče, musí fungovat chemie mezi nimi. Musí se v tom cítit dobře a úplně zahodit tu myšlenku, že nemůžu přece měnit kouče. Ale ano, můžu, pokud mi to nevyhovuje, můžu změnit kouče. Protože už jenom to, že si dovolím pro sebe kouče a jít tou cestou, tak je to úplně jiná úroveň života."
+    },
+    {
+      "i": 112,
+      "t": 2256,
+      "speaker": "Helena Seifertová",
+      "text": "A další věc je nevzdat to po prvním měsíci, ale jít dál, vyzkoušet nejméně půl roku a pak teprve se podívat zpátky, jakou cestu jsem ušel. Protože některé věci chvilku trvají."
+    },
+    {
+      "i": 113,
+      "t": 2275,
+      "speaker": "CoachVille",
+      "text": "To rozhodně. A současně je velmi pravděpodobné, a to vychází jako z toho, co spousta lidí řekla, že ten poslední půlrok jsem se posunul víc než za posledních deset let a tak dále."
+    },
+    {
+      "i": 114,
+      "t": 2293,
+      "speaker": "CoachVille",
+      "text": "A ono, když já jsem třeba v prostředí, kdy se tady toto děje běžně, tak je to pro mě už celkem něco jako, že jsem se na to už adaptoval, že tady tohle slyším. A ono to prostě pro člověka, který nezná koučování, může znít vlastně jako velice vzdáleně, ale takhle to prostě je. Koučování funguje, koučování vás může opravdu posunout způsobem, který bude velmi překvapivý."
+    },
+    {
+      "i": 115,
+      "t": 2324,
+      "speaker": "CoachVille",
+      "text": "Zažila jsi ty nějaké překvapení se svými hráči v jejich posunu, nebo překvapení ve své hře, ty jako hráčka?"
+    },
+    {
+      "i": 116,
+      "t": 2335,
+      "speaker": "Helena Seifertová",
+      "text": "Já začnu asi tím ve své hře. Protože jsem měla někde sen, jet na nějakou tu Polynésii, aha, ale tak to nech, to je daleko. A teď najednou já mám na rok plán, že za rok se tam podívám. A najednou je to z těch snů do možností a já věřím tomu, že to uskutečním. Ale kdybych neměla svého kouče,"
+    },
+    {
+      "i": 117,
+      "t": 2366,
+      "speaker": "Helena Seifertová",
+      "text": "tak bych to možná zase odložila a dala do té škatulky sen."
+    },
+    {
+      "i": 118,
+      "t": 2372,
+      "speaker": "CoachVille",
+      "text": "Jo, čili že to je vlastně, že ta škatulka sen má potom jako jinou dynamiku, že obvykle je ta škatulka něco jako, no tam si odložím to, co bych chtěla, a nikdy na to nesáhnu. Tak se vlastně ta dynamika změní a to jsou věci, kterých budu dosahovat."
+    },
+    {
+      "i": 119,
+      "t": 2389,
+      "speaker": "Helena Seifertová",
+      "text": "Přesně, to je ono."
+    },
+    {
+      "i": 120,
+      "t": 2392,
+      "speaker": "CoachVille",
+      "text": "Ano. Protože co je vlastně lepšího, než jít za svým snem, že jo?"
+    },
+    {
+      "i": 121,
+      "t": 2397,
+      "speaker": "CoachVille",
+      "text": "Nic lepšího pravděpodobně není."
+    },
+    {
+      "i": 122,
+      "t": 2400,
+      "speaker": "Helena Seifertová",
+      "text": "A já možná znovu zmíním se svou hráčkou ten včerejší zážitek, kdy opravdu najednou jsme začaly úplně novou hru. A bylo to tak překvapující pro nás obě, protože najednou to nás začalo bavit a my jsme ani nechtěly skončit, protože tam bylo tolik věcí k objevování a tolik nových možností, že to bylo prostě super."
+    },
+    {
+      "i": 123,
+      "t": 2430,
+      "speaker": "CoachVille",
+      "text": "Vidíte to, jak je Helča nadšená po pěti letech v koučování, kdy se to vyvíjí každý den a kdy zažíváme tyhle momenty, které jsou vlastně magické momenty v přítomném okamžiku, kdy se věci dávají do pohybu."
+    },
+    {
+      "i": 124,
+      "t": 2448,
+      "speaker": "Helena Seifertová",
+      "text": "Možná vzpomenu ještě jednu, a to když hráčka, která má svoje zaměstnání, ale zároveň podniká a chce zlepšit komunikaci, a mluvili jsme o tom a já říkám, chceš zlepšit komunikaci, a co kdybys začala používat otevřené otázky?"
+    },
+    {
+      "i": 125,
+      "t": 2470,
+      "speaker": "Helena Seifertová",
+      "text": "A bylo ticho chvilku, co to je? Tak jsme se na to koukli, co to je. A ona, jo, to je. A máme další půlrok na koučování. Protože tam se objevil úplně jiný smysl těch konverzací. Najednou jsme šli do hloubky a není to o tom být vyzvědačem a mít tu lampu, a tak mi řekni, ano, ne? Ale najednou je to o tom poslouchat."
+    },
+    {
+      "i": 126,
+      "t": 2502,
+      "speaker": "Helena Seifertová",
+      "text": "Když dám otevřenou otázku, to znamená, nemůžu odpovědět ano, ne, ale ten člověk mi něco říká, tak najednou já vím, že musím poslouchat, co mi říká, a doptávat se. A to je úplně jiná úroveň komunikace."
+    },
+    {
+      "i": 127,
+      "t": 2518,
+      "speaker": "CoachVille",
+      "text": "Ano, tím se otvírají dveře do nového světa, který pravděpodobně není vůbec k dispozici do té doby. Hezký. Helčo, máš nějaké svoje oblíbené motto, nějaký citát, který je pro tebe zajímavý, inspirující?"
+    },
+    {
+      "i": 128,
+      "t": 2539,
+      "speaker": "Helena Seifertová",
+      "text": "Já bych neřekla, že je to nějaké motto nebo citát, spíš takové, nezastavovat se. Go on. Jít pořád dál."
+    },
+    {
+      "i": 129,
+      "t": 2550,
+      "speaker": "Helena Seifertová",
+      "text": "Být v pohybu. To"
+    },
+    {
+      "i": 130,
+      "t": 2552,
+      "speaker": "CoachVille",
+      "text": "stojí za to. Helčo, chceš něco vzkázat našim posluchačům takhle na závěr našeho rozhovoru?"
+    },
+    {
+      "i": 131,
+      "t": 2564,
+      "speaker": "Helena Seifertová",
+      "text": "Že život stojí za to."
+    },
+    {
+      "i": 132,
+      "t": 2567,
+      "speaker": "Helena Seifertová",
+      "text": "A stojí za to žít ho podle sebe, podle svého. A pokud je koučování tou cestou, pojďte do toho."
+    },
+    {
+      "i": 133,
+      "t": 2577,
+      "speaker": "CoachVille",
+      "text": "Tak jo. Helčo, moc děkuji, že jsme mohli společně udělat tenhle rozhovor. Tohle byl rozhovor s Helenou Seifertovou. A kde tě, Helčo, můžou najít posluchači, diváci, jak tě můžou kontaktovat?"
+    },
+    {
+      "i": 134,
+      "t": 2591,
+      "speaker": "Helena Seifertová",
+      "text": "Na stránkách CoachVille.eu."
+    },
+    {
+      "i": 135,
+      "t": 2598,
+      "speaker": "CoachVille",
+      "text": "Bezvadný. Helčo, díky moc."
+    },
+    {
+      "i": 136,
+      "t": 2600,
+      "speaker": "Helena Seifertová",
+      "text": "Taky děkuju."
+    }
+  ]
+}

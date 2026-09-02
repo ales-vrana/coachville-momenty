@@ -1,0 +1,51 @@
+{
+  "slug": "helena-seifertova",
+  "displayName": "Helena Seifertová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "PCC",
+  "monthsInTraining": 57,
+  "priorProfessionText": "vedoucí provozu vodovodů a kanalizací, poté stavbyvedoucí v Praze (technická profese)",
+  "priorProfessionCat": "IT a technika",
+  "regionType": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "technická profese: vedoucí provozu vodovodů a kanalizací, pak stavbyvedoucí v Praze; koučování jako vedlejší zájem (spiritualita, psychologie)"
+    },
+    {
+      "label": "Výběr školy",
+      "text": "půl roku až rok zjišťování, rozhovory s kouči, volba mezi dvěma školami; rozhodlo: hra, život, mladí lidé"
+    },
+    {
+      "label": "Start",
+      "text": "nastoupila s pocitem, že už něco umí; „duchovní bič“ a pokora; v půlce prvního tréninku trenér zpochybnil, zda může pokračovat; držel ji mentor, agentura a komunita"
+    },
+    {
+      "label": "1. měsíc",
+      "text": "díky finančnímu polštáři odešla ze zaměstnání a věnuje se jen koučování"
+    },
+    {
+      "label": "Certifikace",
+      "text": "ICF ACC, později PCC; certifikace zpočátku noční můra, prošla díky koučování koučů a praktiku"
+    },
+    {
+      "label": "Dnes (5. rok)",
+      "text": "kolem 2 000 odkoučovaných hodin; hráči s tahem na branku (leadership, strategie, vztahy); opakuje tréninky"
+    }
+  ]
+}

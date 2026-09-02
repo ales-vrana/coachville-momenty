@@ -1,0 +1,251 @@
+[
+  {
+    "id": "hs001",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 5,
+    "endUtt": 7,
+    "quote": "Nebylo to tak úplně jednoduchý, já jsem zjišťovala hodně dlouho předtím, tak půl roku, rok, jakou školu, jakým směrem se vydat, s kým se propojit, a zároveň jsem mluvila i s koučema, kteří už tu dráhu nastoupili. Takže to bylo takové docela uvážené rozhodnutí a volila jsem mezi dvěma školama, tou jednou a CoachVille a Alešem Vránou. A mně se líbilo, že je to s mladýma lidma, že je to o hře, že je to o životě, a to mě tam hodně bavilo.",
+    "summary": "Technická profese: vedoucí provozu vodovodů a kanalizací, plná jednání s lidmi na úřadech a ve službách. Půl roku až rok zjišťovala, jakou školu a s kým se propojit, mluvila s kouči, kteří tu dráhu už šli, a vybírala mezi dvěma školami. Rozhodlo, že CoachVille je o hře, o životě a s mladými lidmi.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit",
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň A tagu Proč jsem váhala (délka, srovnání dvou škol, co rozhodlo) a tagu Jak jsem si ověřila fit (rozhovory s kouči před rozhodnutím). Technický background jen stupeň B."
+  },
+  {
+    "id": "hs002",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 10,
+    "endUtt": 12,
+    "quote": "Já bych řekla, že na tom začátku duchovní bič. Po nástupu do tréninku, ty jo, pokora. Úplnej průser, úplně. Jako já jsem nastupovala do tréninku s tím, že už něco umím, a pak jsem to sakra rychle přehodnocovala. A nebylo to úplně jednoduchý, ono si tam člověk sáhne na dno, když najednou musí všechna svoje přesvědčení změnit a přehodnotit. A mně hodně pomohl jeden z nás, jen tak mimochodem řekl, že když jsi mluvil se svým mentorem, tak on ti řekl, jako mlč a poslouchej, ty jsi to řekl trochu jadrnějším jazykem. A já jsem si tam uvědomila, no jasně, já o tom nevím vůbec nic. Pro začátek tak mlč a poslouchej. A uč se. A to bylo ono.",
+    "summary": "Do tréninku nastupovala s tím, že už něco umí, a rychle to přehodnocovala: na začátku „duchovní bič“ a pokora. Sáhla si na dno, když musela změnit všechna svá přesvědčení. Zlomilo to, když jí spolužák připomněl radu mentora: mlč, poslouchej a uč se.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "sáhla si na dno: musela přehodnotit všechna svá přesvědčení o tom, co umí",
+    "topics": [
+      "co-bylo-tezsi",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Návyk z původní profese: chtěla předávat zkušenosti (potvrzuje v utt 16 a 18). Vulgarismus „úplnej průser“ je doslovný, neupravovat."
+  },
+  {
+    "id": "hs003",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 21,
+    "endUtt": 22,
+    "quote": "Zábavné je, když v průběhu koučování, přestože už je tam taková ta profesionalita, že dopředu nevím, co mi ten člověk řekne, tak někde se to tam objeví. A je velmi zajímavé slyšet, co z toho člověka vlastně nakonec vychází, že je to úplně něco jiného, a je zajímavé na tom stavět, protože pak to má ten dopad. Mám příklad ze včerejška, kdy koučujeme asi třetím rokem společně a včera jsme designovaly novou hru, protože najednou to bylo o penězích a najednou to bylo o tom, aha, já myslím, že peníze vydělám jenom v zaměstnání. No ale co, když já budu podnikat? A najednou tam byla úplně nová hra. To je to, co mě baví.",
+    "summary": "S jednou hráčkou koučuje třetím rokem; den před natáčením spolu navrhly úplně novou hru, když se ukázalo přesvědčení „peníze vydělám jen v zaměstnání“. Podle úvodu rozhovoru má Helena za necelých pět let od startu kolem 2 000 odkoučovaných hodin.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "s jednou hráčkou 3. rok; kolem 2 000 hodin za necelých 5 let (číslo zaznělo v otázce tazatele, promluva 19)",
+    "isAdmission": false,
+    "topics": [
+      "po-vycviku",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "První moment tématu Co se stalo s klienty po výcviku: stupeň B, fakta o trvající praxi bez pojmenování obavy. Zda hráčka platí, v rozhovoru nezazní; název videa na start.coachville.cz uvádí platící klienty."
+  },
+  {
+    "id": "hs004",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 26,
+    "endUtt": 29,
+    "quote": "Na začátku klíčový moment, kdy jsem dostala pozvání jít do tréninku. To pro mě byl opravdu klíčový moment. Další moment nastal asi v půlce prvního tréninku, kdy jsem právě díky té duchovní biči měla rozhovor se svým trenérem, a on mi řekl, no nevím, jestli můžeš s tímhle nastavením pokračovat. A to byl opravdu klíčový moment, kdy jsem si uvědomila, že musím něco změnit. A přišla ta pokora. A to uvědomění. A zároveň jsem měla obrovské štěstí na to, že jsem měla svýho mentora, že ještě fungovala agentura, že kolem mě bylo spousta lidí, kteří byli ochotní mi pomoct. Spousta Vnitřních Svobod. Spousta koučování s ostatními kouči. To byly vždycky momenty, které mě posouvaly dál. A každej novej trénink, já jsem se na něj neskutečně těšila, na každý nový trénink. A byla jsem vděčná i za to, že jsem měla ten finanční polštář a mohla jsem do těch tréninků jít.",
+    "summary": "V půlce prvního tréninku jí trenér řekl, že neví, jestli může s tímhle nastavením pokračovat; uvědomila si, že musí něco změnit, a přišla pokora. Držel ji mentor, tehdejší agentura, lidé ochotní pomoct, Vnitřní Svobody a koučování s ostatními kouči. Finanční polštář jí umožnil jít do tréninků a pak odejít ze zaměstnání.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "v půlce prvního tréninku trenér zpochybnil, zda může s tehdejším nastavením pokračovat",
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "co-udelala-skola-a-co-ja",
+      "odkud-penize-na-skolu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Krize tagu 8 není „chtěla jsem to vzdat“, ale „nebylo jisté, že můžu pokračovat“. Co dala škola: mentor, agentura, komunita, Vnitřní Svobody; co sama: změnit nastavení. Peníze: rezerva (F1), bez detailu."
+  },
+  {
+    "id": "hs005",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 31,
+    "endUtt": 36,
+    "quote": "Úžasné to je. Já fakt za to děkuju každej den, protože organizuju si čas sama, všechno, co potřebuju, mám, dokážu si to zajistit. A hlavně bych řekla, že ta změna je v tom, že vidím úplně jiné možnosti než dřív. Dřív to bylo opravdu o tom, poslouchej svýho šéfa, vydělej si peníze na základní potřeby a nekoukej moc dál. A teď je to o tom, koukej dál, protože si vyděláš, protože můžeš tvořit a je to na tobě.",
+    "summary": "Ze zaměstnání (stavbyvedoucí v Praze, denní dojíždění) odešla už po prvním měsíci tréninku, protože měla finanční polštář. Dnes si organizuje čas sama; dřív to bylo „poslouchej šéfa, vydělej na základní potřeby a nekoukej dál“, teď vidí jiné možnosti a tvoří.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 1,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "co-vycvik-udelal-s-pretizenim",
+      "odkud-penize-na-skolu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Protipól Michaely (3 roky práce i koučování). Odchod stál na rezervě, ne na příjmu z koučování: nikdy neprezentovat jako doporučený postup (navigátor: nestavět financování na budoucím příjmu). Úsek obsahuje dvě krátké repliky tazatele."
+  },
+  {
+    "id": "hs006",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 62,
+    "endUtt": 65,
+    "quote": "Já jsem od začátku měla, že chci být mistr v koučování. Nevím proč, prostě to tam bylo od začátku. Já jsem to měla vždycky takhle nastavený. A proto ty certifikace byly jasný postup. Já jsem tam nic jiného neměla. A není to kvůli tomu, že bych měla certifikaci, ale že jsem za tím cítila ty dovednosti, to, co potřebuju umět. A to tam bylo to hlavní a důležitý, protože samotná ta certifikace pro mě na začátku byla noční můra. Nebýt koučována, tak bych asi tou cestou neprošla. Takže i pokud se ptáš na vliv koučování koučů na kouče, tak i tohle byl jeden z těch důvodů. A vlastně to bylo postupné. Udělat tréninky, jít na praktika, zdokonalit se v těch dovednostech. Po každém tam bylo něco, co jsem objevila. Praktikum pro mě byl klíčovej moment toho udělat tu cestu schůdnou a dotáhnout to do konce.",
+    "summary": "Od začátku chtěla být mistr v koučování; certifikace ICF ACC a později PCC byly jasný postup, ale ne kvůli papíru, za nimi cítila dovednosti. Samotná certifikace pro ni byla na začátku noční můra a nebýt koučovaná, cestou by neprošla. Zaseknutí („proč to mám dělat, nebaví mě to“) přicházejí; pomáhá je probrat s koučem. Klíčem byly tréninky a praktika.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "k-cemu-papir",
+      "kdy-jsem-to-chtel-vzdat",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Credential ICF ACC a PCC uvádí tazatel v promluvě 63. Co dala škola: tréninky, praktikum, koučování koučů; co sama: záměr mistrovství a dotáhnout to. Úsek začíná promluvou o koučování koučů (62)."
+  },
+  {
+    "id": "hs007",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 68,
+    "endUtt": 72,
+    "quote": "Mnohem víc si užívám každé to setkání. Ty pochybnosti zmizely. Já jsem se vždycky před každým setkáním připravovala a [nesrozumitelné] ještě ty dovednosti, a bylo to pro mě jako vyčerpávající. A teď je to, ne že bych se, je to jiný způsob přípravy.",
+    "summary": "PCC jí trvala a nešla snadno, dlouho neviděla rozdíl oproti ACC. Dnes ho popisuje jako jít za horizont toho, co hráč sám vidí. Pochybnosti zmizely: dřív se před každým setkáním vyčerpávajícím způsobem připravovala, teď se připravuje jinak a každé setkání si užívá.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "cesta k PCC trvala a nešla snadno; příprava před každým setkáním ji vyčerpávala",
+    "topics": [
+      "sebeduvera",
+      "k-cemu-papir"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Sebedůvěra bez vazby na cenu (S8): vývoj pochybností v konverzacích s hráči."
+  },
+  {
+    "id": "hs008",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 75,
+    "endUtt": 78,
+    "quote": "Místo toho bych doporučila tu cestu toho učení, toho zvyšování té kompetence v jednotlivých dovednostech. Vyzkoušet si to, experimentovat, zkoušet furt dokola, pokaždý něco novýho, bez těch pochybností ale. Protože vždycky se může objevit, taky můžu mít setkání, které vyhodnotím třeba, hele, zrovna jsem se moc nepředvedla, mohlo to být lepší, ale to může být vždycky. Důležité je, že do toho člověk jde, nezastavit se a jít do toho, dělat ty věci. No a co, že mi řekne, že se mnou nebude spolupracovat? No a co, že si na začátku, když jsem ho zvala na koučovací hodinu, myslel, že ho zvu na rande? No a co? To přece nevadí.",
+    "summary": "Začátečníkům radí odhodit pochybnosti a nahradit je učením a experimentováním. Sama zažila setkání, po kterých si řekla, že se moc nepředvedla, i to, že člověk, kterého zvala na koučovací hodinu, si myslel, že ho zve na rande. „No a co? To přece nevadí.“",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Převážně rada (stupeň C); tagováno kvůli dvěma vlastním situacím (odmítnutí, pozvánka na hodinu vnímaná jako rande). Stupeň B, štítek názor je správně."
+  },
+  {
+    "id": "hs009",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 93,
+    "endUtt": 93,
+    "quote": "Já bych se zeptala ještě, Aleši, na ten rozdíl. Třeba na začátku, kdy byla agentura, která už teď není, tak my jsme se pravidelně scházeli ještě s mentorem. To teď není, ale zase je novej koncept a scházíme se na dvoudenních akcích. To jsou takové dva, tři dny, kdy se potkáváme všichni dohromady, kdo chceme, a vždycky je tam prostředí, které je nejenom podporující, ale spousta nových poznatků, spousta nových příležitostí, možností, které se tam otevírají. A také se vidíme naživo, nejenom online, ono to je někdy úplně jiné, vidět se naživo, a je to velmi příjemné.",
+    "summary": "Na začátku byla agentura a pravidelná setkání s mentorem; to už dnes není. Místo toho je nový koncept dvou- až třídenních živých setkání celé komunity, kde jsou podle ní nové poznatky a příležitosti a lidé se vidí naživo.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Jediné místo v rozhovorech, kde host jmenuje, co škola dřív nabízela a už nenabízí (agentura, mentor). Stupeň B tagu Není to jen marketing: chybí, čemu nevěřila. Netagovat tag 5 (chybí vlastní práce hosta)."
+  },
+  {
+    "id": "hs010",
+    "episode": "helena-seifertova",
+    "guest": "helena-seifertova",
+    "startUtt": 102,
+    "endUtt": 103,
+    "quote": "Bylo zajímavé, když jsem to u sebe pozorovala, protože já jsem z rodiny vědců, takže experimenty a vědecké práce byly jakoby denní součást. No ale to byl jiný experiment. Tam se nesměly dělat chyby. Kdežto tady ano. A mně hodně dlouho trvalo dovolit si dělat chyby. Přestože člověk běžně stále dělá, tak mně trvalo strašně dlouho, než jsem si dovolila být komfortní s tím, že můžu udělat chybu. A že z té chyby se něco naučím. Že naopak, dokud tu chybu neudělám, tak ji nebudu umět udělat správně. Já myslím, že jsem těch chyb udělala, kolik ještě jich máš, 101 koučovacích chyb?",
+    "summary": "Pochází z rodiny vědců, kde se v experimentech chyby dělat nesměly. Trvalo jí strašně dlouho, než si dovolila být komfortní s tím, že chybu udělat může a že se z ní něco naučí. Ze 101 koučovacích chyb podle sebe udělala všechny.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "dlouho si nedovolila dělat chyby; udělala všech 101 koučovacích chyb",
+    "topics": [
+      "koucovsky-typ",
+      "kdy-jsem-to-chtel-vzdat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Návyk z původní profese a rodiny (S1/TM8 perfekcionismus). 101 koučovacích chyb je název lekce CoachVille, ne měření."
+  }
+]
