@@ -41,6 +41,9 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
       </nav>
       <header className="max-w-3xl">
         <h1 className="text-2xl font-bold leading-tight tracking-tight sm:text-3xl">{topic.label}</h1>
+        {topic.aliases && topic.aliases.length > 0 && (
+          <p className="mt-1 text-sm text-muted">Také: {topic.aliases.join(" · ")}</p>
+        )}
         {cost && <p className="mt-2 text-sm text-muted">Kolik to stálo je: {cost}.</p>}
       </header>
 

@@ -37,7 +37,7 @@
     "group": "Klienti a peníze",
     "label": "Kdo mi zaplatí 1 500 Kč za hodinu?",
     "codes": [
-      "TR1",
+      "C3",
       "S8"
     ],
     "description": "První cena, kdo ji zaplatil, kolikátý měsíc, dnešní cena.",
@@ -49,6 +49,7 @@
     "group": "Klienti a peníze",
     "label": "Kdy přišly první peníze a kolik",
     "codes": [
+      "E1",
       "E2"
     ],
     "description": "Konkrétní částky a časy první platby. Štítek s číslem.",
@@ -82,7 +83,9 @@
     "group": "Já a moje schopnosti",
     "label": "Dá se to zvládnout vedle práce a rodiny?",
     "codes": [
-      "S5"
+      "TM2",
+      "TM6",
+      "E5"
     ],
     "description": "Čas: hodiny týdně, kdy přesně, co dělám v úterý od pěti do osmi.",
     "featuredMomentId": "mh007"
@@ -103,7 +106,8 @@
     "group": "Já a moje schopnosti",
     "label": "Moje sebedůvěra na začátku a dnes",
     "codes": [
-      "S8"
+      "S8",
+      "S6"
     ],
     "description": "Ekonomická a osobní sebedůvěra: první vyslovení ceny nahlas, vývoj.",
     "featuredMomentId": "mh010"
@@ -114,6 +118,7 @@
     "group": "Důvěra ke škole",
     "label": "Není to jen marketing? Co se splnilo a co ne",
     "codes": [
+      "TR1",
       "TR2"
     ],
     "description": "Dvoustranné: čemu host nevěřil, co se splnilo, co ne. Host, který vstupoval jako skeptik.",
@@ -125,7 +130,7 @@
     "group": "Důvěra ke škole",
     "label": "Co bylo těžší, než jsem čekal(a)",
     "codes": [
-      "TR2",
+      "TR1",
       "E2"
     ],
     "description": "Povinné pro každého hosta. Přiznání s pojmenovanou cenou: měsíce bez klienta, peníze, hádka doma, pauza.",
@@ -148,7 +153,8 @@
     "group": "Důvěra ke škole",
     "label": "K čemu mi je papír a kdy jsem ho dostal(a)",
     "codes": [
-      "P3"
+      "P3",
+      "TR2"
     ],
     "description": "Co host reálně použil ve 2., 4., 6. měsíci před certifikátem."
   },
@@ -158,7 +164,9 @@
     "group": "Riziko a rozhodnutí",
     "label": "Co když si vezmu půjčku a klient nepřijde",
     "codes": [
-      "R7"
+      "R1",
+      "R7",
+      "F4"
     ],
     "description": "Financování, který měsíc byl v minusu, co se stalo při zpomalení nebo pauze. Odkaz na Podmínky poctivě.",
     "featuredMomentId": "mh005"
@@ -169,8 +177,8 @@
     "group": "Riziko a rozhodnutí",
     "label": "Co řekl můj partner a co se stalo pak",
     "codes": [
-      "TR2",
-      "R7"
+      "F5",
+      "TR1"
     ],
     "description": "Partner byl proti; co ho přesvědčilo a kdy."
   },
@@ -180,8 +188,9 @@
     "group": "Riziko a rozhodnutí",
     "label": "Proč jsem váhal(a) a co rozhodlo",
     "codes": [
-      "THINK",
-      "P6"
+      "D5",
+      "D6",
+      "TH3"
     ],
     "description": "Délka váhání, s čím srovnával, co rozhodlo.",
     "featuredMomentId": "mh008"
@@ -202,7 +211,8 @@
     "group": "Riziko a rozhodnutí",
     "label": "V čem se moje cesta lišila od toho, co škola ukazovala",
     "codes": [
-      "E2"
+      "E2",
+      "TR1"
     ],
     "description": "Odchylka od modelu: co trvalo déle, kde host uhnul.",
     "featuredMomentId": "dv005"
@@ -213,10 +223,156 @@
     "group": "Riziko a rozhodnutí",
     "label": "Co mě stálo, že jsem rok váhal(a)",
     "codes": [
-      "THINK",
-      "P6"
+      "D6",
+      "TH6"
     ],
     "description": "Cena čekání vlastními slovy hosta. Pracuje proti konkurentovi „neudělat nic“.",
     "featuredMomentId": "mh008"
+  },
+  {
+    "id": "koucovat-a-zustat-v-praci",
+    "order": 21,
+    "group": "Riziko a rozhodnutí",
+    "label": "Dá se koučovat a zůstat v práci?",
+    "codes": [
+      "R6",
+      "TM6"
+    ],
+    "description": "Kořen R6: strach opustit stabilní příjem; falešné buď–anebo. Host měl práci i koučování zároveň: jak dlouho, kolik klientů/hodin vedle práce, jaký milník předcházel odchodu, nebo proč odejít nechce.",
+    "featuredMomentId": "mh007"
+  },
+  {
+    "id": "vyuziju-to-v-praci",
+    "order": 22,
+    "group": "Já a moje schopnosti",
+    "label": "Využiju to v práci, i když se tím nechci živit?",
+    "codes": [
+      "E4",
+      "S5"
+    ],
+    "description": "Kořen E4: neví, zda dovednost využije. Host (manažer, HR, učitel) popíše konkrétní pracovní situaci, kde koučování použil, co se změnilo a za jak dlouho.",
+    "featuredMomentId": "dv002"
+  },
+  {
+    "id": "nemam-vek-ani-vzdelani",
+    "order": 23,
+    "group": "Já a moje schopnosti",
+    "label": "Nemám na to věk ani vzdělání",
+    "codes": [
+      "S2"
+    ],
+    "description": "Kořen S2: věk, vzdělání, background. Host uvede výchozí bod (věk při startu, obor), co si o něm myslel před vstupem a kdy se ukázal jako výhoda nebo překážka.",
+    "featuredMomentId": "mh014"
+  },
+  {
+    "id": "odkud-penize-na-skolu",
+    "order": 24,
+    "group": "Klienti a peníze",
+    "label": "Odkud jsem vzal(a) peníze na školu",
+    "codes": [
+      "F1",
+      "F2",
+      "F4",
+      "P2"
+    ],
+    "description": "Kořeny F1/F2/F4: cesta platby. Host řekne, jak platil (najednou, splátky, rezerva, z koučování, úvěr), od kterého měsíce splátku pokryl koučováním, kdy to bylo těsné. Nikdy jako slib.",
+    "featuredMomentId": "mh004"
+  },
+  {
+    "id": "co-udelala-skola-a-co-ja",
+    "order": 25,
+    "group": "Důvěra ke škole",
+    "label": "Co za mě udělala škola a co jsem musel(a) sám",
+    "codes": [
+      "X",
+      "TR1"
+    ],
+    "description": "Kořen X: hranice podpory. Host vyjmenuje, co od školy dostal (prompty, kontakty, praktika, parťáci) a co musel udělat sám (zavolat, říct cenu, rytmus). Každý moment musí obsahovat aspoň jednu věc, kterou udělal sám.",
+    "featuredMomentId": "mh012"
+  },
+  {
+    "id": "bojim-se-prvniho-setkani",
+    "order": 26,
+    "group": "Já a moje schopnosti",
+    "label": "Bojím se prvního setkání s klientem",
+    "aliases": [
+      "Jak vypadaly moje první hodiny",
+      "Co když nebudu vědět, co říct"
+    ],
+    "codes": [
+      "S3"
+    ],
+    "description": "Kořen S3: strach z ticha, hodnocení, ztrapnění. Host popíše konkrétní první setkání, co dělal, když nevěděl, co se pokazilo, po kolikátém setkání se cítil jistě.",
+    "featuredMomentId": "mh001"
+  },
+  {
+    "id": "kdyz-jsem-videl-cenu",
+    "order": 27,
+    "group": "Klienti a peníze",
+    "label": "Co jsem si řekl(a), když jsem viděl(a) cenu",
+    "codes": [
+      "P7",
+      "P3"
+    ],
+    "description": "Kořeny P7/P3: cenový šok a hodnota. Host řekne první reakci na cenu, s čím ji srovnával, jaké bylo jeho kritérium „stojí to za to“ a kdy a podle čeho ho splnilo nebo nesplnilo. Bez obhajoby ceny školy.",
+    "featuredMomentId": "dv004"
+  },
+  {
+    "id": "kdy-jsem-to-chtel-vzdat",
+    "order": 28,
+    "group": "Já a moje schopnosti",
+    "label": "Kdy jsem to chtěl(a) vzdát a co mě udrželo",
+    "codes": [
+      "S4",
+      "TM8"
+    ],
+    "description": "Kořen S4: vytrvalost. Host pojmenuje konkrétní krizi (kdy, proč), co ho udrželo (mechanismus) a jak dlouho trvala, včetně toho, co pomohlo jen dočasně.",
+    "featuredMomentId": "mh010"
+  },
+  {
+    "id": "uz-jsem-se-spalil",
+    "order": 29,
+    "group": "Důvěra ke škole",
+    "label": "Už jsem se jednou spálil(a)",
+    "codes": [
+      "TR3"
+    ],
+    "description": "Kořen TR3: minulá špatná zkušenost. Host popíše, co si už koupil a nefungovalo, co si tentokrát ověřoval předem a v čem byla realita jiná nebo stejná.",
+    "featuredMomentId": "mh011"
+  },
+  {
+    "id": "co-vycvik-udelal-s-pretizenim",
+    "order": 30,
+    "group": "Já a moje schopnosti",
+    "label": "Co výcvik udělal s mým přetížením",
+    "codes": [
+      "TM3",
+      "TM5"
+    ],
+    "description": "Kořeny TM3/TM5: hlava a energie, ne hodiny. Host popíše stav před startem (spánek, hodiny, kontrola), co se s ním stalo a čím, včetně období, kdy to bylo horší. Nikdy formulace, že výcvik léčí vyhoření.",
+    "featuredMomentId": "mh008"
+  },
+  {
+    "id": "jak-jsem-si-overil-fit",
+    "order": 31,
+    "group": "Riziko a rozhodnutí",
+    "label": "Jak jsem si ověřil(a), že mi to sedí, než jsem zaplatil(a)",
+    "codes": [
+      "R2",
+      "D4"
+    ],
+    "description": "Kořeny R2/D4: test před závazkem. Host popíše, co udělal před rozhodnutím (test, workshop, hovor s absolventem, vlastní pokus), co se dozvěděl a jak to rozhodlo. Vede k workshopu jako testu fitu.",
+    "featuredMomentId": "mh017"
+  },
+  {
+    "id": "kdyz-vstoupi-zivot",
+    "order": 32,
+    "group": "Riziko a rozhodnutí",
+    "label": "Co když mi do toho vstoupí život",
+    "codes": [
+      "R5"
+    ],
+    "description": "Kořen R5: nemoc, rodina, životní změna během výcviku. Host popíše událost, co udělal (pauza, zpomalení), jak reagovala škola, co to stálo a jak vypadal návrat. Publikuje se až při 3 momentech od 2 lidí.",
+    "hidden": true
   }
 ]

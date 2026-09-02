@@ -1,11 +1,7 @@
 // Datový model webu Momenty (viz zadání v2, kapitola 7).
 // V1: data žijí jako JSON soubory ve složce /data a načítají se při buildu.
 
-export type ObjectionCode =
-  | "TR1" | "TR2" | "TR4"
-  | "C1" | "C2" | "C3" | "C4"
-  | "S1" | "S5" | "S7" | "S8"
-  | "E2" | "P3" | "P6" | "R7" | "THINK";
+export type ObjectionCode = string; // kód kořene z data/roots.json (navigátor), např. C1, TR2, TM3
 
 export type TopicGroup =
   | "Klienti a peníze"
@@ -21,6 +17,8 @@ export interface Topic {
   description?: string; // pro redakci a LLM: co sem patří
   order: number;
   featuredMomentId?: string; // ruční výběr první karty
+  aliases?: string[]; // podotázky zobrazené pod názvem (a pro vyhledávání)
+  hidden?: boolean; // téma existuje v taxonomii, ale nepublikuje se (čeká na důkazy)
   ctaText?: string;
 }
 

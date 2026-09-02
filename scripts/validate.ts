@@ -20,7 +20,9 @@ const errors: string[] = [];
 const warnings: string[] = [];
 
 const site = readJson(path.join(DATA, "site.json"));
-const topics = readJson(path.join(DATA, "topics.json")) as { id: string }[];
+const topics = readJson(path.join(DATA, "topics.json")) as { id: string; codes?: string[] }[];
+const rootCodes = new Set((readJson(path.join(DATA, "roots.json")).roots as { code: string }[]).map((r) => r.code));
+for (const t of topics) for (const c of t.codes ?? []) if (!rootCodes.has(c)) errors.push(`téma ${t.id}: neznámý kód kořene ${c} (viz data/roots.json)`);
 const topicIds = new Set(topics.map((t) => t.id));
 const guests = readDir(path.join(DATA, "guests")) as Record<string, unknown>[];
 const episodes = readDir(path.join(DATA, "episodes")) as Record<string, unknown>[];

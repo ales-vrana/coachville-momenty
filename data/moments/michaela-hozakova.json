@@ -20,6 +20,7 @@
     "monthsFromStart": 0,
     "topics": [
       "ziskam-klienty",
+      "bojim-se-prvniho-setkani",
       "koucovsky-typ"
     ],
     "thirdPartyName": false,
@@ -46,8 +47,8 @@
     "monthsFromStart": 1,
     "topics": [
       "ziskam-klienty",
-      "kdo-zaplati-hodinu",
-      "prvni-penize"
+      "odkud-penize-na-skolu",
+      "kdo-zaplati-hodinu"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -95,6 +96,7 @@
     "hasNumber": false,
     "isAdmission": false,
     "topics": [
+      "odkud-penize-na-skolu",
       "sebeduvera",
       "pujcka-a-klient-neprijde"
     ],
@@ -123,7 +125,7 @@
     "topics": [
       "co-bylo-tezsi",
       "kdo-zaplati-hodinu",
-      "pujcka-a-klient-neprijde"
+      "koucovat-a-zustat-v-praci"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -146,6 +148,7 @@
     "isAdmission": false,
     "topics": [
       "pujcka-a-klient-neprijde",
+      "kdyz-jsem-videl-cenu",
       "proc-jsem-vahal"
     ],
     "thirdPartyName": false,
@@ -170,6 +173,7 @@
     "numberText": "1 084 hodin za necelé 3 roky vedle manažerské práce",
     "isAdmission": false,
     "topics": [
+      "koucovat-a-zustat-v-praci",
       "vedle-prace-a-rodiny",
       "proc-jsem-vahal"
     ],
@@ -193,6 +197,7 @@
     "hasNumber": false,
     "isAdmission": false,
     "topics": [
+      "co-vycvik-udelal-s-pretizenim",
       "proc-jsem-vahal",
       "cena-cekani"
     ],
@@ -217,7 +222,9 @@
     "isAdmission": false,
     "monthsFromStart": 1,
     "topics": [
-      "koucovsky-typ"
+      "koucovsky-typ",
+      "bojim-se-prvniho-setkani",
+      "nemam-vek-ani-vzdelani"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -240,6 +247,7 @@
     "isAdmission": false,
     "topics": [
       "sebeduvera",
+      "kdy-jsem-to-chtel-vzdat",
       "koucovsky-typ"
     ],
     "thirdPartyName": false,
@@ -262,6 +270,7 @@
     "hasNumber": false,
     "isAdmission": false,
     "topics": [
+      "uz-jsem-se-spalil",
       "kazdy-druhy-je-kouc",
       "jen-marketing"
     ],
@@ -288,6 +297,7 @@
     "isAdmission": false,
     "topics": [
       "nechci-oslovovat",
+      "co-udelala-skola-a-co-ja",
       "ziskam-klienty"
     ],
     "thirdPartyName": false,
@@ -311,6 +321,97 @@
     "isAdmission": false,
     "topics": [
       "pujcka-a-klient-neprijde",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "mh014",
+    "episode": "michaela-hozakova",
+    "guest": "michaela-hozakova",
+    "startUtt": 123,
+    "endUtt": 124,
+    "quote": "Ano. Kdysi, asi před šesti lety, nebo možná ještě dřív, jsem slyšela nějaký rozhovor o tom, jak Matuška před revolucí utekl do Ameriky. Říkal něco v tom smyslu, že je lepší v padesáti začít než jen tak nějak dožít. A to je něco, čeho se držím. Myslím si, že je lepší v padesáti začít než nějak dožít.",
+    "summary": "Drží se věty, kterou slyšela před lety: je lepší v padesáti začít než jen tak dožít.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "mh015",
+    "episode": "michaela-hozakova",
+    "guest": "michaela-hozakova",
+    "startUtt": 82,
+    "endUtt": 85,
+    "quote": "Ale fyzicky ani psychicky se na ten věk necítím. Musím zaklepat: fyzicky jsem na tom dobře, díky bohu. A díky CoachVille teď vidím, že na tom člověk může být hodně dlouho dobře i psychicky. Takže si myslím, že finanční nezávislost nebo finanční důchod, nebo důchod obecně, může být o tom, že pracuješ jenom tehdy, když tě to baví. Můžeš dělat jenom to, co tě baví, a když ti to přináší peníze, je to fajn. Každý přece chceme mít v důchodu věci, které nás baví. No tak já už vlastně takový důchod mám.",
+    "summary": "Dcera jí říká, že jí táhne na šedesát. Na ten věk se necítí a důchod si dnes představuje jako práci, která ji baví, a tu už má.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "mh016",
+    "episode": "michaela-hozakova",
+    "guest": "michaela-hozakova",
+    "startUtt": 136,
+    "endUtt": 137,
+    "quote": "Stejnou jako s každým jiným obchodem. Ti lidé jsou milí, velmi milí. A protože cítí, že můžou říct ne, paradoxně ho neříkají. Minimálně na úvodní hodinu řeknou ano. Jestli už na ni přijdou, nebo nepřijdou? Většinou ano. A když dojde na spolupráci, je to spíš otázka peněz než toho, že by ji nechtěli. Lidé chtějí ve svém životě něco zažít. Je to tedy spíš o obchodním rozhovoru, o tom, jak jim to nabídnout a jak jim to říct. Zkrátka se naučit obchodní dovednost a dokázat jim to sdělit.",
+    "summary": "S kontakty od CoachVille je to jako s každým obchodem: lidé řeknou ano na úvodní hodinu, spolupráce je pak otázka peněz a obchodního rozhovoru. Tu dovednost se musela naučit.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "ziskam-klienty",
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "mh017",
+    "episode": "michaela-hozakova",
+    "guest": "michaela-hozakova",
+    "startUtt": 5,
+    "endUtt": 7,
+    "quote": "A moc si to užívám a jsem moc vděčná za to, že jsem se do CoachVille přidala. Co mě k tomu přivedlo? Do CoachVille mě přivedlo… zoufalství. Už jsem byla ve stavu, kdy jsem strašně moc chtěla změnu, jenom jsem nevěděla, jak ji udělat. Pak na mě na Facebooku vyskočilo tlačítko „Zjistit, jestli máš koučovací předpoklady“ a já jsem ho zmáčkla. Pak jsem čekala, co se bude dít. Přišel telefonát a Veronika se mě ptala, jestli opravdu chci zjistit, jaké mám koučovací předpoklady. Potom mi poslala test a já jsem zase týden čekala, jestli je opravdu mám. Hrozně dlouho jsem čekala. Když se ukázalo, že ano, už mě nedokázalo nic zastavit. Prostě jsem cítila, že potřebuji změnu, chci změnu a tohle bylo přesně to, co jsem v životě potřebovala. Jsem strašně vděčná, že jsem to tlačítko zmáčkla.",
+    "summary": "Ze zoufalství zmáčkla na Facebooku tlačítko „Zjistit, jestli máš koučovací předpoklady“. Přišel telefonát, pak test a týden čekání na výsledek. Když vyšel, nic ji nezastavilo.",
+    "proofElements": [
+      "situace",
+      "čas",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 0,
+    "topics": [
+      "jak-jsem-si-overil-fit",
       "proc-jsem-vahal"
     ],
     "thirdPartyName": false,

@@ -260,7 +260,7 @@ export function getTopicStats(): TopicStats[] {
       topic,
       moments: ms.length,
       guests,
-      published: ms.length >= minMomentsPerTopic && guests >= minGuestsPerTopic,
+      published: !topic.hidden && ms.length >= minMomentsPerTopic && guests >= minGuestsPerTopic,
     };
   });
 }

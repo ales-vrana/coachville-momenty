@@ -19,7 +19,7 @@
     "topics": [
       "proc-jsem-vahal",
       "cena-cekani",
-      "koucovsky-typ"
+      "jak-jsem-si-overil-fit"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -44,9 +44,9 @@
     "costText": "čas a úsilí vedle práce top manažera, rok v dvojroli",
     "monthsFromStart": 12,
     "topics": [
-      "vedle-prace-a-rodiny",
+      "vyuziju-to-v-praci",
       "co-bylo-tezsi",
-      "koucovsky-typ"
+      "koucovat-a-zustat-v-praci"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -90,8 +90,8 @@
     "isAdmission": false,
     "topics": [
       "proc-jsem-vahal",
-      "pujcka-a-klient-neprijde",
-      "sebeduvera"
+      "kdyz-jsem-videl-cenu",
+      "pujcka-a-klient-neprijde"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -115,7 +115,8 @@
     "costText": "koučování mu zatím nepřináší příjem, má zaměstnání; přínos vidí jinde",
     "topics": [
       "jina-cesta-nez-skola-ukazovala",
-      "vedle-prace-a-rodiny"
+      "vyuziju-to-v-praci",
+      "kdy-jsem-to-chtel-vzdat"
     ],
     "thirdPartyName": false,
     "status": "published"
@@ -137,6 +138,7 @@
     "isAdmission": false,
     "topics": [
       "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit",
       "pujcka-a-klient-neprijde"
     ],
     "thirdPartyName": false,
@@ -158,8 +160,8 @@
     "hasNumber": false,
     "isAdmission": false,
     "topics": [
+      "koucovat-a-zustat-v-praci",
       "pujcka-a-klient-neprijde",
-      "vedle-prace-a-rodiny",
       "proc-jsem-vahal"
     ],
     "thirdPartyName": false,
@@ -202,7 +204,8 @@
     "hasNumber": false,
     "isAdmission": false,
     "topics": [
-      "koucovsky-typ"
+      "vyuziju-to-v-praci",
+      "co-vycvik-udelal-s-pretizenim"
     ],
     "thirdPartyName": false,
     "status": "published"
