@@ -204,7 +204,8 @@
     "codes": [
       "E2"
     ],
-    "description": "Odchylka od modelu: co trvalo déle, kde host uhnul."
+    "description": "Odchylka od modelu: co trvalo déle, kde host uhnul.",
+    "featuredMomentId": "dv005"
   },
   {
     "id": "cena-cekani",

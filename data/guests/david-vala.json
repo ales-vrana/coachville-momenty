@@ -3,15 +3,47 @@
   "displayName": "David Vala",
   "nameMode": "full",
   "consentStatus": "granted",
-  "consentScope": { "moments": true, "name": true, "photo": false, "contact": false, "amounts": true, "ads": false },
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
   "consentDate": "2026-09-02",
-  "phaseAtRecording": "neuvedeno",
-  "priorProfessionText": "20 let ve vrcholovém managementu",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 12,
+  "priorProfessionText": "top manažer ve farmacii (20+ let), manažer manažerů",
   "priorProfessionCat": "manažer / vedoucí",
   "regionType": "neuvedeno",
-  "verifyLinks": [],
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://www.ment.help.cz/",
+      "label": "Sdružení koučů ment.help.cz (uvedl v rozhovoru, ověřit)"
+    }
+  ],
   "contactAllowed": false,
   "rewardReceived": false,
   "worksForSchool": false,
-  "timeline": []
+  "timeline": [
+    {
+      "label": "První impuls",
+      "text": "před 12 až 13 lety jako manažer manažerů, metoda GROW; pak přestávka kvůli kariéře v marketingu"
+    },
+    {
+      "label": "Start",
+      "text": "CoachVille asi rok před natáčením, souběžně s prací top manažera"
+    },
+    {
+      "label": "Po roce",
+      "text": "dvojrole manažer a kouč; v týmu větší důvěra a otevřenost; koučování zatím bez příjmu, má zaměstnání"
+    },
+    {
+      "label": "Plán",
+      "text": "koučování jako cesta po manažerské kariéře; sdružení koučů ment.help.cz"
+    }
+  ]
 }

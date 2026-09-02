@@ -1,7 +1,9 @@
 {
   "slug": "david-vala",
   "title": "20 let ve vrcholovém managementu. Dopad koučování na vedení manažerů",
-  "guestSlugs": ["david-vala"],
+  "guestSlugs": [
+    "david-vala"
+  ],
   "vimeoId": "817734386",
   "vimeoHash": "b972e2d398",
   "vimeoUrl": "https://vimeo.com/817734386/b972e2d398",
@@ -9,7 +11,77 @@
   "interviewerName": "Aleš Vrána",
   "interviewerRole": "zakladatel CoachVille",
   "format": "rozhovor",
-  "status": "draft",
-  "chapters": [],
-  "transcriptFile": "data/transcripts/david-vala.json"
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 88,
+      "title": "Cesta ke koučování (12 let)"
+    },
+    {
+      "t": 371,
+      "title": "Manažer a kouč zároveň"
+    },
+    {
+      "t": 509,
+      "title": "Ego, stres a důvěra"
+    },
+    {
+      "t": 694,
+      "title": "Klíčový moment: musím vs. chci"
+    },
+    {
+      "t": 816,
+      "title": "Obavy před vstupem"
+    },
+    {
+      "t": 950,
+      "title": "Co se změnilo po startu"
+    },
+    {
+      "t": 1053,
+      "title": "Co je úspěch"
+    },
+    {
+      "t": 1201,
+      "title": "Být koučovaný"
+    },
+    {
+      "t": 1382,
+      "title": "Cyklické myšlení a otázka kouče"
+    },
+    {
+      "t": 1573,
+      "title": "Doporučení váhajícím"
+    },
+    {
+      "t": 1654,
+      "title": "Oblíbení klienti"
+    },
+    {
+      "t": 1773,
+      "title": "Koučování dětí"
+    },
+    {
+      "t": 1997,
+      "title": "Plán B: koučování po kariéře"
+    },
+    {
+      "t": 2244,
+      "title": "Co to stojí a co přineslo týmu"
+    },
+    {
+      "t": 2407,
+      "title": "Strop manažera"
+    },
+    {
+      "t": 2575,
+      "title": "Motto a kontakt"
+    }
+  ],
+  "transcriptFile": "data/transcripts/david-vala.json",
+  "durationS": 2740
 }
