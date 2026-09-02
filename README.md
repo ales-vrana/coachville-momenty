@@ -4,6 +4,21 @@ Web s videodůkazy: nesestříhané rozhovory se studenty a absolventy CoachVill
 
 Verze 1: **data žijí v repu** (složka `data/`), žádná databáze, žádné AI v aplikaci. Nový podcast = přidat JSON soubory a pushnout; Vercel nasadí sám. Analýza transkriptu na momenty se dělá zatím mimo aplikaci (Claude v Cowork), stránka s nahráním a AI přijde ve v1.1.
 
+## Kde web běží
+
+Produkce: `https://poznej.coachville.eu/coachville-momenty` (v `next.config.ts` je `basePath: "/coachville-momenty"`, v `data/site.json` je `baseUrl`). Projekt sám je nasazený ve Vercelu jako `coachville-momenty` s adresou `*.vercel.app`; projekt, který obsluhuje doménu `poznej.coachville.eu`, má v `vercel.json` (nebo v `next.config`) rewrite:
+
+```json
+{
+  "rewrites": [
+    { "source": "/coachville-momenty", "destination": "https://coachville-momenty.vercel.app/coachville-momenty" },
+    { "source": "/coachville-momenty/:path*", "destination": "https://coachville-momenty.vercel.app/coachville-momenty/:path*" }
+  ]
+}
+```
+
+Když se změní adresa `*.vercel.app` projektu Momenty, změní se i destination v rewritu.
+
 ## Stack
 
 Next.js 16 (App Router, statické stránky), Tailwind 4, Vimeo Player SDK, TypeScript. Hosting Vercel. Video hraje z Vimea (unlisted videa s hashem).

@@ -1,7 +1,7 @@
 {
   "siteName": "Momenty",
   "tagline": "Nesestříhané rozhovory se studenty a absolventy CoachVille. Vybíráte si, co potřebujete slyšet.",
-  "baseUrl": "https://coachville-momenty.vercel.app",
+  "baseUrl": "https://poznej.coachville.eu/coachville-momenty",
   "publishing": {
     "minMomentsPerTopic": 1,
     "minGuestsPerTopic": 1,
