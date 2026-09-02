@@ -1,0 +1,48 @@
+{
+  "slug": "martina-wieckova",
+  "displayName": "Martina Wiecková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 13,
+  "priorProfessionText": "projektová a provozní manažerka v cestovním ruchu a gastronomii (15 let, od hotelovky, otevírání nových podniků)",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "do 35",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "od 15 let hotelovka, 15 let v cestovním ruchu a gastru, otevírání nových podniků; jen práce a cestování; myšlenku na změnu odkládala kvůli novým projektům"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "ve 30 covid zavřel obor; „za 10 let nechci fungovat stejně“; vyzkoušela víc věcí, pak koučování; záměr od začátku: profesionální koučka"
+    },
+    {
+      "label": "Start",
+      "text": "s playbooky zkoušela s kamarádkou ještě před startem; horská dráha, netrpělivost; po měsíci „nevidím cestu zpět“; máma: „ani kráva se hned nevysere“"
+    },
+    {
+      "label": "1. rok",
+      "text": "obchodní část jako bubák; klienti se ozvali, až když přestala tlačit: doporučení od lidí, kterým dala hodiny zdarma; přes 300 hodin"
+    },
+    {
+      "label": "Dnes (13. měsíc)",
+      "text": "změnila profesi budovanou 15 let, opustila dobře placenou práci; méně cestuje, víc rodiny; hráči hlavně ženy 28 až 35, témata kariéra a byznys; zvažuje přidat mentoring"
+    }
+  ]
+}

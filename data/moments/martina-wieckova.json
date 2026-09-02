@@ -1,0 +1,228 @@
+[
+  {
+    "id": "mw001",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 7,
+    "endUtt": 11,
+    "quote": "Ono to hodně souvisí s tím, co jsem teďka řekla, protože v tom mém životě bylo opravdu jenom ta práce a třeba to cestování. A samozřejmě to začalo covidem, protože to mému oboru úplně jako neprospělo. A přesně když mi bylo 30, tak zavřeli všichni restaurace a hotely a já jsem měla konečně čas se zastavit a uvědomit si, že za 10 let nechci fungovat stejně, jak funguji teďka.",
+    "summary": "V jejím životě byla jen práce a cestování. Přesně ve třiceti zavřel covid restaurace a hotely a ona měla konečně čas se zastavit a uvědomit si, že za deset let nechce fungovat stejně. Myšlenku zkusit něco jiného měla vícekrát, ale vždycky přišla nabídka projektu, který nešel odmítnout, a jela v kole dál.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "ve 30 letech covid a zastavení; „za 10 let nechci fungovat stejně“",
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "cena-cekani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň A: opakované odkládání kvůli projektům, co rozhodlo (covid, dva roky bez oboru). Tag D6 stupeň B: cena čekání bez čísla. Promluva 7 na začátku navazuje na předchozí odpověď."
+  },
+  {
+    "id": "mw002",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 13,
+    "endUtt": 15,
+    "quote": "A teď jsem právě jako s kamarádkou říkám, pojď, já si to potřebuji vyzkoušet, protože já jsem se už zase nemohla jako dočkat. Takže jo, já jsem byla bez té práce, takže jsem měla spoustu času. A tak jsem si to s ní jako i zkoušela, jo. A potom po tom měsíci, jak jsem začala a měla jsem s ní tu první jako, tu první hodinu jako ofiko, tak jsem jí prostě řekla, hele, to, co jsme říkali předtím, tak to celé prostě smaž, jo, a začneme jako znova.",
+    "summary": "Před koučováním vyzkoušela víc věcí, protože se hledala. Na trénink se těšila jako dítě na hračku; když se začátek o měsíc posunul, měla už playbooky a zkoušela to s kamarádkou, protože byla bez práce a měla čas. Po první oficiální hodině jí řekla: to, co jsme dělaly předtím, smaž, začneme znova.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: první setkání (s kamarádkou, s playbookem, před oficiálním startem) a co se změnilo po první lekci. Tag 11: zkoušela to nanečisto ještě před startem."
+  },
+  {
+    "id": "mw003",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 17,
+    "endUtt": 18,
+    "quote": "A jo, jako bylo to jak na horské dráze. Byly tam chvíle nadšení, chvíle, kdy jsem nebyla tak nadšená. A bylo to hodně o poznávání se a o... Vlastně uvědomování toho, že i když si myslím, že některé věci vím, tak vlastně jako nevím, nebo je vím špatně. A co se týče jako nějakých praktických věcí, já musím říct, že co se týkalo jako kdyby těch začátků, já jsem byla taková jako, nebo já jsem jako velmi netrpělivý člověk, jo, a chtěla bych všecko hned teď. Takže věřím, že když do toho člověk prostě investuje jako opravdu 100 % svého času, tak jako není důvod, proč se to hned nemůže stát, jo. A to byla jako jedna věc, kdy mi došlo, že to tak jako nefunguje v tom životě u těch jako podstatných věcí. A celá jako ta cesta, já vůbec, jako kdybych nebyla prostě v tom tréninku, tak... Tak já vůbec nevím, kde bych se posunovala, nebo jestli bych vůbec v tom zůstala. Ale jo, zůstala. Už to první uvědomění, kdy jsem měla za sebou třeba měsíc a já už jsem měla ten pocit, že nevidím cestu zpět. A vlastně mě samotnou překvapovala ta jistota, kterou jsem v tom měla.",
+    "summary": "Začátek byl jako horská dráha: chvíle nadšení i chvíle bez něj, poznávání, že některé věci ví špatně. Je velmi netrpělivá a chtěla všechno hned: když dávám sto procent času, proč se to nemůže stát hned? Zjistila, že u podstatných věcí to tak nefunguje. Bez tréninku neví, jestli by v tom zůstala. Přesto už po měsíci cítila, že nevidí cestu zpět, a ta jistota ji samotnou překvapila.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "netrpělivost: chtěla všechno hned a byla z toho nešťastná; „bez tréninku nevím, jestli bych v tom zůstala“",
+    "monthsFromStart": 1,
+    "topics": [
+      "co-bylo-tezsi",
+      "kdy-jsem-to-chtel-vzdat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Co bylo těžší stupeň A: přiznání (netrpělivost, výkyvy) s časem (první měsíc). Tag S4 stupeň B: co ji drželo (trénink, jistota), bez konkrétní krize; ta je v mw004."
+  },
+  {
+    "id": "mw004",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 30,
+    "endUtt": 34,
+    "quote": "A měla jsem jeden takový splín a jela jsem zrovna domů za mámou. A teď jsem si tak trošku postěžovala, což já moc nedělám před mamkou, ale tak jsem si postěžovala. A jak to nejde tak rychle, jak chci. A ona se jenom na mě podívala a řekla mi, hele Martinko, ani kráva se hned nevysere. Hele, a tohle prostě, já jsem se úplně jako, mě to úplně stoplo. Jo, mě to úplně prostě jako stoplo. A říkala jsem si, no jo, jako fakt, fakt to tak je. A já jsem v tu chvíli. Prostě... V tu chvíli jsem fakt jako úplně, asi to byl ten bod, kdy jsem úplně odevzdala tu svoji jako důvěru. A vlastně to, co jsem vlastně v tom tréninku tam zjistila, že chci jako zařadit víc i do té své hry, jako zvídavost prostě. Já jsem si pořád hledala cestu, jak tam zařadit více té zvídavosti. A tohohle, tak se mi vlastně otevřely brány k těmhle jako nástrojům.",
+    "summary": "Z netrpělivosti byla nešťastná, chtěla všechno urychlit. S jedním splínem jela za mámou a postěžovala si, což nedělá. Máma se na ni podívala a řekla: „Martinko, ani kráva se hned nevysere.“ Úplně ji to zastavilo; v tu chvíli odevzdala důvěru procesu a otevřela se zvídavosti, kterou hledala. Od té doby v tom cítí lehkost.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "splín z toho, že to nejde tak rychle, jak chtěla",
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S4 stupeň A: krize (splín), co pomohlo (věta mámy, zvídavost). Návyk „všechno hned“ jako překážka (S1). Vulgarismus je doslovný, neupravovat."
+  },
+  {
+    "id": "mw005",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 43,
+    "endUtt": 46,
+    "quote": "Jo, už jsem o tom, už jsem to zmínila, ale hlavně ten výcvik. Já jsem se už párkrát i setkala s lidmi, s kterýma jsem mluvila, že mají knížky, mají techniky, mají metody a teď vlastně nepotřebují výcvik, protože tyhle informace mají a pak koučujou. A je to prostě, je to úplně o něčem jiném, ten výcvik, to tam je úplně o něčem jiném. Takže... Nebo ne, taky jsou tam ty metody, techniky, ale není to tak, není to tak jednoduché. A takže v první řadě jako výcvik prostě. Ať to fakt nepodcení, protože ta cesta, ta cesta není jednoduchá. Ona je skvělá, ale určitě není jednoduchá. A tohle, tohle je jedna věc, kterou.",
+    "summary": "Párkrát se setkala s lidmi, kteří mají knížky, techniky a metody, výcvik podle sebe nepotřebují, a pak koučují. Výcvik je podle ní o něčem úplně jiném; metody tam jsou, ale není to tak jednoduché. Cesta je skvělá, ale ne jednoduchá, a právě výcvik člověka na ní udrží.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag TR4 stupeň B: vlastní setkání s „kouči z knížek“, bez příběhu klienta. Štítek názor je správně. Úsek obsahuje repliku tazatele (45)."
+  },
+  {
+    "id": "mw006",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 49,
+    "endUtt": 51,
+    "quote": "Já asi budu trošičku víc konkrétní, já mám tendenci být občas mimo tu konkrétnost, ale víc jako osobně. Mně to strašně pomohlo. Já jsem nikdy v životě třeba neměla nastavené hranice. A já poprvé v životě cítím, že mám třeba, že mám fakt jako nastavené hranice svoje. A samozřejmě sebedůvěra, sebehodnota, uvědomění si, které jsou pro mě v tom životě opravdu důležité priority. A asi sebehodnota. Asi jako za co jsem nejvíc vděčná, tak asi fakt jako pohlížet na výzvy nebo chodit do výzev se zvídavostí. To je pro mě asi jako nejsilnější, kdy já jsem celou dobu to, co jsem věděla, všechny ty informace, tak jsem hledala vždycky cestu, jak to, co vím, tak i žít. A tohle mi vlastně jako pomohlo, tahle cesta, ten výcvik.",
+    "summary": "Osobně jí výcvik pomohl v tom, že nikdy neměla nastavené hranice a poprvé v životě cítí, že je má. Přibyla sebedůvěra, sebehodnota a jasno v prioritách. Nejvděčnější je za to, že do výzev chodí se zvídavostí, a že konečně žije to, co dřív jen věděla z informací.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8/S6 stupeň B: vývoj sebedůvěry bez konkrétní situace s cenou. Štítek názor je správně."
+  },
+  {
+    "id": "mw007",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 53,
+    "endUtt": 55,
+    "quote": "Když jsem byla koučovaná, tak první to bylo pro mě jako náročnější, protože jsem byla v tom nastavení, že všechno v životě musím zvládnout sama. Ale bylo to vlastně jako hrozně uvolňující, ale osvobozující. Bylo to velmi osvobozující, že prostě můžeš jako nadávat, jenom prostě říct tu pravdu. Nikdo tě za ni prostě neodsoudí, nikdo tě prostě nehodnotí, a ještě to s tebou rozebere. Takže to bylo super. A bez toho, aniž bych byla jako koučovaná, tak... Tak si ani nemyslím, že prostě bych po roce byla tam, kde jsem, jo, vůbec.",
+    "summary": "Být koučovaná pro ni bylo zpočátku náročné, protože měla nastavení, že všechno v životě musí zvládnout sama. Pak to bylo osvobozující: říct pravdu, nebýt souzená, a ještě to někdo rozebere. Bez toho by po roce nebyla tam, kde je. Má rozlítanou kreativní mysl a koučování jí dalo strukturu a soustředění na priority.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 13,
+    "topics": [
+      "koucovsky-typ",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S1 stupeň A: návyk „zvládnu všechno sama“, který překážel, a co se změnilo. Bez čísla."
+  },
+  {
+    "id": "mw008",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 80,
+    "endUtt": 87,
+    "quote": "A co se týkalo nějaké té byznysové části, jako shánění klientů, financí a tak dále, mně se začalo dařit, až jsem to vlastně pustila. Protože čím víc jsem na to tlačila, tím méně tam byla ta hravost a ta lehkost. A čím víc tam bylo prostě jako tlaku, tak mě to nebavilo a byla jsem jako akorát z toho frustrovaná. A v tomhle ohledu můj jako úplně, jako jedno moje takové malé vítězství bylo vlastně po nějakém tom roce, kdy se mi fakt začaly ozývat prostě klienti, kterým jsem prostě věnovala několik třeba hodin jako zdarma. Nebo jsem s nima koučovala třeba dvě, tři setkání, nebo prostě se mi ozývají jejich přátelé nebo rodina. A já jsem si tak seděla, když jsem měla zrovna ten jeden den, kdy se mi ozvalo víc takových jako lidí, aniž bych proto musela něco udělat, řekla jsem si prostě jo, jo, prostě tady jako mělo to smysl.",
+    "summary": "Jak byla ze začátku nadšená, tak byla „pekelně vyděšená“ z obchodní a byznysové části, jejího největšího bubáka. Pomohla vědomá volba: buď jít dál, nebo zůstat, kde je. Potřebovala si ujasnit sebehodnotu: chce pomoct, a když někdo nechce, je to v pořádku. Klienti se začali ozývat, až když to pustila; čím víc tlačila, tím míň hravosti a víc frustrace. Po zhruba roce se jí v jeden den ozvalo víc lidí, kterým dřív věnovala hodiny zdarma nebo dvě tři setkání, i jejich přátelé a rodina.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "obchodní část byla „bubák“; tlak vedl k frustraci; klienti přes doporučení až po zhruba roce",
+    "monthsFromStart": 12,
+    "topics": [
+      "ziskam-klienty",
+      "nechci-oslovovat",
+      "kdy-jsem-to-chtel-vzdat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň A: odkud klienti přišli (doporučení lidí, kterým dala hodiny zdarma), kdy (po roce); bez počtu a bez informace o platbě. Tag C2 stupeň A: strach z obchodu pojmenovaný, co s ním udělala. Tag S4: bubák a vědomá volba."
+  },
+  {
+    "id": "mw009",
+    "episode": "martina-wieckova",
+    "guest": "martina-wieckova",
+    "startUtt": 93,
+    "endUtt": 103,
+    "quote": "Ale už ne. Ale byla. Víš co, já jsem opustila vlastně jako práci, která mě bavila, která mě naplňovala, kde jsem se měla finančně hodně dobře. Ale jenom proto, že jsem věděla, že to tak prostě nemůže vypadat celý můj příběh, jo, tak jsem to jako změnila. A jako já si myslím, že už jenom to, že změníš úplně jako obor, a vlastně já neříkám, že jsem úplně jako byla zaměstnanec, nebyla jsem úplně podnikatel, byla jsem tak nějak jako něco mezi, jo. Když jsem ty projekty dělala pro někoho,",
+    "summary": "Změnila profesi, kterou si 15 let budovala, a nastavení. Opustila práci, která ji bavila, naplňovala a kde se měla finančně hodně dobře, jen proto, že věděla, že tak nemůže vypadat celý její příběh; byla z toho vyděšená, dnes už ne. Z mindsetu zaměstnance do podnikání. Ironicky teď skoro necestuje, priority jsou jinde, a je s tím v pohodě; má víc času na koníčky, vztahy, rodinu a neteře.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "odchod z profese budované 15 let",
+    "isAdmission": true,
+    "costText": "opustila práci, která ji bavila a kde se měla finančně dobře; méně cestuje",
+    "topics": [
+      "co-se-muselo-zmenit",
+      "co-bylo-tezsi",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13 stupeň A: co se změnilo (profese, cestování, mindset) a co zůstalo nebo přibylo (rodina, koníčky). Tag 1: neodkládala, odešla hned po covidu bez praxe; protipól Ernesta. Úsek obsahuje dvě otázky tazatele (97, 98)."
+  }
+]
