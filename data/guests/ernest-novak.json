@@ -1,0 +1,47 @@
+{
+  "slug": "ernest-novak",
+  "displayName": "Ernest Novák",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 24,
+  "priorProfessionText": "account manager ve vydavatelství (v práci zůstává, koučování jako druhý příjem)",
+  "priorProfessionCat": "úřad a administrativa",
+  "regionType": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "account manager ve vydavatelství; práce platí složenky, ale není poslání; knížky, YouTube, semináře, které vyšumí"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "kamarádka manželky se rozhodla koučovat; hledal školu s akreditací a možností vyzkoušet předem, dvě školy s MCC; nejistota z ceny („není to 3,50“), manželka prakticky, kamarádka: „stojí to za to i bez koruny“"
+    },
+    {
+      "label": "Start",
+      "text": "jiný mindset, chyba jako příležitost; první koučování s playbookem s cizím člověkem, o týden napřed; 800 Kč za hodinu"
+    },
+    {
+      "label": "2 roky",
+      "text": "800 → 1 500 → 1 800 → cca 3 000 Kč za hodinu, 36 až 40 tisíc za 3 měsíce; 40 až 80 klientů; přes 300 hodin; příjem zhruba 2×; v práci zůstává, baví ho víc"
+    },
+    {
+      "label": "Dnes (PCC level)",
+      "text": "míří na PCC; rezerva vytvořená; rozhoduje se podle toho, co ho baví; leden na Tenerife, koučuje odkudkoli"
+    }
+  ]
+}

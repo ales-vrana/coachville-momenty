@@ -1,0 +1,755 @@
+{
+  "episode": "ernest-novak",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 1,
+      "speaker": "CoachVille",
+      "text": "Milí diváci, milí posluchači, já vás vítám u dalšího vysílání našeho podcastu. Tentokrát tady máme rozhovor se studentem PCC levelu v CoachVille, s Ernestem Novákem. Ahoj Erneste."
+    },
+    {
+      "i": 1,
+      "t": 16,
+      "speaker": "Ernest Novák",
+      "text": "Ahoj Aleši."
+    },
+    {
+      "i": 2,
+      "t": 17,
+      "speaker": "CoachVille",
+      "text": "Já tě tady zdravím jenom pro vás, kteří posloucháte tento podcast. Ernest je account manager ve vydavatelství a má v současnosti přes 300 odkoučovaných hodin ve své praxi. A míří za certifikací PCC. Erneste, pojď se nám představit, pojď říct něco o sobě."
+    },
+    {
+      "i": 3,
+      "t": 36,
+      "speaker": "Ernest Novák",
+      "text": "Já to zkusím doplnit. Možná si někdo všimne, že za mnou je takový zajímavý obrázek, tak to je Tenerife. To je místo, které absolutně miluju, jezdíme tam s manželkou vždycky v lednu, trávíme tam celý měsíc, nebo řekněme možná spíš pět týdnů. Skvěle se tam docela pracuje. Což mimochodem, coaching je jedna z věcí, která se tam dá provozovat úplně skvěle. Skvěle se tam chodí po horách a skvěle se tam žije."
+    },
+    {
+      "i": 4,
+      "t": 67,
+      "speaker": "Ernest Novák",
+      "text": "Takže to je jedna taková věc, kterou bych ještě doplnil."
+    },
+    {
+      "i": 5,
+      "t": 71,
+      "speaker": "Ernest Novák",
+      "text": "PCC level musím říct, úplně fantastický."
+    },
+    {
+      "i": 6,
+      "t": 77,
+      "speaker": "Ernest Novák",
+      "text": "Zvlášť některý programy, ale k tomu se asi ještě dostaneme. A co víc říct. Já myslím, že víc asi není zapotřebí, že je to podstatný. Na to se asi doptáš, jak tě znám."
+    },
+    {
+      "i": 7,
+      "t": 92,
+      "speaker": "CoachVille",
+      "text": "Pravděpodobně se to stane. Pojďme se podívat na tu tvoji cestu. Ty ses přidal do CoachVille. Než ses přidal, co vlastně vedlo k tomu, že ses začal zajímat o koučování a že jsi začal zvažovat, že by to mohlo být zajímavé se to učit nebo se stát koučem? Co k tomu vedlo?"
+    },
+    {
+      "i": 8,
+      "t": 110,
+      "speaker": "Ernest Novák",
+      "text": "Vedlo k tomu, jako vždycky, to tak jako bývá, soubor několika událostí nebo nějakých okolností. U mě vlastně, když jsem se rozhodl pro koučování, nebo minimálně začít se koukat na to, co to teda to koučování je a k čemu to je a jestli bych to mohl dělat, byla návštěva naší kamarádky nebo spolužačky z vejšky mojí ženy. Která vždycky pracovala v korporátech a vždycky pracovala na takových těch funkcích velmi pečlivých, tam, kde se nachází lidé s takovým tím srdečným vztahem k Excelu."
+    },
+    {
+      "i": 9,
+      "t": 152,
+      "speaker": "Ernest Novák",
+      "text": "A ona vlastně přišla a poprvé se tak jako smála od ucha k uchu a řekla, že bude koučka, že se prostě jako rozhodla, že bude koučovat. Tak jsem se začal vyptávat, co to je, k čemu to je, jak to je. A vlastně mi to nějakým způsobem vysvětlila, nebo když vlastně začala to koučování popisovat, tak jsem zjistil, že možná pro to mám spoustu kladných vlastností, takže bych se nemusel učit a mohl je jenom využít. No a pak jsem začal hledat a zkoumat, jaký školy u nás jsou a jestli splňujou to, co bych od té školy chtěl, a pak jsem se nějak doslídil k tobě a ke CoachVille."
+    },
+    {
+      "i": 10,
+      "t": 194,
+      "speaker": "CoachVille",
+      "text": "Hm, hezký. A co tě vlastně na CoachVille zaujalo, že jsi zvažoval, že se k nám přidáš, že ses tak nakonec rozhodl?"
+    },
+    {
+      "i": 11,
+      "t": 204,
+      "speaker": "Ernest Novák",
+      "text": "Hele, já jsem vlastně hledal školu, která má nějakou pověst. Pak jsem zjistil, že ta pověst se v podstatě dá zaměnit za akreditaci, že to je takový jako vyjádření té pověsti. Našel jsem CoachVille, našel jsem nějaký další. A vlastně na CoachVille mě zaujalo to, že je možný si koučování vyzkoušet, než se člověk jako do školy upíše nebo zapíše. Tak to je jedna věc. A druhá věc je, že mi CoachVille přijde malinko míň, řekněme, korporátní, jestli se vůbec dá použít tohle slovo, a malinko víc taková jako lidská, přátelská a mému srdci bližší. Takže určitě tohle."
+    },
+    {
+      "i": 12,
+      "t": 248,
+      "speaker": "Ernest Novák",
+      "text": "Rozhodoval jsem se, pak samozřejmě hrálo roli to, kdo tu školu vede, jakou ten člověk má certifikaci. Nevím, kolik je master koučů dneska v České republice, jestli jste pořád ještě jenom dva, nebo jste se rozrostli. V té době jste byli dva a já jsem si vybral CoachVille, protože vlastně z těch dvou škol mi přišla sympatičtější."
+    },
+    {
+      "i": 13,
+      "t": 269,
+      "speaker": "CoachVille",
+      "text": "Dobrá, dobrá. A tvým záměrem vlastně z počátku bylo vlastně to, abys to... Začal učit, abys to využíval v práci, nebo sis s tím chtěl přivydělávat, nebo jsi chtěl odejít z té práce a stát se profesionálním koučem. Jak jsi to vlastně měl?"
+    },
+    {
+      "i": 14,
+      "t": 284,
+      "speaker": "Ernest Novák",
+      "text": "Já jsem to vnímal tak, že jsem začínal cítit, že ta práce, kterou jsem v tu chvíli dělal, vlastně není úplně to ono, co mám tady na té planetě jako poslání. Že je skvělá na placení složenek, že je skvělá prostě i, že mě jako svým způsobem baví, má samozřejmě nějaký svoje negativa, ale to má víceméně každá. Ale začal jsem cítit, že tady jako na té planetě jsem kvůli něčemu jinýmu."
+    },
+    {
+      "i": 15,
+      "t": 309,
+      "speaker": "Ernest Novák",
+      "text": "A vlastně koučování mi přišlo jako úžasný způsob, jak do praxe uvést a přenést spoustu věcí, který jsem předtím četl v knížkách a viděl na YouTube a absolvoval na různých seminářích. A že to je vlastně způsob, jak ty věci dostat do praxe. Aniž by tak jako vyšuměly, jo, to znáš, že jede člověk třeba na nějaký víkendový seminář a odjede úplně jako stoprocentně motivovaný a za týden je z toho 30 % a za 14 dní je z toho [nesrozumitelné] v podstatě. A je to koučování vlastně tím, jak probíhá, jak funguje, tak všechny tady ty věci udržuje."
+    },
+    {
+      "i": 16,
+      "t": 359,
+      "speaker": "Ernest Novák",
+      "text": "A tím vlastně se dostavuje ta změna a ten progres, který jinak bývá jenom v kategorii nějakého snu, anebo úvahy, anebo představy."
+    },
+    {
+      "i": 17,
+      "t": 369,
+      "speaker": "CoachVille",
+      "text": "A měl jsi před vstupem do CoachVille nějaké obavy, pochybnosti, a případně jak jsi s nima nakládal v té době?"
+    },
+    {
+      "i": 18,
+      "t": 380,
+      "speaker": "Ernest Novák",
+      "text": "Obavy jsem měl, měl jsem i pochybnosti, a nakládal jsem s nima tak, že jsem to nějak prošel se svojí ženou, která mi k tomu... K mýmu pohledu dala ten svůj, jak to tak už jen bývá, ten praktičtější. A obavy, hele, já bych možná ani neřekl obavy, spíš nějaký nejistoty, protože vlastně jdeš úplně mimo komfortní zónu, začínáš se učit něco, o čem jsi do té doby vlastně neslyšel, a navíc za to máš zaplatit a není to úplně 3,50, takže to tam samozřejmě hrálo roli."
+    },
+    {
+      "i": 19,
+      "t": 416,
+      "speaker": "Ernest Novák",
+      "text": "A s tímhle mi pomohla ta kamarádka, kterou jsem zmínil, a já jsem jí volal a říkal jsem, hele, co si vlastně o tom myslíš, co když nebudu koučovat, co když prostě nějakým způsobem zjistím, že to není úplně moje. A ona mi na to řekla, hele, jako ten dopad, který to bude mít na tebe jako na člověka, když tím kurzem projdeš, i kdybys s tím nevydělal ani korunu, tak za to stojí. A dneska, ve chvíli, ve které sedím, tak to můžu."
+    },
+    {
+      "i": 20,
+      "t": 447,
+      "speaker": "Ernest Novák",
+      "text": "Podepsat. Jako úplně se nedokážu představit člověka, který projde jako kurzem nebo školou a pak nebude koučovat, ale kdyby někdo takový existoval, tak ta investice jako do sebe samotnýho, tak za to určitě stojí."
+    },
+    {
+      "i": 21,
+      "t": 465,
+      "speaker": "Ernest Novák",
+      "text": "Takže tak, tak to bylo takový to, co jako asi... Všechny ty co by kdyby a pochyby a tanečky prostě okolo příkazů k úhradě a podobných věcí to finálně rozptýlilo, takže za to jsem určitě rád, za to musím poděkovat, nebo myslím, že už jsem snad poděkoval, tak to zopakuju."
+    },
+    {
+      "i": 22,
+      "t": 488,
+      "speaker": "CoachVille",
+      "text": "A když zavzpomínáš na ten úplný začátek, na první lekce v tom tréninku, na první týdny, kdy jsi zažíval, jdeš na první lekce, tak to je vlastně, když jsi někoho koučoval a když někdo koučoval tebe a když ses účastnil těch tréninků, jak na to vzpomínáš, co se ti vlastně vybavuje z těch začátků?"
+    },
+    {
+      "i": 23,
+      "t": 507,
+      "speaker": "Ernest Novák",
+      "text": "Já, jako překvapivě, vybavuje se mi to, že jo. Vybavuje se mi obrovská změna energie. Popravdu, že takový ty věci, který člověk slyší předtím, že je to škola, že je to vlastně nějaká komunita a že to nadšení může být nakažlivý, tak my to známe z televize, to známe z knížek, tak to člověk tak jako odkejvá, myslí si svoje. A pak to jako zažiješ. Že ten mindset je úplně jinej,"
+    },
+    {
+      "i": 24,
+      "t": 538,
+      "speaker": "Ernest Novák",
+      "text": "to, na co my jsme zvyklí prostě ze školy, že když někdo něco neudělá správně, tak dostane za pět, tak to funguje jinak. Teď se na to koukáš jako na příležitost, kde se vlastně dá vyrůst, co se příště dá udělat jinak. A takže ten úplný začátek byl obrovsky nadšený i právě díky tomu jinému mindsetu, té úplně jiné energii. Já si pamatuju, že jsem to vnímal téměř jako dva světy. Jako jeden svět, takový ten běžnej, dynamický,"
+    },
+    {
+      "i": 25,
+      "t": 569,
+      "speaker": "Ernest Novák",
+      "text": "prostě jako každodenní, stejný, monotónní, a pak bylo koučování jako wow. Tady se dějou prostě věci. Tak to je jedna věc. Druhá věc, když jsi říkal začátky koučování, tak s playbookem, že prostě otázku po otázce. Ale když jsem poprvý mluvil s člověkem, kterýho jsem neviděl nikdy předtím, který se tam objevil prostě na obrazovce, a z ničeho nic jsem ho začal koučovat. A on třeba nevěděl, že já jsem o týden napřed. Ale vlastně ti to neuvěřitelně rozšíří, když zjistíš,"
+    },
+    {
+      "i": 26,
+      "t": 604,
+      "speaker": "Ernest Novák",
+      "text": "že i jenom ten playbook, když to člověk dodrží na začátku, tak jaký obrovský efekt to na ty lidi má. Na co si všechno přijdou. Tak to byl taky velkej wow efekt. A tím, že jsme začínali transformačkama, který jsou takový, že mi přijdou, že jdou malinko víc pod povrch než takový to běžný ICF koučování. Nechci diváky jako neskušený mást těma"
+    },
+    {
+      "i": 27,
+      "t": 635,
+      "speaker": "Ernest Novák",
+      "text": "pojmy, ale řekněme, že jde malinko víc pod povrch, tak ještě o to to bylo jako pro mě silnější. Funguje to do teď, mimochodem."
+    },
+    {
+      "i": 28,
+      "t": 644,
+      "speaker": "CoachVille",
+      "text": "Děkuji. Jak je to vlastně jako v průběhu času? Jaká to je zkušenost, když to člověk zažívá."
+    },
+    {
+      "i": 29,
+      "t": 674,
+      "speaker": "CoachVille",
+      "text": "Být koučovaný, být hráčem?"
+    },
+    {
+      "i": 30,
+      "t": 678,
+      "speaker": "Ernest Novák",
+      "text": "No, pokud to někdo nezažil předtím, tak je to zkušenost úplně nová. Protože kouč se ptá jinak a ptá se na jiné věci než [nesrozumitelné] ostatní ve světě. A ptá se na věci a ptá se tak, že vlastně seš nějakým způsobem, jako nechci použít slovo, jako donucenej. A začneš prostě přemýšlet a začneš přemýšlet mimo ty zajetý koleje toho každodenního myšlení."
+    },
+    {
+      "i": 31,
+      "t": 709,
+      "speaker": "Ernest Novák",
+      "text": "A najednou ti ty věci začnou docházet, což je taky poměrně překvapivý. Řekneš si, aha, no, čemu já na tom věřím, jako proč třeba věřím tomuhle. K čemu je to pro mě užitečný. A to jsou jako otázky, který... Který člověku začnou otevírat obzory. Takže je to trošku, to je jako dobrá otázka od tebe a já chápu, že se na ni ptáš, protože je super na to mít nějakou jednoduchou odpověď, kterou pak můžeme všichni použít. Ale mně to trošku přijde jako, když člověk jako vyleze z nějaký plechovky a najednou se ti otevře prostě hlava a začneš ty věci vnímat jinou perspektivou."
+    },
+    {
+      "i": 32,
+      "t": 751,
+      "speaker": "Ernest Novák",
+      "text": "Já nevím, jak to přiblížit jinak. Možná jako takový postupný probuzení se."
+    },
+    {
+      "i": 33,
+      "t": 757,
+      "speaker": "CoachVille",
+      "text": "Postupné probuzení se? Asi ano. Můžeme to možná dát ještě do kontextu toho, co lidé vnímají jako seberozvoj. Takže tím, že máte webináře, semináře, YouTube videa, konference, kurzy. A to koučování je jiné?"
+    },
+    {
+      "i": 34,
+      "t": 790,
+      "speaker": "Ernest Novák",
+      "text": "To úplně základní bych zkusil popsat asi tak, protože když posloucháš videa, čteš knížky, nějakým způsobem se vzděláváš na seminářích, tak přijímáš informace zvenčí. A ty informace s tebou buďto rezonujou, nebo nerezonujou, a ty je buďto použiješ, nebo nepoužiješ. V koučování ty přicházíš na věci, které jdou z tebe, jsou tvoje. A to je obrovský rozdíl."
+    },
+    {
+      "i": 35,
+      "t": 822,
+      "speaker": "Ernest Novák",
+      "text": "To je něco, čemu prostě jako vnitřně věříš, a najednou začneš jako chápat, že to tak opravdu jako je. Tak to je za mě takovej asi největší rozdíl, že ty nemáš v momentě, kdy přijde ten aha moment a ty na něco přijdeš, tak ty nemáš potom takový ty následný myšlenky, jestli to tak jako opravdu je, nebo ne, protože to v tu chvíli prostě víš."
+    },
+    {
+      "i": 36,
+      "t": 849,
+      "speaker": "Ernest Novák",
+      "text": "A jestli něco jako je intenzivnější, tak je to tohle. V žádném případě nechci jako hanit jakýkoliv jiný druh seberozvoje, naopak. Ale vnímám to, že po koučování tam prostě je to o mně. Je to o mně jako o člověku, o mně, o mým charakteru, o mých návycích. A všechny ty věci, které nasaješ prostě z YouTube, z knížek, tak jsou nějaké možné modely řešení."
+    },
+    {
+      "i": 37,
+      "t": 882,
+      "speaker": "Ernest Novák",
+      "text": "Ale nejsou to ty úplně nutně ty moje."
+    },
+    {
+      "i": 38,
+      "t": 886,
+      "speaker": "CoachVille",
+      "text": "Jasná věc. Jak to u tebe pokračovalo dál? Ty jsi absolvoval celý ACC level a jsi na cestě za PCC a jsi součástí PCC levelu. Jak bys vlastně popsal pro někoho ty rozdíly mezi těmi levely a rozdíl v té zkušenosti, když jsi absolvoval ACC level a teď absolvuješ už nějakou dobu PCC level?"
+    },
+    {
+      "i": 39,
+      "t": 912,
+      "speaker": "Ernest Novák",
+      "text": "Já bych to rozdělil. První rozdíl mezi těmi levelama je množství financí. Ale asi se ještě k tomu dostaneme, absolutně se to vyplatí, já už jsem to říkal na začátku."
+    },
+    {
+      "i": 40,
+      "t": 927,
+      "speaker": "Ernest Novák",
+      "text": "Pak je to trošku, mně se to jako hůř popisuje, protože přece jenom jako v CoachVille, i když vlastně jsem byl před tou ACC, nebo ACC teda certifikací, tak vždycky to koučování, kterému jsme se věnovali, směřovalo spíš k tomu PCC levelu. Nebo aspoň mně to tak přišlo."
+    },
+    {
+      "i": 41,
+      "t": 950,
+      "speaker": "Ernest Novák",
+      "text": "Takže ten rozdíl nebyl tak úplně dramatický."
+    },
+    {
+      "i": 42,
+      "t": 954,
+      "speaker": "Ernest Novák",
+      "text": "To, co vnímám jako dramatické, jsou určitý moduly, anebo určitý techniky, kterýma třeba procházíme v PCC levelu, a ty mi přijdou, že je tam víc prostoru a jsou hlubší a mají třeba větší dopad. Jak na mě, tak prostě na moje klienty, na moje hráče."
+    },
+    {
+      "i": 43,
+      "t": 974,
+      "speaker": "Ernest Novák",
+      "text": "S koučováním jako takovým si myslím, že by se to dalo popsat, že je to ještě jakoby větší odklon od toho příběhu toho koučovanýho člověka a větší důraz na toho člověka jako takovýho, kdy nekoučujeme ten příběh, ale toho člověka."
+    },
+    {
+      "i": 44,
+      "t": 998,
+      "speaker": "Ernest Novák",
+      "text": "No, možná mi to ještě zopakuj, tu otázku, asi jsem někam odriftoval trošku."
+    },
+    {
+      "i": 45,
+      "t": 1003,
+      "speaker": "CoachVille",
+      "text": "Takhle asi v pohodě, protože tam samozřejmě je to součástí tvojí cesty."
+    },
+    {
+      "i": 46,
+      "t": 1011,
+      "speaker": "CoachVille",
+      "text": "Objevuješ vlastně nové hlubší vrstvy toho, kam až jde jít s tím, jakým způsobem můžeme někoho koučovat a jak velký dopad lze vytvořit v průběhu jedné hodiny."
+    },
+    {
+      "i": 47,
+      "t": 1026,
+      "speaker": "CoachVille",
+      "text": "Setkání může změnit člověku život. A když se ten kouč v tom setkání dokáže navigovat."
+    },
+    {
+      "i": 48,
+      "t": 1034,
+      "speaker": "Ernest Novák",
+      "text": "Jo, to samozřejmě, to je poměrně velký rozdíl oproti tomu začátku, kdy člověk je trošku ostřílenější a ví a má ty zkušenosti. A věří si, což je taky samozřejmě velký rozdíl."
+    },
+    {
+      "i": 49,
+      "t": 1046,
+      "speaker": "CoachVille",
+      "text": "A co tě vlastně na koučování baví? Když jsi v roli kouče, tak co bys řekl, že jsou dva, tři aspekty, to, co tě skutečně na tom baví, naplňuje?"
+    },
+    {
+      "i": 50,
+      "t": 1059,
+      "speaker": "Ernest Novák",
+      "text": "Teď tě nepřekvapím, když řeknu, že mě samozřejmě baví momenty hráčů nebo klientů. To je samozřejmě něco, co tě nepřestane bavit nikdy. To je jako, kdyby někoho přestaly bavit Vánoce. Z toho rozbalování dárků se tak úplně [nesrozumitelné]. Takže to samozřejmě, co mě na tom strašně baví, je, jak málo někdy stačí. Kolik věcí se z toho koučování dá ještě vyndat a odstranit. A od čeho všeho se to dá očistit?"
+    },
+    {
+      "i": 51,
+      "t": 1091,
+      "speaker": "Ernest Novák",
+      "text": "A když je to očištěný, tak to funguje ještě líp a ještě hloubš. Takže to mě na tom baví taky. Je to jako neustálá cesta za mistrovstvím, neustálej progres, neustálý učení se. Když jsme u toho učení, tak je to učení se bez výčitek z toho, že něco nebylo úplně dokonalý, ale naopak nadšení z toho, že jsem našel, co není dokonalý, a můžu to jako příště změnit, tak je jako neuvěřitelný. A když přihlédnu k takovým těm praktičtějším věcem, tak je to, že vlastně dneska díky moderním technologiím a internetu, který je téměř jako po celé planetě, já už jsem o tom mluvil na začátku, tak já můžu prostě odletět na to Tenerife, tam usednout a koučovat, můžu koučovat z Havaje, můžu koučovat téměř odkudkoliv, kde je prostě nějaký jako rozumnej signál. A není to cyklická práce."
+    },
+    {
+      "i": 52,
+      "t": 1145,
+      "speaker": "Ernest Novák",
+      "text": "Ono, kdyby se na to člověk podíval technicky, tak ten rozhovor má teda nějaké svoje části a máme tam nějaké kompetence, ale pokaždý je to jiný."
+    },
+    {
+      "i": 53,
+      "t": 1156,
+      "speaker": "Ernest Novák",
+      "text": "I když spolu my dva budeme koučovat desátou, dvacátou prostě hodinu, pokaždý to bude jiný. Takže, no, tak jak říkají v Asii, same same but different."
+    },
+    {
+      "i": 54,
+      "t": 1168,
+      "speaker": "CoachVille",
+      "text": "Různorodost, protože každá hodina je unikátní. Máme vlastně možnost učit se společně s našimi hráči z jejich zkušeností a z jejich života, což je vlastně obrovský privilegium to, že máme tu možnost se takto vzdělávat společně s nimi a učit se o lidech."
+    },
+    {
+      "i": 55,
+      "t": 1189,
+      "speaker": "Ernest Novák",
+      "text": "Já na to ještě řeknu, promiň, že ti do toho skáču, ještě jednu věc, že se mi opravdu stalo několikrát s různýma hráčema, že oni si na něco přišli. A ve finále jsem zjistil, že to je jako i moje, že ti ten hráč prostě odhalí něco, co je velký aha jako pro mě. Takže ano, není to o tom, že by byl nějaký chytrý kouč a ten někomu něco říkal, ale ten vývoj a ten růst je jako dohromady, a to je jedna z fantastických věcí, že se člověk vlastně sám rozvíjí tím, že koučuje někoho jinýho, a ten někdo jiný mu za to platí. Já si myslím, že to je jako dobrý deal prostě."
+    },
+    {
+      "i": 56,
+      "t": 1229,
+      "speaker": "CoachVille",
+      "text": "A jak vnímáš vlastně návratnost investice do tvýho výcviku, do investice do sebe, v souvislosti s tím, že vyděláváš si peníze koučováním? Tak jestli můžeš okomentovat i tady tuhle oblast, jak to vlastně máš."
+    },
+    {
+      "i": 57,
+      "t": 1248,
+      "speaker": "Ernest Novák",
+      "text": "Návratnost, hele, já jsem to říkal na začátku, to je jako nevyčíslitelný, protože to člověku změní život, změní to, jak ten život vlastně vnímám. Jak procházím situacema, které dřív byly téměř neřešitelné nebo velmi náročné, a dneska jsou takové, jak bych to řekl, [nesrozumitelné], tak to je ta věc, na kterou já pověsím tu cenovku, že to je prostě priceless, že to je nevyčíslitelné. Co se návratnosti týče, pokud by člověk koučoval nebo nekoučoval vůbec, anebo se rozhodl, že to bude dělat zadarmo, což hele nedoporučuji, protože si toho lidi neváží, když je to zadarmo."
+    },
+    {
+      "i": 58,
+      "t": 1287,
+      "speaker": "Ernest Novák",
+      "text": "Tak i tak se to za mě vyplatí. A v momentě, kdy se začne koučovat, já jsem tuším, že začínal na nějakých 800 korunách za hodinu, pak jsem to zvedl na 1500 korun na hodinu, pak jsem to zvedl na 1800 korun na hodinu, a dneska je to něco okolo 3000 s tím, že já neprodávám dneska vlastně jakoby hodinový koučování, ale nějakou formu spolupráce. Která má přinést nějakou kýženou změnu."
+    },
+    {
+      "i": 59,
+      "t": 1318,
+      "speaker": "Ernest Novák",
+      "text": "Ale když to rozpočítám, tak jsme někde na třech tisících korunách za hodinu, a z toho si může asi každý odvodit, kolik má času, kolik lidí může koučovat, jak často, a když si to vynásobím, tak si myslím, že dojdou k nějakému závěru. Ale jak říkám, začínal jsem na 800 korunách, tuším, že před dvěma lety, plus mínus."
+    },
+    {
+      "i": 60,
+      "t": 1342,
+      "speaker": "CoachVille",
+      "text": "Já vlastně o tobě vím, že ty nemáš koučování jako naplno, že vlastně u toho pracuješ, čili to je v podstatě pro tebe přivýdělek k současné práci, nebo jak to máš?"
+    },
+    {
+      "i": 61,
+      "t": 1361,
+      "speaker": "Ernest Novák",
+      "text": "Já bych tomu neřekl přivýdělek, mně ten přivýdělek přijde, že když jdeš vyskládat někam cihly, tak si přivyděláš. Takže je to... Ten příjem se tím zdvojnásobí třeba, můžeme říct. A mě i díky koučování práce, kterou jsem chtěl opustit, tak mě paradoxně začala mnohem víc bavit. Tím, že jsem odstranil určitý věci, které mi tam překážely. Takže řekněme, že místo toho, abych měl jeden příjem,"
+    },
+    {
+      "i": 62,
+      "t": 1393,
+      "speaker": "Ernest Novák",
+      "text": "tak mám dva a je jakoby vyšší. Nicméně jsou to nějaké... Záleží na četnosti. Jsou to nějaké desítky tisíc měsíčně navíc."
+    },
+    {
+      "i": 63,
+      "t": 1404,
+      "speaker": "CoachVille",
+      "text": "Gratuluji k tomu, to je nádhera. To je samozřejmě spousta možností, jak vlastně vybudovat finanční rezervy a být v tomhle úplně v klidu, což se může hodit pro jakoukoliv budoucnost. Je to teda o tom, že třeba plánuješ zůstat v té práci dlouhodobě, nebo vlastně vychází nějaký horizont, kdy se do koučování vyrazí naplno, profesionálně?"
+    },
+    {
+      "i": 64,
+      "t": 1429,
+      "speaker": "Ernest Novák",
+      "text": "Já bych ještě řekl, ty jsi zmínil finanční rezervu, to si myslím, že je strašně důležitý, dovolit si ji vytvořit, protože to člověku dodá, mně se to povedlo naštěstí, a člověku to dodá opravdu velký klid pro cokoliv, pro koučování o to víc. A jak já to vidím, hele, Bůh se vždycky nejvíc směje, když vidí člověka plánovat, a obzvlášť dobře se baví, když vidí plánovat mě. Takže to se mi jako vyplatilo, takže já si dovolím teďka říct, že nevím, že prostě já mám vlastně tu jako svobodu, že to může být jakkoliv a že se budu rozhodovat pouze podle toho, co je jako pro mě, co mě baví."
+    },
+    {
+      "i": 65,
+      "t": 1479,
+      "speaker": "Ernest Novák",
+      "text": "Co pro mě má ten přínos, co pro mě má přidanou hodnotu. V současné době jsou to obě dvě, ať je to coaching a ta profese. A když se prostě u té mojí původní profese něco zásadně změní, tak si tam prostě potřesu rukama s lidma, poděkuju jim za tu spolupráci, a možná jim třeba nějakým způsobem nabídnu i pomoc za hodně peněz měsíčně."
+    },
+    {
+      "i": 66,
+      "t": 1508,
+      "speaker": "Ernest Novák",
+      "text": "No, takže tak."
+    },
+    {
+      "i": 67,
+      "t": 1510,
+      "speaker": "CoachVille",
+      "text": "A jak bys vlastně popsal to, jaký má vstup do CoachVille jako přínos a vliv na tvůj život? Já vím, že to je taková jako větší otázka, ale možná že se tam jako vejde prostě pár nějakých jako věcí, které bys mohl zmínit. Jaký má vlastně vstup do CoachVille jako vliv na tvůj život?"
+    },
+    {
+      "i": 68,
+      "t": 1531,
+      "speaker": "Ernest Novák",
+      "text": "No, ale ještě já nevím, kolik máme času. Kolik máme hodin času teda."
+    },
+    {
+      "i": 69,
+      "t": 1538,
+      "speaker": "Ernest Novák",
+      "text": "Hele, takhle, ať tady nechodíme okolo horký kaše. Extrémně pozitivní, mě teď nenapadá nějaký zásadnější výraz. Úžasnej, skvělej. Já tedy zase nechci, aby to znělo, že je to jako reklama, aby to bylo jako uvěřitelný, jo. Ale já osobně to opravdu vnímám jako něco, co mi ten život změnilo zásadně, v tom, jak ho vnímám."
+    },
+    {
+      "i": 70,
+      "t": 1569,
+      "speaker": "Ernest Novák",
+      "text": "Že byly situace, před kterýma se člověk třeba rozklepal, nebo mu byly extrémně nekomfortní, nebo jsem z nich měl tendenci uhnout. Dneska tyhle situace vlastně procházím, aniž bych si všiml, že jako tam byly. A nebo si to jako všimnu zpětně a řeknu si, jo, OK, jo, dobrý, tak. A takže to samotný je pro mě jako obrovský rozdíl. Svoboda, pocit svobody."
+    },
+    {
+      "i": 71,
+      "t": 1600,
+      "speaker": "Ernest Novák",
+      "text": "Obrovský rozdíl. Z nějakého pocitu, kdy je člověk tak trošku jako v okovech třeba, ať už díky jakýkoliv situaci spojený, nevím, s čímkoliv, s prací to mají lidi hodně spojený, s kariérou, s tím, že mají pocit, že nedělají to, co je baví. Tak dneska, jako neříkám, že jsem došel osvícení a jsem absolutně ze 100 % svobodnej člověk, ale ten rozdíl je opravdu enormní. Vztahy."
+    },
+    {
+      "i": 72,
+      "t": 1632,
+      "speaker": "Ernest Novák",
+      "text": "Doma jako s manželkou, s lidma okolo sebe, tisíckrát lepší. Že se člověk vlastně naučí tolik nereagovat na ty okolnosti, ale spíš je utvářet podle toho, co vlastně od těch situací chce a jak chce, aby probíhaly. Co se veřejnýho vystupování týče, tak je tam mnohem větší jistota, třeba i díky praxi z různých networkingů."
+    },
+    {
+      "i": 73,
+      "t": 1660,
+      "speaker": "Ernest Novák",
+      "text": "Lepší spánek,"
+    },
+    {
+      "i": 74,
+      "t": 1666,
+      "speaker": "Ernest Novák",
+      "text": "větší štěstí, mnohem větší. A nejenom to, že by mi chodily do života věci, které vyvolají nějaký wow efekt štěstí. Ale vůbec ta schopnost všímat si těch drobných věcí, které jsou fantastické, které prostě mineme a nevšimneme si, když jsme v takové té denní rutině. Takže no, a pak můžu pokračovat ještě několik hodin, tak nějak, když tak zastav."
+    },
+    {
+      "i": 75,
+      "t": 1692,
+      "speaker": "CoachVille",
+      "text": "Hezky. Hele, když zavzpomínáme vlastně na něco jako z toho úplného začátku, co byla vlastně ta výzva, které jsi čelil, jak se ti podařilo tu výzvu zdolat? A něco, co pro tebe osobně bylo třeba obtížnější a že možná to vedlo k nějakému momentu jako aha, a vydal ses novým směrem. Tak vlastně zavzpomínej na nějakou takovou výzvu."
+    },
+    {
+      "i": 76,
+      "t": 1719,
+      "speaker": "Ernest Novák",
+      "text": "No, asi výzva, nevím, jestli to byla výzva, to byla spíš taková tichá výzva, je všimnout si, že existuje něco, pro co mám doopravdy vlohy, a že je to to koučování. Další výzva byla samozřejmě, jestli jít do té investice, jestli prostě jako si říct, jo, že si to zasloužím, že nejenom složenky a hypotéka, ale i já mám ve svém životě nějaké místo a že bych možná mohl udělat nějaký krok, který je mýmu srdci blízký."
+    },
+    {
+      "i": 77,
+      "t": 1751,
+      "speaker": "Ernest Novák",
+      "text": "A tam, jak jsem říkal, tam proběhlo to ubezpečení té kamarádky, která mi řekla, hele, abych to udělal kdykoliv znova, i kdybych prostě nekoučoval. Takže možná tohle byly takový ty výzvy. A pak to bylo vlastně jako [nesrozumitelné], protože mně se vlastně i líbí, že ta škola je certifikovaná, má svoji kvalitu, má svoji cenu. Tím pádem to není víkendový kurz, víš, že si to tam střelíš na víkend, oblečeš si"
+    },
+    {
+      "i": 78,
+      "t": 1783,
+      "speaker": "Ernest Novák",
+      "text": "na sebe něco batikovaného, obejmeš pár stromů a prostě v neděli jedeš domů. Ale vždycky to prostě vyžaduje nějaký commitment, nějaký závazek, a prostě fakt se tomu musíš věnovat. Takže i to. Takže to byla výzva vlastně si tohle připustit, že je to něco, co myslím vážně a čemu teda nějaký čas budu věnovat. Že prostě místo Netflixu večer bude prostě tady Aleš Vrána jako s koučem."
+    },
+    {
+      "i": 79,
+      "t": 1813,
+      "speaker": "CoachVille",
+      "text": "Vyměníme aplikace a ono to bude mít jiný dopad. Ano."
+    },
+    {
+      "i": 80,
+      "t": 1818,
+      "speaker": "Ernest Novák",
+      "text": "Síla prostředí. Přesně tak, no."
+    },
+    {
+      "i": 81,
+      "t": 1821,
+      "speaker": "CoachVille",
+      "text": "Na Instagram jedeme."
+    },
+    {
+      "i": 82,
+      "t": 1824,
+      "speaker": "Ernest Novák",
+      "text": "Přesně tak, ano, ano. Hezký."
+    },
+    {
+      "i": 83,
+      "t": 1826,
+      "speaker": "CoachVille",
+      "text": "Jak vlastně vnímáš komunitu CoachVille? Jak vnímáš ten přínos té komunity a jaká je tvoje zkušenost být členem té komunity?"
+    },
+    {
+      "i": 84,
+      "t": 1839,
+      "speaker": "Ernest Novák",
+      "text": "To je hrozně super, [nesrozumitelné] tady už zaznělo, a další, já pro to nemám jiný název, než že ty lidi jsou skvělí. Je skvělý, že ta komunita existuje, protože nejenom, že se můžeme jako navzájem koučovat, což má obrovský přínos, jak proto, že se člověk učí koučovat, tak zároveň je koučovaný, což je obrovský dar, jo, to je mimochodem další, když si vezmeš, že když se se mnou domluvíš na třech měsících, tak to bude 36 až 40 tisíc korun, [nesrozumitelné], vlastně je to v ceně, že jo."
+    },
+    {
+      "i": 85,
+      "t": 1875,
+      "speaker": "Ernest Novák",
+      "text": "Protože tam máš svýho koučovacího parťáka."
+    },
+    {
+      "i": 86,
+      "t": 1879,
+      "speaker": "Ernest Novák",
+      "text": "Tak to je jako další velký benefit. A podpora, energie, synergie. Potkal jsem spoustu lidí, se kterýma se skvěle spolupracuje, mají skvělý nápady, rozjíždějí skvělý projekty. Takže když člověk cítí, že to je jeho, tak se k tomu může přidat. Nikdo mu nehází klacky pod nohy. Způsob, jakým se dává feedback, je ten, ze kterého odejdeš jako namotivovaný, a ne prostě zdrchaný, že jsi něco udělal blbě. A samozřejmě i CoachVille tím, že je to velká škola, máš nějaký přesah, tak je tam možnost dosáhnout třeba na nějaký klienty, na nějaký kontakty, takže je to taková, a hlavně je to takový homecoming, že člověk není sám, protože přece jenom..."
+    },
+    {
+      "i": 87,
+      "t": 1926,
+      "speaker": "Ernest Novák",
+      "text": "Dneska, jestli se koukají nějaký lidi a teď jako zvažujou, že ten krok udělají, tak já jsem tam byl a vím, že to není jednoduchý, ty jsi tam byl taky, a tím, že je tam ta komunita, tak i když člověk je trošku zaseklej, tak ho ty lidi můžou trošku odseknout. Když prostě se někde zaciklí, tak ho ta komunita může zase odcyklit, což je taky obrovský jako dárek. Přece jenom ta cesta je pak taková víc takhle, než abychom prostě tady komíhali někde jako na místě."
+    },
+    {
+      "i": 88,
+      "t": 1957,
+      "speaker": "Ernest Novák",
+      "text": "A spálili spoustu energie. Takže je to něco, co má obrovskou váhu, si myslím. A obrovskou výhodu taky. Asi jsem na něco zapomněl, určitě jsem na něco zapomněl."
+    },
+    {
+      "i": 89,
+      "t": 1973,
+      "speaker": "CoachVille",
+      "text": "To jsi řekl moc hezky. Jak vlastně vnímáš, to je taková jako obecnější otázka z nadhledu, když vlastně tady je na celé planetě lidstvo a pak jako přišel prostě obor koučování a ten má pro ty lidi celkově nějaký přínosy. Tak jak vnímáš vlastně přínos koučování pro lidstvo? Co to přináší? Dřív tady nebylo, tak vlastně co je ten přínos specificky pro lidi, když přichází koučování, ať už v roli koučů, nebo v roli hráčů?"
+    },
+    {
+      "i": 90,
+      "t": 2005,
+      "speaker": "Ernest Novák",
+      "text": "Já si myslím, že to je možnost nahlédnout na to, na jakých principech fungujeme, jaký principy používáme k rozhodování a podle jakých principů žijeme, a v klidu a v bezpečném prostředí se sami sebe zeptat, jestli je to takhle, jak to chcem."
+    },
+    {
+      "i": 91,
+      "t": 2035,
+      "speaker": "Ernest Novák",
+      "text": "A pak, když to zjistíme, jestli jo, tak u toho můžeme zůstat, a když zjistíme, že ne, tak to můžeme změnit, a to je, si myslím, obrovský přínos. Základní principy koučování jsou tady od Sokrata v podstatě, a já si myslím, že určitě jsou tady dýl, jenom ty starší jména třeba neznám. A je to něco, co funguje, protože... Běžný člověk má za den kolik? 70 tisíc myšlenek?"
+    },
+    {
+      "i": 92,
+      "t": 2065,
+      "speaker": "Ernest Novák",
+      "text": "I kdyby 20, tak je to fakt hodně. Spousta z nich je cyklických, a ta možnost jednou za nějaký třeba týden nebo čtrnáct dní se na to podívat s odstupem, jakým způsobem teda přemýšlím, jako jaký emoce to ve mně vyvolává, kam mě to směřuje, jak skrz ty myšlenky vnímám ten svět okolo sebe. A moct si to přehodnotit je opravdu jako nedocenitelný. A je to obrovský rozdíl. S koučem nebo bez kouče je to obrovský rozdíl."
+    },
+    {
+      "i": 93,
+      "t": 2098,
+      "speaker": "Ernest Novák",
+      "text": "Potřebujeme k tomu tu druhou živou bytost, které to jako řekneme, že jo. Když si to říkáme sami v hlavě, tak tam se toho dá říct, hele."
+    },
+    {
+      "i": 94,
+      "t": 2109,
+      "speaker": "CoachVille",
+      "text": "Právě některý lidi říkají, že jako se koučujou sami. Co si o tom myslíš, o sebekoučování?"
+    },
+    {
+      "i": 95,
+      "t": 2117,
+      "speaker": "Ernest Novák",
+      "text": "A já jim určitě držím palce. Pokud ve svým životě došli do místa a uvědomili si, že je dobrý na sobě pracovat, tak třikrát hurá, držím palce. Kdybych to měl srovnat se spoluprací s koučem, tak když si vezmeme, že jsou v nějakém bodě a chtějí někam dojít, tak je to jako když... Když se sami koučujou, tak je to jako, když na tu cestu vezmou toho nejsvalnatějšího, nejlepšího oslíka ve vesnici. A když spolupracuje s koučem, tak je to jako, když si všimnou, že vedle je zastávka TGV. To je rozdíl prostě v rychlosti. Nebo šinkanzen, nebo nějaký rychlej vlak, my u nás nemáme."
+    },
+    {
+      "i": 96,
+      "t": 2164,
+      "speaker": "CoachVille",
+      "text": "Očekáváme v následujících třiceti letech."
+    },
+    {
+      "i": 97,
+      "t": 2167,
+      "speaker": "Ernest Novák",
+      "text": "Přesně, ano, ano. A v následujících třiceti letech to doplníme o nějaký... Nějaký pendolino nebo něco takového. No, je to obrovský rozdíl v tom efektu, nejenom v rychlosti, ale i v efektu a v té hloubce. Protože spousta věcí, kterým my dneska čelíme, jsou sociálního původu. A ty si to jako neodkoučuješ prostě [nesrozumitelné], že to jako ne. Ale... Ale tím, že je tam"
+    },
+    {
+      "i": 98,
+      "t": 2197,
+      "speaker": "Ernest Novák",
+      "text": "jiný živej člověk, může ti na to dát feedback, možná trošku jiný pohled, tak to ve svý vlastní hlavě jako nevymyslíš."
+    },
+    {
+      "i": 99,
+      "t": 2206,
+      "speaker": "Ernest Novák",
+      "text": "Můžou asi, jak to třeba kombinujou, ale pokud nikdo nezkusil spolupráci s koučem... Což si myslím, že je jako dobrý doporučení i pro ty lidi, který zvažují tu kariéru, aby si vlastně vyzkoušeli, jaký to má efekt, protože aspoň budou vědět, jaký oni budou mít efekt."
+    },
+    {
+      "i": 100,
+      "t": 2224,
+      "speaker": "CoachVille",
+      "text": "Já mám takový odhad, že v České republice má s profesionálním koučem zkušenost až 0,5 % populace."
+    },
+    {
+      "i": 101,
+      "t": 2237,
+      "speaker": "Ernest Novák",
+      "text": "Hele, já ti můžu říct, že z těch, který si teď vybavím, se kterýma jsem jako já kouč spolupracoval, tak možná čtyři lidi z, nevím, 40, 70, 80, které mám spočítané."
+    },
+    {
+      "i": 102,
+      "t": 2255,
+      "speaker": "CoachVille",
+      "text": "A tím pádem vlastně je tady nějaká zpráva, kterou máš pro někoho, kdo třeba koučování nikdy nevyzkoušel, zvažuje to vlastně jako, že by si to chtěl zažít? A chceš něco vzkázat budoucím potenciálním hráčům?"
+    },
+    {
+      "i": 103,
+      "t": 2269,
+      "speaker": "Ernest Novák",
+      "text": "No, jestli jo, tak teď bych se možná zeptal, k čemu jim to zvažování je."
+    },
+    {
+      "i": 104,
+      "t": 2279,
+      "speaker": "Ernest Novák",
+      "text": "Tak bych se asi zeptal, kde jsou dneska a kde chtějí být. No, tak nějak bychom asi začali. Ale jestli to zvažujete, tak určitě jako jenom si řekněte, k čemu to zvažování jako teda je."
+    },
+    {
+      "i": 105,
+      "t": 2296,
+      "speaker": "CoachVille",
+      "text": "A máš nějaké oblíbené motto, nějaký citát, který tě třeba provází životem, nebo za poslední dobu tě jako oslovil, inspiroval?"
+    },
+    {
+      "i": 106,
+      "t": 2306,
+      "speaker": "Ernest Novák",
+      "text": "Ale je strašně moc, strašně moc jich je. Ale protože pro nás pro kouče je taková velká výzva, jak vlastně koučování někomu popsat. Ono to nejde. To je prostě postavené na vlastním prožitku, takže se to blbě popisuje. Ale mně se líbí, když vlastně se to popíše tak, že s koučem pracuješ na tom, aby tvoje inteligence pracovala v tvůj prospěch a nikoli proti."
+    },
+    {
+      "i": 107,
+      "t": 2339,
+      "speaker": "Ernest Novák",
+      "text": "To je taková věta, kterou jsem teďka slyšel v různých obměnách několikrát a v jiných teda souvislostech, a pro koučování mi přijde, že se to opravdu jako hodí, že to je poměrně přesnej popis."
+    },
+    {
+      "i": 108,
+      "t": 2355,
+      "speaker": "Ernest Novák",
+      "text": "Velmi často naše inteligence pracuje proti nám."
+    },
+    {
+      "i": 109,
+      "t": 2361,
+      "speaker": "CoachVille",
+      "text": "Pravděpodobně to bude obnášet nějaký kroky, aby se to obrátilo."
+    },
+    {
+      "i": 110,
+      "t": 2366,
+      "speaker": "Ernest Novák",
+      "text": "[nesrozumitelné]."
+    },
+    {
+      "i": 111,
+      "t": 2369,
+      "speaker": "Ernest Novák",
+      "text": "Ale dobrá zpráva je, že to není nekonečný a že se to rozhodně jako dá."
+    },
+    {
+      "i": 112,
+      "t": 2377,
+      "speaker": "CoachVille",
+      "text": "A máš nějaký vzkaz pro lidi, kteří dneska třeba zvažují, že by se do koučovacího výcviku vydali? Chceš jim něco vzkázat?"
+    },
+    {
+      "i": 113,
+      "t": 2388,
+      "speaker": "Ernest Novák",
+      "text": "Já si myslím, že firma Nike to řekla za nás. Just do it. Prostě jděte do toho. Já si myslím, že pokud to dneska někdo zvažuje a má... Ty důvody nejsou čistě jenom, že si myslí, že se na něčem dá vydělat, ale je tam nějaký jiný důvod, že cítí, že by to s ním mohlo rezonovat, tak prostě poslechněte sami sebe a jděte do toho, vyzkoušejte to. Protože když to neuděláte, tak si to budete vyčítat."
+    },
+    {
+      "i": 114,
+      "t": 2421,
+      "speaker": "CoachVille",
+      "text": "Hezky. Erneste, děkuji moc, že jsme společně mohli udělat tenhle rozhovor. Já vím, že... Se musíme rozloučit, že se nám chýlí čas, kdy vlastně začíná další schůzka. A já ti chci moc poděkovat za to, co jsi s náma nasdílel. Ještě, když by někdo z našich posluchačů se s tebou třeba chtěl spojit, jak tě může najít? Kde se s tebou může spojit?"
+    },
+    {
+      "i": 115,
+      "t": 2449,
+      "speaker": "Ernest Novák",
+      "text": "No, může se se mnou spojit přes e-mail nebo telefon, protože webovky jsou aktuálně ve výrobě. A nebo přes CoachVille se se mnou můžou spojit. Jestli se nepletu."
+    },
+    {
+      "i": 116,
+      "t": 2462,
+      "speaker": "CoachVille",
+      "text": "Máš profil na webu CoachVille, takže asi tě tam můžou najít. Jo, jo, jo. Myslím."
+    },
+    {
+      "i": 117,
+      "t": 2470,
+      "speaker": "Ernest Novák",
+      "text": "A jestli nemám, tak to tam udělám."
+    },
+    {
+      "i": 118,
+      "t": 2475,
+      "speaker": "CoachVille",
+      "text": "Tak jo. Erneste, máš ještě nějakou message na závěr? Něco, co jsi třeba chtěl, aby zaznělo a zatím nezaznělo?"
+    },
+    {
+      "i": 119,
+      "t": 2483,
+      "speaker": "Ernest Novák",
+      "text": "No, nevím, nevím. Já si myslím, že... Jak říkám, pokud se dneska koukají lidi, kteří to zvažují, tak ať do toho jdou, ať do toho jdou, ať to vezmou jako experiment, ať to jdou vyzkoušet, ať si věří a ať si sami vyzkoušejí spolupráci s koučem, ať vědí, jakou to má sílu, a potom budou vědět, s čím na ten trh jdou, a budou si věřit mnohem víc. Takže asi tak."
+    },
+    {
+      "i": 120,
+      "t": 2514,
+      "speaker": "CoachVille",
+      "text": "Já bych ještě asi pozval ty, kteří to takhle zvažují, tak potom v CoachVille Ernesta vyhledejte a můžete mu říct o tom, jak to bylo u vás."
+    },
+    {
+      "i": 121,
+      "t": 2525,
+      "speaker": "Ernest Novák",
+      "text": "Přesně, přesně. Můžete mi to pak říct hezky do očí."
+    },
+    {
+      "i": 122,
+      "t": 2532,
+      "speaker": "CoachVille",
+      "text": "Erneste, děkuji moc. Díky, že jsi našel čas na to, abychom to spolu mohli probrat, a děkuji moc, že jsi s náma nasdílel svůj vhled a ten náhled do svojí cesty."
+    },
+    {
+      "i": 123,
+      "t": 2543,
+      "speaker": "Ernest Novák",
+      "text": "Jo, Aleši, děkuji, děkuji moc za pozvání a budu se těšit na další setkání v rodině CoachVille."
+    },
+    {
+      "i": 124,
+      "t": 2551,
+      "speaker": "CoachVille",
+      "text": "Erneste, díky moc, tohle byl Ernest Novák a díky moc, že jste sledovali. Ahoj."
+    }
+  ]
+}

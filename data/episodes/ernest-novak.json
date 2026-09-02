@@ -1,0 +1,98 @@
+{
+  "slug": "ernest-novak",
+  "title": "Případová studie Ernest Novák: pár desítek tisíc k zaměstnání",
+  "guestSlugs": [
+    "ernest-novak"
+  ],
+  "vimeoId": "1077554653",
+  "vimeoUrl": "https://vimeo.com/1077554653",
+  "recordedAt": "2025-04-25",
+  "durationS": 2565,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 36,
+      "title": "Tenerife a PCC level"
+    },
+    {
+      "t": 110,
+      "title": "Kamarádka, která bude koučka"
+    },
+    {
+      "t": 204,
+      "title": "Výběr školy: akreditace a zkouška předem"
+    },
+    {
+      "t": 284,
+      "title": "Záměr: dostat seberozvoj do praxe"
+    },
+    {
+      "t": 380,
+      "title": "Obavy, manželka a „není to 3,50“"
+    },
+    {
+      "t": 507,
+      "title": "Začátky: jiný mindset a playbook"
+    },
+    {
+      "t": 678,
+      "title": "Být koučovaný: probuzení"
+    },
+    {
+      "t": 790,
+      "title": "Koučování vs. knížky a videa"
+    },
+    {
+      "t": 912,
+      "title": "ACC a PCC"
+    },
+    {
+      "t": 1059,
+      "title": "Co mě baví"
+    },
+    {
+      "t": 1248,
+      "title": "Návratnost a ceny: 800 → 3 000 Kč"
+    },
+    {
+      "t": 1361,
+      "title": "Dva příjmy, rezerva, žádný plán"
+    },
+    {
+      "t": 1538,
+      "title": "Jak to změnilo život"
+    },
+    {
+      "t": 1719,
+      "title": "Zasloužím si to? Netflix vs. kouč"
+    },
+    {
+      "t": 1839,
+      "title": "Komunita a parťák v ceně"
+    },
+    {
+      "t": 2005,
+      "title": "Koučování a lidstvo"
+    },
+    {
+      "t": 2117,
+      "title": "Sebekoučování: oslík vs. TGV"
+    },
+    {
+      "t": 2237,
+      "title": "Kolik klientů mělo kouče"
+    },
+    {
+      "t": 2306,
+      "title": "Motto a závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/ernest-novak.json"
+}

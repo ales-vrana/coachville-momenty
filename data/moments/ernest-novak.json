@@ -1,0 +1,231 @@
+[
+  {
+    "id": "en001",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 8,
+    "endUtt": 12,
+    "quote": "Hele, já jsem vlastně hledal školu, která má nějakou pověst. Pak jsem zjistil, že ta pověst se v podstatě dá zaměnit za akreditaci, že to je takový jako vyjádření té pověsti. Našel jsem CoachVille, našel jsem nějaký další. A vlastně na CoachVille mě zaujalo to, že je možný si koučování vyzkoušet, než se člověk jako do školy upíše nebo zapíše. Tak to je jedna věc. A druhá věc je, že mi CoachVille přijde malinko míň, řekněme, korporátní, jestli se vůbec dá použít tohle slovo, a malinko víc taková jako lidská, přátelská a mému srdci bližší. Takže určitě tohle. Rozhodoval jsem se, pak samozřejmě hrálo roli to, kdo tu školu vede, jakou ten člověk má certifikaci. Nevím, kolik je master koučů dneska v České republice, jestli jste pořád ještě jenom dva, nebo jste se rozrostli. V té době jste byli dva a já jsem si vybral CoachVille, protože vlastně z těch dvou škol mi přišla sympatičtější.",
+    "summary": "Impulsem byla kamarádka manželky z korporátu, která poprvé přišla „se smíchem od ucha k uchu“, že bude koučka; při jejím vyprávění zjistil, že pro to má vlohy. Hledal školu s pověstí a zjistil, že pověst se dá zaměnit za akreditaci. U CoachVille ho zaujalo, že si koučování mohl vyzkoušet, než se zapsal, že je méně korporátní a kdo ji vede: v té době byli v Česku dva master kouči a ze dvou škol mu tahle přišla sympatičtější.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "volba ze 2 škol vedených master koučem (MCC); v ČR tehdy 2 master kouči (podle hosta)",
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhal stupeň A: s čím srovnával (2 školy s MCC, akreditace), co rozhodlo (zkouška předem, lidskost). Tag 11: možnost vyzkoušet před zápisem. Tag TR4: akreditace jako měřítko pověsti. Bez jména druhé školy. Úsek obsahuje otázku tazatele (10)."
+  },
+  {
+    "id": "en002",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 14,
+    "endUtt": 16,
+    "quote": "Já jsem to vnímal tak, že jsem začínal cítit, že ta práce, kterou jsem v tu chvíli dělal, vlastně není úplně to ono, co mám tady na té planetě jako poslání. Že je skvělá na placení složenek, že je skvělá prostě i, že mě jako svým způsobem baví, má samozřejmě nějaký svoje negativa, ale to má víceméně každá. Ale začal jsem cítit, že tady jako na té planetě jsem kvůli něčemu jinýmu. A vlastně koučování mi přišlo jako úžasný způsob, jak do praxe uvést a přenést spoustu věcí, který jsem předtím četl v knížkách a viděl na YouTube a absolvoval na různých seminářích. A že to je vlastně způsob, jak ty věci dostat do praxe. Aniž by tak jako vyšuměly, jo, to znáš, že jede člověk třeba na nějaký víkendový seminář a odjede úplně jako stoprocentně motivovaný a za týden je z toho 30 % a za 14 dní je z toho [nesrozumitelné] v podstatě. A je to koučování vlastně tím, jak probíhá, jak funguje, tak všechny tady ty věci udržuje. A tím vlastně se dostavuje ta změna a ten progres, který jinak bývá jenom v kategorii nějakého snu, anebo úvahy, anebo představy.",
+    "summary": "Cítil, že práce, která je skvělá na placení složenek a svým způsobem ho baví, není jeho poslání. Koučování mu přišlo jako způsob, jak dostat do praxe věci z knížek, YouTube a seminářů, aniž by vyšuměly: z víkendového semináře člověk odjede stoprocentně motivovaný, za týden zbude 30 % a za čtrnáct dní skoro nic. Koučování tím, jak probíhá, změnu udrží.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "motivace ze semináře: 100 % → 30 % za týden (jeho odhad)",
+    "isAdmission": false,
+    "topics": [
+      "uz-jsem-se-spalil",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag TR3 stupeň B: vlastní zkušenost se semináři, které vyšumí; bez konkrétního kurzu a ceny. Záměr vstupu: přenést seberozvoj do praxe, ne odejít z práce."
+  },
+  {
+    "id": "en003",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 18,
+    "endUtt": 21,
+    "quote": "Obavy jsem měl, měl jsem i pochybnosti, a nakládal jsem s nima tak, že jsem to nějak prošel se svojí ženou, která mi k tomu... K mýmu pohledu dala ten svůj, jak to tak už jen bývá, ten praktičtější. A obavy, hele, já bych možná ani neřekl obavy, spíš nějaký nejistoty, protože vlastně jdeš úplně mimo komfortní zónu, začínáš se učit něco, o čem jsi do té doby vlastně neslyšel, a navíc za to máš zaplatit a není to úplně 3,50, takže to tam samozřejmě hrálo roli. A s tímhle mi pomohla ta kamarádka, kterou jsem zmínil, a já jsem jí volal a říkal jsem, hele, co si vlastně o tom myslíš, co když nebudu koučovat, co když prostě nějakým způsobem zjistím, že to není úplně moje. A ona mi na to řekla, hele, jako ten dopad, který to bude mít na tebe jako na člověka, když tím kurzem projdeš, i kdybys s tím nevydělal ani korunu, tak za to stojí. A dneska, ve chvíli, ve které sedím, tak to můžu.",
+    "summary": "Obavy a pochybnosti prošel se ženou, která k jeho pohledu přidala ten praktičtější. Spíš než obavy to byly nejistoty: jde mimo komfortní zónu, učí se něco, o čem neslyšel, a má za to zaplatit, „není to 3,50“. Zavolal kamarádce: co když nebudu koučovat? Odpověděla, že dopad na něj jako člověka za to stojí, i kdyby nevydělal ani korunu. Dnes to podepíše; rozptýlilo to „tanečky okolo příkazů k úhradě“.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "váhání nad platbou („tanečky okolo příkazů k úhradě“), nejistota mimo komfortní zónu",
+    "topics": [
+      "kdyz-jsem-videl-cenu",
+      "co-rekl-partner",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag P7 stupeň A částečně: první reakce na cenu („není to 3,50“) a kritérium převzaté od kamarádky (dopad i bez příjmu); co nesplnilo, nezazní. Pátý partner (manželka) pro, s praktickým pohledem. Úsek obsahuje jen hosta."
+  },
+  {
+    "id": "en004",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 23,
+    "endUtt": 27,
+    "quote": "prostě jako každodenní, stejný, monotónní, a pak bylo koučování jako wow. Tady se dějou prostě věci. Tak to je jedna věc. Druhá věc, když jsi říkal začátky koučování, tak s playbookem, že prostě otázku po otázce. Ale když jsem poprvý mluvil s člověkem, kterýho jsem neviděl nikdy předtím, který se tam objevil prostě na obrazovce, a z ničeho nic jsem ho začal koučovat. A on třeba nevěděl, že já jsem o týden napřed. Ale vlastně ti to neuvěřitelně rozšíří, když zjistíš, že i jenom ten playbook, když to člověk dodrží na začátku, tak jaký obrovský efekt to na ty lidi má. Na co si všechno přijdou. Tak to byl taky velkej wow efekt. A tím, že jsme začínali transformačkama, který jsou takový, že mi přijdou, že jdou malinko víc pod povrch než takový to běžný ICF koučování. Nechci diváky jako neskušený mást těma",
+    "summary": "Řeči o komunitě a nakažlivém nadšení předem „odkejval“ jako věty z knížek, a pak to zažil: jiný mindset, chyba jako příležitost místo pětky, dva světy. První koučování s playbookem otázku po otázce, s člověkem, kterého nikdy neviděl a který nevěděl, že Ernest je jen o týden napřed. Překvapil ho efekt, který má samotný dodržený playbook.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: první setkání (s kým, s čím v ruce, o týden napřed), co pomohlo (playbook). Tag TR1 stupeň B: čemu nevěřil (nadšení, komunita) a co se splnilo; co ne, nezazní."
+  },
+  {
+    "id": "en005",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 57,
+    "endUtt": 59,
+    "quote": "Tak i tak se to za mě vyplatí. A v momentě, kdy se začne koučovat, já jsem tuším, že začínal na nějakých 800 korunách za hodinu, pak jsem to zvedl na 1500 korun na hodinu, pak jsem to zvedl na 1800 korun na hodinu, a dneska je to něco okolo 3000 s tím, že já neprodávám dneska vlastně jakoby hodinový koučování, ale nějakou formu spolupráce. Která má přinést nějakou kýženou změnu. Ale když to rozpočítám, tak jsme někde na třech tisících korunách za hodinu, a z toho si může asi každý odvodit, kolik má času, kolik lidí může koučovat, jak často, a když si to vynásobím, tak si myslím, že dojdou k nějakému závěru. Ale jak říkám, začínal jsem na 800 korunách, tuším, že před dvěma lety, plus mínus.",
+    "summary": "Návratnost považuje za nevyčíslitelnou, protože mu to změnilo, jak vnímá život; vyplatilo by se to i bez koučování. Koučovat zadarmo nedoporučuje, lidé si toho neváží. Začínal asi před dvěma lety na 800 Kč za hodinu, pak 1 500, pak 1 800, dnes kolem 3 000 Kč za hodinu; neprodává hodiny, ale spolupráci, která má přinést změnu. Kolik lidí a jak často, si každý dopočítá sám.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "800 → 1 500 → 1 800 → cca 3 000 Kč za hodinu během asi 2 let; prodává balík spolupráce, ne hodiny",
+    "isAdmission": false,
+    "monthsFromStart": 24,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "prvni-penize",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Kdo mi zaplatí stupeň A: první cena, kroky, dnešní cena. Tag E1: první cena a kdy. Tag P7 stupeň B: kritérium „i bez příjmu“. Nedoporučení koučovat zadarmo je jeho zkušenost, ne pravidlo školy."
+  },
+  {
+    "id": "en006",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 61,
+    "endUtt": 65,
+    "quote": "Já bych tomu neřekl přivýdělek, mně ten přivýdělek přijde, že když jdeš vyskládat někam cihly, tak si přivyděláš. Takže je to... Ten příjem se tím zdvojnásobí třeba, můžeme říct. A mě i díky koučování práce, kterou jsem chtěl opustit, tak mě paradoxně začala mnohem víc bavit. Tím, že jsem odstranil určitý věci, které mi tam překážely. Takže řekněme, že místo toho, abych měl jeden příjem, tak mám dva a je jakoby vyšší. Nicméně jsou to nějaké... Záleží na četnosti. Jsou to nějaké desítky tisíc měsíčně navíc.",
+    "summary": "Nenazval by to přivýdělek: příjem se koučováním zhruba zdvojnásobil, jsou to desítky tisíc měsíčně navíc podle četnosti. Práci, kterou chtěl opustit, ho díky koučování začala víc bavit, když odstranil, co mu překáželo. Finanční rezervu považuje za zásadní pro klid. Neplánuje: má svobodu rozhodovat podle toho, co ho baví; dnes obojí, a když se v profesi něco zásadně změní, potřese si rukama a odejde.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "příjem zhruba 2×; desítky tisíc Kč měsíčně navíc z koučování (bez přesné částky)",
+    "isAdmission": false,
+    "monthsFromStart": 24,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "co-se-muselo-zmenit",
+      "pujcka-a-klient-neprijde"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň A: práce i koučování po dvou letech, milník odchodu = změna v profesi, ne počet klientů. Tag 13: nemusel odejít, práce ho začala víc bavit. Tag R7: rezerva jako podmínka klidu. Úsek obsahuje otázku tazatele (63)."
+  },
+  {
+    "id": "en007",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 76,
+    "endUtt": 78,
+    "quote": "No, asi výzva, nevím, jestli to byla výzva, to byla spíš taková tichá výzva, je všimnout si, že existuje něco, pro co mám doopravdy vlohy, a že je to to koučování. Další výzva byla samozřejmě, jestli jít do té investice, jestli prostě jako si říct, jo, že si to zasloužím, že nejenom složenky a hypotéka, ale i já mám ve svém životě nějaké místo a že bych možná mohl udělat nějaký krok, který je mýmu srdci blízký. A tam, jak jsem říkal, tam proběhlo to ubezpečení té kamarádky, která mi řekla, hele, abych to udělal kdykoliv znova, i kdybych prostě nekoučoval. Takže možná tohle byly takový ty výzvy. A pak to bylo vlastně jako [nesrozumitelné], protože mně se vlastně i líbí, že ta škola je certifikovaná, má svoji kvalitu, má svoji cenu. Tím pádem to není víkendový kurz, víš, že si to tam střelíš na víkend, oblečeš si na sebe něco batikovaného, obejmeš pár stromů a prostě v neděli jedeš domů. Ale vždycky to prostě vyžaduje nějaký commitment, nějaký závazek, a prostě fakt se tomu musíš věnovat. Takže i to. Takže to byla výzva vlastně si tohle připustit, že je to něco, co myslím vážně a čemu teda nějaký čas budu věnovat. Že prostě místo Netflixu večer bude prostě tady Aleš Vrána jako s koučem.",
+    "summary": "První výzva byla všimnout si, že má na koučování vlohy. Druhá: jít do investice a říct si, že si to zaslouží, že nejsou jen složenky a hypotéka. Pomohlo ujištění kamarádky. Líbí se mu, že certifikovaná škola má svou kvalitu i cenu: není to víkendový kurz, kde obejmete pár stromů a v neděli jedete domů, ale závazek, kterému musí věnovat čas: „místo Netflixu večer bude Aleš Vrána s koučem“.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "večery místo Netflixu; závazek na delší čas, ne víkendový kurz",
+    "topics": [
+      "kdyz-jsem-videl-cenu",
+      "vedle-prace-a-rodiny",
+      "uz-jsem-se-spalil"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag P7 stupeň A částečně: myšlenka „zasloužím si to?“ vedle složenek a hypotéky; kritérium od kamarádky. Tag TM2 stupeň B: kdy (večery). Jméno Aleš Vrána v citaci je tazatel."
+  },
+  {
+    "id": "en008",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 84,
+    "endUtt": 86,
+    "quote": "To je hrozně super, [nesrozumitelné] tady už zaznělo, a další, já pro to nemám jiný název, než že ty lidi jsou skvělí. Je skvělý, že ta komunita existuje, protože nejenom, že se můžeme jako navzájem koučovat, což má obrovský přínos, jak proto, že se člověk učí koučovat, tak zároveň je koučovaný, což je obrovský dar, jo, to je mimochodem další, když si vezmeš, že když se se mnou domluvíš na třech měsících, tak to bude 36 až 40 tisíc korun, [nesrozumitelné], vlastně je to v ceně, že jo. Protože tam máš svýho koučovacího parťáka.",
+    "summary": "V komunitě se kouči navzájem koučují: člověk se učí koučovat a zároveň je koučovaný, což je podle něj dar. Pro srovnání: tříměsíční spolupráce s ním stojí 36 až 40 tisíc korun, a tréninkový parťák je v ceně výcviku. K tomu podpora, projekty lidí, ke kterým se lze přidat, feedback, po kterém člověk odchází motivovaný, a přes velikost školy i možnost dosáhnout na klienty a kontakty.",
+    "proofElements": [
+      "číslo",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "jeho cena za 3 měsíce spolupráce: 36 až 40 tisíc Kč",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Kdo mi zaplatí: dnešní cena balíku. Tag 5 stupeň B: co dává škola (parťák, feedback, kontakty); vlastní práce jen „přidat se k projektům“, proto vedlejší. Štítek názor je správně."
+  },
+  {
+    "id": "en009",
+    "episode": "ernest-novak",
+    "guest": "ernest-novak",
+    "startUtt": 101,
+    "endUtt": 101,
+    "quote": "Hele, já ti můžu říct, že z těch, který si teď vybavím, se kterýma jsem jako já kouč spolupracoval, tak možná čtyři lidi z, nevím, 40, 70, 80, které mám spočítané.",
+    "summary": "Z lidí, se kterými jako kouč spolupracoval, má spočítáno zhruba 40 až 80 klientů; z nich měli podle jeho paměti předchozí zkušenost s koučem možná čtyři.",
+    "proofElements": [
+      "číslo",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "40 až 80 klientů za asi 2 roky; asi 4 z nich měli dřív kouče",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Odpověď na odhad tazatele (0,5 % populace s koučem). Tag C1 stupeň B: počet klientů bez toho, odkud přišli a kolik platilo. Štítek názor je správně (2 prvky)."
+  }
+]
