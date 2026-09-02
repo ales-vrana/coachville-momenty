@@ -1,0 +1,47 @@
+{
+  "slug": "zdenek-krejci",
+  "displayName": "Zdeněk Krejčí",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 11,
+  "priorProfessionText": "obchodník (14 let), podnikatel",
+  "priorProfessionCat": "OSVČ a podnikání",
+  "regionType": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "14 let v obchodě, podnikatel; rok a půl psal knihu o obchodu, nedopsal"
+    },
+    {
+      "label": "Start",
+      "text": "po webináři CoachVille (a konkurenčním), „když ne teď, tak nikdy“; čekal platící klienty hned, nepřišli"
+    },
+    {
+      "label": "Léto",
+      "text": "boj s identitou kouče a s tím, že se musí prodat; blízko vzdání"
+    },
+    {
+      "label": "Konec října",
+      "text": "dvoudenní setkání komunity: identita srovnaná, přestal tlačit, platící klienti přišli"
+    },
+    {
+      "label": "Po necelém roce",
+      "text": "220 odkoučovaných hodin, klienti obchodníci a podnikatelé, chce koučování na 100 %"
+    }
+  ]
+}

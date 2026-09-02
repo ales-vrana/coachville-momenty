@@ -1,0 +1,107 @@
+{
+  "slug": "zdenek-krejci",
+  "title": "Obchodník Zdeněk se stal profesionálním koučem obchodníků a podnikatelů",
+  "guestSlugs": [
+    "zdenek-krejci"
+  ],
+  "vimeoId": "819915613",
+  "vimeoHash": "e88f93a0db",
+  "vimeoUrl": "https://vimeo.com/819915613/e88f93a0db",
+  "recordedAt": "2023-04-01",
+  "durationS": 2950,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 52,
+      "title": "14 let v obchodě"
+    },
+    {
+      "t": 184,
+      "title": "Cesta ke koučování"
+    },
+    {
+      "t": 315,
+      "title": "Start: čekal platící klienty hned"
+    },
+    {
+      "t": 428,
+      "title": "Boj s identitou kouče"
+    },
+    {
+      "t": 495,
+      "title": "První koučování"
+    },
+    {
+      "t": 581,
+      "title": "Obchodník jako kouč"
+    },
+    {
+      "t": 686,
+      "title": "220 hodin a tréninkoví partneři"
+    },
+    {
+      "t": 836,
+      "title": "Malá hra a motivy"
+    },
+    {
+      "t": 976,
+      "title": "Co jsem si myslel o koučování"
+    },
+    {
+      "t": 1046,
+      "title": "Po telefonu a zodpovědnost klienta"
+    },
+    {
+      "t": 1200,
+      "title": "Oblíbení klienti: hodný kluk"
+    },
+    {
+      "t": 1344,
+      "title": "Co mě baví"
+    },
+    {
+      "t": 1449,
+      "title": "Úvodní hodina a trénink"
+    },
+    {
+      "t": 1598,
+      "title": "Parťáci"
+    },
+    {
+      "t": 1725,
+      "title": "Dvoudenní setkání: zlom"
+    },
+    {
+      "t": 1930,
+      "title": "Pochyby přišly až po startu"
+    },
+    {
+      "t": 2130,
+      "title": "Ne pro každého"
+    },
+    {
+      "t": 2379,
+      "title": "Vzkaz: najděte si kouče"
+    },
+    {
+      "t": 2472,
+      "title": "O ceně koučování"
+    },
+    {
+      "t": 2756,
+      "title": "Motto: život jako hra"
+    },
+    {
+      "t": 2845,
+      "title": "Budoucnost"
+    }
+  ],
+  "transcriptFile": "data/transcripts/zdenek-krejci.json"
+}

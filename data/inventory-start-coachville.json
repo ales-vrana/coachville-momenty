@@ -2,37 +2,232 @@
   "source": "https://start.coachville.cz (sekce Rozhovory se studenty a absolventy CoachVille), staženo 2. 9. 2026",
   "note": "Fáze 1: existující rozhovory. vimeoHash = parametr h= z embedu (unlisted video). status: todo | transcript | done",
   "items": [
-    { "n": 1, "title": "1084 hodin koučovací praxe s platícími klienty - Michaela Hozáková nikdy nekoučovala zdarma", "vimeoId": "1071399292", "vimeoHash": "184ea1f19e", "status": "transcript", "slug": "michaela-hozakova" },
-    { "n": 2, "title": "Koučování mi dalo svobodu, můžu si řídit svůj čas", "vimeoId": "871037109", "vimeoHash": "fa4d21077a", "status": "todo" },
-    { "n": 3, "title": "Koučování je cesta k sobě do vnitřního světa", "vimeoId": "871036102", "vimeoHash": "d87912d2c9", "status": "todo" },
-    { "n": 4, "title": "6 měsíců ve výcviku Coachville, 130 odkoučovaných hodin", "vimeoId": "871035783", "vimeoHash": "055827e5b4", "status": "todo" },
-    { "n": 5, "title": "Koučování mi dalo životní smysl", "vimeoId": "871035021", "vimeoHash": "fbfd2dbc89", "status": "todo" },
-    { "n": 6, "title": "Více koučování = lepší vztahy = lepší svět", "vimeoId": "871034476", "vimeoHash": "f3aa51543c", "status": "todo" },
-    { "n": 7, "title": "IT projektový manažer se stal koučem: Lidé chtějí volnost", "vimeoId": "871033511", "vimeoHash": "a29eba658e", "status": "todo" },
-    { "n": 8, "title": "Mám teď svobodu jako nikdy dříve, plním si svůj sen", "vimeoId": "824225049", "vimeoHash": "33874e6a38", "status": "todo" },
-    { "n": 9, "title": "Nejdůležitější je, když rodič žije své poslání - ukazuje dětem jak žít život", "vimeoId": "824224981", "vimeoHash": "1389596e3b", "status": "todo" },
-    { "n": 10, "title": "Díky koučování rozvíjím sebedůvěru, komunikaci i vztahy", "vimeoId": "827374882", "vimeoHash": "a39a06a77d", "status": "todo" },
-    { "n": 11, "title": "Vždycky jsem byla jako vrba, která lidem naslouchala, teď je to mé životní poslání", "vimeoId": "824206248", "vimeoHash": "e17631fadb", "status": "todo" },
-    { "n": 12, "title": "Z manažera týmu profesionálním koučem sportovců a podnikatelů", "vimeoId": "824224642", "vimeoHash": "2b9a2459cd", "status": "todo" },
-    { "n": 13, "title": "Obchodník Zdeněk se stal profesionálním koučem obchodníků a podnikatelů", "vimeoId": "819915613", "vimeoHash": "e88f93a0db", "status": "todo" },
-    { "n": 14, "title": "Po 10 letech v managementu vývoje software se Petr Kraus vydává na cestu profesionálního kouče", "vimeoId": "817885592", "vimeoHash": "4794043fc0", "status": "todo" },
-    { "n": 15, "title": "12 let v kariérním poradenství - jaké to je, když se mentor stane koučem", "vimeoId": "817884794", "vimeoHash": "7de710482f", "status": "todo" },
-    { "n": 16, "title": "Obchodník, který objevil koučování a stal se profesionálním koučem", "vimeoId": "817736372", "vimeoHash": "13749b6a1a", "status": "todo" },
-    { "n": 17, "title": "Učitelka Eva se stává koučem, jaká je její cesta za profesionálním koučováním?", "vimeoId": "819240116", "vimeoHash": "b055db34de", "status": "todo" },
-    { "n": 18, "title": "2000 odkoučovaných hodin s platícími klienty", "vimeoId": "817735791", "vimeoHash": "38ceafe553", "status": "todo" },
-    { "n": 19, "title": "20 let ve vrcholovém managementu - dopad koučování na vedení manažerů", "vimeoId": "817734386", "vimeoHash": "b972e2d398", "status": "transcript", "slug": "david-vala" },
-    { "n": 20, "title": "30 let v byznyse, 4 roky koučem - dopad na vedení týmu", "vimeoId": "817884737", "vimeoHash": "ecae5880ba", "status": "todo" },
-    { "n": 21, "title": "Trénink mi přinesl vnitřní stabilitu, jistotu a sebedůvěru.", "vimeoId": "585935787", "vimeoHash": "96d8bb2855", "status": "todo" },
-    { "n": 22, "title": "Jeden z nejlepších zážitků, které můžete zažít.", "vimeoId": "575367614", "vimeoHash": "", "status": "todo" },
-    { "n": 23, "title": "Překvapilo mě jak jednoduché bylo oslovit a získat hráče", "vimeoId": "570001565", "vimeoHash": "", "status": "todo" },
-    { "n": 24, "title": "Je to neskutečně motivující a inspirující prostředí.", "vimeoId": "574591708", "vimeoHash": "", "status": "todo" },
-    { "n": 25, "title": "I s odstupem 3 let vím, že má očekávání byla naplněna na 100%", "vimeoId": "658188296", "vimeoHash": "1b0b99f4ca", "status": "todo" },
-    { "n": 26, "title": "Škola předčila mé očekávání v budování praxe a získávání hráčů. Bylo to nejlepší rozhodnutí mého života.", "vimeoId": "671517281", "vimeoHash": "967344f485", "status": "todo" },
-    { "n": 27, "title": "Hledal jsem něco, co by mě naplňovalo. Teď mám 2000 hodin praxe během 3 let od startu.", "vimeoId": "654522909", "vimeoHash": "f061d3c23c", "status": "todo" },
-    { "n": 28, "title": "17 let jsem pracoval v železárnách, trénink mi změnil celý život, nelituju ani minutu.", "vimeoId": "653773357", "vimeoHash": "5231c11b62", "status": "todo" },
-    { "n": 29, "title": "Jenom jsem věděla, že to vzdělání chci. Dnes mám 650 hodin praxe v koučování.", "vimeoId": "653227545", "vimeoHash": "2f61f015a4", "status": "todo" },
-    { "n": 30, "title": "Chtěla jsem vždycky pomáhat lidem, zajímala mě psychologie, dnes tím žiju.", "vimeoId": "652093301", "vimeoHash": "ed4b94557c", "status": "todo" },
-    { "n": 31, "title": "Mám 1800 hodin praxe. Trénink předčil má očekávání několikanásobně.", "vimeoId": "672803946", "vimeoHash": "b11b1563b6", "status": "todo" },
-    { "n": 32, "title": "Honza byl manažerem a dnes je úspěšným profesionálním koučem", "vimeoId": "366536134", "vimeoHash": "", "status": "todo" }
+    {
+      "n": 1,
+      "title": "1084 hodin koučovací praxe s platícími klienty - Michaela Hozáková nikdy nekoučovala zdarma",
+      "vimeoId": "1071399292",
+      "vimeoHash": "184ea1f19e",
+      "status": "done",
+      "slug": "michaela-hozakova"
+    },
+    {
+      "n": 2,
+      "title": "Koučování mi dalo svobodu, můžu si řídit svůj čas",
+      "vimeoId": "871037109",
+      "vimeoHash": "fa4d21077a",
+      "status": "todo"
+    },
+    {
+      "n": 3,
+      "title": "Koučování je cesta k sobě do vnitřního světa",
+      "vimeoId": "871036102",
+      "vimeoHash": "d87912d2c9",
+      "status": "todo"
+    },
+    {
+      "n": 4,
+      "title": "6 měsíců ve výcviku Coachville, 130 odkoučovaných hodin",
+      "vimeoId": "871035783",
+      "vimeoHash": "055827e5b4",
+      "status": "todo"
+    },
+    {
+      "n": 5,
+      "title": "Koučování mi dalo životní smysl",
+      "vimeoId": "871035021",
+      "vimeoHash": "fbfd2dbc89",
+      "status": "todo"
+    },
+    {
+      "n": 6,
+      "title": "Více koučování = lepší vztahy = lepší svět",
+      "vimeoId": "871034476",
+      "vimeoHash": "f3aa51543c",
+      "status": "todo"
+    },
+    {
+      "n": 7,
+      "title": "IT projektový manažer se stal koučem: Lidé chtějí volnost",
+      "vimeoId": "871033511",
+      "vimeoHash": "a29eba658e",
+      "status": "todo"
+    },
+    {
+      "n": 8,
+      "title": "Mám teď svobodu jako nikdy dříve, plním si svůj sen",
+      "vimeoId": "824225049",
+      "vimeoHash": "33874e6a38",
+      "status": "todo"
+    },
+    {
+      "n": 9,
+      "title": "Nejdůležitější je, když rodič žije své poslání - ukazuje dětem jak žít život",
+      "vimeoId": "824224981",
+      "vimeoHash": "1389596e3b",
+      "status": "todo"
+    },
+    {
+      "n": 10,
+      "title": "Díky koučování rozvíjím sebedůvěru, komunikaci i vztahy",
+      "vimeoId": "827374882",
+      "vimeoHash": "a39a06a77d",
+      "status": "todo"
+    },
+    {
+      "n": 11,
+      "title": "Vždycky jsem byla jako vrba, která lidem naslouchala, teď je to mé životní poslání",
+      "vimeoId": "824206248",
+      "vimeoHash": "e17631fadb",
+      "status": "todo"
+    },
+    {
+      "n": 12,
+      "title": "Z manažera týmu profesionálním koučem sportovců a podnikatelů",
+      "vimeoId": "824224642",
+      "vimeoHash": "2b9a2459cd",
+      "status": "todo"
+    },
+    {
+      "n": 13,
+      "title": "Obchodník Zdeněk se stal profesionálním koučem obchodníků a podnikatelů",
+      "vimeoId": "819915613",
+      "vimeoHash": "e88f93a0db",
+      "status": "done",
+      "slug": "zdenek-krejci"
+    },
+    {
+      "n": 14,
+      "title": "Po 10 letech v managementu vývoje software se Petr Kraus vydává na cestu profesionálního kouče",
+      "vimeoId": "817885592",
+      "vimeoHash": "4794043fc0",
+      "status": "todo"
+    },
+    {
+      "n": 15,
+      "title": "12 let v kariérním poradenství - jaké to je, když se mentor stane koučem",
+      "vimeoId": "817884794",
+      "vimeoHash": "7de710482f",
+      "status": "todo"
+    },
+    {
+      "n": 16,
+      "title": "Obchodník, který objevil koučování a stal se profesionálním koučem",
+      "vimeoId": "817736372",
+      "vimeoHash": "13749b6a1a",
+      "status": "todo"
+    },
+    {
+      "n": 17,
+      "title": "Učitelka Eva se stává koučem, jaká je její cesta za profesionálním koučováním?",
+      "vimeoId": "819240116",
+      "vimeoHash": "b055db34de",
+      "status": "todo"
+    },
+    {
+      "n": 18,
+      "title": "2000 odkoučovaných hodin s platícími klienty",
+      "vimeoId": "817735791",
+      "vimeoHash": "38ceafe553",
+      "status": "todo"
+    },
+    {
+      "n": 19,
+      "title": "20 let ve vrcholovém managementu - dopad koučování na vedení manažerů",
+      "vimeoId": "817734386",
+      "vimeoHash": "b972e2d398",
+      "status": "done",
+      "slug": "david-vala"
+    },
+    {
+      "n": 20,
+      "title": "30 let v byznyse, 4 roky koučem - dopad na vedení týmu",
+      "vimeoId": "817884737",
+      "vimeoHash": "ecae5880ba",
+      "status": "todo"
+    },
+    {
+      "n": 21,
+      "title": "Trénink mi přinesl vnitřní stabilitu, jistotu a sebedůvěru.",
+      "vimeoId": "585935787",
+      "vimeoHash": "96d8bb2855",
+      "status": "todo"
+    },
+    {
+      "n": 22,
+      "title": "Jeden z nejlepších zážitků, které můžete zažít.",
+      "vimeoId": "575367614",
+      "vimeoHash": "",
+      "status": "todo"
+    },
+    {
+      "n": 23,
+      "title": "Překvapilo mě jak jednoduché bylo oslovit a získat hráče",
+      "vimeoId": "570001565",
+      "vimeoHash": "",
+      "status": "todo"
+    },
+    {
+      "n": 24,
+      "title": "Je to neskutečně motivující a inspirující prostředí.",
+      "vimeoId": "574591708",
+      "vimeoHash": "",
+      "status": "todo"
+    },
+    {
+      "n": 25,
+      "title": "I s odstupem 3 let vím, že má očekávání byla naplněna na 100%",
+      "vimeoId": "658188296",
+      "vimeoHash": "1b0b99f4ca",
+      "status": "todo"
+    },
+    {
+      "n": 26,
+      "title": "Škola předčila mé očekávání v budování praxe a získávání hráčů. Bylo to nejlepší rozhodnutí mého života.",
+      "vimeoId": "671517281",
+      "vimeoHash": "967344f485",
+      "status": "todo"
+    },
+    {
+      "n": 27,
+      "title": "Hledal jsem něco, co by mě naplňovalo. Teď mám 2000 hodin praxe během 3 let od startu.",
+      "vimeoId": "654522909",
+      "vimeoHash": "f061d3c23c",
+      "status": "todo"
+    },
+    {
+      "n": 28,
+      "title": "17 let jsem pracoval v železárnách, trénink mi změnil celý život, nelituju ani minutu.",
+      "vimeoId": "653773357",
+      "vimeoHash": "5231c11b62",
+      "status": "todo"
+    },
+    {
+      "n": 29,
+      "title": "Jenom jsem věděla, že to vzdělání chci. Dnes mám 650 hodin praxe v koučování.",
+      "vimeoId": "653227545",
+      "vimeoHash": "2f61f015a4",
+      "status": "todo"
+    },
+    {
+      "n": 30,
+      "title": "Chtěla jsem vždycky pomáhat lidem, zajímala mě psychologie, dnes tím žiju.",
+      "vimeoId": "652093301",
+      "vimeoHash": "ed4b94557c",
+      "status": "todo"
+    },
+    {
+      "n": 31,
+      "title": "Mám 1800 hodin praxe. Trénink předčil má očekávání několikanásobně.",
+      "vimeoId": "672803946",
+      "vimeoHash": "b11b1563b6",
+      "status": "todo"
+    },
+    {
+      "n": 32,
+      "title": "Honza byl manažerem a dnes je úspěšným profesionálním koučem",
+      "vimeoId": "366536134",
+      "vimeoHash": "",
+      "status": "todo"
+    }
   ]
 }

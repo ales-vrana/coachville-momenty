@@ -1,0 +1,291 @@
+[
+  {
+    "id": "zk001",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 11,
+    "endUtt": 15,
+    "quote": "No, že jsem na to přestal tlačit, a ve chvíli, kdy jsem přestal tlačit na pilu, to znamená musím někoho urvat, prodat, tak přišli. Takže takový ten buddhistický princip, byť já nejsem nějaký ezoterik nebo něco takového. Ale tady to se mi vyplatilo, jakoby nedávat tomu nějakou přílišnou důležitost, protože ve chvíli, kdy jsem si řekl, jde mi o praktikování, protože praktikování vede k mistrovství, tak skutečně přišli ti platící klienti, jakoby to prostě vycítili, a tím, že jsem nehledal platící, že jsem hledal praktikování, tak jsem asi do toho dal i víc, do toho koučování, že jsem neměl prostě jednu ideu, ale fakt mi šlo o toho člověka, o to mu pomoct, ukázat mu, co to je to koučování. A v čem to může být pro ně prospěšné? A ti lidé si řekli, hele, to je něco, co se mi vyplatí a v čem tu hodnotu vidím.",
+    "summary": "Čekal platící klienty hned na začátku a divil se, že nepřicházejí: tlačil na pilu. Když přestal tlačit a šel za praxí místo za penězi, platící klienti přišli.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "začátek bez platících klientů; tlak na prodej nefungoval",
+    "monthsFromStart": 2,
+    "topics": [
+      "ziskam-klienty",
+      "co-bylo-tezsi",
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk002",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 7,
+    "endUtt": 8,
+    "quote": "No, ta byla velice taková spletitá, klikatá. Mně se totiž, jak jsem se vzdělával online, hlavně za covidu, tak se mi líbili takoví ti řečníci, kteří stáli před tou plnou aulou lidí a předávali jim svoje moudra. Pak jsem absolvoval pár kurzů naživo a tam jsem došel k závěru, že vím víc než ten lektor, který nás tam školil. A tak jsem si řekl, že bych mohl trošku změnit profesi a stát se mentorem a lektorem toho obchodu. Takže jsem začal psát knihu zdarma, která ani po roce a půl nebyla sepsána, protože jsem prostě neměl cíle, neměl jsem to prostě správně uchopené. A vlastně nic se nedělo. Takže jsem pak zůstal stát na takovém rozcestí a přišly mi do cesty dva webináře. Pojďte si vyzkoušet koučování. Jeden byl konkurenční školy a jeden byl právě z CoachVille, kde jsem měl možnost poznat tebe. A tam vlastně se mi líbil jednak tvůj přístup, jednak ta praktičnost a vlastně to představení všeho, co to je. A tam jsem si řekl, že když ne teď, když nevyužiji tu příležitost k tomu přeskočení na to koučování a vlastně vůbec na ty soft skills jako takové z toho prodeje, tak už to neudělám nikdy, protože prostě po tom roce a půl už bylo jasný, že to nikdy nedokončím.",
+    "summary": "Rok a půl psal knihu, kterou nedopsal, protože neměl cíl. Na rozcestí přišly dva webináře, konkurenční i CoachVille; řekl si, že když ne teď, tak nikdy.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "rok a půl bez posunu před rozhodnutím",
+    "isAdmission": false,
+    "topics": [
+      "cena-cekani",
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk003",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 18,
+    "endUtt": 18,
+    "quote": "pak se to přehodilo do toho kouče. Tak jsem třeba říkal, aniž bych si to uvědomil, já bojuju s tím přijmout se jako kouč, přijmout tu novou identitu. A kouč na koučovacím sezení mi prostě řekl, hele, ty furt jako bojuješ, a pak když mi to řekl třetí, tak jsem si řekl, že to úplně není dobře, že i ty slovíčka, jakoby ta mluva, kterou máme sami k sobě, určuje vlastně nás samotné. A úplně samo to potom vymizelo. Že jsem přestal používat slovíčka musím, musím někam zavolat, musím tady k tomu, musím tamhle to, anebo já bojuju. A to se ukázalo potom jako ten největší game changer, protože jsem si srovnal identitu a v tu chvíli prostě se dělají úplně jiné věci.",
+    "summary": "Aniž si to uvědomil, říkal „bojuju s tím přijmout se jako kouč“. Když mu to kouč řekl potřetí, přestal používat slova „musím“ a „bojuju“ a srovnala se mu identita.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk004",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 66,
+    "endUtt": 70,
+    "quote": "Musím říct, že tím, že jsem nastoupil vlastně na začátku, hnedka rovnou, tak celé léto jsem více méně furt, jak jsem říkal na začátku, bojoval s tím přijmout se jako kouč. Bojoval jsem s tou identitou, musím se prodat. A vlastně jeden z největších game changerů přišel právě na tom dvoudenním na konci října, kdy setkání právě s tou komunitou stejných lidí, kteří čelí stejným výzvám a mají úplně stejné trable a prostě překonávají to samé. Aniž bych to tušil, prostě se tak jakoby srovnala ta vnitřní integrita, že od té doby, a to jsem si uvědomil třeba až po měsíci, že už jsem nikdy nepoužil slovíčko bojuju, musím. Že už prostě tam jsem jel jako někdo, kdo se chce stát koučem, ale furt ještě, tam je to slovíčko ale, které úplně nemám rád, ale furt jakoby s tím bojuje, a odtamtud jsem odjížděl prostě jako kouč, který má jasně srovnanou identitu, který ví, co chce, jaký je jeho směr a cíl, a že to je to ono, pro co se rozhodl, a je neskutečně šťastný. Takže to byl fakt jako největší game changer, což jako kdyby nebylo, asi bychom tady možná spolu teďka neseděli, protože je možný, že už bych to vzdal, teď ani nemá smysl přemýšlet. Takže tohle bylo to nejzásadnější. Prostě jsou takové dva milníky, začátek tréninku a potom tohleto uvědomění, které vzniklo na společné akci.",
+    "summary": "Celé léto bojoval s identitou a s tím, že se „musí prodat“. Zlom přišel na dvoudenním setkání komunity na konci října; odjížděl jako kouč s jasným směrem. Kdyby nebylo, možná by to vzdal.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "celé léto boj s identitou kouče a s prodáváním sebe; blízko vzdání",
+    "monthsFromStart": 4,
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "nechci-oslovovat",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk005",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 29,
+    "endUtt": 31,
+    "quote": "Takové uvědomění je, že člověk má nějaké nastavení, jede si třeba v nějakém osobním rozvoji a říká si, na mně není co koučovat. A potom má setkání se svým koučovacím partnerem, což je úplně super, že v rámci toho koučovacího výcviku máte jednoho, dva nebo tři lidi, podle toho, jak se dáte dohromady, se kterými se koučujete. Takže jednak praktikujete vědomosti nabyté v té hodině, jednak se vlastně zdokonalujete, ale hlavně jakoby máte k dispozici kouče, se kterým můžete řešit úplně cokoliv. A takže když si jakoby opravdu rozklíčujete, kde máte svoje mezery a prostor pro zlepšení, a necháte se na to koučovat, tak to je vlastně bonus úplně neskutečný. A myslím si, že kdybych neměl partnery, což je skvělé na tom CoachVille, že prostě pak se hnedka dáme dohromady a hnedka od první hodiny praktikujeme spolu, tak asi bych nebyl tam, kde jsem teďka. Že člověk si dovede nastavit tu cestu, rozklíčovat si různé bloky a vlastně odhalit si to, co je za tím, že něco dělá, nebo že něco nedělá, nebo že o něčem nějak smýšlí. A to je jakoby obrovský bonus.",
+    "summary": "Za necelý rok 220 odkoučovaných hodin. Od první hodiny měl tréninkové partnery, s nimiž praktikoval a nechal se koučovat; bez nich by podle svých slov nebyl tam, kde je.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "220 hodin za necelý rok (číslo zaznělo v úvodu rozhovoru)",
+    "isAdmission": false,
+    "monthsFromStart": 11,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk006",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 39,
+    "endUtt": 40,
+    "quote": "Já teda musím říct, že byť jsem věděl o tom, že existuje někdo, jako je kouč, tak jakoby jsem úplně do hloubky toho, co to znamená, co on dělá a jaký je ten styl jeho práce, nikdy nepronikl. To znamená, já jsem si odhaloval úplně nové teritorium, zelenou louku, prostě dosud neobjevenou, nepolíbenou. Ovšem co bylo takové zásadní, je, že člověk do toho jde s tím, že má jasno, co to je koučování. Budu poslouchat, pak se občas na něco zeptám, pak mu řeknu, co tam ke mně přichází, a je to dobrý. A pro mě pak bylo důležité si uvědomit, že to takhle fakt není, že je to o té empatii, je to o tom naladění se, na toho druhého napojení se. Takže po prvních hodinách jsem přišel na to, že je potřeba velká pokora, co se týče toho množství informací, které přichází. A o to silnější pak byl ten posun můj, co se týče právě toho praktikování, toho koučování. A řekl bych i ty takové ty kvality. Kdybych porovnal svoje koučování na začátku a teď, tak bychom se možná hodně zasmáli.",
+    "summary": "Myslel si, že ví, co je koučování: poslouchat, občas se zeptat, říct, co ho napadá. Po prvních hodinách zjistil, že to tak není, a že je potřeba pokora. Své začátky a dnešek by srovnával se smíchem.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk007",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 42,
+    "endUtt": 43,
+    "quote": "Člověče, asi úplně ne, nicméně spíš bych to viděl v té třeba hloubce uvědomění, v tom napojení nebo něco takového, v tom, že ze začátku jsem to dělal hlavně po telefonu, to znamená, nenavnímával jsem toho člověka vizuálně, jako se třeba vidíme teďka. Až od určitého času a data jsem začal vlastně objevovat Google Meet, a na základě toho, což je stále taková moje hlavní komunikační platforma, případně WhatsApp, videohovor, aby u toho byl i ten obraz, což taky se pak ukázalo jako super, protože bylo slyšet kolikrát, jak to je na druhé straně, že tam něco šustí a [nesrozumitelné], a prostě ty odpovědi pak byly úplně o ničem, což mi ze začátku vadilo a štvalo, protože jsem přijímal zodpovědnost za to, co on si přináší. A to bylo pak taky jeden z game changerů, když prostě si člověk odhalí, že ta zodpovědnost je na tom koučovaném, protože prostě můžeš pokládat sebehlubší otázky, a když ten dotyčný na dotazování říká jenom nevím, to mi nic neříká, mě tam vůbec nic nenapadá, tak prostě si na nic nepřijde a pak řekne, no to bylo takový nějaký, no asi ne, děkuju, na shledanou.",
+    "summary": "Začínal po telefonu, odpovědi klientů byly „o ničem“ a štvalo ho to, protože bral zodpovědnost za to, co si klient přinese. Zlom: zodpovědnost je na koučovaném.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk008",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 50,
+    "endUtt": 53,
+    "quote": "Je to tohle, je to ta energie těch lidí, vůbec tu energii jakoby rozproudit a potom navnímávat. Já třeba jsem jako motivátor, takže se mi líbí z těch dovedností vyvolat v hráči skvělost třeba, kde ten člověk si neuvědomuje, že mi řekne, že třeba za leden navolal pět lidí a za týden mezi našimi setkáními navolal patnáct. A pro mě je to jakoby furt málo, protože má 400 kontaktů, kterých prostě nenavolává, a je skvělé prostě říct, ale 15 za týden, když to je třikrát víc než za celý měsíc předchozí, že jo. A řekne, jo, to je vlastně pravda, a to mu dodá sebedůvěru, protože sami sebe máme tendenci shazovat, nepochválíme se, vidíme většinou to negativní a ta pozitiva si už tak jako neuvědomujeme, a i na tom, to se mi líbí na tom koučování.",
+    "summary": "Klient, který za leden navolal pět lidí, navolal za týden mezi setkáními patnáct. Jinému stačila čtyři setkání a podle okolí je to jiný člověk.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "5 hovorů za měsíc → 15 za týden; 4 setkání",
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk009",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 56,
+    "endUtt": 57,
+    "quote": "Mně se už na té úvodní hodince, kterou jsem měl a která mě přesvědčila k tomu jít do toho koučování, a právě v CoachVille, líbila ta praktičnost, protože ty jsi nám tam řekl, co to je koučování, o čem to je, chvilku jsi povídal, bylo nás tam dvanáct plus ty, a pak jsi nám řekl tři otázky, hodil jsi nás vlastně do breakout roomu na Zoomu a hnedka se koučilo, takže jsme se super cizím člověkem probírali svoje cíle, hodnoty, sny a všechno tohle. A pak se mi líbilo, že přesně tady ten průběh je i v rámci toho výcviku. Že to není jenom o nějaké frontální výuce, kdy prostě po třech čtyřech hodinách člověku padá hlava, protože už má takových poznámek a takovouhle hlavu, ale že to je o tom, teď se budeme bavit o tomhle, pojďte si dvě, tři minuty povídat prostě ve dvou, ve třech, chvíli do breakout roomu, co to pro vás znamená, co si pod tím představujete, potom ten koncept představíš, vysvětlíš a potom zase pojďte si to napraktikovat, takže jakoby to střídání té teorie a okamžité praxe. Což je znát, protože když člověk občas na nějaké hodině chybí,",
+    "summary": "Úvodní hodina ho přesvědčila: dvanáct lidí, tři otázky, breakout room a hned se koučovalo s cizím člověkem. Stejné střídání teorie a praxe je pak v celém výcviku.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "úvodní hodina: 12 lidí, 3 otázky, hned koučování",
+    "isAdmission": false,
+    "monthsFromStart": 0,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk010",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 73,
+    "endUtt": 80,
+    "quote": "najde si nové místo a teďka do toho má přejít, už se blíží to, že to je, tak nespí a tohle a tohle, a budou mě mít rádi a přijmou mě a bude se mi dařit. A když vlastně tady to nebylo tak špatný, kde jsem, co vlastně hledám, na co si hraju, samozřejmě, ovšem potom, když člověk dá na tyhle pochyby, tak vlastně nepřijde na to, co může být jinak. A jako za mě jsem rád, že ty pochyby přišly až potom. De facto, že jsem nebyl vázán nikde v žádném zaměstnání, že jsem si to jakoby chtěl jenom přidat ke své podnikatelské činnosti. A postupem času se ukázalo, že chci, aby to bylo 100 % toho, co já budu ve svém čase dělat, takže v tom jsem měl velkou výhodu. Ale jsem rád, že ty pochyby přišly až potom a že díky koučům, parťákům, jsem ty pochyby překonal a jsem tam, kde jsem.",
+    "summary": "Výhodu měl v tom, že už podnikal. Obavy neměl před startem, přišly až po něm, a rozplynuly se díky parťákům a tomu, že přestal tlačit na platící klienty. Postupně chce koučování na sto procent.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "kdy-jsem-to-chtel-vzdat",
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk011",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 93,
+    "endUtt": 94,
+    "quote": "Nechte pochyby stranou. Možná najděte si, nejdřív si najděte kouče, abyste si to poznali i z té druhé strany. Což mi taky velice pomohlo, kromě koučování mezi parťákama jsem si i zaplatil kouče. Tam došlo k hodně zajímavých uvědomění a hlavně třeba k odstranění několika vlastních limitujících přesvědčení, které jsem měl, co se týče třeba mé vlastní hodnoty. Takže třeba zkuste si najmout kouče, udělejte si zkušenost s tím, jaké to je být na té druhé straně, a hlavně s ním můžete probrat ten svůj cíl a záměr, protože on pomůže rozklíčovat, co je skutečně za tím, a ty hodnoty. A vy, když do toho, když si uvědomíte ty vlastní hodnoty a to, co vám to může přinést, a najdete v tom to svoje poslání a ten záměr svého bytí, ať to zní jakkoliv, tak je to prostě tak, tak se vám do toho půjde daleko snáz, prostě bez jakýchkoliv pochyb.",
+    "summary": "Kromě parťáků si zaplatil vlastního kouče. Odstranil několik limitujících přesvědčení o vlastní hodnotě a vyjasnil si cíl a záměr.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  },
+  {
+    "id": "zk012",
+    "episode": "zdenek-krejci",
+    "guest": "zdenek-krejci",
+    "startUtt": 99,
+    "endUtt": 101,
+    "quote": "Je to tak, je to tak, pojmenoval jsi to velice dobře. Ale hlavně, co chci říct ještě, a na co jsem narážel ze začátku a narážím i teď, většina lidí má pocit, že když si najdu kouče, tak budu muset spoustu věcí změnit a začít dělat jinak. A prostě, co když já nebudu moct koukat na ten Netflix tři hodiny, ale třeba jenom jednu a pak se budu vzdělávat a tohle. To, že si člověk přijde na to, že něco může být jinak, neznamená, že to tak hnedka musí začít dělat. Tam jde jenom o to, že dokud si to člověk neuvědomí, tak vlastně nezjistí, že je tam příležitost. Opět je to příležitost k nějaké změně, ke které může dojít, ale nemusí. Takže není to o tom, že si řeknu u kouče, s koučem, že prostě nejsem šťastný ve svém povolání, tak jako OK, pojďme přijít na to, abych byl šťastný, nebo ne, ale prostě budu to vědět. A vlastně mi to může otevřít obzor, který se za nějaký čas ukáže jako ten hlavní, který mě vedl k tomu, že jsem si našel práci, která mě naplňuje, nebo jsem změnil kolegy, nebo prostě vůbec cokoliv. Cokoliv, cokoliv. Nemusím hnedka dělat teď hned jakoby změny. Jenom prostě o nich vědět.",
+    "summary": "Většina lidí má pocit, že s koučem budou muset spoustu věcí změnit. Uvědomit si, že něco může být jinak, neznamená, že to hned musí dělat jinak.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published"
+  }
+]
