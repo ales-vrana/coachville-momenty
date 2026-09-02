@@ -1,0 +1,549 @@
+[
+  {
+    "id": "kf001",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 2,
+    "endUtt": 3,
+    "quote": "Určitě. Tak ještě jednou vás moc zdravím. Mé jméno je Kamila Fibichrová a je mi 27 let. Vystudovala jsem obchodní akademii. Po obchodní akademii jsem šla na vysokou školu, kde jsem se věnovala učitelství, a získala jsem inženýrský titul z oboru finance. Po škole jsem šla hned jako absolvent do nadnárodní korporace, do firmy z Big Four, firmy z velké čtyřky, kde jsem se věnovala auditu a působila jsem tam tři roky. A už vlastně na vysoké škole jsem inklinovala nějakým způsobem ke koučinku a až v tom korporátu se to vydralo na povrch, takže jsem se do toho pustila naplno. Poté jsem začala, teda už při korporátu jsem začala koučovat. A k mým zájmům patří fitko, mám už 6 let přítele a ráda čtu knížky seberozvojové, medituji a věnuju se obecně seberozvoji, hlavně tomu koučování.",
+    "summary": "27 let, obchodní akademie, vysoká škola (učitelství, inženýrský titul z financí), hned po škole tři roky v auditu ve firmě z velké čtyřky. Ke koučování tíhla už na vysoké škole; v korporátu se to „vydralo na povrch“ a koučovat začala ještě při zaměstnání.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "27 let; 3 roky v auditu Big Four; koučování začala při plném úvazku",
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Výchozí bod pro tag 3 (věk, obor, vzdělání) je jasný; co si o svém backgroundu myslela, nezazní (stupeň B)."
+  },
+  {
+    "id": "kf002",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 7,
+    "endUtt": 8,
+    "quote": "Takže ten velký zlom přišel, až jsem pracovala v korporaci, byla jsem tam asi deset měsíců a jela jsem domů v tramvaji z práce po asi třinácti hodinách. A zrovna to bylo období, kdy se dostávaly feedbacky, a ten můj feedback byl hezký, měla jsem z něho radost, ale v podstatě, když jsem nasedla na tu tramvaj a jela jsem domů, tak ta počáteční radost se nějakým způsobem pomalu proměňovala v takovou vnitřní prázdnotu, že jsem si vlastně uvědomila, OK, já tady vlastně pracuji strašně moc hodin přesčas, vyplňuju excelovské tabulky, jsem v auditu od nevidím do nevidím, a za tu vlastně dřinu jsem poplácaná po rameni, jo super, jsme s tebou spokojení, ale já jsem to nějak vnitřně necítila. Byla jsem sice ráda, má první práce, jsou se mnou spokojení, ale já jsem cítila takovou prázdnotu v tom smyslu, že to je všechno, co od života mám dostat? Já chci něco víc, chci zažívat něco, co má dopad, co má skutečný smysl. A já jsem tam úplně v tom výkonu a shonu a vyplňování excelovských tabulek úplně smysl neviděla.",
+    "summary": "Po deseti měsících v korporátu jela tramvají domů po třinácti hodinách v práci. Feedback byl hezký, ale radost se cestou měnila v prázdnotu: přesčasy, excelové tabulky, audit od nevidím do nevidím a poplácání po rameni. Uvědomila si, že chce dělat něco, co má skutečný dopad a smysl.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stav před startem pro tag 10 (hodiny, výkon, prázdnota). Co se s tím stalo, je v kf014 až kf016."
+  },
+  {
+    "id": "kf003",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 10,
+    "endUtt": 13,
+    "quote": "Tak tam byl takový zlom, kdy jsem si říkala, že bych se tomu mohla věnovat už naplno. A přítel říká, hele, dívej, ty to v sobě máš, zkus to, zkus to a věnuj se tomu naplno. A bylo tam takové tlačítko v tom e-mailu, kdy jsem jela tou tramvají, klikněte teď. Já jsem když jsem neklikala na nějaké e-maily právě, klikněte teď, nebo vám už tyhle e-maily přestanou chodit, jelikož prostě nějak jsem na to dál neklikala. A já, no to ne, co bych dělala bez těch e-mailů? Tak tam bylo tlačítko rezervovat, pokud máte předpoklady, rezervujte si, a už jsem si s naší Verunkou domluvila call.",
+    "summary": "Na CoachVille narazila pár měsíců předtím na Facebooku a poslouchala podcasty. V tramvaji po feedbacích jí přišel poslední e-mail s tlačítkem „klikněte teď“ a testem předpokladů. Přítel řekl: „Ty to v sobě máš, zkus to.“ Klikla na rezervaci a domluvila si hovor s Verunkou z CoachVille.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "co-rekl-partner",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "První moment tématu Co řekl můj partner: partner byl pro, ne proti (metodika tagu počítá s odporem, sem patří jako doplněk „co se stalo pak“). Verunka je pracovnice školy, ne třetí strana příběhu."
+  },
+  {
+    "id": "kf004",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 18,
+    "endUtt": 20,
+    "quote": "No určitě, já jsem vlastně nastoupila do transformačního koučování 13. 6. a už tohle pro mě bylo nějakým způsobem znamení, protože 13. 6. mám narozeniny. Řekla jsem si, to je prostě nějaké znamení, kdy musím do toho jít, když to je v tento den. A pro mě ty začátky byly úžasné. Já jsem vlastně nevěděla vůbec, do čeho jdu, nevěděla jsem, jaká tam bude komunita, jestli tam budou lidé. Vypadalo to všechno hezky, ale říkala jsem si, je to tak i doopravdy? A strašně to předčilo veškerá má očekávání, protože já jsem vlastně nastoupila do transformačka někdy, ony začínají později odpoledne, na večer. A pro mě to byl takový únik z toho celodenního shonu, z korporátního, kde byl tlak na výkon a v podstatě nás někdo bral čistě jenom jako číslo a pracovníka, který si to musí odmakat nejlépe za co nejkratší čas. A když jsem se připojila po té práci později odpoledne k vám, tady k tobě do transformačního koučování, tak já jsem úplně koukala, jaké je tam bezpečné nehodnotící prostředí, jaká je tam komunita lidí, kde se navzájem podporujeme, kde jsme bráni jako lidské bytosti,",
+    "summary": "Nastoupila do transformačního koučování 13. 6. Nevěděla, do čeho jde, jestli tam bude opravdová komunita: „Vypadalo to hezky, ale je to tak i doopravdy?“ Lekce začínaly později odpoledne, po práci v korporátu; zažila bezpečné nehodnotící prostředí a lidi se stejným záměrem, což podle ní předčilo očekávání.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň B tagu Není to jen marketing: pochybnost a co se splnilo zazní, co se nesplnilo ne. Tag 8 (vedle práce) jen jako vedlejší: lekce večer po práci, bez hodin."
+  },
+  {
+    "id": "kf005",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 26,
+    "endUtt": 27,
+    "quote": "Já myslím, že tu první hodinu s tebou, jak jsem se přihlásila na to zažít roli kouče, roli klienta. Tak si říkám, intuice mi vždycky řekne. A já jsem se na to přihlásila a to bylo vlastně první zkušební, kdy jsme začínali s tebou koučovat a mohli jsme si to vyzkoušet, a já jsem z toho byla strašně nadšená. Já jsem odtamtud odcházela nabitá, říkala jsem si, že to je přesně to, co chci dělat. V podstatě tohle mě přesvědčilo, že se mám přihlásit do toho CoachVille.",
+    "summary": "Na otázku, co potřebovala zažít, aby uvěřila, že to není jen hezký marketing: první zkušební hodinu „zažít roli kouče, roli klienta“. Odcházela nabitá s tím, že přesně tohle chce dělat, a to ji přesvědčilo přihlásit se.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň A tagu 11 (ukázková hodina jako test, jak rozhodla), ale bez čísel: štítek názor je správně."
+  },
+  {
+    "id": "kf006",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 34,
+    "endUtt": 36,
+    "quote": "Tak já jsem vlastně na začátku, hned jak jsem nastoupila do koučinku, tak jsem začala koučovat se dvěma klienty, které jsi nám dal z balíčku. A mimochodem to mi strašně pomohlo, já jsem tu jednu klientku měla rok a půl, rok a tři čtvrtě, a byla to fakt úžasná spolupráce, vzpomínám na ni doteď. De facto to byla vlastně žena v korporaci stejně jako já, která potřebovala najít ten vnitřní klid a myslet více na sebe než na tu práci, na ten výkon. A já jsem měla teda původně dva klienty nejdříve, pak jsem postupně přidávala, protože jsem po roce a půl šla na kratší úvazek a tam už jsem to zvyšovala více. Takže koučovala jsem týdně i, měla jsem dva parťáky, to znamená tři, to znamená nějakých šest hodin koučování, nebo pět, klienti i parťáci určitě byli, plus transformačko. Takže nějakých 8 až 9 hodin, i 10 týdně jsem, 10 hodin týdně koučování jsem věnovala při plné práci.",
+    "summary": "Hned po startu koučovala dva klienty z balíčku kontaktů od školy; jednu klientku měla rok a půl až rok a tři čtvrtě. Při plném úvazku v auditu věnovala koučování 8 až 10 hodin týdně: klienti, dva tréninkoví parťáci a transformační koučování. Po roce a půl přešla na kratší úvazek a začala klientů přidávat.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "8 až 10 hodin koučování týdně při plném úvazku; 2 klienti z balíčku; klientka rok a půl; kratší úvazek po 1,5 roce",
+    "isAdmission": false,
+    "monthsFromStart": 18,
+    "hoursPerWeek": 9,
+    "topics": [
+      "vedle-prace-a-rodiny",
+      "koucovat-a-zustat-v-praci",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Obavy před startem (jestli se uživí, kde vezme klienty, promluva 15) sem patří jako kontext. Stupeň A pro tag Vedle práce (hodiny, kdy, co ustoupilo) i tag 1 (milník kratšího úvazku)."
+  },
+  {
+    "id": "kf007",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 38,
+    "endUtt": 39,
+    "quote": "Určitě. Jakmile se mi trošinku uvolnil čas, tak ti klienti začali přicházet, měla jsem i na to víc energie, takže jsem byla strašně ráda. A v podstatě já jsem šla na kratší úvazek s tím, že budu pracovat na nějakých, já nevím, 80 %. Prostě jsem pracovala jako na těch 100, v tom korporátu to je běžné, že když jste na full time, pracujete na 120 %, když jste na kratším úvazku, pracujete jen na těch [nesrozumitelné]. Ale už to pro mě bylo jakoby snížení, uvolnění té mé kapacity, toho mého času, takže já jsem byla za to strašně ráda. Mohla jsem se věnovat tomu, co mě strašně naplňuje, a ty odezvy od těch klientů byly naprosto úžasné. Hned ze začátku, jak jsem nastoupila do CoachVille a poslal jsi mi hned dva kontakty, o které jsem si řekla, tak už po prvních hodinách, kdy jsem se cítila nejistě, ale měla jsem tu strukturu, šla jsem podle toho a postupně jsem v tom byla sebevědomější a sebevědomější. Tak po pár hodinách ani jsem se nemusela tak moc snažit jako v korporátu, přicházely odezvy, kdy mi psali, že se jim lepší život díky",
+    "summary": "Na kratší úvazek šla s tím, že bude pracovat na 80 %, a jakmile se uvolnil čas, klienti začali přicházet a měla na ně víc energie. V prvních hodinách s dvěma kontakty od školy se cítila nejistě, ale šla podle struktury a s každou hodinou byla sebevědomější.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "kratší úvazek 80 % (v korporátu podle ní full time znamená 120 %)",
+    "isAdmission": false,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "bojim-se-prvniho-setkani",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň B: pocit nejistoty v prvních hodinách s detailem (struktura), bez průběhu setkání. Odezvy klientů o zdraví (promluva 40) záměrně mimo úsek."
+  },
+  {
+    "id": "kf008",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 43,
+    "endUtt": 44,
+    "quote": "Určitě ta naše komunita a ty. Vždycky, když jsme se každý týden připojili k tobě, tak jsme se mohli na něco zeptat, něco nám nebylo jasné, mohli jsme ti nahrát WhatsAppovou zprávu a ty jsi vždycky odpověděl, vždycky jsi odpověděl hlasovkou, nikdy se nestalo, že bys nás odbyl nějakou zprávou, vždycky to byla hlasovka, kde jsme měli kompletní informace, a díky tomu jsem se i posouvala. A mě to strašně, ta naše komunita, kde si opravdu pomáháme, a je to strašně přirozené pro nás. Takže hodiny s tebou jednak, pak komunikace s tebou mimo hodiny, to znamená na WhatsAppu, a parťáci určitě, bez toho by to nešlo. A v podstatě procházíte jako parťáci něčím podobným. Všichni mají velmi podobný ten background té práce. A mě to strašně pomáhalo, navzájem jsme se podporovali, v podstatě plánovali jsme si, jak to udělat, abychom se dál zdokonalovali v tom koučování, i když třeba někdo má rodinu, děti, práci, vždycky jsme si našli čas a táhli jsme to spolu, a myslím, že to mě dovedlo až do PCC levelu, kde jsem dnes.",
+    "summary": "Když v prvních sezeních nevěděla, co dělá, držela ji komunita: každý týden hodina s Alešem, na WhatsApp nahrála otázku a vždy dostala hlasovou odpověď, a hlavně tréninkoví parťáci s podobným pracovním zázemím. Sami si plánovali, jak se zlepšovat, i vedle rodin a práce, a „táhli to spolu“ až do PCC.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Co dala škola: týdenní hodiny, WhatsApp, parťáci. Co sama: plánování a rytmus s parťáky. Bez čísel."
+  },
+  {
+    "id": "kf009",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 49,
+    "endUtt": 50,
+    "quote": "Já s tím mám opravdu úžasnou zkušenost. Jak říkám, jeden z těch dvou kontaktů byla klientka, která se mnou byla rok a půl. Další klient něco přes tři měsíce. A jsou to klienti takoví ti moji první, první a ještě na které nejraději vzpomínám. A jsou to i klienti, se kterými jsem i dodnes. Vždycky si napíšeme na Vánoce, na Velikonoce. Ty začátky jsou krásné. Já jsem si to strašně užívala. I Aleš nám říkal, užívejte si ty první klienty, ty první odkoučované hodiny. Nebojte se dělat chyby. Vždycky se to prostě stane. Člověk udělá chybu, ale ten klient často o tom ani neví. A navíc v praxi se neuvěřitelně zlepšujete. A tím, že jsme šli hnedka do praxe, hnedka jsme šli koučovat reálné klienty, tak mi to dalo strašně moc více než, řekněme, vysoká škola, kde jsem byla pět let. Tam bylo hodně teorie, málo praxe, a tady nás hnedka hodili do praxe. Takže se nebojte, naučíte se to. Chce to jenom překonat ten počáteční strach a zažít to, zažít ty první hodiny.",
+    "summary": "Ze dvou kontaktů od CoachVille byla jedna klientka rok a půl a druhý klient přes tři měsíce; s oběma je dodnes v kontaktu. Od začátku šla rovnou koučovat reálné klienty, což jí podle ní dalo víc než pět let vysoké školy s teorií. Chyby se stanou, klient o nich často ani neví.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "2 kontakty od školy: klientka 1,5 roku, klient přes 3 měsíce",
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň A tagu 5 s číslem: co dala škola (2 kontakty) a co musela sama (jít hned do praxe s reálnými klienty). Zda kontakty platily, tu nezazní; z názvu videa a promluvy 65 (dva platící klienti) ano."
+  },
+  {
+    "id": "kf010",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 52,
+    "endUtt": 58,
+    "quote": "Já myslím, že častá chyba je, že v momentě, kdy se nedaří, tak ten člověk se toho lekne a vlastně polemizuje o tom, jestli má smysl jít dál. Já myslím, že to je největší blbost, kterou člověk může udělat, když cítí, že má pro to vlohy, a zastaví ho první, druhá nebo třetí překážka, tak to se nesmí stát. Pokud člověk věří, že to dokáže, doporučuji si napsat, například já jsem to tak měla na ledničku, 10 bodů, to moje proč. Proč chci pokračovat v těch chvílích, kdy se třeba nebude úplně dařit. Nebo když budu mít nějakou úzkostnou chvíli a budu prostě o všem pochybovat. I to se stane. Myslím, že to zažívá každý. Ale právě těch mých 10 bodů proč, které mám dnes na ledničce, mi pomohly v těch těžkých chvílích. Takže určitě, pokud se zastavíte u toho, že se bojíte toho, že se teď nedaří a bude to tak už vždycky, tak to je největší chyba, protože všechno je dočasné. I to, když se vám daří, i když se vám nedaří.",
+    "summary": "Největší chyba podle ní: leknout se, když se nedaří, a polemizovat, jestli jít dál. Sama má na ledničce 10 bodů „moje proč“, které jí pomohly v těžkých a úzkostných chvílích. Odmítnutí zažila („Ježiš, a jak!“) a naučila se ho slavit jako další „ne“ na cestě k „ano“.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "těžké a úzkostné chvíle s pochybnostmi o všem; řada odmítnutí",
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stupeň B tagu 8 (mechanismus: 10 bodů proč) a tagu C2 (odmítnutí bez přesných slov oslovení). Úsek obsahuje otázku tazatele (55)."
+  },
+  {
+    "id": "kf011",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 60,
+    "endUtt": 61,
+    "quote": "Teď mě napadlo, že bych dala dřív výpověď, ale to nesouvisí s výcvikem. Ale co bych udělala jinak? Určitě bych se tolik nekontrolovala, tolik bych se nebála udělat chybu. A víc bych si ty začátky užívala. Jsme lidi, pokud začínáme s nějakým oborem, s nějakou profesí, je přirozené, že ty chyby přijdou. A tady nejsme ve škole. Tady v CoachVille nás učí, ale hlavně ty nás učíš, že dělat chyby je lidské a je to součást cesty. Takže víc bych si to užívala. Méně bych se kontrolovala v tom, jak to dělám, a nechala bych se vést svou intuicí. Možná bych tehdy i požádala o více klientů do toho začátku, více klientů.",
+    "summary": "Kdyby začínala znovu: dala by dřív výpověď, tolik by se nekontrolovala, nebála by se chyb a víc by si začátky užívala. A požádala by školu o víc klientů do začátku.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "cena-cekani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Odpověď na otázku „co bys udělala jinak“. Cena čekání jen jednou větou (dřív výpověď), bez čísel."
+  },
+  {
+    "id": "kf012",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 63,
+    "endUtt": 64,
+    "quote": "Já myslím, že v průběhu mé cesty byl úžasný zlom a úžasné uvědomění to, když mě začaly oslovovat mladší kouči, jestli nebudu jejich koučkou.",
+    "summary": "Zlom na její cestě: začali ji oslovovat mladší kouči, jestli nebude jejich koučkou. Jedna klientka jí napsala, že se jí mění život; jiná jí dva roky posílala vyfocený deník vděčnosti, kde byla skoro každý den.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag TR4 stupeň A: klienty jsou i jiní kouči. Citace záměrně končí před větou „zachránila jsem jí život“ (v úseku zůstává, do souhrnu ne)."
+  },
+  {
+    "id": "kf013",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 65,
+    "endUtt": 68,
+    "quote": "A tam přišel ten zlom, kdy jsem šla do extrémního nekomfortu pro mě, protože jsem měla jako full-timista v nadnárodním korporátu moc krásný plat. Moc krásný plat. A šla jsem do toho nekomfortu, že jsem šla na kratší úvazek, kde ten plat byl mnohem, mnohem nižší. Za stejnou práci. Ale v podstatě tam přišel ten zlom. Mohla jsem díky tomu mít více klientů a mohla jsem se díky tomu rozvíjet víc jako profesionální koučka, mohla jsem být i vědomější na těch lekcích s tebou, protože jsem tam často chodila unavená, nevyspalá, když jsem pracovala hodně času v kanceláři i třeba do půlnoci. Při těch auditech, kdy byly jasné deadliny, termíny, a musely se dodržet. A tam si myslím, že byl zlom, že vlastně jak se mi maličko ulevilo v té práci, že to bylo maličko méně, tak to bylo za mě strašně poznat. Já jsem byla vědomější, chodila jsem i cvičit, nebyla jsem takový ten zombík, který prostě jede na ten výkon. A tam přišel ten zlom, že toho chci ještě víc a ještě víc.",
+    "summary": "Po roce a půl v korporátu nechtěla být na full time jen se dvěma platícími klienty. Šla do „extrémního nekomfortu“: kratší úvazek za mnohem nižší plat za stejnou práci. Do té doby chodila na lekce unavená a nevyspalá po auditech do půlnoci; po úlevě byla vědomější, chodila cvičit a věděla, že odchod z práce časem přijde.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "kratší úvazek za mnohem nižší plat za stejnou práci; předtím na lekce unavená a nevyspalá",
+    "monthsFromStart": 18,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Milník tagu 1: kratší úvazek po 18 měsících se dvěma platícími klienty, ne s plnou praxí. Tag 10: stav před (do půlnoci, zombík) a po (vědomější, cvičení)."
+  },
+  {
+    "id": "kf014",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 70,
+    "endUtt": 73,
+    "quote": "Teď mám patnáct klientů. Děkuju mockrát. Je to číslo, které jsem vždycky chtěla od začátku, co jsem nastoupila do CoachVille. Nevím proč, prostě jsem si stanovila číslo patnáct a teď ho mám, takže já jsem strašně moc ráda, že se to děje. Že můžu naplno pomáhat těm klientům na full time. Být koučem na full time, to byl můj sen.",
+    "summary": "Dnes má patnáct klientů, číslo, které si stanovila hned při vstupu do CoachVille, a koučuje na plný úvazek. Denně jednu až čtyři hodiny; maximum, které si dala, jsou čtyři hodiny práce denně.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "15 klientů po 2,5 roku od startu; maximum 4 hodiny denně",
+    "isAdmission": false,
+    "monthsFromStart": 30,
+    "topics": [
+      "ziskam-klienty",
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Odkud klienti přišli, tu nezazní (v části pro studenty: víc než čtvrtina z Pokémon balíčků, kfc02)."
+  },
+  {
+    "id": "kf015",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 75,
+    "endUtt": 79,
+    "quote": "No, vydělám si o hodně více peněz za méně času, což pro mě byl úplně zlomový okamžik a aha moment, kdy mi poprvé přišly penízky na účet a já si říkám, wow, tolik peněz za tak málo hodin, teď to bych prostě musela makat, já nevím, třeba celý měsíc, a teď to mám prostě za podstatně méně hodin. Pro mě to bylo obrovské aha, i takhle se dá žít život. Takže já vlastně můžu si vydělat daleko víc za méně času, nejsem strhaná, nejsem unavená, jsem ještě nabitá po těch klientech, a často se mi to stává, já třeba mám dny, třeba jdu do fitka, jsem unavená, pak jdu na to sezení s klientem a já jsem do deseti minut nabitá, já prostě pak odcházím po té hodině, nevím, jak se to děje, ale asi jsem na správném místě. A je to prostě boží, že člověk může vidět i to denní světlo, ve dvanáct odpoledne jít na oběd. Jen tak. Lidi, já jsem si připadala, jako kdybych odešla někde z vězení. A jednou jsem šla z práce třeba nějak o půl třetí a špička, prostě kolona, říkám, ti lidi jako nepracují, nebo co tady dělají jako na té silnici v tom autě, když já kolikrát v práci do sedmi, do šesti.",
+    "summary": "Vydělá o hodně víc peněz za méně času; zlomový moment byl, když jí poprvé přišly peníze za koučování na účet: tolik, na kolik by v korporátu musela pracovat celý měsíc. Není strhaná, po klientech je nabitá a může jít na oběd ve dvanáct; z korporátu jí to připadá „jako z vězení“.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "prvni-penize",
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag E1 stupeň B: bez částky a měsíce, jen poměr k dřívější výplatě. Částky jsou v kf017 (cena sezóny)."
+  },
+  {
+    "id": "kf016",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 95,
+    "endUtt": 97,
+    "quote": "V ten moment, kdy začaly přicházet feedbacky a zpětné vazby od klientů. To znamená, klient přišel s nějakým neřešitelným dilematem, přišel unavený na to setkání, přetížený. A už během půl hodinky jsme dokázali, že se rozsvítil jak ten vánoční stromeček. Řekl si, aha, vlastně to tak nemusí být. Já nemusím, já můžu. A ten moment, kdy jsem si uvědomila, že koučuju, je, že když jsem zažívala s těmi klienty, co si můžou dovolit, že to tak nemusí být navždycky, že mají tu moc to změnit a můžou se postavit těm svým strachům a obavám, a že ty strachy mnohdy ani nejsou reálné.",
+    "summary": "Koučkou, ne studentkou, se cítila ve chvíli, kdy začaly chodit zpětné vazby: klient přišel s neřešitelným dilematem, přetížený, a za půl hodiny „se rozsvítil jak vánoční stromeček“. Přišlo to po pár týdnech od startu. Klientka po roleplayi rozhovoru s nadřízeným dostala povýšení.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: kdy se poprvé cítila jistě (po pár týdnech, při prvních zpětných vazbách)."
+  },
+  {
+    "id": "kf017",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 114,
+    "endUtt": 115,
+    "quote": "Kolik si budu účtovat teď za sezónu, jo? Za tříměsíční sezónu si budu účtovat nějakých 26 tisíc, možná 30. A za dva roky, za tři roky to může být dvojnásobek, trojnásobek, čtyřnásobek i pětinásobek víc, jo? Tam v podstatě žádné omezení není. Jako kouči se pořád zdokonalujeme, každý den na sobě pracujeme, ale ne proto, že bychom museli, ale proto, že bychom chtěli. A ten seberozvoj nikdy nekončí. Takže pokud chce být člověk profesionálním koučem, nestane se to za nějaký víkendový kurz, to je prostě nemožné. To musíte tím žít, musíte to cítit.",
+    "summary": "Za tříměsíční herní sezónu si dnes, dva a půl roku od startu, účtuje 26 až 30 tisíc korun. Za dva až tři roky to podle ní může být dvojnásobek až pětinásobek. Profesionálním koučem se člověk nestane za víkendový kurz, musí tím žít.",
+    "proofElements": [
+      "číslo",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "26 až 30 tisíc Kč za tříměsíční sezónu (2,5 roku od startu)",
+    "isAdmission": false,
+    "monthsFromStart": 30,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Dnešní cena zazní, první cena a kdo ji zaplatil ne (stupeň B). Odhad budoucí ceny je odhad hosta, ne fakt."
+  },
+  {
+    "id": "kf018",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 126,
+    "endUtt": 128,
+    "quote": "nejenom z Česka, ale i z jiných států. Mám klienty z Anglie, z Nizozemska, ze Slovenska, takže nemusíte se omezovat na tu Českou republiku. A pokud do toho půjdete, tak zjistíte, že lidé jsou strašně moc zajímaví a že můžete právě potkat někoho, komu změníte život, a on možná vám. Navíc v CoachVille jsou i skvělé programy, jako je třeba Inspire Next pro studenty,",
+    "summary": "Má klienty z Anglie, Nizozemska a ze Slovenska; kouč se podle ní nemusí omezovat na Českou republiku. Zmiňuje i program Inspire Next pro studenty s ISIC kartou, který ji baví.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "male-mesto"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "První moment tématu V mém městě nebude komu koučovat: stupeň B (klienti ze zahraničí, bez podílu online a bez velikosti města). Úsek začíná vzkazem hráčům (126)."
+  },
+  {
+    "id": "kfc01",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 132,
+    "endUtt": 134,
+    "quote": "Dobře, tak já mám z Pokémon balíčky skvělou zkušenost. Nakoupila jsem čtyři Pokémon balíčky, různé varianty, jako manažery, ty jsou teď čerstvé, většina strategických schůzek bude až po Vánocích. Ty ostatní tři balíčky, ty byly takové ty klasické balíčky, které nebyly rozdělené do nějakých profesí. A celkem se mi podařilo vyfakturovat z těch balíčků 60 tisíc, a to jsem ještě neprošla ten poslední balíček úplně. S tím, že co se týká manažer Pokémonů, tak měla jsem dvě strategické schůzky a opět dvě dopadly dobře. Takže mám z toho teď dvě čerstvé klientky a zbytek, osm kontaktů, budou strategické schůzky až po novém roce. A to musím podotknout, že vyfakturováno bylo přes 60 tisíc, a to jsem nevolala na staré kontakty. Já jsem volala pouze z těch všech čtyř balíčků na ty čerstvé. A to ještě nevíš to, že jsou kouči, kteří říkají, že ty bonusové kontakty jsou ještě lepší než ty nové kontakty. No, na to se těším po novém roce.",
+    "summary": "Koupila čtyři Pokémon balíčky kontaktů (jeden pro manažery). Z nich zatím vyfakturovala přes 60 tisíc korun, aniž volala na starší kontakty; z manažerského balíčku dvě strategické schůzky a dvě nové klientky, osm schůzek čeká po Novém roce.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "4 balíčky; vyfakturováno přes 60 tisíc Kč; 2 ze 2 strategických schůzek → klientky",
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "candidate",
+    "editorNote": "Z části rozhovoru označené jako určená studentům CoachVille (od 53:24). Nepublikovat bez rozhodnutí Aleše; status candidate, web ho ignoruje. Nejsilnější důkaz k tagu 5 s čísly (co dala škola: kontakty za peníze; co sama: volání, strategické schůzky)."
+  },
+  {
+    "id": "kfc02",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 149,
+    "endUtt": 149,
+    "quote": "Určitě si myslím, že to na 60 tisících nezůstane, protože už teď klientka říká, že by se mnou chtěla spolupracovat i další rok, takže očekávám spolupráce na základě těch balíčků i další rok. A s tím, že pokud se jedná o Pokémony, které jsem dostala za celou tu mou cestu v CoachVille, které jsme získali na začátku nebo třeba do vstupu do PCC, tak tam dělá ta hodnota 93 tisíc, to znamená celkem za Pokémony je hodnota vyfakturováno přes 150 tisíc.",
+    "summary": "Za kontakty získané za celou cestu v CoachVille (na začátku a při vstupu do PCC) vyfakturovala 93 tisíc; s balíčky dohromady přes 150 tisíc korun. Klientka z balíčku chce pokračovat i další rok.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "93 tisíc z bonusových kontaktů + přes 60 tisíc z balíčků = přes 150 tisíc Kč",
+    "isAdmission": false,
+    "topics": [
+      "prvni-penize",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "candidate",
+    "editorNote": "Z části rozhovoru označené jako určená studentům CoachVille (od 53:24). Nepublikovat bez rozhodnutí Aleše; status candidate, web ho ignoruje."
+  },
+  {
+    "id": "kfc03",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 207,
+    "endUtt": 208,
+    "quote": "Přesně. A co bych chtěla říct, je, že teď mám patnáct klientů a více jak čtvrtina je vlastně z Pokémonů. Takže já jsem za to strašně moc ráda. Dokonce mi jedna klientka napsala strašně krásnou recenzi, že vyzkoušela už pět koučů a já jsem šestá a konečně ta pravá. Takže já mám velkou radost, že i prostě mezi Pokémon balíčky jsou klenoty, jenom je třeba koupit si víc než ten jeden. A kontaktoval mě teďka i kouč z jiné školy s tím, že se mě ptal, jak sháním klienty, že se mu nedaří, že neví, kde má sbírat ty kontakty. Tak jsem mu řekla o Pokémon balíčcích, a on hleděl, říkal, že to je super, že to tady máme, protože oni v té škole to nemají, takže ne každá škola to má.",
+    "summary": "Z patnácti klientů je víc než čtvrtina z Pokémon balíčků. Jedna klientka jí napsala recenzi, že vyzkoušela už pět koučů a Kamila je šestá a konečně ta pravá. Kouč z jiné školy se jí ptal, kde bere klienty; jeho škola kontakty nemá.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "15 klientů, víc než čtvrtina z balíčků; klientka po 5 koučích",
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "candidate",
+    "editorNote": "Z části rozhovoru označené jako určená studentům CoachVille (od 53:24). Nepublikovat bez rozhodnutí Aleše; status candidate, web ho ignoruje. Stupeň A tagu TR4: proč si ji klientka vybrala po pěti jiných koučích. Zmínka o jiné škole bez jména."
+  },
+  {
+    "id": "kfc04",
+    "episode": "kamila-fibichrova",
+    "guest": "kamila-fibichrova",
+    "startUtt": 217,
+    "endUtt": 219,
+    "quote": "Já jsem viděla, že se mi to vrátí. Já jsem viděla, že když v podstatě budu pokračovat, ano, budou tady nějaké měsíční splátky, ano, bude to prostě úbytek díky tomu z mého příjmu v práci, ale je to jenom dočasné. Je to prostě investice. Brala jsem to jako investici, tak jako ACC. Investici do sebe, která se vrátí. Ale nemůžete tu investici očekávat, že se vrátí za měsíc, za pár měsíců. Někdy část, jo, ale prostě vrátí se v měsících. Celá ta investice se může vrátit i za rok, za dva, a prostě několikanásobně tu investici i převýšit. Takže já jsem s tím šla do toho, že jsem věděla, že je tady nějaký finanční závazek, ale věděla jsem, že to s mou prací zvládnu a že nebude trvat dlouho, a díky tomu, že půjdu do toho levelu PCC, tak budu i časem moct opustit práci a vydělat si daleko víc. Za pár let si ani nevšimnu, že nějaká taková investice byla, protože se mi to tolikanásobně vrátí, a je to prostě know-how, které můžete používat do konce života.",
+    "summary": "Do PCC šla s tím, že měsíční splátky dočasně ukrojí z příjmu v práci; brala to jako investici jako ACC. Návratnost nečekala za měsíc, ale v měsících až za rok dva, s tím, že se investice několikanásobně vrátí a časem bude moct opustit práci.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdyz-jsem-videl-cenu",
+      "odkud-penize-na-skolu",
+      "pujcka-a-klient-neprijde"
+    ],
+    "thirdPartyName": false,
+    "status": "candidate",
+    "editorNote": "Z části rozhovoru označené jako určená studentům CoachVille (od 53:24). Nepublikovat bez rozhodnutí Aleše; status candidate, web ho ignoruje. Pozor navigátor: úvaha staví na budoucím příjmu z koučování; pokud publikovat, jen s větou „jednotlivá zkušenost, ne příslib“."
+  }
+]

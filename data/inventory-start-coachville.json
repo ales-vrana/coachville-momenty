@@ -230,6 +230,15 @@
       "vimeoId": "366536134",
       "vimeoHash": "",
       "status": "todo"
+    },
+    {
+      "n": 33,
+      "title": "Kamila Fibichrová se stala profesionální koučkou v CoachVille",
+      "vimeoId": "1148752940",
+      "vimeoHash": "cc428b179d",
+      "status": "done",
+      "slug": "kamila-fibichrova",
+      "note": "mimo startovací balíček, embed dodal Aleš 2. 9. 2026; druhá část videa (od 53:24) je určená studentům"
     }
   ]
 }

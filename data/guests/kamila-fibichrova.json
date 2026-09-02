@@ -1,0 +1,52 @@
+{
+  "slug": "kamila-fibichrova",
+  "displayName": "Kamila Fibichrová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 30,
+  "priorProfessionText": "auditorka ve firmě z velké čtyřky (3 roky), Ing. z financí; 27 let",
+  "priorProfessionCat": "úřad a administrativa",
+  "regionType": "neuvedeno",
+  "ageBand": "do 35",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "obchodní akademie, VŠ (učitelství, Ing. finance); hned po škole audit v Big Four, 13hodinové dny; po 10 měsících prázdnota v tramvaji po feedbacku"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "CoachVille z Facebooku a podcastů; e-mail s testem předpokladů, přítel „zkus to“, hovor se školou, zkušební hodina v roli kouče a klienta; obavy: uživím se, kde vezmu klienty"
+    },
+    {
+      "label": "Start (13. 6.)",
+      "text": "transformační koučování večer po práci; 2 klienti z balíčku školy; 8 až 10 hodin koučování týdně při plném úvazku"
+    },
+    {
+      "label": "Po 1,5 roce",
+      "text": "kratší úvazek (80 %) za mnohem nižší plat; klienti začali přibývat, víc energie"
+    },
+    {
+      "label": "Odchod z korporátu",
+      "text": "oslavila na workshopu CoachVille; dnes 15 klientů, koučuje na plný úvazek, max. 4 hodiny denně; klienti i z Anglie, Nizozemska a Slovenska"
+    },
+    {
+      "label": "Dnes (2,5 roku)",
+      "text": "přes 500 odkoučovaných hodin, PCC level; 26 až 30 tisíc Kč za tříměsíční sezónu"
+    }
+  ]
+}
