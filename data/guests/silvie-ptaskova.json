@@ -1,0 +1,59 @@
+{
+  "slug": "silvie-ptaskova",
+  "displayName": "Silvie Ptašková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "PCC",
+  "monthsInTraining": 50,
+  "priorProfessionText": "projektová manažerka, dříve učitelka; start po roce na mateřské (37 let)",
+  "priorProfessionCat": "manažer / vedoucí",
+  "city": "Ostrava",
+  "regionType": "velkoměsto",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://www.vysmatakoucka.cz/",
+      "label": "Web Vysmátá koučka (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "projektová manažerka, dříve učitelka; v 37 letech po narození dcery „mám splněno“; deset let sebekoučování od prvního zážitku s koučem"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "test předpokladů do 4 dnů; volba ze dvou škol; rozhodlo setkání s Alešem bez prodeje; manžel: „zkus to, nebo o tom budeš 40 let mluvit“"
+    },
+    {
+      "label": "Start",
+      "text": "první telefonát bývalé kolegyni 3 měsíce po porodu pro „ne“, dostala ano; obvolávala kontakty, hodinu denně; koučovala, jen když dcera spala, max. 2 klienti denně"
+    },
+    {
+      "label": "Pauza",
+      "text": "po základním tréninku tři čtvrtě roku pauza kvůli malé dceři; praxe šla dolů; „jedna z největších chyb“; návrat do ACC levelu"
+    },
+    {
+      "label": "ACC až PCC",
+      "text": "asi 10 kontaktů od školy, ukázka každý týden; celý výcvik vrácený do 1,5 roku; koncept šťastné mámy místo dobré mámy"
+    },
+    {
+      "label": "Dnes (přes 4 roky)",
+      "text": "ICF PCC, přes 1 200 hodin; klienti podnikatelé a projektoví manažeři; 3 000 až 4 500 Kč; web vysmatakoucka.cz"
+    }
+  ]
+}
