@@ -1,0 +1,115 @@
+{
+  "slug": "jitka-trmalova",
+  "title": "Vždycky jsem byla jako vrba, která lidem naslouchala, teď je to mé životní poslání",
+  "guestSlugs": [
+    "jitka-trmalova"
+  ],
+  "vimeoId": "824206248",
+  "vimeoHash": "e17631fadb",
+  "vimeoUrl": "https://vimeo.com/824206248/e17631fadb",
+  "recordedAt": "2023-05-01",
+  "durationS": 2240,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 43,
+      "title": "Tři profese, šest jazyků"
+    },
+    {
+      "t": 110,
+      "title": "Vrba od školky; 20 let váhání"
+    },
+    {
+      "t": 212,
+      "title": "Covid: já tady hniju"
+    },
+    {
+      "t": 305,
+      "title": "Test, iluze a první hodina"
+    },
+    {
+      "t": 409,
+      "title": "Nečekala bych"
+    },
+    {
+      "t": 495,
+      "title": "Výpověď po půl roce"
+    },
+    {
+      "t": 575,
+      "title": "Skloubení s prací"
+    },
+    {
+      "t": 643,
+      "title": "Koučování v roli vedoucí"
+    },
+    {
+      "t": 723,
+      "title": "Nepřiznaný záměr"
+    },
+    {
+      "t": 797,
+      "title": "Volná noha: chybí kolegové"
+    },
+    {
+      "t": 894,
+      "title": "Tip: polštář, ne tlak na 20 klientů"
+    },
+    {
+      "t": 951,
+      "title": "Být koučovaná: akcelerace"
+    },
+    {
+      "t": 1105,
+      "title": "Balvan ze zad: moje koučování"
+    },
+    {
+      "t": 1224,
+      "title": "Doporučení zájemcům"
+    },
+    {
+      "t": 1287,
+      "title": "Oblíbení klienti"
+    },
+    {
+      "t": 1385,
+      "title": "Co mě baví"
+    },
+    {
+      "t": 1504,
+      "title": "Komunita: osamělá profese"
+    },
+    {
+      "t": 1590,
+      "title": "Z módu hotovo do módu na cestě"
+    },
+    {
+      "t": 1695,
+      "title": "Vzkaz hráčům; kouzelné zrcadlo"
+    },
+    {
+      "t": 1827,
+      "title": "Motto: Gandalf"
+    },
+    {
+      "t": 1873,
+      "title": "Koučování a lidstvo"
+    },
+    {
+      "t": 2102,
+      "title": "Na dobrodružství se nezvažuje"
+    },
+    {
+      "t": 2190,
+      "title": "Kontakt: fortna.eu"
+    }
+  ],
+  "transcriptFile": "data/transcripts/jitka-trmalova.json"
+}

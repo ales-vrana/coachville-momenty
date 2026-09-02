@@ -1,0 +1,54 @@
+{
+  "slug": "jitka-trmalova",
+  "displayName": "Jitka Trmalová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 26,
+  "priorProfessionText": "sociální práce, vedení malé firmy v cestovním ruchu; obchod s uměním a správa sbírky (tři profese vedle sebe); šest jazyků",
+  "priorProfessionCat": "zdravotnictví, péče a sociální služby",
+  "regionType": "neuvedeno",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://www.fortna.eu/",
+      "label": "Web Fortna.eu (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "od dětství „vrba“; v 18 chtěla terapii, neměla odvahu; sociální práce, vedení týmu v cestovním ruchu, obchod s uměním; 20 let a dalších 5 až 6 let váhání"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "covid: 10 týdnů bez práce v lese, „já tady hniju“; vstupní test jako ověření vloh; volba školy intuitivně"
+    },
+    {
+      "label": "Start",
+      "text": "čekala, že se bude učit radit; první hodina s kamarádkou: po deseti minutách „proč to neděláš dávno“; s koučem překonala strach"
+    },
+    {
+      "label": "6. měsíc",
+      "text": "výpověď a volná noha bez plné praxe; první měsíce chyběli kolegové a řád; vyčerpání ze snahy dělat to „správně“, pak vlastní cesta"
+    },
+    {
+      "label": "Dnes (přes 2 roky)",
+      "text": "přes 400 hodin praxe; půl roku Praha, půl roku chalupa; pár dní v měsíci v týmu; koučování vedle dalších profesí; web fortna.eu"
+    }
+  ]
+}
