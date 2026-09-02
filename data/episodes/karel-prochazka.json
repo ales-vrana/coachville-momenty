@@ -1,0 +1,111 @@
+{
+  "slug": "karel-prochazka",
+  "title": "Obchodník, který objevil koučování a stal se profesionálním koučem",
+  "guestSlugs": [
+    "karel-prochazka"
+  ],
+  "vimeoId": "817736372",
+  "vimeoHash": "13749b6a1a",
+  "vimeoUrl": "https://vimeo.com/817736372/13749b6a1a",
+  "recordedAt": "2023-04-01",
+  "durationS": 2700,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 51,
+      "title": "Kariérní hledač: diplomacie, startupy"
+    },
+    {
+      "t": 123,
+      "title": "Korona, kamarád kouč a první hodina"
+    },
+    {
+      "t": 193,
+      "title": "Kouč neradí; zachraňování nefungovalo"
+    },
+    {
+      "t": 338,
+      "title": "Není to zasahování psychologům?"
+    },
+    {
+      "t": 354,
+      "title": "Vstup: tři, čtyři měsíce, ne celý život"
+    },
+    {
+      "t": 540,
+      "title": "Klíčové momenty s hráči"
+    },
+    {
+      "t": 660,
+      "title": "180 hodin, 8 až 9 hráčů týdně"
+    },
+    {
+      "t": 716,
+      "title": "Doporučení zájemcům"
+    },
+    {
+      "t": 810,
+      "title": "Oblíbení hráči kolem třicítky"
+    },
+    {
+      "t": 918,
+      "title": "Sny a herní jazyk hráčů"
+    },
+    {
+      "t": 1127,
+      "title": "Proč rady nefungují"
+    },
+    {
+      "t": 1375,
+      "title": "Šest let imunní vůči radám"
+    },
+    {
+      "t": 1430,
+      "title": "Kouč není kamarád ani mentor"
+    },
+    {
+      "t": 1678,
+      "title": "Nemůžeš lidi zkazit? Obchod a koučování 50/50"
+    },
+    {
+      "t": 1815,
+      "title": "Koučování a budoucnost lidí"
+    },
+    {
+      "t": 1942,
+      "title": "iPhone bez aplikací"
+    },
+    {
+      "t": 2038,
+      "title": "Komunita CoachVille"
+    },
+    {
+      "t": 2179,
+      "title": "Motto: když nejde o život"
+    },
+    {
+      "t": 2237,
+      "title": "8 hodin týdně přítomnosti, roadmapa"
+    },
+    {
+      "t": 2324,
+      "title": "Vzkaz hráčům a chemie s koučem"
+    },
+    {
+      "t": 2487,
+      "title": "Proč já a koučování: svoboda"
+    },
+    {
+      "t": 2621,
+      "title": "Závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/karel-prochazka.json"
+}

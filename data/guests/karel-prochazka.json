@@ -1,0 +1,44 @@
+{
+  "slug": "karel-prochazka",
+  "displayName": "Karel Procházka",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 12,
+  "priorProfessionText": "obchodník ve startupech, vystudoval mezinárodní vztahy; obchod a koučování 50 na 50",
+  "priorProfessionCat": "OSVČ a podnikání",
+  "regionType": "neuvedeno",
+  "ageBand": "do 35",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "mezinárodní vztahy, chtěl diplomacii; kvůli svobodě obchodní pozice ve startupech; stand-up a improvizace; za korony četl o psychologii a měl tendenci lidi zachraňovat"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "telefonát s kamarádem, který odcházel z firmy koučovat; hodina koučování s ním; ptal se psychologů na legitimitu; vstup oddaloval, pak „jsou to tři, čtyři měsíce“"
+    },
+    {
+      "label": "Start",
+      "text": "normální lidé jeho věku; 2 hráči, jeden platící; v prvních měsících viděl posuny hráčů a přestal pochybovat"
+    },
+    {
+      "label": "Po roce",
+      "text": "asi 180 hodin, 8 až 9 hráčů týdně, přicházejí přes reference; obchod a koučování 50/50; hráči kolem třicítky, kteří chtějí víc svobody"
+    }
+  ]
+}
