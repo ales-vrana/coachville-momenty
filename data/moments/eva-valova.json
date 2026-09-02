@@ -89,12 +89,13 @@
     "isAdmission": false,
     "monthsFromStart": 3,
     "topics": [
+      "co-se-muselo-zmenit",
       "koucovat-a-zustat-v-praci",
       "vyuziju-to-v-praci"
     ],
     "thirdPartyName": false,
     "status": "published",
-    "editorNote": "Třetí výskyt vzorce „musím kvůli koučování změnit celý život?“ (dv003, zk012, ev005). Eva je opačný případ: změnu nemusela, sama ji chtěla. Kandidát na nový tag D5/R4, viz návrh 2. 9."
+    "editorNote": "Třetí výskyt vzorce „musím kvůli koučování změnit celý život?“ (dv003, zk012, ev005). Eva je opačný případ: změnu nemusela, sama ji chtěla. Kandidát na nový tag D5/R4, viz návrh 2. 9. Přetagováno 2. 9. 2026 pod nový tag Co se v mém životě muselo změnit a co ne (D5/R4)."
   },
   {
     "id": "ev006",

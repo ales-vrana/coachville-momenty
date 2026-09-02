@@ -374,5 +374,21 @@
     ],
     "description": "Kořen R5: nemoc, rodina, životní změna během výcviku. Host popíše událost, co udělal (pauza, zpomalení), jak reagovala škola, co to stálo a jak vypadal návrat. Publikuje se až při 3 momentech od 2 lidí.",
     "hidden": true
+  },
+  {
+    "id": "co-se-muselo-zmenit",
+    "order": 33,
+    "group": "Riziko a rozhodnutí",
+    "label": "Co se v mém životě muselo změnit a co ne",
+    "codes": [
+      "D5",
+      "R4"
+    ],
+    "description": "Kořeny D5/R4: strach, že koučování znamená přestavět celý život, a strach ze selhání. Host popíše, co se skutečně změnilo (práce, úvazek, čas, vztahy), kdy, co zůstalo, a jestli změna byla nutnost, nebo jeho volba.",
+    "featuredMomentId": "ev005",
+    "aliases": [
+      "Budu muset změnit celý život?",
+      "Kolik z mého života se tím opravdu změnilo"
+    ]
   }
 ]

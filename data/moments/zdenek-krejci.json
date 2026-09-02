@@ -283,9 +283,11 @@
     "hasNumber": false,
     "isAdmission": false,
     "topics": [
+      "co-se-muselo-zmenit",
       "proc-jsem-vahal"
     ],
     "thirdPartyName": false,
-    "status": "published"
+    "status": "published",
+    "editorNote": "Přetagováno 2. 9. 2026 pod nový tag Co se v mém životě muselo změnit a co ne (D5/R4)."
   }
 ]

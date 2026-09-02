@@ -51,7 +51,7 @@ Kontrola síly: úsek je důkaz, když má aspoň 3 z 5 prvků (číslo, čas, s
 | V čem se moje cesta lišila od toho, co škola ukazovala | E2, TR1 | co trvalo déle, kde host uhnul od modelu | |
 | Co mě stálo, že jsem rok váhal(a) | D6, TH6 | cena čekání vlastními slovy hosta (měsíce, peníze, stav) | „neváhejte“ |
 
-## 5. Tagy 21 až 32 (schválené 2. 9. 2026, kořeny z navigátoru)
+## 5. Tagy 21 až 33 (schválené 2. 9. 2026, kořeny z navigátoru)
 
 ### Tag 1: „Dá se koučovat a zůstat v práci?“ (id: koucovat-a-zustat-v-praci) · kořen R6 Career transition (+ TM6 priorita)
 - Definice kořene (navigátor): bojí se ztráty stabilního příjmu při změně kariéry; falešné buď–anebo; ptát se na milníky.
@@ -178,6 +178,18 @@ Kontrola síly: úsek je důkaz, když má aspoň 3 z 5 prvků (číslo, čas, s
 - Vazba: každý moment odkazuje na Podmínky poctivě (mechanismus pauzy).
 - Otázky do rozhovoru (pro hosty, kteří pauzu měli): „Co se vám během výcviku stalo? Co jste udělal(a) jako první? Jak to řešila škola? Co vás to stálo? Jak vypadal návrat?“
 - Existující momenty: žádné. Zadání pro výběr hostů: aspoň dva lidé s pauzou (viz zadání v2, rozhodnutí 14).
+
+### Tag 13: „Co se v mém životě muselo změnit a co ne“ (id: co-se-muselo-zmenit) · kořeny D5 Hidden belief, R4 Personal failure (schváleno 2. 9. 2026 po třetím výskytu)
+- Podotázky (aliases): „Budu muset změnit celý život?“, „Kolik z mého života se tím opravdu změnilo“.
+- Definice kořenů (navigátor): D5 datum odkladu je zástupný argument, za ním je skryté přesvědčení („musel bych všechno přestavět“); R4 strach, že selže, když do změny půjde.
+- Obava slovy zájemce: „Já nechci měnit celý život.“ „To bych musel odejít z práce, přestěhovat se, změnit lidi kolem sebe.“ „Co když to celé rozbourám a nevyjde to?“
+- Stupeň A: host popíše, co se v jeho životě skutečně změnilo (práce, úvazek, čas, vztahy, bydlení), kdy, a co naopak zůstalo stejné; a řekne, jestli změna byla nutnost, nebo jeho volba, případně že si změnu nejdřív jen uvědomil a udělal ji později nebo vůbec.
+- Stupeň B: host popíše svůj strach nebo strach klientů z „přestavby života“ a jak s tím zachází (např. přenastavit „musím“ a „chci“; uvědomit si neznamená hned dělat jinak).
+- Stupeň C (netaguje se): obecná chvála svobody, „změnilo mi to život o 360 stupňů“ bez toho, co konkrétně, rady „jděte do toho“.
+- Netaguje se: odchod z práce jako milník (tag 1, R6), vnější životní událost během výcviku (tag 12, R5), cena čekání (D6).
+- Redakční pravidlo: každý moment musí obsahovat aspoň jednu věc, která se nezměnila nebo změnit nemusela; jinak tag potvrzuje obavu místo toho, aby ji rozebral.
+- Otázky do rozhovoru: „Co se ve vašem životě kvůli koučování opravdu změnilo a kdy? Co zůstalo stejné? Byla to nutnost, nebo volba? Čeho jste se před startem bál(a), že budete muset změnit, a nemusel(a)? Co jste si uvědomil(a) a zatím neudělal(a)?“
+- Existující momenty: dv003 (David: seznam „musím“ perfektní, sen žádný; nemusí přestavět život, stačí přenastavit musím a chci), zk012 (Zdeněk: uvědomit si, že něco může být jinak, neznamená hned to dělat jinak), ev005 (Eva: šla doplnit kompetence pro školu, po 3 měsících zjistila, že chce časovou svobodu; změnu nemusela, sama ji chtěla).
 
 ## 6. Vynechané kořeny a proč
 
