@@ -1,0 +1,30 @@
+{
+  "slug": "jana-ukazkova",
+  "displayName": "Jana Ukázková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": { "moments": true, "name": true, "photo": false, "contact": false, "amounts": true, "ads": false },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 8,
+  "phaseNow": "ACC",
+  "phaseNowDate": "2026-08",
+  "priorProfessionText": "učitelka ZŠ",
+  "priorProfessionCat": "školství",
+  "city": "Kadaň",
+  "regionType": "malé město",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [
+    { "type": "ICF", "url": "https://apps.coachingfederation.org/eweb/CCFDynamicPage.aspx", "label": "ICF adresář (ukázka)" }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    { "label": "Start výcviku", "text": "září 2025, splátky ze svého" },
+    { "label": "První platba", "text": "4. měsíc, 400 Kč, kolegyně ze sborovny" },
+    { "label": "Nejtěžší období", "text": "měsíce 1 až 5: nikdo cizí, hádky doma" },
+    { "label": "Dnes", "text": "srpen 2026: 6 klientů po 900 Kč" }
+  ]
+}

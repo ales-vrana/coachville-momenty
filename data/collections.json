@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "pro-partnera",
+    "title": "Pro partnera, který to má platit",
+    "intro": "Tohle není stránka pro nadšení. Je pro toho, kdo doma nese riziko a chce vidět fakta: kdo jsou ti lidé, kolik to stálo, co nevyšlo a co se stane, když se to nepovede. Každý úsek vede do celého nesestříhaného rozhovoru.",
+    "audience": "partner",
+    "momentIds": [],
+    "status": "published"
+  },
+  {
+    "slug": "horni-police",
+    "title": "Horní police",
+    "intro": "16 momentů, jeden na každý kořen námitky. Obchodnice je znají nazpaměť a posílají je po hovoru.",
+    "audience": "obchodnice",
+    "momentIds": [],
+    "sendWhen": "Po diagnóze kořene v hovoru. Maximálně 3 momenty v jedné sadě.",
+    "status": "draft"
+  }
+]

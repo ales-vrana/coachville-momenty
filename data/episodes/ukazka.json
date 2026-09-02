@@ -1,0 +1,19 @@
+{
+  "slug": "ukazka",
+  "title": "Jana Ukázková: učitelka z Kadaně, 8. měsíc výcviku",
+  "guestSlugs": ["jana-ukazkova"],
+  "vimeoId": "76979871",
+  "vimeoUrl": "https://vimeo.com/76979871",
+  "recordedAt": "2026-05-12",
+  "durationS": 150,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    { "t": 0, "title": "Kde jsem začínala" },
+    { "t": 41, "title": "První platící klient" },
+    { "t": 90, "title": "Co bylo těžší" }
+  ],
+  "transcriptFile": "data/transcripts/ukazka.json"
+}

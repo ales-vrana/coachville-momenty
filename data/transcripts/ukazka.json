@@ -1,0 +1,47 @@
+{
+  "episode": "ukazka",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 0,
+      "speaker": "CoachVille",
+      "text": "Tak Jano, pojďme na začátek. Kdy jsi začala a co jsi dělala předtím?"
+    },
+    {
+      "i": 1,
+      "t": 12,
+      "speaker": "Jana Ukázková",
+      "text": "Předtím jsem šestnáct let učila na základce v Kadani. Výcvik jsem začala v září, na splátky ze svého. Manžel řekl, že to jsou vyhozený peníze."
+    },
+    {
+      "i": 2,
+      "t": 41,
+      "speaker": "CoachVille",
+      "text": "A kdy přišel první platící klient?"
+    },
+    {
+      "i": 3,
+      "t": 46,
+      "speaker": "Jana Ukázková",
+      "text": "První tři klientky byly kolegyně ze sborovny. Řekla jsem si o čtyři sta korun a měla jsem rudé uši. Bylo to ve čtvrtém měsíci, do té doby jsem koučovala jen tréninkové parťáky. Dnes mám šest klientů po devíti stech."
+    },
+    {
+      "i": 4,
+      "t": 90,
+      "speaker": "CoachVille",
+      "text": "Co bylo těžší, než jsi čekala?"
+    },
+    {
+      "i": 5,
+      "t": 94,
+      "speaker": "Jana Ukázková",
+      "text": "Pět měsíců nikdo cizí. Chtěla jsem to vzdát. Doma jsme se kvůli tomu hádali, protože jsem večery seděla u počítače a nic z toho nebylo. Přes to mě dostalo, že jsem si zavolala s jednou absolventkou z Mostu, která to měla stejně."
+    },
+    {
+      "i": 6,
+      "t": 140,
+      "speaker": "CoachVille",
+      "text": "Děkuju."
+    }
+  ]
+}

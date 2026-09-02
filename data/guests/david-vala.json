@@ -1,0 +1,17 @@
+{
+  "slug": "david-vala",
+  "displayName": "David Vala",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": { "moments": true, "name": true, "photo": false, "contact": false, "amounts": true, "ads": false },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "priorProfessionText": "20 let ve vrcholovém managementu",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "michaela-hozakova",
+  "displayName": "Michaela Hozáková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": { "moments": true, "name": true, "photo": false, "contact": false, "amounts": true, "ads": false },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "priorProfessionText": "neuvedeno",
+  "priorProfessionCat": "neuvedeno",
+  "regionType": "neuvedeno",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": []
+}

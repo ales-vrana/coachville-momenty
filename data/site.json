@@ -1,0 +1,29 @@
+{
+  "siteName": "Momenty",
+  "tagline": "Nesestříhané rozhovory se studenty a absolventy CoachVille. Vybíráte si, co potřebujete slyšet.",
+  "baseUrl": "https://coachville-momenty.vercel.app",
+  "publishing": {
+    "minMomentsPerTopic": 1,
+    "minGuestsPerTopic": 1,
+    "requireExternalVerifyLink": false,
+    "requireAdmission": false,
+    "note": "Pro ladění v1 jsou prahy snížené. Podle zadání v2: téma se publikuje při 3+ momentech od 2+ lidí, host potřebuje externí ověřovací odkaz a moment s přiznáním."
+  },
+  "community": {
+    "coachesTotal": 417,
+    "coachesWithStrongProof": 300,
+    "coachesWithoutStrongProof": 117,
+    "writtenProofs": 3536,
+    "hardBusinessProofs": 946,
+    "sentence": "Ze 417 koučů v komunitě 300 popsalo aspoň jeden silný důkaz (platba, získaný klient, domluvená ukázka), 117 zatím ne. Kolik se tím živí, nevíme."
+  },
+  "links": {
+    "coachReviews": "https://www.coachville.cz/",
+    "clientReferences": "https://www.coachville.cz/",
+    "questionsPage": "/otazky-pro-hosty"
+  },
+  "footer": {
+    "operator": "Web provozuje CoachVille CZ/SK (Aleš Vrána). Rozhovory vede zakladatel školy; hosté nedostali za rozhovor odměnu.",
+    "consentNote": "Každý host vidí a schvaluje přesně ty úseky, které tu jsou. Souhlas může kdykoliv odvolat e-mailem na ales@coachville.cz; úsek zmizí do 48 hodin."
+  }
+}
