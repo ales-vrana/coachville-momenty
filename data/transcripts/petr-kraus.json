@@ -1,0 +1,701 @@
+{
+  "episode": "petr-kraus",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 8,
+      "speaker": "CoachVille",
+      "text": "Milí hráči, milí kouči, milí posluchači našeho podcastu, tady Aleš Vrána, a já vás vítám u dalšího rozhovoru s naším studentem, se členem komunity CoachVille. Dneska je tady s námi Petr Kraus. Petr je přes 10 let manažerem, který má zkušenosti s vedením týmů a který se začal učit koučovat, aby zlepšil svůj přístup k vedení týmu a aby mohl vlastně pomáhat ve vývoji softwaru a k tomu, aby týmy byly vysoce efektivní. Petře, já tě tady vítám. Ahoj."
+    },
+    {
+      "i": 1,
+      "t": 45,
+      "speaker": "CoachVille",
+      "text": "Ahoj, Aleši. Pojď, prosím, nějak doplnit to představení, protože to je určitě velmi zajímavé. Vývoj softwaru, vedení týmů. Jaká byla ta tvoje cesta? Zkus nějak doplnit to, jak by ses nám představil."
+    },
+    {
+      "i": 2,
+      "t": 61,
+      "speaker": "Petr Kraus",
+      "text": "Jo, určitě rád. No a hele, ta moje cesta. Byl jsem takovej typický přepracovaný manažer, který se strašně snažil, aby věci fungovaly, a strašně se frustroval, že nefungujou tak, jak by si představoval. Až to vedlo vlastně k nějakému alkoholismu, v podstatě k vyhoření a k nějakému pádu na dno v tom životním. No a tam jsem si uvědomil, hele, to asi nebyla ta správná cesta, jo."
+    },
+    {
+      "i": 3,
+      "t": 92,
+      "speaker": "Petr Kraus",
+      "text": "Takhle to asi nechci v životě, já to chci nějak jinak. No a začal jsem hledat. A to byl vlastně takový klíčový moment pro mě. Pořád jsem byl manažerem, ale hledal jsem cesty, jak to dělat jinak. Začal jsem se dívat kolem sebe."
+    },
+    {
+      "i": 4,
+      "t": 110,
+      "speaker": "CoachVille",
+      "text": "A vlastně v té době, co bys řekl, že byly pro tebe výzvy v rámci té role manažera? Co bylo pro tebe obtížné, s čím ses setkával a co bylo jako zatěžující nebo stresující?"
+    },
+    {
+      "i": 5,
+      "t": 127,
+      "speaker": "Petr Kraus",
+      "text": "Stresující, jo, to bylo strašně moc. V podstatě celá ta práce byla pro mě stresující, jo. A bylo to proto, protože jsem strašně chtěl, aby to bylo skvělé, aby všechno bylo skvělé. Ale vlastně jsem to neuměl. Nikdo mě neučil vedení lidí, leadership. Nikdo mě neučil, co je tam důležité. Já jsem přišel z role programátora, který chtěl psát skvělej kód. A pak vlastně viděl, že budu užitečnější, když to celé povedu, protože já vím, jak na to."
+    },
+    {
+      "i": 6,
+      "t": 160,
+      "speaker": "Petr Kraus",
+      "text": "Ano, člověk zjistí, že to tak úplně nefunguje. Samozřejmě já vím, jak na to, ale ono to tak nejde. To jsou lidi, se kterými pracuju. To není stroj, který nějak pošteluju a možná začne z toho něco padat jinak. Ano, to taky nefungovalo, takže jsem spoustu práce dělal za lidi, bylo tam hodně stresu, obav, co řeknou nadřízení z toho a z toho. Takže vlastně to byl neustálý život v nějakém stresu."
+    },
+    {
+      "i": 7,
+      "t": 191,
+      "speaker": "CoachVille",
+      "text": "A co tě vlastně přivedlo k té myšlence, že se začneš učit koučovat? Jak to u tebe nastalo?"
+    },
+    {
+      "i": 8,
+      "t": 212,
+      "speaker": "CoachVille",
+      "text": "Tak, slyšíme se? Slyšíme se. Jo, výborně. Ono to trošku přeskočilo. A co tě vlastně přivedlo k té myšlence, že se začneš koučovat? Co bylo u tebe na začátku?"
+    },
+    {
+      "i": 9,
+      "t": 226,
+      "speaker": "Petr Kraus",
+      "text": "Na začátku byl lektor, který nás přišel učit úplně co jiného, jako manažery do firmy. Učil nás, jak dělat nábor. A na konci se nás ptal, co bychom chtěli."
+    },
+    {
+      "i": 10,
+      "t": 268,
+      "speaker": "Petr Kraus",
+      "text": "Život jako hra. A trvalo to dlouho, já jsem dlouho otálel, dlouho jsem otálel, a pak jednou, z ničeho nic, jsem tam prostě klikl, hele, tady je nějaký zajímavý e-book, stáhnul jsem si ho, pak mi někdo zavolal, koučka, a tak jsem se dostal ke své první koučce. A protože já prostě mám rád všechno nové, tak jsem říkal, ale koučování, zkusím to, to je prostě super věc, kterou musím zkusit, jo. A nevěděl jsem o něm nic, jen jsem si říkal, ale to je něco novýho, to prostě musím zkusit,"
+    },
+    {
+      "i": 11,
+      "t": 298,
+      "speaker": "Petr Kraus",
+      "text": "protože to je nové. A já jsem byl nadšený. Z každého sezení jsem byl naprosto nadšený, protože najednou jsem tam přišel s nějakými problémy s tím, že... A vlastně já jsem nebyl člověk, který měl problémy. A já jsem si myslel, že jsem úplně v pohodě, že vlastně nic nepotřebuju. [nesrozumitelné] Ale vlastně při rozhovorech s koučkou jsem si říkal, aha, jo, tak tohle z toho... No to je fakt, já nevím, co s tím. A jako necítím se v tom dobře. A vždycky jsme něco takového objevili."
+    },
+    {
+      "i": 12,
+      "t": 329,
+      "speaker": "Petr Kraus",
+      "text": "A vždycky jsme to někam posunuli. Já jsem vždycky odcházel nabitý, a fungovaly mi ty věci."
+    },
+    {
+      "i": 13,
+      "t": 336,
+      "speaker": "Petr Kraus",
+      "text": "Takže to bylo prostě jedno wow za druhým. Když jsem začal takhle odkrajovat i to a poznávat vlastně, kým skutečně já jsem. To jsem vlastně do té doby moc netušil."
+    },
+    {
+      "i": 14,
+      "t": 347,
+      "speaker": "CoachVille",
+      "text": "Tvoje cesta v podstatě začala jakousi informací a potom se informace proměnila na reálnou praktickou zkušenost v roli hráče. V čem to pro tebe bylo vlastně přínosné? Říkal jsi, že to bylo jako wow. Co ti to přinášelo, když jsi měl schůzky s koučkou?"
+    },
+    {
+      "i": 15,
+      "t": 369,
+      "speaker": "Petr Kraus",
+      "text": "Asi to nejvíc."
+    },
+    {
+      "i": 16,
+      "t": 376,
+      "speaker": "Petr Kraus",
+      "text": "Takovou jako další možnou cestu územím, kterému jsem se vyhýbal. Jo, že já jsem si myslel, že jsem v pohodě, OK, tak tady je území, do kterého nevstupuju, jo, prostě tady se bojím, nebo tady mi to nejde, tady cítím zlost. A s koučkou jsem najednou zjistil, že jako můžu, a vlastně dává mi smysl vstoupit na to území, a že vlastně s tou koučkou jako to jde, jo, tam vstoupit."
+    },
+    {
+      "i": 17,
+      "t": 406,
+      "speaker": "Petr Kraus",
+      "text": "A že když tam vstoupím, tak se mi zase otevřou nějaké další jako možnosti. Abych to třeba přizemnil něčím skutečným, tak třeba jednání v práci, kde nejsou jenom členové mého týmu, na které mám kontrolu, ale třeba jiných týmů a třeba jejich šéfové a třeba výrazné osobnosti. A teď tam jsem já, mám něco prosadit, nebo chci prosadit nějakou myšlenku, a to bylo pro mě teda nesmírně obtížné."
+    },
+    {
+      "i": 18,
+      "t": 437,
+      "speaker": "Petr Kraus",
+      "text": "Prostě bylo tam to, že jsem se bál vůbec to říct, čekal jsem, co oni na to řeknou, jak já sám se pak za to odsoudím, že to nebylo ono. Takže to bylo jako jedno velké napětí, které jsem cítil, a občas teda něco vytrysklo i přes to napětí, ale vlastně to bylo nesmírně vysilující celé pro mě. A když jsme tohle řešili s tou koučkou, tak po jednom sezení nad tímhle tématem jsem měl tolik energie, že jsem šel a začal jsem si"
+    },
+    {
+      "i": 19,
+      "t": 468,
+      "speaker": "Petr Kraus",
+      "text": "užívat tyhle situace. Takže to bylo prostě, říkám, jestli tohle je možné v koučování, tak to je neuvěřitelně zajímavé, co ještě dalšího je možné."
+    },
+    {
+      "i": 20,
+      "t": 477,
+      "speaker": "CoachVille",
+      "text": "Ano, i krátké úseky, třeba jedna koučovací hodina, může často mít velmi zásadní dopad. To je na tomhle příkladu krásně vidět. A třeba vlastně, když se ohlédneš zpátky na ten start v tom koučování, co tam pro tebe bylo vlastně důležité před tím startem a po tom startu? My totiž máme zkušenosti s tím, že jsou to dost odlišné zkušenosti, než člověk vstoupí do tréninku, a poté, co do něj vstoupí. Jaké to bylo pro tebe?"
+    },
+    {
+      "i": 21,
+      "t": 513,
+      "speaker": "Petr Kraus",
+      "text": "Řekl bych, že předtím bylo určitě důležité, že jsem měl svou koučku. Toto bylo vlastně klíčové. A že jsem si díky ní uvědomil, že můžu mít nějaký sen a co ten sen je. A díky tomu vlastně jsem zahlédl v tom snu, že jsem koučem, a pak už nebylo cesty jinam. Já jsem si říkal, tohle je tam v tom snu, já tam musím jít. Takže důležité pro mě bylo asi opravdu uvědomit si, co chci"
+    },
+    {
+      "i": 22,
+      "t": 551,
+      "speaker": "Petr Kraus",
+      "text": "v životě. Protože to jsem předtím vlastně moc nevěděl. Já jsem žil tak jako ze dne na den. Jo, ale nebylo to špatné, jo, bylo tam spousta zábavy a blbnutí s kámošema a sportu a já nevím, všechno, co mě bavilo, jo. Jenom tam nebyla nějaká dlouhodobá vize. A vždycky, když někdo přišel s tím, že ví, co chce, [nesrozumitelné]. Jo, a tohle se kompletně proměnilo ve chvíli, kdy jsem měl svou první koučku, kdy jsem si řekl, no jo, no to je vlastně zajímavé mít jako svůj sen a svou vizi, a mně to dává smysl."
+    },
+    {
+      "i": 23,
+      "t": 591,
+      "speaker": "Petr Kraus",
+      "text": "Jo, já tohle chci a jdu po tom. Tak tohle byla asi pro mě klíčová, nejdůležitější změna tady vlastně toho náhledu na život."
+    },
+    {
+      "i": 24,
+      "t": 600,
+      "speaker": "CoachVille",
+      "text": "A vlastně s tímto jsi vstupoval do koučovacího výcviku v rámci CoachVille. A co se stalo poté? Vlastně jak vzpomínáš na ty první týdny, první měsíce v koučovacím výcviku? Co si vybavuješ takhle za nějaké momenty nebo zážitky, nebo uvědomění, co tam bylo zajímavého?"
+    },
+    {
+      "i": 25,
+      "t": 624,
+      "speaker": "Petr Kraus",
+      "text": "Určitě to byla jednak asi jedna z, jako vlastně úplně největší změna v mém životě, kterou jsem kdy zaznamenal. A vlastně jako když řeknu, odcházel jsem s otevřenými ústy vždycky, vždycky, to není možné. Prostě pro mě to bylo obrovitánské objevování úplně nového světa."
+    },
+    {
+      "i": 26,
+      "t": 645,
+      "speaker": "Petr Kraus",
+      "text": "A určitě učitelé, kouči, kteří se nám tam věnovali, tak mě úplně fascinovali. Tím, jak umí položit otázku, že to celé posunou úplně kam jinam. Někdo přijde s neřešitelným problémem, po jedné otázce je to vlastně jasné, jdeme dál."
+    },
+    {
+      "i": 27,
+      "t": 666,
+      "speaker": "Petr Kraus",
+      "text": "A mě to prostě fascinovalo. A bylo to obrovské učení pro mě. Takže to bylo, jo, jak když je prázdná houba na nádobí, pustí se na ni voda a ona to všechno začne nasávat. To je neuvěřitelné."
+    },
+    {
+      "i": 28,
+      "t": 685,
+      "speaker": "CoachVille",
+      "text": "Hezký. Co tam pro tebe přišlo za důležité uvědomění o tobě a o tvé komunikaci a o vedení lidí na startu tvé koučovací praxe?"
+    },
+    {
+      "i": 29,
+      "t": 698,
+      "speaker": "Petr Kraus",
+      "text": "Těch uvědomění byla celá řada. A vlastně říkám si, že chci vypíchnout ty nejdůležitější. Tak asi jedno z těch nejdůležitějších, které teda přišlo mezi prvníma, bylo, že se na něco hraju. Že to vlastně nejsem já. Že se na něco hraju před tím, před sebou, před těmi lidmi. A že tam nosím nějaké masky vlastně tak, aby nebylo vidět, že se taky bojím třeba, nebo že nevím."
+    },
+    {
+      "i": 30,
+      "t": 730,
+      "speaker": "Petr Kraus",
+      "text": "Prostě vlastně tak je ten manažer, který prostě ví a nebojí se. Teďka. A že ví a nebojí se."
+    },
+    {
+      "i": 31,
+      "t": 736,
+      "speaker": "Petr Kraus",
+      "text": "Tak to bylo asi jedno z největších uvědomění tehdy, když jsem si uvědomil, tak já vlastně asi trochu jinak."
+    },
+    {
+      "i": 32,
+      "t": 746,
+      "speaker": "Petr Kraus",
+      "text": "Tak to bylo asi to nejzásadnější. A potom, když jsem si uvědomil, hele, jasně, tak já tady můžu být jako velký king před tady deseti lidma, které vedu, ale stačí mi to takhle k tomu životu? Prostě pak [nesrozumitelné] ty zasedačky a už se bojím. Přijdu na trénink koučování, od koučů, a vlastně si uvědomím, hele, já vlastně nejsem takový king. A ti lidi, co říkají tady, ti učitelé,"
+    },
+    {
+      "i": 33,
+      "t": 778,
+      "speaker": "Petr Kraus",
+      "text": "to prostě má hlavu a patu, to dává smysl. Takže jsem to neviděl. Takže takhle to byly ty začátky."
+    },
+    {
+      "i": 34,
+      "t": 788,
+      "speaker": "CoachVille",
+      "text": "Jak dlouho jsi vlastně v koučovacím výcviku, jak dlouho už se učíš koučovat?"
+    },
+    {
+      "i": 35,
+      "t": 795,
+      "speaker": "Petr Kraus",
+      "text": "Je to od ledna 2020."
+    },
+    {
+      "i": 36,
+      "t": 799,
+      "speaker": "CoachVille",
+      "text": "Hezký. Kolik máš teďka odkoučovaných hodin?"
+    },
+    {
+      "i": 37,
+      "t": 801,
+      "speaker": "Petr Kraus",
+      "text": "Ano."
+    },
+    {
+      "i": 38,
+      "t": 804,
+      "speaker": "CoachVille",
+      "text": "A vlastně když ses začal učit koučovat vlastně v roli manažera, tak jak vnímáš vlastně to použití těch koučovacích metod a dovedností v rámci tvé práce, a potom samozřejmě jako, že asi koučuješ i lidi mimo firmu? Tak vlastně jak bys to jako popsal, ten efekt, který to má na tvoji roli manažera?"
+    },
+    {
+      "i": 39,
+      "t": 836,
+      "speaker": "CoachVille",
+      "text": "A jaký to má efekt vlastně na lidi mimo firmu, když jsou koučovaní? Protože tohle je časté, že si to manažeři neumí moc představit, jakým způsobem to prakticky zařadí, jak se to vlastně promění. Čili jak jsi to měl ty?"
+    },
+    {
+      "i": 40,
+      "t": 856,
+      "speaker": "Petr Kraus",
+      "text": "Jo, to je úplně něco jiného. Prostě mě to z role upracovaného manažera, který se na něco hraje, posunulo směrem k někomu, kdo je lídr a kdo si tu práci vlastně užívá, pod kým lidi rostou. A to bych asi vyzdvihl, pod kým lidi fakt jako rostou. A tam byla asi nejdůležitější změna u mě s tím, že jasně, já ty lidi nemusím vůbec koučovat v tom týmu."
+    },
+    {
+      "i": 41,
+      "t": 891,
+      "speaker": "Petr Kraus",
+      "text": "A můžu ty lidi vést koučovacím způsobem."
+    },
+    {
+      "i": 42,
+      "t": 896,
+      "speaker": "Petr Kraus",
+      "text": "Místo příkazů tam můžou přijít dotazy, které ty lidi podporujou v tom, aby oni byli samostatní, aby oni rostli. Ale šéfe, máme problém. OK, to vypadá jako problém. No a co navrhuješ? A co k tomu potřebuješ dalšího? OK, jak tě můžu já podpořit? A to je úplně co jiného, než když OK, tak udělej tohle."
+    },
+    {
+      "i": 43,
+      "t": 926,
+      "speaker": "Petr Kraus",
+      "text": "A najednou lidi začnou růst. Začnou vyrůstat noví lídři. Já jsem takhle předával týmy. Tady už mě není potřeba. Já už nejsem potřeba. [nesrozumitelné]"
+    },
+    {
+      "i": 44,
+      "t": 939,
+      "speaker": "CoachVille",
+      "text": "To je obrovská změna. To je velké."
+    },
+    {
+      "i": 45,
+      "t": 945,
+      "speaker": "CoachVille",
+      "text": "A když to vlastně jako vezmeš i z pohledu toho, že koučuješ lidi mimo firmu a kdy jsi jenom v roli profesionálního kouče, tak jaká to je pro tebe zkušenost? To je takové užívání si té společnosti s tím člověkem."
+    },
+    {
+      "i": 46,
+      "t": 976,
+      "speaker": "Petr Kraus",
+      "text": "A musím říct, že to je něco, co jsem se teda chvíli učil. Že jsem měl dlouho tendenci být tím manažerem, který toho člověka prostě někam potáhne. Takhle to nefunguje. A než jsem si začal tu cestu s tím člověkem užívat a vlastně připustil, každý jsme jiný, každý máme, jsme unikátní v něčem. Máme svoje tempo rozvoje v různých oblastech, které nám různě dávají smysl. A tohle jsem musel připustit."
+    },
+    {
+      "i": 47,
+      "t": 1008,
+      "speaker": "Petr Kraus",
+      "text": "A pak si vlastně užívat to tempo a vlastně tu cestu toho mého hráče s tím, že já jsem takový průvodce, takový parťák na té cestě. Takže asi tohle bych vyzdvihl. Užívat si to, být parťákem, nebýt manažerem, nebýt šéfem. Být parťákem."
+    },
+    {
+      "i": 48,
+      "t": 1029,
+      "speaker": "CoachVille",
+      "text": "Hezký. A Petře, a co vlastně si vybavuješ, že byl nějaký důležitý moment, a že byl nějaký"
+    },
+    {
+      "i": 49,
+      "t": 1034,
+      "speaker": "Petr Kraus",
+      "text": "důležitý moment"
+    },
+    {
+      "i": 50,
+      "t": 1035,
+      "speaker": "CoachVille",
+      "text": "tvojí cesty za mistrovstvím v koučování, nějaký moment, kdy jsi byl třeba na rozcestí, nebo se něco důležitého, zajímavého odehrálo pro tebe?"
+    },
+    {
+      "i": 51,
+      "t": 1051,
+      "speaker": "Petr Kraus",
+      "text": "Jo, těch rozcestí bylo několik. A jedno z těch rozcestí přišlo docela záhy. A když jsem byl opravdu ve výcviku koučovacím, tak jsem byl tím nesmírně nadšený a unešený. Já jsem prostě [nesrozumitelné] a užíval jsem si to. A pak najednou se to začalo vytrácet, to užívání. A já, ty vole, co je? A něco mi chybělo. A nebylo to ono."
+    },
+    {
+      "i": 52,
+      "t": 1079,
+      "speaker": "Petr Kraus",
+      "text": "A vlastně tam to bylo jako první určité vystřízlivění z nějakého takového nadšení. Vlastně to, co jsem si v tu chvíli uvědomil, je, že to, co mě vždycky bavilo, byly ty týmy a lidi. A dělat kouče bylo skvělé, ale mně vlastně začaly chybět ty týmy a ty skupiny lidí a ty týmy lidí. A vlastně jsem si uvědomil, že to neznamená, že koučování pro mě není, ale možná znamená, že to potřebuji dělat jinak."
+    },
+    {
+      "i": 53,
+      "t": 1110,
+      "speaker": "Petr Kraus",
+      "text": "A začal jsem se zabývat tím, co by mohlo být to jinak, a objevil jsem koučování týmů. A tak jsem svoji hru rozšířil o koučování týmů, takže nyní nekoučuju pouze, nebo nekoučuju jen individuály, ale koučuju i týmy. A říkám zároveň i, nelze koučovat jen týmy, nebo aspoň zatím nevím o žádném úspěšném kouči, který by skvěle koučoval týmy a nekoučoval individuály. To se musí doplňovat. A vlastně tady tuhle hru si užívám."
+    },
+    {
+      "i": 54,
+      "t": 1141,
+      "speaker": "Petr Kraus",
+      "text": "Byla to první taková křižovatka, kdy jsem fakt hodně zaváhal, říkal jsem si, hele, to je nějaké divné, tohle asi, já nevím, jo, koučování smysl dává a necítím se v tom. No ale vlastně stačilo se trošku ohlédnout, zamyslet, že tak a co mě teda vlastně baví, co mě naplňuje. No a velmi rychle jsem teda odhalil ty týmy."
+    },
+    {
+      "i": 55,
+      "t": 1162,
+      "speaker": "CoachVille",
+      "text": "Čili co ti vlastně koučování týmů dodává, co vlastně třeba v tom individuálním koučování sis nenacházel?"
+    },
+    {
+      "i": 56,
+      "t": 1172,
+      "speaker": "Petr Kraus",
+      "text": "Asi být součástí té smečky, jako skupiny lidí, a užívat si tu skupinu, která má svoji dynamiku, svoji atmosféru, své emoce. A vlastně uvědomil jsem si to, že to, co mě vždycky bavilo i vlastně na vedení lidí, je hledat ty způsoby, jak ty týmy můžou být skvělé, jak si ty lidi můžou spolu tu práci užívat a dělat ji skvěle."
+    },
+    {
+      "i": 57,
+      "t": 1202,
+      "speaker": "Petr Kraus",
+      "text": "A vlastně v tom individuálním koučování jsem tohle úplně neviděl, protože tam to samozřejmě mohlo být zprostředkované, když jsem koučoval třeba nějakého šéfa, ale nebyl jsem tam úplně u toho, u těch lidí, a tohle mi trošku chybělo. Takže tohle mi dodává to koučování týmů, najednou jsem tam a vlastně jsem tam s tím týmem a vidím, jak to funguje, a vidím, jak se to třeba zlepšuje, když oni jdou tam po té cestě, která jim dává smysl, a já jim k tomu pomáhám. Hezký."
+    },
+    {
+      "i": 58,
+      "t": 1232,
+      "speaker": "CoachVille",
+      "text": "Petře, co bys vlastně doporučil někomu, kdo třeba dneska zvažuje to, že se začne učit koučovat, a možná si tím je ještě trošku nejistý, nebo jsou tam nějaké obavy? Tak co bys takovým lidem doporučil ke zvážení? Ono často se totiž promění vlastně to, o čem člověk tak jako uvažuje předtím, než se do toho pustí, a poté, že jsou tam jako jiné úvahy. Jak bys vlastně doporučil jako k tomu přistoupit? A co tam bylo na základě"
+    },
+    {
+      "i": 59,
+      "t": 1263,
+      "speaker": "CoachVille",
+      "text": "tvé zkušenosti důležité?"
+    },
+    {
+      "i": 60,
+      "t": 1268,
+      "speaker": "Petr Kraus",
+      "text": "Na základě mé zkušenosti? Vlastně už jsem to tady trochu nastínil, tam bylo naprosto rozhodující to, že jsem měl já svou koučku, nebo že já jsem měl koučku, někdo může mít kouče. A to bylo pro mě jako rozhodující, právě proto, že jsem si uvědomil, co chci v tom životě, kam chci jít a po jaké cestě, co je ta vize. A to bylo klíčové."
+    },
+    {
+      "i": 61,
+      "t": 1295,
+      "speaker": "Petr Kraus",
+      "text": "Takže pokud někdo váhá nad jakýmkoliv rozhodnutím, tak já jsem přesvědčen o tom, že kouč je někdo, kdo mu může pomoci k tomu rozhodnutí. A právě kouč je někdo, kdo může pomoci poodhalit, no, pomoci poodhalit tu vizi. To, jaká je to cesta."
+    },
+    {
+      "i": 62,
+      "t": 1327,
+      "speaker": "Petr Kraus",
+      "text": "Takže to je asi to, co bych řekl. Kouč, parťák, kouč je skvělá volba v tu chvíli."
+    },
+    {
+      "i": 63,
+      "t": 1335,
+      "speaker": "Petr Kraus",
+      "text": "Možná to může být i jiný jako skvělý parťák, se kterým jsem, se kterým chci hovořit, nebo můžu a chci, nebo dává mi smysl hovořit třeba o mých plánech, o mé vizi, se kterým můžu trošku snít, možná. Moje cesta byla s koučem."
+    },
+    {
+      "i": 64,
+      "t": 1352,
+      "speaker": "CoachVille",
+      "text": "Jasně. Čili to je vlastně jako o tom, že tyto svoje plány, záměry sdílíš v koučovací konverzaci a máš prostor se jim věnovat a rozpoznat, co je tam vlastně ten signál a co je šum."
+    },
+    {
+      "i": 65,
+      "t": 1370,
+      "speaker": "Petr Kraus",
+      "text": "Jo, je to tak, a zároveň i rozpoznat, kde mě zastavuje třeba nějaký můj strach, nějaká moje obava. Jo, protože to je velmi časté, jo, já bych měl nějaký sen, tyhle, no, ale, OK, tak já chci jezdit na vodu, ale neumím plavat, no, na tu vodu se bohužel asi nedostanu, takže celý život nebudu jezdit na vodu, jo. Takže vlastně jde o to, hele, tam je třeba něco, co tam fakt jako stojí v cestě, s tím koučem to lze, ten balvan možná odvalit, možná kolem něho postavit jinou cestu, jo, nevím, každopádně, každopádně, jo, jedna věc je ta mlha, která tam může být."
+    },
+    {
+      "i": 66,
+      "t": 1407,
+      "speaker": "Petr Kraus",
+      "text": "A kterou pomocí toho kouče lze rozptýlit, a zároveň tam můžou být nějaké balvany, a ta cesta se s tím koučem kolem těch balvanů, nebo přes ně, skrze ně, půjde daleko lépe."
+    },
+    {
+      "i": 67,
+      "t": 1420,
+      "speaker": "CoachVille",
+      "text": "Skvěle. Petře, lidé často jako uvažují o budoucí kariéře profesionálního kouče a o případné jako kombinaci s tím stávajícím zaměstnáním, podnikáním. Jak o tom uvažuješ ty, jak jsi o tom třeba uvažoval dříve, jak o tom uvažuješ teď a směrem do budoucna? Protože někdo má záměr se stát profesionálním koučem a dělat jenom koučování, někdo to chce zkombinovat s tou prací, někdo to využívá jenom v rámci role manažera. Jak to máš ty a jak o tom uvažuješ do budoucna?"
+    },
+    {
+      "i": 68,
+      "t": 1455,
+      "speaker": "Petr Kraus",
+      "text": "Já to mám tak, že jsem delší dobu, až vlastně doposud, stále na částečný úvazek manažer. A částečně vlastně kouč. A fungovalo to docela dlouho, že jo, od toho roku 2020, přece jenom už je to nějaký pátek, jsou to tři roky. A fungovalo to a báječně se to doplňovalo, a myslím, že díky tomu jsem se stal mnohem lepším manažerem, lídrem. A mnohem víc si tu práci užívám a taky to vidím i na [nesrozumitelné], jo, a lidi kolem a týmu a tak dále."
+    },
+    {
+      "i": 69,
+      "t": 1489,
+      "speaker": "Petr Kraus",
+      "text": "Takže tohle, za tohle děkuji koučování a tomu, že jsem ho mohl nějakým způsobem využít při té práci. Koučovací přístup. A to není jen ve vedení lidí, to je koučovací přístup při komunikaci. I ve firmě, klidně s kolegy manažery. To je neuvěřitelný jako rozdíl ve smyslu, hele, prosazuj svůj názor, anebo zjišťuj, jak to ten člověk má a kde tam může být ta cesta. To je prostě úplně o něčem jiném najednou."
+    },
+    {
+      "i": 70,
+      "t": 1520,
+      "speaker": "Petr Kraus",
+      "text": "A."
+    },
+    {
+      "i": 71,
+      "t": 1522,
+      "speaker": "Petr Kraus",
+      "text": "Takže jo, tohle fungovalo. To, co jsem já zjistil, a zjistil jsem to přibližně před půl rokem, bylo, že ta vize té firmy, že už mě netáhne. Tam, kde já dělám manažera, už mě to tolik nenaplňuje, a taky to tím pádem znamená, že už tomu nedávám to nejvíc ze sebe."
+    },
+    {
+      "i": 72,
+      "t": 1548,
+      "speaker": "Petr Kraus",
+      "text": "A v tu chvíli jsem si uvědomil, tady už není pro mě místo. Protože já, když něco dělám, tak to chci dělat skvěle, a pokud mě to netáhne a nejsem inspirovaný tou vizí firmy, tak já už ani těm lidem pod sebou, ani těm lidem kolem v té firmě nemůžu dát to nejlepší. To nedává smysl ani mně, a pravděpodobně by to přestalo dávat smysl brzo i jim. Ale je cesta jediná, jo, tady skončit. Takže teď jsem na cestě, kdy"
+    },
+    {
+      "i": 73,
+      "t": 1578,
+      "speaker": "Petr Kraus",
+      "text": "končím svoji misi manažera. Minimálně v této firmě, ale zřejmě teda končím minimálně nějaký čas s rolí manažera a budu se plně soustředit na svou roli kouče a týmového kouče."
+    },
+    {
+      "i": 74,
+      "t": 1596,
+      "speaker": "CoachVille",
+      "text": "Gratulace k tomu, to je velký krok. Nastane takzvaně poslední den v práci."
+    },
+    {
+      "i": 75,
+      "t": 1604,
+      "speaker": "CoachVille",
+      "text": "Jak se na něj těšíš?"
+    },
+    {
+      "i": 76,
+      "t": 1606,
+      "speaker": "Petr Kraus",
+      "text": "Já se těším moc. Já se těším moc a zároveň, zároveň vnímám, že to bude zajímavé, zvláštní trošku, ale to loučení bude obrovské. Já vlastně v tomhle týmu, bylo to už v několika firmách, ale nějak nás přeprodávali různě, tak v tomhle týmu já jsem přes 20 let, a to už něco jako znamená, tam už jsou nějaké vazby k těm lidem a je tam vybudována nějaká lojalita."
+    },
+    {
+      "i": 77,
+      "t": 1639,
+      "speaker": "Petr Kraus",
+      "text": "A je to takový zvláštní pocit, to obrovské těšení se na to, co bude potom. A zároveň je takový, jo, bylo to skvělé. A je v tom i [nesrozumitelné], že to není to úplně čisté nadšení. Je v tom i takový prvek, a je to správně, si myslím, je to lidské. A byla by škoda, kdyby mi to [nesrozumitelné]."
+    },
+    {
+      "i": 78,
+      "t": 1664,
+      "speaker": "CoachVille",
+      "text": "Dosud. Ono vlastně v tomhle se liší jako představy těch, kteří se začínají učit koučovat s tím záměrem stát se profesionálním koučem. Za jak dlouho se to vlastně má podařit? Jaký je ten časový horizont? Vlastně někdo do toho vstupuje s tím, že se chce stát profesionálním koučem co nejdříve, protože už se v té práci nevidí. Někdo se chce stát profesionálním koučem a kombinovat to právě s tou stávající prací. Čili u tebe to byly"
+    },
+    {
+      "i": 79,
+      "t": 1695,
+      "speaker": "CoachVille",
+      "text": "nějaké tři roky, než vlastně došlo v podstatě postupně k tomu rozhodnutí vydat se svým vlastním směrem, vydat se směrem k nezávislosti."
+    },
+    {
+      "i": 80,
+      "t": 1706,
+      "speaker": "Petr Kraus",
+      "text": "Ano, je to tak. Hezký."
+    },
+    {
+      "i": 81,
+      "t": 1709,
+      "speaker": "CoachVille",
+      "text": "A vlastně, když zvážíš tu zkušenost být součástí komunity koučů v rámci CoachVille, být součástí pravidelných výcviků, jaké to pro tebe je? Co tam zažíváš, co je na tom pro tebe zajímavé, co jsou tam ty prvky, které vlastně s tebou rezonují, pro tebe fungují?"
+    },
+    {
+      "i": 82,
+      "t": 1734,
+      "speaker": "Petr Kraus",
+      "text": "Je to v první řadě obrovská podpora na té cestě. Člověk je ve skupině lidí, kteří to mají podobně, kteří mají nějak podobné sny. Všichni se tady učíme koučovat a chceme to dělat. A vlastně je tam obrovská, díky tomu je to obrovská podpora, je to takový tah tím směrem. Na každém výcviku se vždycky, i když opakuju některý výcvik, tak se vždycky naučím něco nového. Vždycky je to skvělá atmosféra."
+    },
+    {
+      "i": 83,
+      "t": 1767,
+      "speaker": "Petr Kraus",
+      "text": "A vlastně užívám si takovéto prostředí toho bezpečí, kde prostě můžu tvořit, můžu říct cokoliv v podstatě, a je to oceněno. A třeba se na tom rozvíjí nějaká další myšlenka."
+    },
+    {
+      "i": 84,
+      "t": 1782,
+      "speaker": "Petr Kraus",
+      "text": "Takže je to takové obrovské učení a užívání si zároveň. A pokaždé z každé lekce si odnáším uvědomění, kde si říkám, ty wow, to jsem si vůbec nemyslel. To mě naučilo něco významného, důležitého. Takže ta kombinace toho společenství lidí a vlastně informací, uvědomění, takže to je vždycky obrovská dávka energie."
+    },
+    {
+      "i": 85,
+      "t": 1834,
+      "speaker": "CoachVille",
+      "text": "Co pro tebe bylo důležité na tom být parťákem v tréninku? Protože jsi měl asi za dobu toho tréninku spoustu tréninkových partnerů, někoho, koho jsi koučoval, kdo koučoval tebe. Co na téhle zkušenosti bylo pro tebe zajímavé a co ti to přineslo?"
+    },
+    {
+      "i": 86,
+      "t": 1853,
+      "speaker": "Petr Kraus",
+      "text": "To, co to přineslo, bylo to, že mně to asi, byla to obrovská podpora, takhle to řeknu, obrovská podpora do toho vlastně pak koučovat se s těmi hráči. To je prostě takové jako, tady si to zkusím, no, tady je to bezpečné. Tady je to bezpečné, tady si to zkusím, tady dostanu zpětnou vazbu, jo. Takže trénink, to je obrovské podporující tréninkové prostředí,"
+    },
+    {
+      "i": 87,
+      "t": 1884,
+      "speaker": "Petr Kraus",
+      "text": "když koučuju s tréninkovým parťákem. A zároveň, zároveň [nesrozumitelné], takže vlastně si tam i přinesu cokoliv, co ke mně přišlo, kdykoliv z mého koučování, třeba s mými hráči, nebo kdykoliv jindy. A je to zase prostě podpora v roli kouče, že jo, prostě tam se na to podíváme spolu a už s tím nejsem sám, jo, možná mě tam něco trápilo, možná jsem cítil nejistotu, no a s tím koučovacím parťákem to vlastně můžeme rozebrat, můžeme se na to podívat a posunout to úplně kam jinam, jo, najednou vlastně zjistím, o čem to je."
+    },
+    {
+      "i": 88,
+      "t": 1921,
+      "speaker": "Petr Kraus",
+      "text": "Typicky se něco nového naučím o sobě a odkryju některou svoji výzvu. Takže toto je podle mě jakoby obrovitánský zdroj podpory pro to vůbec skvěle koučovat potom se svými hráči."
+    },
+    {
+      "i": 89,
+      "t": 1942,
+      "speaker": "CoachVille",
+      "text": "Petře, jak bys vlastně popsal tu zkušenost, kterou jsi vlastně získal dosud? Jak to, že ses přidal do CoachVille, jak to ovlivnilo tvůj život, ať už tvůj osobní život, tvůj pracovní život? Jak bys to jako popsal? Ono to může být třeba obtížné dát do slov, protože to zase bude jako velká série různých zkušeností. A jak bys to popsal, jak tady tohle rozhodnutí se k nám přidat vlastně ovlivnilo tvůj život?"
+    },
+    {
+      "i": 90,
+      "t": 1974,
+      "speaker": "Petr Kraus",
+      "text": "Pokud bych použil jedno slovo, to je game changer."
+    },
+    {
+      "i": 91,
+      "t": 1980,
+      "speaker": "Petr Kraus",
+      "text": "V pracovní i osobní rovině. O pracovní jsem hodně mluvil a teď bych vypíchl něco z osobní. Já jsem nikdy vlastně neměl úspěšné, řekl bych, vztahy partnerské, takové, kde bych se cítil dobře já i ta partnerka a ve kterých bychom vydrželi. Ty se prostě rozpadaly stále, pak vlastně taky nakonec rozvod a rozpad toho vztahu. A vlastně díky téhle cestě, já se učím, připustil jsem, že se to musím učit, a začal jsem to mít rád, učit se to, jak se dělá vztah, jak se rozvíjí vztah. A já teď jsem ve vztahu už několik let a teď čekáme dítě, každý den by se měla narodit, a já jsem přesvědčený o tom, že v tomhle vztahu prostě chci být i přesto."
+    },
+    {
+      "i": 92,
+      "t": 2035,
+      "speaker": "Petr Kraus",
+      "text": "Po nějaké první fázi zamilování přišlo nějaké zase rozkoukání se v té realitě, a v tu chvíli jsem typicky vztahy končil. Já jsem si uvědomil, ale jasně, ten člověk není ideální, ale já taky ne. A já samozřejmě můžu utýct i tady."
+    },
+    {
+      "i": 93,
+      "t": 2059,
+      "speaker": "Petr Kraus",
+      "text": "A zároveň, a vlastně díky kouči jsem si uvědomil, že vlastně nejvíc, takže když mi přišla tahle osoba do života, tak je pro mě skvělá, protože mi ukázala na moje největší výzvy, na to, co já se potřebuji naučit v jednání nejenom s partnerkami, ale s lidmi, se všemi lidmi vlastně. A vlastně jsem si to uvědomil, když jsem řekl, tak toto je jako, vlastně já jsem to dostal na stříbrném podnose, jak se to [nesrozumitelné]. Ne, ne, asi pěkně to nechám a tady si to budu užívat."
+    },
+    {
+      "i": 94,
+      "t": 2095,
+      "speaker": "Petr Kraus",
+      "text": "Takže to, že vůbec jsem vstoupil koučovat, začal se učit být koučem, koučovat, užívat si koučování, být tou podporou, koučovat své parťáky, tak díky tomu já můžu jít i po této cestě. Nejenom, že to je úspěšná práce, užívání si práce, a úspěšně i užívat si osobní život tím způsobem, kterým chci, který mi dává smysl. Wow."
+    },
+    {
+      "i": 95,
+      "t": 2124,
+      "speaker": "CoachVille",
+      "text": "To je velmi, velmi silné."
+    },
+    {
+      "i": 96,
+      "t": 2128,
+      "speaker": "CoachVille",
+      "text": "To je krásná ukázka toho, že koučování má vlastně dopad jak v roli hráče, tak v roli kouče, že je to celé vlastně jedna důležitá zkušenost, která je pro každého jiná, a přináší to často vlastně to, co člověk v té chvíli nejvíce potřebuje, protože se to neustále přizpůsobuje té aktuální životní situaci každého člověka, který se toho procesu účastní."
+    },
+    {
+      "i": 97,
+      "t": 2158,
+      "speaker": "CoachVille",
+      "text": "Všiml sis, Petře, jaký má trénink v rámci CoachVille efekt na tvoje spolužáky, na tu zkušenost být s nimi, zažívat to s nimi? Čeho sis všiml, co se děje u ostatních? Teď jsme popsali, co se dělo u tebe, ale čeho sis všiml, co se vlastně děje u různých lidí? Protože ses za tu dobu bavil se spoustou dalších studentů v rámci CoachVille. Čeho sis všiml, jaký to na ně má efekt a co se u nich odehrává?"
+    },
+    {
+      "i": 98,
+      "t": 2197,
+      "speaker": "Petr Kraus",
+      "text": "A tak ti, kteří tu jsou stále, se kterými se setkáváme stále, tak tam vidím to, jak si dovedou ten život líp užívat. Podobně jako já mají jiné ty své hry. Ale vzpomínám si na začátku, o čem to bylo, ty naše rozhovory, kde bylo hodně třeba obav, hodně toho, jak to mám mizerné tam a tam. A teď je to spíš o tom, chci jít touhle cestou a vím, že tou cestou chci jít."
+    },
+    {
+      "i": 99,
+      "t": 2235,
+      "speaker": "Petr Kraus",
+      "text": "A jak se třeba v tom můžeme podpořit. Že je to vlastně o něčem jiném, že je to hodně ta změna, říká se moderním slovem mindset. Z toho mindsetu uštvaného člověka, nebo jakýmkoliv způsobem rozladěného a nenaplněného, do mindsetu někoho, kdo hledá způsob, jak žít ten život naplněný. Takže jiný druh myšlenek, myšlenek o [nesrozumitelné], o problémech."
+    },
+    {
+      "i": 100,
+      "t": 2267,
+      "speaker": "Petr Kraus",
+      "text": "Na."
+    },
+    {
+      "i": 101,
+      "t": 2270,
+      "speaker": "CoachVille",
+      "text": "Myšlenky o cestě a o způsobu. Velice pravděpodobně úplně jiná zkušenost než to, co by lidé čekali. Protože lidé často čekají, že přijdou do kurzu, tam se naučí ty informace,"
+    },
+    {
+      "i": 102,
+      "t": 2304,
+      "speaker": "CoachVille",
+      "text": "že se dozví informace, pak už ty informace budou vědět a budou je používat. Tak jak to popisuješ, tak to vypadá, že to má mnohem více dimenzí."
+    },
+    {
+      "i": 103,
+      "t": 2314,
+      "speaker": "Petr Kraus",
+      "text": "No, to rozhodně. A já bych skoro řekl, že to je spíš životní styl. Je to, že jednou žije člověk jinak. Není to jenom o tom, že přijmu informace, naučím se obsluhovat soustruh a jdu dělat soustružníka. Takhle to není. Samozřejmě to koučovací řemeslo má nějaké metody, nějaké postupy, jasně. Ale jasně, vlastně je to o tom životním stylu. Být kouč není jenom o tom vlastně jako dělat koučování. Kouč, to je"
+    },
+    {
+      "i": 104,
+      "t": 2344,
+      "speaker": "Petr Kraus",
+      "text": "životní styl."
+    },
+    {
+      "i": 105,
+      "t": 2347,
+      "speaker": "CoachVille",
+      "text": "Petře, co bys vzkázal budoucím koučům?"
+    },
+    {
+      "i": 106,
+      "t": 2354,
+      "speaker": "Petr Kraus",
+      "text": "A máš nějaké svoje oblíbené motto, něco, nějaký citát, který tě třeba ovlivnil, nebo je pro tebe důležitý? Já jich mám celou řadu, vždycky nějaké vytáhnu na každou situaci. A vlastně"
+    },
+    {
+      "i": 107,
+      "t": 2385,
+      "speaker": "Petr Kraus",
+      "text": "napadá mě jeden, a my jsme se o něm bavili ještě, než jsme začali natáčet, že on ten život přináší různé věci a nebývá jednoduchý, a někdo chce mít život jednoduchý. Já říkám, já nechci mít život jednoduchý, já ho chci mít krásný, ale já mám na to cesty, jak ho mít krásný. Mít život krásný neznamená mít ho jednoduchý."
+    },
+    {
+      "i": 108,
+      "t": 2415,
+      "speaker": "CoachVille",
+      "text": "Hezký. Petře, nějaká myšlenka na závěr? My jsme tady probrali spoustu oblastí. A něco, co ještě chceš třeba dodat, co ještě nezaznělo?"
+    },
+    {
+      "i": 109,
+      "t": 2429,
+      "speaker": "Petr Kraus",
+      "text": "My jsme to probrali opravdu hodně, jo, dalo by se hodně povídat. A vlastně jedna věc, která mě napadá a která může být velmi třeba zajímavá i pro ostatní, pro mě bylo klíčové to společenství lidí vždycky. A jednak v CoachVille, ale i třeba na jiných trénincích, jo, nebo i kde jinde. A vlastně řekl bych, pokud jsem si vybral nějakou cestu, jaký směr mi dává smysl, tak to, co pro mě z mého hlediska bylo nejvíc posilující, bylo obklopit se lidmi, kteří to mají podobně."
+    },
+    {
+      "i": 110,
+      "t": 2464,
+      "speaker": "Petr Kraus",
+      "text": "To je jednak, jednak je to vlastně sdílení informací, podpory a hodnot. Petře, v čem myslíš, že je koučování důležité pro lidstvo?"
+    },
+    {
+      "i": 111,
+      "t": 2504,
+      "speaker": "Petr Kraus",
+      "text": "To je, si myslím, něco, co může jako lidstvo i zachránit možná, když se dívám na to, co se děje. A klíčové, klíčové proto, abychom si všichni vlastně ten život mohli více jako užívat, jo, a méně se tady prát, méně se hádat, méně spolu válčit, jo, a společně jakoby si to užívat skutečně. A to užívání, jak říkám, to není jen o tom, že je to jednoduché, že je to krásné, že je to prostě o tom sedět na gauči a koukat na telku a být jako v pohodě. Ne, o tom to není. Tohle je jenom takové hodně povrchově příjemné. Ale pokud chce člověk, aby to bylo krásné, tak je to o něčem jiném. A koučové k tomu můžou pomoct. Můžou pomoct k tomu, abychom si tady ten život užívali všichni na téhle planetě."
+    },
+    {
+      "i": 112,
+      "t": 2562,
+      "speaker": "CoachVille",
+      "text": "Petře, děkuji moc za tvoje slova, díky za to, že jsme spolu mohli prozkoumat tvoji cestu. Slyšeli jste Petra Krause. Petře, kde tě můžou lidé kontaktovat, jak se s tebou můžou dát do kontaktu?"
+    },
+    {
+      "i": 113,
+      "t": 2576,
+      "speaker": "Petr Kraus",
+      "text": "Nejčastěji kontaktování přes LinkedIn, takže tam mě vždycky najdou, a budu se těšit na jakékoliv kontaktování, rád si s každým pokecám o čemkoliv, v jakékoliv situaci. A velmi rád, pokud by někdo o koučování uvažoval a třeba by ho zajímalo třeba něco dalšího z té mé cesty, nebo má nějaké pochyby, tak i velmi rád se takhle spojím a s někým o tom promluvím."
+    },
+    {
+      "i": 114,
+      "t": 2606,
+      "speaker": "CoachVille",
+      "text": "Tak jo. Petře, díky moc, že jsme to spolu mohli podniknout. Díky za to."
+    },
+    {
+      "i": 115,
+      "t": 2611,
+      "speaker": "Petr Kraus",
+      "text": "Já děkuju."
+    }
+  ]
+}

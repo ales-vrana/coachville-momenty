@@ -1,0 +1,103 @@
+{
+  "slug": "petr-kraus",
+  "title": "Po 10 letech v managementu vývoje software se Petr Kraus vydává na cestu profesionálního kouče",
+  "guestSlugs": [
+    "petr-kraus"
+  ],
+  "vimeoId": "817885592",
+  "vimeoHash": "4794043fc0",
+  "vimeoUrl": "https://vimeo.com/817885592/4794043fc0",
+  "recordedAt": "2023-04-01",
+  "durationS": 2625,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 61,
+      "title": "Přepracovaný manažer"
+    },
+    {
+      "t": 127,
+      "title": "Stres: nikdo mě vedení neučil"
+    },
+    {
+      "t": 226,
+      "title": "Lektor, e-book a první koučka"
+    },
+    {
+      "t": 369,
+      "title": "Území, kterému jsem se vyhýbal"
+    },
+    {
+      "t": 513,
+      "title": "Sen: být koučem"
+    },
+    {
+      "t": 624,
+      "title": "První týdny výcviku"
+    },
+    {
+      "t": 698,
+      "title": "Hraju si na manažera, který ví"
+    },
+    {
+      "t": 795,
+      "title": "Od ledna 2020"
+    },
+    {
+      "t": 856,
+      "title": "Vést tým koučovacím způsobem"
+    },
+    {
+      "t": 976,
+      "title": "Kouč jako parťák, ne šéf"
+    },
+    {
+      "t": 1029,
+      "title": "Rozcestí: koučování týmů"
+    },
+    {
+      "t": 1232,
+      "title": "Doporučení: mít svého kouče"
+    },
+    {
+      "t": 1420,
+      "title": "Tři roky obojí, teď odchod"
+    },
+    {
+      "t": 1596,
+      "title": "Poslední den po 20 letech"
+    },
+    {
+      "t": 1709,
+      "title": "Komunita a tréninkoví parťáci"
+    },
+    {
+      "t": 1942,
+      "title": "Game changer v osobním životě"
+    },
+    {
+      "t": 2158,
+      "title": "Co se děje se spolužáky"
+    },
+    {
+      "t": 2314,
+      "title": "Kouč je životní styl"
+    },
+    {
+      "t": 2354,
+      "title": "Motto: krásný, ne jednoduchý"
+    },
+    {
+      "t": 2415,
+      "title": "Závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/petr-kraus.json"
+}

@@ -1,0 +1,225 @@
+[
+  {
+    "id": "pk001",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 5,
+    "endUtt": 6,
+    "quote": "Stresující, jo, to bylo strašně moc. V podstatě celá ta práce byla pro mě stresující, jo. A bylo to proto, protože jsem strašně chtěl, aby to bylo skvělé, aby všechno bylo skvělé. Ale vlastně jsem to neuměl. Nikdo mě neučil vedení lidí, leadership. Nikdo mě neučil, co je tam důležité. Já jsem přišel z role programátora, který chtěl psát skvělej kód. A pak vlastně viděl, že budu užitečnější, když to celé povedu, protože já vím, jak na to. Ano, člověk zjistí, že to tak úplně nefunguje. Samozřejmě já vím, jak na to, ale ono to tak nejde. To jsou lidi, se kterými pracuju. To není stroj, který nějak pošteluju a možná začne z toho něco padat jinak. Ano, to taky nefungovalo, takže jsem spoustu práce dělal za lidi, bylo tam hodně stresu, obav, co řeknou nadřízení z toho a z toho. Takže vlastně to byl neustálý život v nějakém stresu.",
+    "summary": "Celá práce manažera pro něj byla stresující: chtěl, aby všechno bylo skvělé, ale nikdo ho vedení lidí neučil. Přišel z role programátora s tím, že „já vím, jak na to“, a zjistil, že lidé nejsou stroj. Spoustu práce dělal za lidi, bál se, co řeknou nadřízení; neustálý život ve stresu.",
+    "proofElements": [
+      "situace",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "neustálý stres, práce za lidi, strach z nadřízených",
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Stav před startem pro tag TM3/TM5; co se s ním stalo, je v pk005. V promluvě 2 (mimo úsek) host sám zmiňuje vyhoření a pád na dno; redakce ji do momentu nezařadila, rozhodnutí na Alešovi. Nikdy neformulovat, že výcvik léčí vyhoření."
+  },
+  {
+    "id": "pk002",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 9,
+    "endUtt": 13,
+    "quote": "Život jako hra. A trvalo to dlouho, já jsem dlouho otálel, dlouho jsem otálel, a pak jednou, z ničeho nic, jsem tam prostě klikl, hele, tady je nějaký zajímavý e-book, stáhnul jsem si ho, pak mi někdo zavolal, koučka, a tak jsem se dostal ke své první koučce. A protože já prostě mám rád všechno nové, tak jsem říkal, ale koučování, zkusím to, to je prostě super věc, kterou musím zkusit, jo. A nevěděl jsem o něm nic, jen jsem si říkal, ale to je něco novýho, to prostě musím zkusit, protože to je nové. A já jsem byl nadšený. Z každého sezení jsem byl naprosto nadšený, protože najednou jsem tam přišel s nějakými problémy s tím, že... A vlastně já jsem nebyl člověk, který měl problémy. A já jsem si myslel, že jsem úplně v pohodě, že vlastně nic nepotřebuju. [nesrozumitelné] Ale vlastně při rozhovorech s koučkou jsem si říkal, aha, jo, tak tohle z toho... No to je fakt, já nevím, co s tím. A jako necítím se v tom dobře. A vždycky jsme něco takového objevili.",
+    "summary": "Na začátku byl lektor náboru, který se manažerů ptal, co by chtěli; pak Život jako hra. Dlouho otálel, až jednou klikl na e-book, zavolala mu koučka a stala se jeho první koučkou. O koučování nevěděl nic, zkusil to, protože to bylo nové. Myslel si, že žádné problémy nemá; z každého sezení odcházel nabitý a věci mu fungovaly.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: vlastní koučka před vstupem do výcviku (jako David a Michaela). Tag Proč jsem váhal: „dlouho jsem otálel“, co rozhodlo (zkusit, protože nové). Promluva 9 je v transkriptu zkrácená."
+  },
+  {
+    "id": "pk003",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 16,
+    "endUtt": 19,
+    "quote": "A že když tam vstoupím, tak se mi zase otevřou nějaké další jako možnosti. Abych to třeba přizemnil něčím skutečným, tak třeba jednání v práci, kde nejsou jenom členové mého týmu, na které mám kontrolu, ale třeba jiných týmů a třeba jejich šéfové a třeba výrazné osobnosti. A teď tam jsem já, mám něco prosadit, nebo chci prosadit nějakou myšlenku, a to bylo pro mě teda nesmírně obtížné. Prostě bylo tam to, že jsem se bál vůbec to říct, čekal jsem, co oni na to řeknou, jak já sám se pak za to odsoudím, že to nebylo ono. Takže to bylo jako jedno velké napětí, které jsem cítil, a občas teda něco vytrysklo i přes to napětí, ale vlastně to bylo nesmírně vysilující celé pro mě. A když jsme tohle řešili s tou koučkou, tak po jednom sezení nad tímhle tématem jsem měl tolik energie, že jsem šel a začal jsem si užívat tyhle situace. Takže to bylo prostě, říkám, jestli tohle je možné v koučování, tak to je neuvěřitelně zajímavé, co ještě dalšího je možné.",
+    "summary": "S koučkou vstoupil na území, kterému se vyhýbal: jednání s jinými týmy, jejich šéfy a výraznými osobnostmi, kde měl něco prosadit. Bál se to vůbec říct a pak se sám odsoudil; bylo to vysilující napětí. Po jednom sezení nad tímto tématem měl tolik energie, že si tyto situace začal užívat.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Host tu v roli hráče, ještě před výcvikem. Konkrétní situace v práci a změna po jednom sezení; bez měřitelného důsledku."
+  },
+  {
+    "id": "pk004",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 29,
+    "endUtt": 33,
+    "quote": "Těch uvědomění byla celá řada. A vlastně říkám si, že chci vypíchnout ty nejdůležitější. Tak asi jedno z těch nejdůležitějších, které teda přišlo mezi prvníma, bylo, že se na něco hraju. Že to vlastně nejsem já. Že se na něco hraju před tím, před sebou, před těmi lidmi. A že tam nosím nějaké masky vlastně tak, aby nebylo vidět, že se taky bojím třeba, nebo že nevím. Prostě vlastně tak je ten manažer, který prostě ví a nebojí se. Teďka. A že ví a nebojí se.",
+    "summary": "Jedno z prvních uvědomění ve výcviku: že se na něco hraje, nosí masky, aby nebylo vidět, že se taky bojí nebo neví; manažer, „který ví a nebojí se“. Uvědomil si, že před deseti lidmi, které vede, může být king, ale v zasedačkách se bojí, a že to, co říkají učitelé, má hlavu a patu.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "hrál si na manažera, který ví a nebojí se; v zasedačkách se bál",
+    "topics": [
+      "koucovsky-typ",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S1/S5 stupeň A: návyk manažera (maska) pojmenovaný, co se změnilo. Přiznání bez měsíců a peněz (tag Co bylo těžší stupeň B)."
+  },
+  {
+    "id": "pk005",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 35,
+    "endUtt": 43,
+    "quote": "Jo, to je úplně něco jiného. Prostě mě to z role upracovaného manažera, který se na něco hraje, posunulo směrem k někomu, kdo je lídr a kdo si tu práci vlastně užívá, pod kým lidi rostou. A to bych asi vyzdvihl, pod kým lidi fakt jako rostou. A tam byla asi nejdůležitější změna u mě s tím, že jasně, já ty lidi nemusím vůbec koučovat v tom týmu. A můžu ty lidi vést koučovacím způsobem. Místo příkazů tam můžou přijít dotazy, které ty lidi podporujou v tom, aby oni byli samostatní, aby oni rostli. Ale šéfe, máme problém. OK, to vypadá jako problém. No a co navrhuješ? A co k tomu potřebuješ dalšího? OK, jak tě můžu já podpořit? A to je úplně co jiného, než když OK, tak udělej tohle. A najednou lidi začnou růst. Začnou vyrůstat noví lídři. Já jsem takhle předával týmy. Tady už mě není potřeba. Já už nejsem potřeba. [nesrozumitelné]",
+    "summary": "Koučovat se učí od ledna 2020. Z role upracovaného manažera, který se na něco hraje, ho to posunulo k lídrovi, pod kterým lidé rostou. Tým nekoučuje, ale vede koučovacím způsobem: místo příkazů otázky („to vypadá jako problém, co navrhuješ, co k tomu potřebuješ, jak tě můžu podpořit“). Vyrůstají noví lídři; týmy předával s tím, že už ho není potřeba.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 39,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag E4 stupeň A: konkrétní změna stylu vedení s příkladem dialogu a důsledkem (předané týmy, noví lídři), bez čísla. Úsek obsahuje otázky tazatele (36, 38, 39); počet odkoučovaných hodin v transkriptu chybí (odpověď „Ano.“)."
+  },
+  {
+    "id": "pk006",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 46,
+    "endUtt": 47,
+    "quote": "A musím říct, že to je něco, co jsem se teda chvíli učil. Že jsem měl dlouho tendenci být tím manažerem, který toho člověka prostě někam potáhne. Takhle to nefunguje. A než jsem si začal tu cestu s tím člověkem užívat a vlastně připustil, každý jsme jiný, každý máme, jsme unikátní v něčem. Máme svoje tempo rozvoje v různých oblastech, které nám různě dávají smysl. A tohle jsem musel připustit. A pak si vlastně užívat to tempo a vlastně tu cestu toho mého hráče s tím, že já jsem takový průvodce, takový parťák na té cestě. Takže asi tohle bych vyzdvihl. Užívat si to, být parťákem, nebýt manažerem, nebýt šéfem. Být parťákem.",
+    "summary": "Jako profesionální kouč mimo firmu se chvíli učil nebýt manažerem, který člověka někam potáhne; tak to nefunguje. Musel připustit, že každý má své tempo rozvoje v oblastech, které mu dávají smysl, a začít si cestu hráče užívat jako průvodce a parťák, ne šéf.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S5 stupeň A bez čísla: návyk manažera, který překážel, a co s ním udělal."
+  },
+  {
+    "id": "pk007",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 51,
+    "endUtt": 54,
+    "quote": "Jo, těch rozcestí bylo několik. A jedno z těch rozcestí přišlo docela záhy. A když jsem byl opravdu ve výcviku koučovacím, tak jsem byl tím nesmírně nadšený a unešený. Já jsem prostě [nesrozumitelné] a užíval jsem si to. A pak najednou se to začalo vytrácet, to užívání. A já, ty vole, co je? A něco mi chybělo. A nebylo to ono. A vlastně tam to bylo jako první určité vystřízlivění z nějakého takového nadšení. Vlastně to, co jsem si v tu chvíli uvědomil, je, že to, co mě vždycky bavilo, byly ty týmy a lidi. A dělat kouče bylo skvělé, ale mně vlastně začaly chybět ty týmy a ty skupiny lidí a ty týmy lidí. A vlastně jsem si uvědomil, že to neznamená, že koučování pro mě není, ale možná znamená, že to potřebuji dělat jinak. A začal jsem se zabývat tím, co by mohlo být to jinak, a objevil jsem koučování týmů. A tak jsem svoji hru rozšířil o koučování týmů, takže nyní nekoučuju pouze, nebo nekoučuju jen individuály, ale koučuju i týmy. A říkám zároveň i, nelze koučovat jen týmy, nebo aspoň zatím nevím o žádném úspěšném kouči, který by skvěle koučoval týmy a nekoučoval individuály. To se musí doplňovat. A vlastně tady tuhle hru si užívám.",
+    "summary": "První rozcestí přišlo záhy: nadšení z výcviku se začalo vytrácet, něco mu chybělo a hodně zaváhal („koučování smysl dává, ale necítím se v tom“). Uvědomil si, že mu chybí týmy a skupiny lidí, které ho vždycky bavily. Objevil koučování týmů a rozšířil o něj svou hru; dnes koučuje jednotlivce i týmy.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "nadšení se vytratilo, hodně zaváhal, necítil se v tom",
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "jina-cesta-nez-skola-ukazovala"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S4 stupeň A: krize (kdy, proč), co pomohlo (ohlédnout se, co ho naplňuje), bez délky trvání. Druhý host tématu Jiná cesta než škola ukazovala: uhnul k týmovému koučování."
+  },
+  {
+    "id": "pk008",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 68,
+    "endUtt": 73,
+    "quote": "Takže jo, tohle fungovalo. To, co jsem já zjistil, a zjistil jsem to přibližně před půl rokem, bylo, že ta vize té firmy, že už mě netáhne. Tam, kde já dělám manažera, už mě to tolik nenaplňuje, a taky to tím pádem znamená, že už tomu nedávám to nejvíc ze sebe. A v tu chvíli jsem si uvědomil, tady už není pro mě místo. Protože já, když něco dělám, tak to chci dělat skvěle, a pokud mě to netáhne a nejsem inspirovaný tou vizí firmy, tak já už ani těm lidem pod sebou, ani těm lidem kolem v té firmě nemůžu dát to nejlepší. To nedává smysl ani mně, a pravděpodobně by to přestalo dávat smysl brzo i jim. Ale je cesta jediná, jo, tady skončit. Takže teď jsem na cestě, kdy končím svoji misi manažera. Minimálně v této firmě, ale zřejmě teda končím minimálně nějaký čas s rolí manažera a budu se plně soustředit na svou roli kouče a týmového kouče.",
+    "summary": "Od roku 2020, tři roky, byl manažer na částečný úvazek a částečně kouč; doplňovalo se to a stal se podle sebe lepším manažerem, koučovací přístup používá i s kolegy manažery. Před půl rokem zjistil, že ho vize firmy už netáhne a nedává tomu to nejlepší; proto končí misi manažera, minimálně na čas, a soustředí se na roli kouče a týmového kouče.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "3 roky částečný úvazek manažera + kouč; rozhodnutí odejít půl roku před natáčením",
+    "isAdmission": false,
+    "monthsFromStart": 39,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "co-se-muselo-zmenit",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň A: tři roky obojí, milník odchodu = ztráta tahu vize firmy, ne počet klientů. Tag 13: tři roky nemusel nic měnit; odchod je volba, ne nutnost."
+  },
+  {
+    "id": "pk009",
+    "episode": "petr-kraus",
+    "guest": "petr-kraus",
+    "startUtt": 76,
+    "endUtt": 77,
+    "quote": "Já se těším moc. Já se těším moc a zároveň, zároveň vnímám, že to bude zajímavé, zvláštní trošku, ale to loučení bude obrovské. Já vlastně v tomhle týmu, bylo to už v několika firmách, ale nějak nás přeprodávali různě, tak v tomhle týmu já jsem přes 20 let, a to už něco jako znamená, tam už jsou nějaké vazby k těm lidem a je tam vybudována nějaká lojalita. A je to takový zvláštní pocit, to obrovské těšení se na to, co bude potom. A zároveň je takový, jo, bylo to skvělé. A je v tom i [nesrozumitelné], že to není to úplně čisté nadšení. Je v tom i takový prvek, a je to správně, si myslím, je to lidské. A byla by škoda, kdyby mi to [nesrozumitelné].",
+    "summary": "Na poslední den v práci se těší moc, a zároveň ví, že loučení bude obrovské: v tomto týmu je přes 20 let, přes několik firem, s vazbami a loajalitou. Není to čisté nadšení a podle něj je to tak správně a lidské.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "přes 20 let v jednom týmu",
+    "isAdmission": true,
+    "costText": "odchod z týmu po více než 20 letech; loučení, ne čisté nadšení",
+    "topics": [
+      "co-se-muselo-zmenit",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13: co změna stojí (vazby po 20 letech) vedle toho, co se nemění (loajalita k lidem). Přiznání s cenou, bez peněz."
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "slug": "petr-kraus",
+  "displayName": "Petr Kraus",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 39,
+  "priorProfessionText": "manažer ve vývoji softwaru (přes 10 let), původně programátor; od 2020 manažer na částečný úvazek a kouč, dnes odchází do role kouče a týmového kouče",
+  "priorProfessionCat": "IT a technika",
+  "regionType": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "programátor, pak přes 10 let manažer týmů ve vývoji softwaru; nikdo ho vedení lidí neučil; neustálý stres, práce za lidi"
+    },
+    {
+      "label": "Vlastní koučka",
+      "text": "lektor náboru, e-book Život jako hra, po dlouhém otálení klik; koučka mu zavolala; z každého sezení odcházel nabitý; v tom snu zahlédl sebe jako kouče"
+    },
+    {
+      "label": "Start (leden 2020)",
+      "text": "uvědomění, že se na manažera „který ví a nebojí se“ jen hraje; učitelé fascinovali otázkami"
+    },
+    {
+      "label": "Rozcestí",
+      "text": "nadšení se vytratilo, chyběly mu týmy; objevil koučování týmů a rozšířil o něj svou hru"
+    },
+    {
+      "label": "3 roky obojí",
+      "text": "manažer na částečný úvazek a kouč; tým vede koučovacím způsobem, předával týmy novým lídrům"
+    },
+    {
+      "label": "Dnes (39. měsíc)",
+      "text": "vize firmy ho netáhne, po víc než 20 letech v týmu končí misi manažera a jde plně do role kouče a týmového kouče"
+    }
+  ]
+}
