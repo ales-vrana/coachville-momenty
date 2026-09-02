@@ -1,0 +1,279 @@
+[
+  {
+    "id": "ml001",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 8,
+    "endUtt": 11,
+    "quote": "A vlastně mi říkali, že jsem kouč, protože já jsem se jich pořád na něco ptal a učil jsem se to ptát. Já jsem měl napsaný seznam otázek. Když jsem někde slyšel nějaký rozhovor, strašně se mi líbilo, jak se lidi ptají. Tak jsem měl napsaný v mobilu asi 30 otázek, vůbec jsem nevěděl proč, jak fungují, ale tak nějak jsem je vytahoval a ono to dávalo jako zajímavé, jako to změnilo tu perspektivu. Nebylo to takový to, já jsem přišel a řekl vám, co budete teď dělat. Ale ty lidi se začali bavit. Přijel jsem na prodejnu a ptal jsem se těch lidí, co jim funguje. Co by potřebovali, aby se posunuli. Takže jako kdyby pak zpětně, když jsem se dostal ke koučování a dokoučoval, tak mi to začalo všechno zapadat dohromady, že to je to, co jsem tam objevoval. A dělal to blbě, jo. Ale jako tak nějak jsem cítil, že to musí jít jinak. Já jim nebudu říkat, co mají dělat, všechno detaily. Já jim musím nějaký směr, nějaké očekávání, ale nebudu jim říkat, jak to dělat. Oni tam jsou celý den, oni jsou celý den na té pobočce, tak co já jim budu říkat, jak to mají dělat, když oni to vidí.",
+    "summary": "Zpětně si říká, že se na koučování připravoval celý život. Country manažery nešlo řídit příkazy, tak se ptal: kam se chceš s tou zemí dostat za rok? Měl v mobilu seznam asi 30 otázek z rozhovorů, které se mu líbily, a lidé mu říkali, že je kouč. Na prodejnách se ptal, co lidem funguje a co potřebují. Dělal to podle sebe „blbě“, ale cítil, že říkat lidem detaily nemá smysl, když jsou na pobočce celý den.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "asi 30 otázek v mobilu; dříve 5 000 lidí a přes miliardu eur obratu (úvod)",
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag E4: použití otázek v roli provozního ředitele před výcvikem. Tag S2 stupeň B: výchozí bod top manažer, ne psycholog. Čísla o firmě jsou z promluvy 2 (mimo úsek)."
+  },
+  {
+    "id": "ml002",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 13,
+    "endUtt": 16,
+    "quote": "Potom ty lidi mi říkali, že jsem kouč, což jsem nevěděl přesně, co to je. A tak jsem si říkal v rámci rozvojového plánu, že bych se chtěl naučit koučovat. Jo, a to jsem si někde napsal, takový, jak v těch korporátech se napíše a nic se s tím nestalo, že jo, tak jsem si napsal to, co bych chtěl, a tím to skončilo. A já jsem pak ve firmě, co jsem dělal, došlo ke změně vedení a já jsem si s tím novým generálním ředitelem nesedl, zkrátka hodnotově úplně někde jinde, takže jsme se rozloučili. No a vlastně s tím vznikla příležitost, no, takže příležitost, co dál. Takže klasika, jdu na pohovory, pohovory. No ale pak tam někde hlodalo to, že tohle to jsem vždycky chtěl, aspoň k tomu jako načuchnout a vědět, co to je, a zažít si to. A najednou se mi objevil kouč, který mě zaujal. Udělal jsem si test, prošel jsem testem, řekl jsem si, ale uvidím tři měsíce, dávám tomu ty první dva, tři měsíce, uvidím, jestli mě to bude bavit. A když ne, půjdu dělat zase to, co jsem dělal celý život.",
+    "summary": "Kolega dělal certifikaci ACC a nenápadně mu dával podněty; lidé mu říkali, že je kouč. „Naučit se koučovat“ si napsal do rozvojového plánu, jak se to v korporátu dělá, a nic se nestalo. Pak přišlo nové vedení, hodnotově jinde, a rozloučili se. Během pohovorů hlodalo, že tohle vždycky chtěl. Objevil se kouč, prošel testem a řekl si: dávám tomu dva tři měsíce, a když ne, půjdu dělat to, co celý život.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhal stupeň A: co rozhodlo (odchod z firmy, „vždycky jsem to chtěl“). Tag 11: test + experiment na 2 až 3 měsíce s reverzibilitou. Tag 13: nemusel nic spálit, návrat byl možný."
+  },
+  {
+    "id": "ml003",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 28,
+    "endUtt": 31,
+    "quote": "No, že první šok byl, že mám začít koučovat někoho po své první lekci. Někomu zavolat, že ho budu koučovat. A tak to byl strašný výstup z komfortní zóny, strašné něco jako zvláštního. A mně se to podařilo, já jsem měl jako neuvěřitelný štěstí, já jsem měl prvních pět telefonátů a pětkrát ano. A tak jsem vyrost, jako to je vlastně super. Všechno funguje. A pak to bylo na dlouho, pak jsem získával to ne, docela hodně dlouho, takže jsem tak postupně klesal. Takže ten začátek byl vlastně strašně hezký, že mi to vyšlo.",
+    "summary": "První šok: po první lekci má někomu zavolat, že ho bude koučovat; strašný výstup z komfortní zóny. Prvních pět telefonátů, pětkrát ano. Pak dlouho získával „ne“, asi dva měsíce, a postupně klesal: „je to ono?“ Do toho přišla pracovní nabídka na krásnou pozici. Zůstal a je moc rád.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "5 telefonátů, 5× ano; pak asi 2 měsíce samá ne",
+    "isAdmission": true,
+    "costText": "po prvních úspěších dva měsíce samá „ne“ a lákavá pracovní nabídka",
+    "topics": [
+      "nechci-oslovovat",
+      "kdy-jsem-to-chtel-vzdat",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C2 stupeň A: kolik pokusů, jak dopadly. Tag S4 stupeň A: krize (dva měsíce ne + nabídka), co ho udrželo, nezazní explicitně (od začátku „odpovídalo to na můj pocit“, promluva 30)."
+  },
+  {
+    "id": "ml004",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 33,
+    "endUtt": 34,
+    "quote": "Já jsem si tam v nějakou chvíli vybavil ten moment, když jsem řekl sám sobě, že jsem kouč. A začal jsem to jako šířit okolo sebe i doma, kdy oni takový říkali, doma bylo takový, hele, táta tam si jde povídat, to bylo jejich, táta má povídání. A já když jsem vlastně, a to vnímám jako u sebe takovej zlom, že já si nepovídám, já koučuju a já jsem kouč. A tak jako jsem vlastně takový to sám sobě řekl, ano, já jsem kouč a já se cítím jako kouč, já jsem kouč. A mám pocit, že to byla jako velká změna. A ještě jsem k tomu vlastně takový si řekl, že mám pocit, že poprvé něco umím. No jak jako řídíš, tak jako mluvíš do všeho, se všema lidma mluvíš, ale tady jsem najednou jako měl pocit, že jakože něco umím. A tohle, to jsem byl relativně na začátku, takže teďkon zjišťuju, že to je ještě daleko, ale strašně důležitý ten pocit, taková ta sebedůvěra a svůj pohled. Já jsem kouč a já něco umím a ono to nějak funguje. A ty si to možná vybavuješ, jak jsem to někdy říkal, že já sice nevím proč, nevím, jak to funguje, ale vím, že to funguje. A to mně přijde jako taková ta krásná změna v určitý škole, kde jsme se učili všecky teorie, ale nevěděli jsme, jak to, jako v praxi jsme to neuměli. Tak tady nějak ta praxe fungovala.",
+    "summary": "Zlom: řekl sám sobě, že je kouč, a začal to říkat i doma, kde do té doby platilo „táta má povídání“. Poprvé měl pocit, že něco umí; jako ředitel mluvil do všeho, tady najednou uměl konkrétní věc. Bylo to relativně na začátku: „nevím proč, nevím, jak to funguje, ale vím, že to funguje“.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "k-cemu-papir"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8/S6 stupeň A: konkrétní moment sebedůvěry (pojmenovat se koučem doma). Tag K čemu papír stupeň B: identita kouče bez credentialu, praxe před certifikátem."
+  },
+  {
+    "id": "ml005",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 44,
+    "endUtt": 47,
+    "quote": "Když jsem hrál. Ale jako pro mě, jsem byl asi zvědavý, což je zvláštní, že to je moje dětská vlastnost, kterou objevuju teď. Ale asi jsem byl zvědavý a šel jsem do toho, já jsem se tam dostal do toho, že jsem řekl, já vlastně o tom nic nevím, tak jediný, co mi zbývá, když to chci dělat, vezmu ty skripty tak, jak nám je dal, no a projedu to s těma lidma a uvidím, co se bude dít. A šlo mi to, asi jsem uměl dobře číst, jo, tak a ono to nějak fungovalo. Pro mě asi jako nejsložitější bylo pak jako ta největší výzva byly ty, jako zpětně, ty telefonáty, no. To volat někam bylo něco, na co jsem nebyl zvyklý, a to bylo něco kompletně nový. A jako to koučování. Bylo to držet se toho skriptu a pak takovou tu, je to intuice, jako být v tom přítomném okamžiku, jo, co tam je, kdy někdy mě to zajímalo, jo, a teďkom zase někam jinam, tak se tam jako uhlídat, aby to mělo pořád nějakou trošku strukturu, a přitom jsou tam zajímavý věci, a to bylo takový, že jsem se víc hlídal, ale...",
+    "summary": "Pochybnosti nahradila zvědavost: o koučování nic nevěděl, tak vzal skripty, jak je dostal, projel je s lidmi a díval se, co se bude dít. Čtení mu šlo. Některým otázkám sám nerozuměl a bál se, aby je po něm nechtěli vysvětlit; učil se reagovat „jak to vnímáš ty“ a že žádná odpověď není špatná. Největší výzva byly telefonáty.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: první setkání se skripty, co dělal, když nerozuměl otázce; bez čísla setkání, kdy se cítil jistě."
+  },
+  {
+    "id": "ml006",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 53,
+    "endUtt": 55,
+    "quote": "Co já jsem udělal, já jsem si vzal kontakty, co mám, sepsal jsem si to do sešitu a pak jsem začal z toho seznamu si vybírat tím, komu zavolám první. Takže některým mi trvalo třeba čtyři měsíce, než jsem zavolal, i když na tom listu byli. No a začal jsem volat vlastně ty lidi, použil jsem ty role-play, co jsme zkoušeli, nějaké ty komunikace, a vlastně jsem si hledal, asi je to o tom zkoušení. A mě tam tak hodně pomohlo s parťákem, jak jsme praktikovali, kdy jsem dostal feedback, že to je hodně strojený. Abych tam, a že tam není cítit ta energie, že když tam pustím energii, tak je to úplně něco jiného. A najednou jsem to zkoušel přes tu energii, takový to jako přirozeně, jako s tím zájmem, a začalo to fungovat jinak. A je to o tom, že zkrátka zkouším, zkouším a někdy se to vydaří, nevím proč, často se to nevydařilo, ale bylo to, že se s tím člověk baví, anebo se naučit reagovat na to, že teďko ne.",
+    "summary": "Sepsal si kontakty do sešitu a vybíral, komu zavolá první; některým to trvalo čtyři měsíce, i když na seznamu byli. Použil role-play z tréninku. Od parťáka dostal zpětnou vazbu, že je to strojené a chybí energie; když do hovoru pustil zájem, začalo to fungovat jinak. Tento týden dostal v pondělí „ne“, ale sešli se aspoň na hodinu a příští týden mají další.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C2 stupeň A: postup (seznam, výběr, role-play), co nešlo (strojenost, 4 měsíce odkladu u některých) a co pomohlo. Tag 5: role-play a zpětná vazba parťáka od školy, volání sám."
+  },
+  {
+    "id": "ml007",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 81,
+    "endUtt": 84,
+    "quote": "Jako něco řekneš a oni udělají ještě čtyřikrát tolik, [nesrozumitelné], a rovnou si to do cesty postaví, všechny možný pomocníky, a do dalšího týdne se změní, to je neuvěřitelné. Někde to je takový pomalejší. A ještě tam mám jeden, tady v tom to je zajímavý, s kým dělám dýl, tak je to úplně zase jiné, já mám třeba rok a půl, mám tam jednoho hráče, jednoho mám tři čtvrtě roku. A tam je to zase na úplně jiné úrovni. Teď mám tři nový, a to mi přijde, jako teprve začínáme, teprve se učí vyslovit, pojmenovat nějaký pocit, vyslovit, co by vlastně chtěli. Že to je, ta různorodost je strašně hezká.",
+    "summary": "Jeho hráči jsou hlavně šéfové a majitelé středních a větších firem. Začínají u firmy a strategie a skončí vždycky u lidí a jejich přístupu. Baví ho ti, kteří jdou do akce: řeknou, co udělali a co nešlo. Jednoho hráče má rok a půl, jednoho tři čtvrtě roku a teď tři nové, kteří se teprve učí pojmenovat, co by chtěli.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "hráč 1,5 roku; hráč 3/4 roku; 3 noví",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň B: kdo jsou klienti a jak dlouho zůstávají, bez toho, odkud přišli (viz ml006, ml009)."
+  },
+  {
+    "id": "ml008",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 101,
+    "endUtt": 106,
+    "quote": "Hele, já můžu, jako teďkom si účtuju 43 tisíc za 12 setkání, jo, a ještě jsem nedostal ne, jo, mám to vždycky, jsem někde začínal, začínal jsem na 6 tisících. A vždycky jsem to zvedal, jo, bylo 6, 12, pak jsem měl 20, tak 27, 33, 37, teďkon jsem 43, no. A zatím mi to vždycky, jako tohle nebylo to téma, ty finance. Bylo to o té přidané hodnotě a o mně to bylo hodně. O mně, já vždycky si musím připravit, hele, a mám takový to, když mi čtyři lidi řeknou na tu částku ano, no tak vyzkouším další. Mám takovou nějakou hru svojí, takže. Až mi tady tak už mám... A mezitím si připravím, jaká bude ta další částka, jo? Takže jsem si tam nějaký dal a... No, jo? Takže dá se s tím živit. Ale mám k tomu i takový charitativní. Charitativní takový, že to dělám jako za, jo, třeba za 15 na hodinu, protože jsou zkrátka nějaký lidi, který vlastně jim pomáhám, jako charit, jako jenom pomoct. Ale co jsem se tam naučil, ono tak... Částka je vlastně, to byla taková ta zkušenost z toho začátku,",
+    "summary": "Koučování je pro něj hlavní zdroj příjmu. Dnes si účtuje 43 tisíc za 12 setkání a zatím nedostal „ne“. Začínal na 6 tisících a zvedal: 6, 12, 20, 27, 33, 37, 43. Má vlastní hru: když na částku řeknou ano čtyři lidé, vyzkouší další, kterou má připravenou. Naučil se, že příliš nízká cena hodnotu shazuje: s parťákem to pojmenovali „tím je okrádáš“, k třem stovkám za hodinu člověk s příjmem nepřistupuje zodpovědně.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "6 000 → 12 000 → 20 000 → 27 000 → 33 000 → 37 000 → 43 000 Kč za 12 setkání; pravidlo 4× ano, pak zvednout",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "sebeduvera",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Nejúplnější cenová cesta v katalogu: první cena, kroky, dnešní cena, pravidlo zvyšování. Charitativní sazbu (promluva 104, „15 na hodinu“, nejasná jednotka) v souhrnu neuvádím. Úsek obsahuje zkrácenou otázku tazatele (102)."
+  },
+  {
+    "id": "ml009",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 110,
+    "endUtt": 113,
+    "quote": "Zase jsem zkoušel Pokémony, o nich jsme tady nemluvili, taky jako zajímavá zkušenost, nerad tam volám, no ale tím pádem člověk v relativně krátký době minimálně si vyzkouší spoustu různých variant volání a odmítnutí a reakcí a svojí, takže to je nějaký super, no tak jako si to zaplatím. Vlastně jsem na všech viděl na těch balíčcích, nebyly to nějaké závratné sumy, ale když si řeknu, tak to byla praxe, zkoušel jsem hodiny. Takže pokud nemá člověk s tím zkušenosti, tak podle toho, nech se případně na to koučovat, na ty částky, to jsme se taky koučovali, že takový to přece nemůžu si říct víc než 500 korun. Mně třeba pomohlo za tu herní sezónu, protože to je najednou úplně něco jinýho, a pak je to fakt jenom částka, kterou řeknu, říct a mlčet.",
+    "summary": "Vydělávat nebyla jeho primární motivace, chtěl se naučit koučovat. Radí: tady dostaneš návod, tak to zkoušej a volej. Sám vyzkoušel balíčky kontaktů od školy: nerad tam volá, ale v krátké době si vyzkoušel spoustu variant volání, odmítnutí a reakcí; nebyly to závratné sumy, byla to praxe. Na částky se nechal koučovat: „přece si nemůžu říct víc než 500“; pomohlo účtovat za herní sezónu a částku říct a mlčet.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "nerad volá; balíčky kontaktů zaplatil jako praxi",
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "nechci-oslovovat",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 5 stupeň A: co dala škola (návod, balíčky kontaktů, koučování na cenu), co sám (volání, zkoušení). Tag P7 stupeň B: vlastní blok „víc než 500 si nemůžu říct“ a jak ho překonal."
+  },
+  {
+    "id": "ml010",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 116,
+    "endUtt": 118,
+    "quote": "Pro mě tam byly jako zajímavé zkušenosti, zaprvé ta praxe, ale měl jsem tam i takový, kdy jsme si popovídali a jakože ne teďko, no. Jako dobrý. Tenkrát jsem si ani nedal další termín, ale ten člověk se mi ozval o 4 měsíce později, protože to bylo tak, ta hodina na něj zapůsobila. A pak jsme spolu jeli, [nesrozumitelné] jsme jeli spolu, no, a teďko jsme si dali pauzu a budeme pokračovat na podzim, takže jo, měl jsem tam... Jo, a narazíš tam, já jsem tam narazil taky jako někde problémy s financema, ale bylo to spíš o tom, že to nemůže dát najednou, no tak jsme si dohodli, že to bude platit po měsících, jo, jako je to taková nějaká ta flexibilita, to asi je to nejmenší, co tam člověk má. Takže já jsem se z toho naučil, že volej, získáš ne, to tam je, jo, získáš překvapivé odpovědi, no ale mezi tím a o tom to vlastně jsou ty, který ti řeknou ano, kde si sedneš. No a pak když z toho něco.",
+    "summary": "Z balíčků kontaktů: jeden člověk po ukázce řekl „ne teď“, ani si nedali další termín, a ozval se sám o čtyři měsíce později, protože na něj hodina zapůsobila; spolupracovali, teď mají pauzu a pokračují na podzim. U jiného byl problém s penězi najednou, tak se dohodli na platbách po měsících. Ve všech případech získal víc, než vložil: praxi a odkoučované hodiny.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "klient z balíčku se ozval sám po 4 měsících; platba po měsících místo najednou",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň A: odkud klient přišel, kdy, jak; bez počtu. Flexibilita plateb je na straně klienta, ne školy."
+  },
+  {
+    "id": "ml011",
+    "episode": "mila-hajek",
+    "guest": "mila-hajek",
+    "startUtt": 124,
+    "endUtt": 130,
+    "quote": "No, je to zvláštní úplně. Je to takový, že vlastně plno věcí jsem se učil znova, protože jsem vždycky měl ajťáky a měl jsem lidi, kteří mi to dělali, a teďka jsem si to všechno nějak zkoumal sám, jak to udělat, od daní, fakturace, založení firmy. A co je velká změna? Velký změny jsou. Stýkám se vlastně s lidmi, kteří mě baví. Nemám tam ty, protože zkrátka to známe, jako asi mi někdo nebude platit, když si nebudeme sedět. Takže se stýkám s lidmi, kteří mě baví. Mám, odpadly mě mraky reportů a prezentací, který zkrátka jsou nedílnou součástí a zkrátka tráví s tím spoustu času. Odpadly mě meetingy, kde byl meeting několikahodinový, a pak jsem z toho měl dvě řádky, kde jsem strávil spoustu času a nic mi to nepřineslo. Takže mně se to jako strašně zefektivnilo, protože když volám, tak volám a je tam jasný nějaký záměr,",
+    "summary": "Spoustu věcí se učil znovu: dřív měl ajťáky a lidi, kteří to dělali, teď si sám zkoumal daně, fakturaci, založení firmy. Stýká se s lidmi, kteří ho baví; odpadly hromady reportů, prezentací a několikahodinových meetingů. Má víc volného času a vzdělává se dál. Nová výzva: bez tlaku „jindy ten čas není“ mu ujíždí disciplína, třeba ranní běhání, a musí si ji nastavit zpětně.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "znovu se učil daně, fakturaci a založení firmy; bez tlaku času ztrácí disciplínu",
+    "topics": [
+      "co-se-muselo-zmenit",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13 stupeň A: co se změnilo (reporty, meetingy, admin, čas) a co zůstalo (učení, sport). Přiznání s cenou bez peněz."
+  }
+]

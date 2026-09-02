@@ -1,0 +1,47 @@
+{
+  "slug": "mila-hajek",
+  "displayName": "Míla Hájek",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 22,
+  "priorProfessionText": "provozní ředitel v retailu (korporace, více zemí, 5 000 lidí, přes miliardu eur obratu)",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "celý život retail v korporacích, od Německa po provozního ředitele pro více zemí (5 000 lidí, přes miliardu eur); country manažery řídil otázkami, 30 otázek v mobilu; „vždycky mi tam něco chybělo“"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "kolega s ACC, „naučit se koučovat“ v rozvojovém plánu bez akce; změna vedení a rozloučení s firmou; test a experiment na 2 až 3 měsíce s návratem jako záložní plán"
+    },
+    {
+      "label": "Start",
+      "text": "5 telefonátů, 5× ano; pak dva měsíce samá ne a pracovní nabídka; zůstal. Skripty četl, otázkám ne vždy rozuměl. Seznam kontaktů, role-play, zpětná vazba parťáka o energii"
+    },
+    {
+      "label": "Ceny",
+      "text": "od 6 000 za 12 setkání přes 12, 20, 27, 33, 37 na 43 000; pravidlo 4× ano, pak zvednout; balíčky kontaktů jako praxe"
+    },
+    {
+      "label": "Dnes (téměř 2 roky)",
+      "text": "přes 500 hodin, koučování hlavní zdroj příjmu; hráči šéfové a majitelé firem, jeden 1,5 roku; PCC level; učil se daně a fakturaci; ženatý, tři dospělí synové, Grónsko pěšky, 41 sportů"
+    }
+  ]
+}
