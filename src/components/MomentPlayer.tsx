@@ -282,7 +282,7 @@ export default function MomentPlayer({
         </div>
         <div ref={readSentinelRef} className="h-1" aria-hidden="true" />
         <p className="mt-4 text-sm text-muted">
-          Řekl(a) to {guestName}. Přepis je doslovný, bez úprav.{" "}
+          Řekl(a) to {guestName}. Přepis je upravený jen pro čitelnost (bez slovní vaty), význam a čísla jsou beze změny.{" "}
           <Link href={fullUrl} className="underline">
             Celý nesestříhaný rozhovor od {startLabel}
           </Link>

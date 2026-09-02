@@ -3,15 +3,50 @@
   "displayName": "Michaela Hozáková",
   "nameMode": "full",
   "consentStatus": "granted",
-  "consentScope": { "moments": true, "name": true, "photo": false, "contact": false, "amounts": true, "ads": false },
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
   "consentDate": "2026-09-02",
-  "phaseAtRecording": "neuvedeno",
-  "priorProfessionText": "neuvedeno",
-  "priorProfessionCat": "neuvedeno",
+  "phaseAtRecording": "profesionální kouč bez credentialu",
+  "monthsInTraining": 33,
+  "phaseNow": "profesionální kouč bez credentialu",
+  "phaseNowDate": "2025-04",
+  "priorProfessionText": "manažerka skupiny v pojišťovně (15 let), obchodnice a finanční poradkyně",
+  "priorProfessionCat": "manažer / vedoucí",
   "regionType": "neuvedeno",
-  "verifyLinks": [],
+  "ageBand": "50+",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://www.coachville.eu/",
+      "label": "Profil kouče na CoachVille.eu (interní, doplnit LinkedIn nebo ICF)"
+    }
+  ],
   "contactAllowed": false,
   "rewardReceived": false,
   "worksForSchool": false,
-  "timeline": []
+  "timeline": [
+    {
+      "label": "Start",
+      "text": "2022, po 15 letech jako manažerka v pojišťovně; přivedlo ji přetížení a tlačítko na Facebooku"
+    },
+    {
+      "label": "První klienti",
+      "text": "po první hodině 8 lidí (5 podřízených, 3 zvenčí); první za 200 Kč, další za 500 Kč, 12 setkání dopředu"
+    },
+    {
+      "label": "Cena",
+      "text": "během výcviku 500 → 1 000 → 1 500 Kč za hodinu, všichni klienti řekli ano; z koučování platila školu"
+    },
+    {
+      "label": "Dnes",
+      "text": "2025: 1 084 odkoučovaných hodin za necelé 3 roky, na volné noze od letoška, 2 500 až 3 500 Kč za hodinu, příjem zatím na úrovni životních nákladů"
+    }
+  ]
 }

@@ -146,7 +146,7 @@ export function formatDateCz(iso: string): string {
 
 export function phaseLabel(g: Guest): string {
   const parts: string[] = [];
-  if (g.monthsInTraining) parts.push(`${g.monthsInTraining}. měsíc výcviku`);
+  if (g.monthsInTraining) parts.push(`${g.monthsInTraining}. měsíc od startu`);
   else if (g.phaseAtRecording && g.phaseAtRecording !== "neuvedeno") parts.push(g.phaseAtRecording);
   return parts.join(", ");
 }

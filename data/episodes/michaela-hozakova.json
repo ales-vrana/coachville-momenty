@@ -1,7 +1,9 @@
 {
   "slug": "michaela-hozakova",
   "title": "1084 hodin koučovací praxe s platícími klienty. Michaela Hozáková nikdy nekoučovala zdarma",
-  "guestSlugs": ["michaela-hozakova"],
+  "guestSlugs": [
+    "michaela-hozakova"
+  ],
   "vimeoId": "1071399292",
   "vimeoHash": "184ea1f19e",
   "vimeoUrl": "https://vimeo.com/1071399292/184ea1f19e",
@@ -9,7 +11,77 @@
   "interviewerName": "Aleš Vrána",
   "interviewerRole": "zakladatel CoachVille",
   "format": "rozhovor",
-  "status": "draft",
-  "chapters": [],
-  "transcriptFile": "data/transcripts/michaela-hozakova.json"
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod"
+    },
+    {
+      "t": 47,
+      "title": "Proč jsem chtěla změnu"
+    },
+    {
+      "t": 188,
+      "title": "Manažerka i koučka zároveň"
+    },
+    {
+      "t": 290,
+      "title": "Prvních osm klientů po první hodině"
+    },
+    {
+      "t": 522,
+      "title": "Začátky: nadšení a překvapení"
+    },
+    {
+      "t": 781,
+      "title": "Komunita CoachVille"
+    },
+    {
+      "t": 945,
+      "title": "Jací klienti mě baví"
+    },
+    {
+      "t": 1038,
+      "title": "Jak jsem získala platící klienty a zvyšovala cenu"
+    },
+    {
+      "t": 1260,
+      "title": "Dnešní ceny a náklady"
+    },
+    {
+      "t": 1351,
+      "title": "Návratnost investice"
+    },
+    {
+      "t": 1489,
+      "title": "Svoboda"
+    },
+    {
+      "t": 1688,
+      "title": "Finanční nezávislost jinak"
+    },
+    {
+      "t": 1917,
+      "title": "Pochybnosti a sebedůvěra"
+    },
+    {
+      "t": 2179,
+      "title": "Být koučovaná"
+    },
+    {
+      "t": 2484,
+      "title": "Vzkaz těm, kdo váhají"
+    },
+    {
+      "t": 2769,
+      "title": "Je to také obchod"
+    },
+    {
+      "t": 2961,
+      "title": "Kontakty od CoachVille"
+    }
+  ],
+  "transcriptFile": "data/transcripts/michaela-hozakova.json",
+  "durationS": 3035
 }
