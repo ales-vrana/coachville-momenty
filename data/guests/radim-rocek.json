@@ -1,0 +1,53 @@
+{
+  "slug": "radim-rocek",
+  "displayName": "Radim Roček",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 48,
+  "priorProfessionText": "manažer v americkém korporátu (východní Evropa, 28 zemí), dnes lídr ve firmě zaměřené na udržitelnost; téměř 30 let v byznysu",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://www.radimrocek.cz/",
+      "label": "Web a kniha Radima Ročka"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "téměř 30 let v byznysu; manažer v americkém korporátu pro východní Evropu (28 zemí); rok koučoval sám sebe podle Whitmorea, od 2015 koučovací přístup u týmu"
+    },
+    {
+      "label": "Krize (2018)",
+      "text": "nevěděl, jak firmu posunout; odboj ve firmě, kolega ho kritizoval před téměř celou firmou; několik měsíců knížek o koučování"
+    },
+    {
+      "label": "Start (2019)",
+      "text": "po konferenci Leadership 2019 a networkingu nastoupil do prvního tréninku CoachVille během dvou až tří týdnů"
+    },
+    {
+      "label": "Pauza a návrat",
+      "text": "po prvním tréninku pauza „budu kouč sám“; ustrnul, dělal chyby, ztrácel klienty; návrat do komunity, poslední rok dva trénink za tréninkem"
+    },
+    {
+      "label": "Dnes",
+      "text": "lídr ve firmě zaměřené na udržitelnost, koučuje majitele a lídry malých a středních firem; kniha vydána 4. prosince (rok před natáčením); míří rovnou na PCC"
+    }
+  ]
+}
