@@ -1,0 +1,46 @@
+{
+  "slug": "lenka-leitgebova-musilova",
+  "displayName": "Lenka Leitgebová Musilová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "v PCC výcviku",
+  "priorProfessionText": "manažerka v organizaci pro další vzdělávání pedagogů; několik manažerských pozic",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "několik manažerských pozic, naposledy v organizaci pro další vzdělávání pedagogů; matka dospělého syna; spousta kurzů a seminářů „na povrchu“"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "leadership akademie a kurz emoční inteligence: uvědomění talentu; krátký workshop s Alešem v roli hráče i kouče; obava z financí, partner „jdi do toho, máš na to“; záměr od začátku: profesionální koučka"
+    },
+    {
+      "label": "Start",
+      "text": "hned zavolala ředitelce ZŠ, ta se stala první platící hráčkou; obvolávala kontakty; první cena 500 Kč za setkání"
+    },
+    {
+      "label": "ACC",
+      "text": "test napoprvé asi o 2 body neudělala, za 14 dní prošla; investice do ACC se vrátila do roka"
+    },
+    {
+      "label": "Dnes (PCC výcvik)",
+      "text": "přes 380 odkoučovaných hodin, 2 800 Kč za setkání, klientka 5. sezónu; plán 10 hráčů po 3 000+ Kč; cíl MCC; projekt koučování do škol"
+    }
+  ]
+}

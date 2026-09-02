@@ -1,0 +1,346 @@
+[
+  {
+    "id": "lm001",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 2,
+    "endUtt": 2,
+    "quote": "Já bych začala asi tak, že jsem v letech, kdy už většina žen si říká, že už pomalu začínají být za zenitem. Nicméně já jsem přesvědčená o tom, že zrovna tenhle ten věk je pro to udělat nějakou změnu ve svém životě, posunout se sám k sobě. A jinak v krátkosti, jsem matka skvělého syna, který momentálně žije v zahraničí. Vlastně jsem absolvovala několik manažerských pozic.",
+    "summary": "Je v letech, kdy si podle ní většina žen říká, že jsou za zenitem. Ona je přesvědčená, že právě tenhle věk je ten pravý na změnu a posun k sobě. Matka dospělého syna, který žije v zahraničí; za sebou několik manažerských pozic.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S2 stupeň A bez čísla: věk nejmenuje, ale pojmenovává obavu „za zenitem“ a svůj postoj k ní. Motto „nikdy není pozdě změnit sám sebe“ (promluva 142) s tím souvisí."
+  },
+  {
+    "id": "lm002",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 6,
+    "endUtt": 9,
+    "quote": "První impulzy vlastně přišly v době, kdy jsem v rámci té organizace, kde jsem působila, absolvovala leadership akademii. A součástí toho byl kurz emoční inteligence. A tam mi vlastně došlo, že to, co já považuji za normální, že se mi lidi rádi svěřujou, že se mnou rádi sdílí svoje příběhy, že mě kolikrát žádají o radu, takže vlastně to je moje superschopnost, můj talent, na který se můžu víc zaměřit, který můžu dál rozvíjet. No a přišla nabídka, pojď nastoupit do výcviku, pojď si to vyzkoušet. Tak jsem absolvovala ten krátký workshop s tebou, kdy jsem si to vyzkoušela nanečisto, jaké to je být v roli hráče, v roli kouče, a fakt mě to oslovilo, že to je to, co chci dělat, že to je to, čemu se chci věnovat. No a pak už přišel nástup do prvního levelu.",
+    "summary": "V leadership akademii, na kurzu emoční inteligence, jí došlo, že to, že se jí lidé rádi svěřují, je talent. Přišla nabídka výcviku; na krátkém workshopu s Alešem si nanečisto vyzkoušela roli hráče i kouče a věděla, že to chce dělat. Předtím prošla spoustu kurzů, seminářů a knížek, ale bylo to „na povrchu“; tady to zapadlo jako puzzle.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "uz-jsem-se-spalil",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A (workshop jako test, rozhodl). Tag TR3 stupeň B: dřívější kurzy bez hloubky, bez checklistu. Úsek obsahuje otázku tazatele (8)."
+  },
+  {
+    "id": "lm003",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 18,
+    "endUtt": 22,
+    "quote": "Určitě. Vzhledem k tomu, že mám v hlavě toho správného sabotéra, který říká, no to teda nevím, jak to zvládneš, jako jestli tě to uživí, že jo. Tak přišla ta konzultace s partnerem, který teda mě opravdu velmi podporuje. A vlastně stačilo jenom, když jsem to probrala s ním a on řekl, jdi do toho, protože na to máš, tak to byla ta poslední kapka. Ta největší obava, která tam samozřejmě byla, tak byla čistě z financí.",
+    "summary": "Sabotér v hlavě říkal: „Nevím, jak to zvládneš, jestli tě to uživí.“ Největší obava byla čistě z financí. Probrala to s partnerem, který ji velmi podporuje; jeho „jdi do toho, máš na to“ byla poslední kapka. Existenční obavy přicházejí i dnes, jen se na ně dívá jinak.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "existenční obavy před startem i dnes; strach, jestli ji to uživí",
+    "topics": [
+      "co-rekl-partner",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Třetí moment tématu Co řekl partner (Kamila, Eva, Lenka): zatím všichni partneři pro. Úsek obsahuje otázku tazatele (19)."
+  },
+  {
+    "id": "lm004",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 29,
+    "endUtt": 30,
+    "quote": "V roli kouče, tak tam právě ten můj perfekcionista. Ježišmarja, jak to mám říct. Teď my máme ty playbooky, máme vlastně ten scénář, vlastně máme záchranné lano, když si nejsme jistí. Tak se můžeme podívat v rámci praktikování se studenty dalšími, tak se můžeme vlastně do toho podívat, a je to v pořádku. Když jsem v roli hráče, tak s některýma těma spolužákama to jde líp, s některýma hůř, ale o tom se určitě taky ještě budeme bavit později, čím to je, že s některýma nám to jde líp a s některýma hůř. Ale bylo to konečně. To je strašně osvobozující, že si vlastně můžeš dovolit udělat chybu a je to v pořádku, protože ta chyba tě v podstatě posouvá dál. To je další rozdíl mezi před CoachVille a s CoachVille.",
+    "summary": "V roli kouče se v prvních hodinách ozval její perfekcionista: „Ježišmarja, jak to mám říct.“ Záchranné lano byly playbooky a scénář, do kterých se při praktikování se spolužáky mohla podívat. A osvobozující bylo, že si mohla dovolit udělat chybu; s někým to šlo líp, s někým hůř.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň B: pocit v prvních hodinách s detailem (playbook), bez průběhu konkrétního setkání. Perfekcionismus jako návyk z profese (S1/TM8)."
+  },
+  {
+    "id": "lm005",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 45,
+    "endUtt": 46,
+    "quote": "No, a zase, to jsem se naučila díky výcviku a certifikaci ACC, protože se přiznám, že jsem ten test vlastně zvládla napodruhé. A úžasné na tom bylo, že když jsem šla poprvé z toho testu, kdy jsem to asi o dva body neudělala, tak jsem byla absolutně v klidu. A najednou mi začalo jako docházet, že ti moji sabotéři, kteří by mi říkali, že [nesrozumitelné] a já nevím co, tak najednou tam nebyli. To bylo takové jako zvláštní, jdeš z toho testovacího centra a pořád se ohlížíš, kde jsou, a oni tam nejsou. Takže jsem šla za 14 dní znovu a ten test jsem udělala a měla jsem z toho strašnou radost. A v podstatě z té radosti jsem velice rychle vystřízlivěla, protože v ten moment mi došlo, a teď začíná ta práce. Teď začíná můj posun k mému snu, MCC důchodce.",
+    "summary": "Test ACC zvládla napodruhé: poprvé ho asi o dva body neudělala, a překvapilo ji, že šla z testovacího centra v klidu, sabotéři se neozvali. Za 14 dní šla znovu a prošla. Z radosti rychle vystřízlivěla: teď začíná práce, cesta k jejímu snu, „MCC důchodce“.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "test ACC napoprvé asi o 2 body neudělala; za 14 dní znovu, prošla",
+    "isAdmission": true,
+    "costText": "test ACC napoprvé neudělala, asi o dva body",
+    "topics": [
+      "k-cemu-papir",
+      "co-bylo-tezsi",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Jediný host, který přiznává neúspěch u certifikační zkoušky. Credential vydal ICF (ACC), uvádí tazatel v úvodu."
+  },
+  {
+    "id": "lm006",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 55,
+    "endUtt": 57,
+    "quote": "Já bych to vzala od začátku, protože to je asi hodně důležité. A setkala jsem se s tím i v několika ukázkových dvacetiminutovkách, kdy jsme se bavili na to téma, že ti lidi měli strach, že si nevydělají. Měla jsem to vlastně stejně, protože když nastoupíš do výcviku, tak v ten moment, ježišmarja, já to ještě neumím, a kolik si můžu vlastně říct. Takže jsem začínala na pětistovce, 500 korun za setkání. A ta pětistovka se tam držela docela dlouho. Protože, a to zase záleží na tom vnitřním nastavení, a tady bych možná řekla, že jsem mohla využít jednu z technik, kterou se případný zájemce naučí v levelu jedna, což je klíčový moment a vrcholný zážitek, že jo. Tak vlastně jsem se posouvala velmi pomalu nahoru. Momentálně se pohybuju na částce 2800 za setkání a už se mi teda rodí v hlavě i vyšší částka, a to i z toho důvodu, kolik mám odkoučovaných hodin, i z toho důvodu, že i díky tomu výcviku se zvyšuje moje vlastní sebehodnota a jakou hodnotu tím vlastně předávám svým hráčům.",
+    "summary": "Na začátku měla stejný strach jako lidé na ukázkových dvacetiminutovkách: „Ještě to neumím, kolik si můžu říct?“ Začínala na 500 korunách za setkání a ta pětistovka se držela docela dlouho. Dnes se pohybuje na 2 800 Kč za setkání a v hlavě se jí rodí vyšší částka, i kvůli 380 odkoučovaným hodinám.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "začátek 500 Kč za setkání; dnes 2 800 Kč; 380 hodin praxe (číslo z úvodu)",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "sebeduvera",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Kdo mi zaplatí stupeň A: první cena, dnešní cena; kdo první cenu platil, je v lm007 (klientka 5. sezónu). Kolikátý měsíc nezazní."
+  },
+  {
+    "id": "lm007",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 62,
+    "endUtt": 63,
+    "quote": "Je to strašně zvláštní pocit, Aleši, to se nedá vlastně pořádně nějak definovat. Já bych to možná řekla u jedné klientky, která už teda se mnou jde pátou sezónu. Začínala se mnou na té pětistovce. A v momentě, kdy já už jsem to měla v hlavě nastavené na vyšší částku, a teď jsem říkala, a teď to přijde, že jo, blíží se nám konec té sezóny, pojďme se domluvit, budeme spolu dál pokračovat, nebudeme, ona řekla ano. A teď já jsem měla říct tu vyšší částku, a takovým jako rychlým tam proběhlo, ježišikriste, teď řeknu tu vyšší částku. Tak jsem ji řekla a ona řekla, jo, v pohodě, to dám. Tak najednou si říkám, sakra, co se děje. Tak jestli jsem si třeba tu vyšší částku nemohla říct už dřív, nebo mohla jsem si říct i víc. Že vlastně ten pocit, jako kdyby z tebe spadla nějaká obruč, jako kdyby vlastní omezení nás sestřelilo do nějakých obručí, a tímhle tím jedna obruč praskla.",
+    "summary": "Klientka, která s ní jde pátou sezónu, začínala na pětistovce. Na konci sezóny Lenka poprvé řekla vyšší částku, v hlavě jí proběhlo „ježišikriste, teď to řeknu“, a klientka odpověděla: „Jo, v pohodě, to dám.“ Pak si říkala, jestli si o vyšší částku nemohla říct dřív, nebo o víc; jako by praskla jedna obruč.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "klientka 5. sezónu; start na 500 Kč, pak vyšší částka",
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8 stupeň A: první vyslovení vyšší ceny nahlas a reakce klientky. Přesnou výši nové částky neříká."
+  },
+  {
+    "id": "lm008",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 65,
+    "endUtt": 65,
+    "quote": "Já asi v tuto chvíli nebudu mluvit nějak ekonomicky. Návratnost investice, to se nedá vyčíslit, protože, řeknu to hloupě, musí se to zažít. Tady se nedá počítat, kdy se to vrátí, ta investice, protože pořád se vyvíjím, pořád někam jdu. Já jdu za tím MCC tam nahoru. A vím, proč tam jdu, protože chci potom ještě víc inspirovat a pomáhat těm lidem. Každý to může mít samozřejmě jinak. Ale kdybych měla teďka říct, za jak dlouho se ta investice vrátí, tak mně za ACC level se vrátila do roka. Za PCC level předpokládám, že to bude možná stejně, možná kratší dobu. V tuto chvíli vlastně ani nechci nějak předjímat.",
+    "summary": "Návratnost investice podle ní nejde vyčíslit, protože se pořád vyvíjí a míří na MCC. Když má přesto říct číslo: investice do ACC levelu se jí vrátila do roka; u PCC čeká stejně nebo dřív, ale nechce předjímat.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "prvni-penize",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag E1 stupeň B: návratnost v čase (do roka), bez částek. Tag ceny stupeň B: kritérium „vrátí se do roka“ bez první reakce na cenu."
+  },
+  {
+    "id": "lm009",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 78,
+    "endUtt": 81,
+    "quote": "Na úplném začátku, řekněme, že jsem byla střelec a zavolala jsem jedné paní ředitelce základní školy, že jsem nastoupila do výcviku. A ona se stala mou hráčkou, platící hráčkou. A já jsem si vlastně uvědomila, že je úplně jedno, jestli ten člověk mi řekne ano, nebo ne. Když mi řekne ne, tak vím, že prostě já pro něj nemusím být ten správný člověk, nebo nenastal jeho čas. Takže jsem tímhle způsobem začala obvolávat své kontakty. Dokonce jsem koučovala i manažera ze společnosti, se kterou dělal obchody můj partner. Takže je to jenom o tom zvednout telefon a zavolat. Je pravda, že někdy je to těžké, protože když voláme lidem, kteří si nás pamatujou z jiné profese nebo si nás pamatujou v jiné pozici, tak tam může nastoupit ten strach, jak ten člověk zareaguje, jak to vlastně bude mít. Na tohle mám jednu jedinou radu. Když do toho dáte, do toho telefonátu, to nadšení, které já jsem tam jako měla, to bylo prostě, jo, tak v ten moment ti lidi, co se děje?",
+    "summary": "Na úplném začátku byla „střelec“: zavolala ředitelce základní školy, že nastoupila do výcviku, a ta se stala její platící hráčkou. Uvědomila si, že je jedno, jestli člověk řekne ano nebo ne. Obvolala své kontakty, koučovala i manažera z firmy, se kterou obchodoval její partner. Těžké je volat lidem, kteří vás znají z jiné profese; pomohlo nadšení v hlase.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň A: první platící klientka, odkud, kdy (hned po nástupu), bez částky. Tag C2 stupeň A: jak si řekla o klienta a strach z volání známým; bez počtu pokusů."
+  },
+  {
+    "id": "lm010",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 86,
+    "endUtt": 89,
+    "quote": "To je dobrá otázka, Aleši, protože samozřejmě díky tomu, že probíhá nějaký online výcvik, pak probíhá praktikování, probíhá to, že je potřeba splnit nějaké poslechy nahrávek v aplikaci, okomentovat to nebo vyjádřit se k tomu, co si člověk odnáší a podobně. Mně se těžko říká, že je to časově náročné, protože mě to pořád ještě baví, tak pro mě to jako časově náročné není, i když poslední dobou, pravda, trošku s tím časem jsem na štíru. Ale když už člověk chce tu práci dělat, když už chce dělat toho kouče, tak si dokáže ten čas přeorganizovat. A věřím tomu, že i doma. Když řeknou, hele, teďka od tehdy do tehdy po mně nic nechtějte, protože zrovna mám školu nebo zrovna potřebuji si poslechnout tohle, tak se to dá. Já zřejmě chápu, že pokud se rozhoduje maminka, která jde po mateřské, nebo eventuálně někdo, kdo se ještě stará o nezletilé děti a má manžela a dejme tomu barák a psa, tak to není jednoduché. Ale to je jedna z věcí, které se taky v CoachVille může naučit, delegování. Je to skvělá věc. Přiznám se, že sama se ještě stále učím delegovat. Takže jde to.",
+    "summary": "Výcvik znamená online lekce, praktikování a poslechy nahrávek v aplikaci s komentářem. Těžko se jí říká, že je to časově náročné, protože ji to baví, i když poslední dobou je s časem na štíru. Pro maminku po mateřské nebo rodiče s dětmi, manželem, barákem a psem to podle ní jednoduché není; pomáhá delegování, které se sama stále učí.",
+    "proofElements": [
+      "situace",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "poslední dobou je s časem na štíru; delegovat se stále učí",
+    "topics": [
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag TM2 stupeň B: co výcvik obnáší a přiznání časové tísně, bez hodin týdně."
+  },
+  {
+    "id": "lm011",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 109,
+    "endUtt": 111,
+    "quote": "Sám sebe můžeš maximálně navigovat, ale nikdy nekoučovat, protože sám sobě málokdo je tak vyzrálý a málokdo je tak zkušený, aby sám sobě dokázal odhalit ta největší tajemství, která v sobě má. Je to zajímavé, mně teďka naskočila myšlenka, já když jsem v osmé třídě řekla mamince, že půjdu studovat psychologii, tak si zaklepala na čelo, jestli jsem normální, že tam chodí jako zakomplexovaní lidi. Tak jsem se rozhodla, že půjdu radši skákat, [nesrozumitelné] na jinou školu, dobře. Ale ono to s tím souvisí, jo, protože sám sobě nemůžeš nikdy úplně pomoct. Jo, ty se můžeš odnavigovat. A je to pokus omyl. Vem si to, já už jsem to jednou v koučování říkala, kdybych měla před 30, 40 lety svého kouče, tak jsem možná už dneska to MCC.",
+    "summary": "Sám sebe může člověk nanejvýš navigovat, ne koučovat; sám sobě málokdo odhalí svá největší tajemství. V osmé třídě řekla mamince, že půjde studovat psychologii, a ta si zaklepala na čelo. „Kdybych měla před 30, 40 lety svého kouče, tak jsem možná už dneska to MCC.“",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "30 až 40 let bez kouče (její vlastní odhad ceny čekání)",
+    "isAdmission": false,
+    "topics": [
+      "cena-cekani",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag D6 stupeň A slovy hosta: cena čekání v letech. Tag TR4: odpověď na „koučuju se sám“ (srov. rr004 Radim)."
+  },
+  {
+    "id": "lm012",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 113,
+    "endUtt": 115,
+    "quote": "Samozřejmě jdeš na ten seminář, přijdeš domů nadšený, ono to vydrží tři dny. Spadneš zpátky do toho zaběhnutého vzorce, který si neseš z dětství. A tohle souvisí právě s tím, že sám sebe člověk nikdy nemůže koučovat. Protože tam si poslechneš podcast, 20 minut je ti fajn, a najednou přijde drobnost. A ta energie, to nadšení už tam není. To znamená, že všechno kolem nás nás ovlivňuje.",
+    "summary": "Před koučováním ji horší životní situace přivedly k seberozvoji: po semináři přijdete domů nadšení, vydrží to tři dny a spadnete zpět do vzorce z dětství; po podcastu je vám 20 minut fajn, pak přijde drobnost. S koučem, kterému můžete napsat nebo poslat hlasovku, se máte o koho opřít a udrží vás „na vlně“.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "uz-jsem-se-spalil"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag TR3 stupeň B: vlastní zkušenost se semináři a podcasty, které nevydrží; bez konkrétního kurzu a ceny."
+  },
+  {
+    "id": "lm013",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 133,
+    "endUtt": 135,
+    "quote": "Dobře, tak když jsem si dělala svůj finanční plán, abych dosáhla té částky, kterou bych potřebovala, tak je potřeba, abych se dostala i vnitřně na tu částku přes ty tři tisíce. A měla těch hráčů deset. A v ten moment budu spokojená. Takže řekněme, že mě to může trvat maximálně čtyři roky, ani ne, abych se tam dostala.",
+    "summary": "Kolik hráčů kouč potřebuje, souvisí podle ní se sebehodnotou. Její finanční plán: dostat se i vnitřně na částku přes tři tisíce za setkání a mít deset hráčů; pak bude spokojená. Odhaduje, že jí to potrvá nejvýš čtyři roky.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "cíl: 10 hráčů po více než 3 000 Kč za setkání, do 4 let (plán, ne výsledek)",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Plán, ne dosažený stav: v souhrnu i numberText je to řečeno. Tazatelův výpočet s 5,3 milionu pracujících (136 až 137) není součástí úseku."
+  },
+  {
+    "id": "lm014",
+    "episode": "lenka-leitgebova-musilova",
+    "guest": "lenka-leitgebova-musilova",
+    "startUtt": 138,
+    "endUtt": 140,
+    "quote": "Je to přesně tak, jak to říkáš. A je teda pravda, že mně chvilku trvalo, a to bylo ještě na tom prvním levelu. Jak má člověk to nastavení, že ta výplata přijde v jeden den v tom měsíci, tak přenastavit vlastně, jak ty peníze chodí, protože většinou je to o předplacení celé sezóny, maximálně na dvě splátky. Tak ty peníze chodí v různých časových intervalech, jo? To znamená, že se člověk napřed vypořádá s tím svým původním mindsetem, dejme tomu, že 15. mi přišly peníze na účet, a teď se z toho všechno, jo, a kolik tam asi zbyde. Tak v tomto ohledu je opravdu potřeba počítat i s tou změnou frekvence těch plateb. Že to není opravdu, že to přijde jedenkrát za měsíc. Že i na tohleto je dobré se nechat koučovat. Mně to taky chvilku trvalo, než jsem si to přenastavila v hlavě.",
+    "summary": "Ještě na prvním levelu jí chvíli trvalo přenastavit hlavu z výplaty, která chodí jeden den v měsíci, na peníze za sezóny: většinou předplacené celé, nejvýš na dvě splátky, v různých intervalech. S tím je potřeba počítat; i na tohle je podle ní dobré nechat se koučovat.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "chvíli trvalo přenastavit se z pravidelné výplaty na nepravidelné platby za sezóny",
+    "topics": [
+      "pujcka-a-klient-neprijde",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag R7 cash-flow stupeň B: změna frekvence příjmu bez měsíce v minusu. Užitečné pro partnera zájemce."
+  }
+]
