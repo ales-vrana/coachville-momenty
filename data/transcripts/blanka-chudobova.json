@@ -1,0 +1,521 @@
+{
+  "episode": "blanka-chudobova",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 8,
+      "speaker": "CoachVille",
+      "text": "Milí hráči, milí kouči, vážení posluchači, vítám vás u dalšího podcastu, kde se bavíme v rozhovoru s koučem, který studuje v akreditovaném výcviku CoachVille. Dneska je tady s náma Blanka Chudobová. Blanka je v koučovacím výcviku přes jeden rok a dříve pracovala v korporaci. Blanko, já tě zdravím, ahoj. Ahoj, Aleši, čau. Pojď se našim divákům a posluchačům představit, pojď říct něco o sobě."
+    },
+    {
+      "i": 1,
+      "t": 33,
+      "speaker": "Blanka Chudobová",
+      "text": "Tak jo, tak já jsem koučka, jsem máma třech dětí. Mám ráda přírodu, ráda běhám, a jak bych se charakterizovala, tak jsem odvážná tvůrkyně, to znamená ráda se vrhám do nových věcí a ráda tvořím."
+    },
+    {
+      "i": 2,
+      "t": 51,
+      "speaker": "CoachVille",
+      "text": "Hezký. Blanko, pojďme se dneska pobavit o tvojí cestě za profesionálním koučováním a pojď nám nejdřív přiblížit, co se vlastně ve tvým životě odehrávalo předtím, než jsi začala uvažovat o tom, že se staneš koučem. Jak tvůj život vypadal a vlastně co tě dovedlo k té myšlence, že to je pro tebe zajímavé téma?"
+    },
+    {
+      "i": 3,
+      "t": 72,
+      "speaker": "Blanka Chudobová",
+      "text": "No tak jako vlastně před koučováním bylo pro můj život charakteristický, že jsem se rozhodovala hlavně rozumem, hlavou. Takže ať už to prostě po gymnáziu, kam na vysokou školu. Gymnázium zaměřený na francouzštinu, strašně moc matematiky, tak hlava si říkala, tak co s tím, OK, ekonomku, to bude super. Takže vystudovala jsem ekonomku. Po ekonomce mám furt ten jazyk, prostě ekonomku, teda měla jsem veřejnou ekonomii, takže to spíš vypadalo na Evropskou unii a správu, ale to jsem zjistila, že mě vlastně jako veřejná správa vůbec nepřitahuje, že prostě tíhnu do té soukromé sféry."
+    },
+    {
+      "i": 4,
+      "t": 108,
+      "speaker": "Blanka Chudobová",
+      "text": "No, ale tak jsem prostě, takový jsem volila takový jednoduchý asi cesty, takže korporát, byla jsem v korporaci, ale tam jsem zjistila, že mě to prostě nebaví, že tam prostě nejsem šťastná. Ale přišel čas na rodinu, takže jsem založila rodinu, početnou rodinu, tři děti, pěkně v jednom vrhu, v pěti letech, takže jsem byla docela dlouhou dobu na mateřské, a tam jsem začala víc přemýšlet, nechci se vracet do práce, kde jsem byla, tam mě to prostě nebavilo. A začala jsem o tom prostě víc přemýšlet, že chci fakt dělat něco, co mě bude bavit, že v té práci budu trávit většinu času, tak ať mě to prostě naplňuje."
+    },
+    {
+      "i": 5,
+      "t": 152,
+      "speaker": "Blanka Chudobová",
+      "text": "Takže tam se začala rodit ta linie, pojď teda vlastně najít svoje poslání. No a když mi končila mateřská, tak jsme se rozhodli žít v Anglii, protože jsme prostě chtěli s manželem změnu a něco si zažít jinak, aby se děti naučily anglicky. A tam jsem si našla práci, to bylo taky jako výzva, že jo, chodit na ty pohovory tam, bylo to jako super, našla jsem si práci. A jakmile jsem úspěšně tři měsíce chodila do práce tam, tak přišel covid a zase mě to vrátilo zpět s dětmi domů. A tak jsem si říkala, tak a teďka se teda vrhnu na to fakt, co jsou moje dary, talenty, zjistím si to, co je moje poslání. Takže tam začala jsem fakt číst knihy, poslouchat podcasty, takže tam se to jako rozjelo ve velkým, ty dary jsem si zjistila. A prostě, ať už je to, jsem společenská, jako miluji komunikaci s lidma, umím naslouchat, odjakživa se mi lidi svěřovali, jako se svými"
+    },
+    {
+      "i": 6,
+      "t": 206,
+      "speaker": "Blanka Chudobová",
+      "text": "věcmi, a říkali, tyjo, já jsem tohle v životě nikomu neřekla, ale tobě jsem to řekla. Takže vzbuzuju nějakou přirozenou důvěru v lidech. A potom umím asi klást provokativní otázky. Tak když jsem se prostě tady na tohle všechno podívala, tak jsem si říkala, tyjo, z toho úplně vylézá coaching. No, takže to jsem se tak jako o to začala zajímat. No a potom jsem na Facebooku uviděla reklamu, zjistěte, jestli máte předpoklady pro to stát se koučem. Já říkám, to ještě potřebuji, to přesně jako ladí do té mé hry. No, takže jsem si to zjistila, vyšlo to dobře, a tak jsem se vrhla, takže takhle jsem se k tomu dostala. Ty jo, já tě neslyším."
+    },
+    {
+      "i": 7,
+      "t": 248,
+      "speaker": "CoachVille",
+      "text": "Co bylo vlastně pro tebe důležitý při tom rozhodnutí, protože spousta lidí, když tohle rozhodnutí dělá, tak zpravidla tam jako jsou některé věci, které zvažují, jsou tam nějaké obavy, jsou tam nějaké myšlenky o tom, jak ty věci budou, ještě předtím, než do toho vstoupíš. Jak jsi to měla ty tehdy?"
+    },
+    {
+      "i": 8,
+      "t": 265,
+      "speaker": "Blanka Chudobová",
+      "text": "No já jsem tam vlastně pociťovala tu změnu, že to bylo poprvé to rozhodnutí tím srdcem. A to bylo to, že ta hlava tam ty obavy zase dávala, zase ty strachy, protože předtím taky, jak já jsem se furt rozhodovala, mě to vlastně brzdilo, jako myslet furt jenom tou hlavou. Tam prostě naskočili sabotéři, který jsem ještě ani neuměla pojmenovat. Takže teďka to bylo poprvé, kdy mi to dávalo smysl, totiž mi to dávalo veliký smysl. Chtěla jsem pomáhat lidem. A tam jsem viděla tu cestu, takže já jsem poprvé dala na ten pocit, na ten dobrý pocit, protože už jsem věděla, že ta hlava vždycky, když to rozhodne, tak to rozhodne strašně, no, že tam prostě nebudu šťastná. Takže poprvé jsem prostě dala na to srdce, tak to bylo jako velikánský rozdíl, a chtěla jsem to poprvé udělat jinak, prostě doteď mi to jako moc nefungovalo, tak jak jsem se rozhodovala, tak jsem to prostě chtěla udělat jinak, takže to bylo jako hlavní, asi proč jsem to tak..."
+    },
+    {
+      "i": 9,
+      "t": 319,
+      "speaker": "Blanka Chudobová",
+      "text": "Proč jsem to prostě následovala a vzala jsem tu odvahu a šla jsem tam, no."
+    },
+    {
+      "i": 10,
+      "t": 324,
+      "speaker": "CoachVille",
+      "text": "Jak potom vzpomínáš na ty první lekce, na první týdny toho výcviku, co tam byly nějaký zajímavý momenty pro tebe?"
+    },
+    {
+      "i": 11,
+      "t": 332,
+      "speaker": "Blanka Chudobová",
+      "text": "No tak úplně ta, jako tak jenom to, že jak mi došel prostě playbook, že jo, notebook a tužtička, všechno sladěný do tmavě modré, tak si říkám, jo, tak to tak pěkně začíná, jako a ta cesta, prostě dopis od tebe, že takový pěkný, povzbuzující. No a tak jsem prostě šla, začínala jsem dovednostma. No ale hnedka v tom playbooku bylo, sežeňte si pět hráčů. Nastavení moje tenkrát, blbost, jak teďka můžu shánět pět hráčů, když nevím, co je koučování, nepřišla jsem do styku, nevím, co bych jim jako vlastně tím nabízela, že jo, nemám o tom načteno, prostě nemám informaci, jak teďka, jako no prostě."
+    },
+    {
+      "i": 12,
+      "t": 377,
+      "speaker": "Blanka Chudobová",
+      "text": "Hrůza, to jako nejde. Takže jako panika, že jo, panika, to je úplně nový, to takhle nefunguje. No takže jsem šla ale do první lekce a ta mě nadchla. Ta byla super, já jsem čekala, že tam bude prostě nějakej školitel, který nám něco vykládá, my si to zapíšeme, tak jdeme domů. No a to prostě bylo zábavný. Lidi mě tam nadchli, ty ses pořád pochechtával, říkal jsi to všechno s takovou lehkostí, vycházel jsi z praxe. Bylo to všechno strašně zajímavé."
+    },
+    {
+      "i": 13,
+      "t": 408,
+      "speaker": "Blanka Chudobová",
+      "text": "Pak jako breakout, něco s nějakým novým člověkem komunikovat, to bylo úplně super. Takže já jsem byla úplně nadšená z formy toho vyučování. No, ale za první lekci jsem se neposunula v tom, že bych byla už jako dobrý coach a mohla někomu nabízet koučování. Takže já si úplně pamatuju ten moment, že na závěrečném sdílení jsem... A ještě jak jsem začínala těma dovednostma. A nebyla to ta metoda, že by přímo tam byly nějaký kroky, jak to dělat. A byla jako v playbooku zmíněná ta metoda."
+    },
+    {
+      "i": 14,
+      "t": 438,
+      "speaker": "Blanka Chudobová",
+      "text": "Tak já jsem si úplně jako, že jo, furt ta panika. Prostě, tak jsem se úplně přihlásila, si to pamatuju. A ptala jsem se tě, takže já se toho člověka zeptám na jeho životní sen a pak děj se vůle boží. A ty ses jako takhle chechtal a říkal, no a pak použiješ pár těch otázek, co máš tam v playbooku, a ono to půjde. A příště nám pověz, jak ti to šlo. A byla jsem do toho hozená, tyjo. A prostě plav. A to jsem přesně potřebovala. Protože bych se do té praxe nikdy nedostala, takže úžasný, jak tam nebylo vyhnutí a ono to prostě šlo."
+    },
+    {
+      "i": 15,
+      "t": 470,
+      "speaker": "CoachVille",
+      "text": "Čili potom jsi oslovila teda nějaký lidi. A jaký reakce jsi od nich získávala? Já mám často tu zkušenost, že lidé jsou zvídaví a chtějí to vyzkoušet, a když to vyzkouší, tak v tom pokračují, protože jim to pomáhá. Jak jsi to měla tehdy ty?"
+    },
+    {
+      "i": 16,
+      "t": 489,
+      "speaker": "Blanka Chudobová",
+      "text": "Jo, já jsem lovila vyloženě mezi svýma známýma. A přesně, jako bylo tam strašně moc takových reakcí, hej, to zní skvěle, to jako chci rozhodně zkusit, takže byli takový nadšený, takže to bylo strašně příjemný. Takže ty první reakce byly úplně skvělý. Takže všichni přesně, ta zvědavost, nikdo to neznal, nikdo neměl zkušenost, takže se do toho vrhali. A vydrželi mi, a i s těma prvníma fakt dlouho, byli se mnou dlouho. A jednoho mám vlastně do teď."
+    },
+    {
+      "i": 17,
+      "t": 517,
+      "speaker": "CoachVille",
+      "text": "Hezký, čili tam vlastně... A ta panika se potom přeměnila na co?"
+    },
+    {
+      "i": 18,
+      "t": 522,
+      "speaker": "Blanka Chudobová",
+      "text": "No, panika se přeměnila na to, hele, tak to je ono, jako vlastně skoč do toho, hraj, a začíná se to jako tvořit, že jo, začínáš se cítit líp, no."
+    },
+    {
+      "i": 19,
+      "t": 533,
+      "speaker": "CoachVille",
+      "text": "Každý coach je hrdina, který vlastně se vydává na cestu za dobrodružstvím, kdy vlastně to dobrodružství je o tom pomáhat dalším lidem, aby jejich život byl lepší. A... Pojď teďka povědět třeba nějaký tvoje uvědomění z té tvojí hrdinské cesty. Co bylo nějaký pro tebe důležitý moment nebo nějaký důležitý milník, který jsi na té cestě zažila?"
+    },
+    {
+      "i": 20,
+      "t": 561,
+      "speaker": "Blanka Chudobová",
+      "text": "No tak důležitý uvědomění. Těch mám spoustu. Mě to vlastně strašně naučilo."
+    },
+    {
+      "i": 21,
+      "t": 570,
+      "speaker": "Blanka Chudobová",
+      "text": "Rozhodně to nejdřív hraj. To bylo pro mě strašně stěžejní."
+    },
+    {
+      "i": 22,
+      "t": 575,
+      "speaker": "Blanka Chudobová",
+      "text": "Nečekat, až to bude dokonalý, ale do toho se pustit a vlastně neplýtvat tou energií furt nějakým tím plánováním předtím. Prostě nejdřív hraj, to byl jako jeden milník. Pak pro mě bylo veliký vlastně, jako proč očekáváš jiný výsledek, když to furt děláš stejně. To bylo taky pro mě strašný prozření. Já to vlastně furt dělám stejně a teď si říkám, a teď to vyjde, teď se fakt do toho obuju a teď to, tak to nejde. Takže člověk jenom plýtvá energií, ale prostě když to nezačne dělat jinak, tak ten výsledek jiný nebude. Super uvědomění, jo."
+    },
+    {
+      "i": 23,
+      "t": 607,
+      "speaker": "Blanka Chudobová",
+      "text": "Pak bylo pro mě úplně skvělý uvědomění, který měnilo věci, že není špatného výsledku, ale že všechno je zkušenost. To je strašně osvobozující a to je prostě super. To byl taky takový game changer. Takže nesnažit se vlastně hrát pro tu ideální, jako jenom pro ten ideální výsledek, brát všechny a ze všeho se učit, tak to je taky úplně super. A pak jsem se naučila, což byl taky game changer, že sledovat, co mi bere energii, a začít to likvidovat. Fakt to netolerovat. Vlastně mít takový ty jiné, všímavý oči, který to najednou uvidí."
+    },
+    {
+      "i": 24,
+      "t": 640,
+      "speaker": "Blanka Chudobová",
+      "text": "Soustředit se na to. A to taky bylo strašně podstatný."
+    },
+    {
+      "i": 25,
+      "t": 645,
+      "speaker": "CoachVille",
+      "text": "Blanko, a co jsi vlastně o koučování myslela dřív? A ještě než jsi do toho výcviku nastoupila. A jak to vnímáš teď? A někde tam bývají totiž rozdíly, co se člověk o koučování domnívá. Jaké to je, o čem to je, o čem to není? A později se to vlastně nějak vyvine."
+    },
+    {
+      "i": 26,
+      "t": 666,
+      "speaker": "Blanka Chudobová",
+      "text": "No já jsem totiž poprvé přišla do kontaktu s coachingem na vysoké škole, protože tam byl nepovinný předmět, coaching. A já jsem byla prostě v jiném oboru, ale mě to přitahovalo. A to je taky zásadní, mě to prostě vůbec, jakživa mě to prostě přitahovalo, říkám si, ještě coaching, tam já musím být. Takže já jsem se tam zapsala a fakt tam to přišel učit nějaký chlapík z praxe. A tenkrát taky na první hodině jsme rovnou koučovali, ale já jsem tam hrozně čekala, že mi konečně někdo řekne o mně něco, že to přijde jako tak, že to bylo to milé, že mi někdo bude říkat jako něco o mně. Čekala jsem tam hrozně, ale jako že to bude jako něco, se tam budu jako učit nějak, že to jako bude nějaká struktura, což na té výšce jako to tam nebylo, takže já jsem vlastně odcházela z té první zkušenosti, že to bylo takový mdlé, takový nějaký."
+    },
+    {
+      "i": 27,
+      "t": 712,
+      "speaker": "Blanka Chudobová",
+      "text": "Takže to byla jako taková první zkušenost. Takže pak jsem si o tom tak nějak myslela, že jako, no, prostě tak jako nemastný, neslaný, no. Takže ten rozdíl potom samozřejmě bylo, že všechno je to o tom hráči a ten kouč tam zabírá co nejmíň, že jo. A na všechno si jako přichází ten hráč, takže to byl ten hlavní asi rozdíl, kdy jsem čekala taky jako asi ty rady a někdo mi o mně něco řekne, no, což lidi hrozně přitahuje, protože je to pohodlný, že jo. A asi taky takový to, že věříš, já nevím, já jsem vyrůstala v tom, že vlastně okolí ví líp než já, co je pro mě dobrý, asi to mám z domu, takže jsem furt dávala na to, že až mi ostatní něco o mně řeknou, že to asi bude to dobrý, že tomu budu věřit."
+    },
+    {
+      "i": 28,
+      "t": 758,
+      "speaker": "CoachVille",
+      "text": "Co bys řekla, že ti vlastně ten trénink přinesl osobně pro tebe jako pro člověka, ta celá zkušenost, jako koučovat další lidi a být koučovaná dalšími lidmi, být společně s dalšími lidmi v tom tréninku, co ti to dalo?"
+    },
+    {
+      "i": 29,
+      "t": 776,
+      "speaker": "Blanka Chudobová",
+      "text": "No jako ta komunita mi dala strašně moc. Já jsem tady potkala minimálně tři lidi, kteří jsou teďka vlastně strašně důležitýma lidma v mým životě. A to je úplně úžasný, jo. To je prostě nejvíc, co asi mohlo přijít."
+    },
+    {
+      "i": 30,
+      "t": 795,
+      "speaker": "Blanka Chudobová",
+      "text": "Už jenom to, že to je ta skupina lidí, která má podobný smýšlení, podobný cíl, tak to strašně táhne člověka. Takže je daleko snazší uspět a jít po té své cestě."
+    },
+    {
+      "i": 31,
+      "t": 812,
+      "speaker": "Blanka Chudobová",
+      "text": "Takže lidi a komunita, to je úplně úžasný. A hlavně mi to taky přineslo fakt to nastavení mysli. A dívat se na věci úplně jinak. Třeba jako oběť versus ta tvůrkyně, takže rychle rozpoznat, když jsem v oběti, a prostě rychle, rychle se vrátit do té tvůrkyně, a tím pádem ten život jako nabývá úplně jako jiných rozměrů, že najednou člověk na to má vliv a může to ovlivnit. A taky asi vlastně, co mi to strašně přineslo, je přesně mít všechno pod kontrolou."
+    },
+    {
+      "i": 32,
+      "t": 850,
+      "speaker": "Blanka Chudobová",
+      "text": "A žít si ve své bublině, kdy všechno zvládám sama, všechno urvu sama a všechno já. To je dostat se prostě do toho světa, do té sociální hry, do té společnosti, a začít spolupracovat a tvořit s ostatníma. To je prostě taky úplně brutální game changer, který jako mi otevřel oči. Protože tam se všechno odehrává, je to prostě zábavnější a fakt člověk cítí, že žije daleko víc naplno, a prostě ho to baví, že jo? Když to prostě... Ať už se inspiruje sám od někoho,"
+    },
+    {
+      "i": 33,
+      "t": 880,
+      "speaker": "Blanka Chudobová",
+      "text": "někoho inspiruješ, že jo, jako prostě vzít tu odvahu ven z té své bubliny, a tam se to pak všechno děje a je to super, no."
+    },
+    {
+      "i": 34,
+      "t": 892,
+      "speaker": "CoachVille",
+      "text": "Blanko, a když vlastně zvážíš tu zkušenost koučovat další lidi a kdy jsi našla svoje hráče, tak jak bys vlastně jako popsala, kdo je ten oblíbený hráč pro tebe a kdo se ti zatím vlastně jeví, že jsou ti hráči, se kterýma tě to baví, nebo témata, který tě baví s nima probírat."
+    },
+    {
+      "i": 35,
+      "t": 916,
+      "speaker": "Blanka Chudobová",
+      "text": "No, tak já právě jsem zjistila, že fakt mám ráda tvůrce. Lidi, co jsou pozitivně naladění, vysílají dobrou energii, jsou akční. Vlastně ty lidi mě musí inspirovat. Takže lidi, co mě jako inspirují, tak s nima strašně ráda spolupracuju, protože se strašně těším na naše setkání, protože to je takový oboustranné obohacení. Já jim něco a oni i něco mně. Takže to je pro mě strašně důležitý. Takže mám ráda vlastně jako lidi, podnikatele, tvůrce, co ví, kam jdou, mají nápady, tvoří, vlastně se s nimi strašně dobře tvoří, je to zábavný."
+    },
+    {
+      "i": 36,
+      "t": 950,
+      "speaker": "CoachVille",
+      "text": "A co tě na koučování vlastně baví? Když vezmeme to, že koučuješ další lidi, tak je tady několik aspektů toho, co tě na tom procesu vlastně baví, co je tam pro tebe zábavné, zajímavé, naplňující."
+    },
+    {
+      "i": 37,
+      "t": 967,
+      "speaker": "Blanka Chudobová",
+      "text": "Tak mě baví jednak ten vztah, jak vznikne, že přijde cizí člověk, já si s ním hned tykám, což teda fakt strašně pomáhá, a najednou prostě během hodiny dvou máš pocit, že toho člověka znáš strašně dobře. A vlastně tohle mě fascinuje, jak se strašně rychle naváže s někým takový, jakože důvěrnej vztah. A co mě na tom baví, je teďka strašně ta společná tvorba. Jak tam něco vzniká společně, že každý jako, že samozřejmě hlavně tvoří ten hráč, ale že vlastně ty dva mozky, jako že tam prostě člověk taky přispěje, a vznikají úplně prostě zase nový a hezký věci. Takže já mám ráda, když je tam takový to flow, když to jako běží a teď jsme oba do toho takový jako zaujatí a hrozně nás to baví, takže to já si úplně tady to užívám."
+    },
+    {
+      "i": 38,
+      "t": 1018,
+      "speaker": "CoachVille",
+      "text": "Hezký. A když vlastně se podíváme na tu zkušenost. Když se stáváš koučem, tak vlastně na začátku nebo v průběhu tam bývají nějaké výzvy, kterým člověk čelí. Naši posluchači, kteří třeba zvažují to, že se začnou učit koučovat, tak pravděpodobně taky předpokládají, že něco bude obtížné, že to není celý jenom snadný."
+    },
+    {
+      "i": 39,
+      "t": 1053,
+      "speaker": "CoachVille",
+      "text": "Čili co je tam vlastně pro tebe něco, co byla výzva, kterou jsi zvládla, nebo výzva, kterou jsi viděla u ostatních, že jí čelili? A co bys případně doporučila?"
+    },
+    {
+      "i": 40,
+      "t": 1071,
+      "speaker": "Blanka Chudobová",
+      "text": "Možná ještě bych se vrátila úplně na začátek, že ta hlavní výzva byla z levelu 1 rozhodnout, jestli budu pokračovat dál. To byl takový zásadní moment. No a byl to zajímavý moment, protože já vlastně ta Blanka, která se začala rozhodovat srdcem, říkala, hele Blanko, běž do toho, dává ti to smysl, pomáháš lidem, je to tvoje poslání, já jsem to jako cítila, to je ta cesta, mě to přitahovalo, prostě běž do toho, to je ono. Moji sabotéři říkali, ty vole, stojí to strašně moc peněz, jako Bůh ví, jestli se ti to někdy vrátí, ohrožíš standard rodiny, prostě na co jsou zvyklí, ty prostě."
+    },
+    {
+      "i": 41,
+      "t": 1110,
+      "speaker": "Blanka Chudobová",
+      "text": "Umíš si vůbec generovat hráče? Neumíš, tak to nemá budoucnost. To byli prostě sabotéři, který jsem ani neuměla pojmenovat, a ty mluvili takhle. Pak hrál důležitou roli manžel, který říkal, hele, máš level 1, máš nějaký znalosti,"
+    },
+    {
+      "i": 42,
+      "t": 1126,
+      "speaker": "Blanka Chudobová",
+      "text": "pojď se naučit získávat si hráče, až budeš si umět získávat hráče, vydělej si na pokračování. A pak přišel Aleš a říkal,"
+    },
+    {
+      "i": 43,
+      "t": 1141,
+      "speaker": "Blanka Chudobová",
+      "text": "je strašně důležitý vlastně zůstat s tou komunitou, s těma lidma, co tě potáhnou dál. Získáš nový zkušenosti, dovednosti, naučím tě právě, jak si získávat hráče, jak si je udržet. Obchodní, nějaký ty, že jo, všechno. Prostě zůstaneš v tom, nevypadneš z toho a budeš se dál vzdělávat, a ono to jako půjde souběžně, že jo. Tak to byl zase jako tvůj názor, no. Takže teďka byly takový jako důležitý čtyři rozhodovací tady jako osoby."
+    },
+    {
+      "i": 44,
+      "t": 1170,
+      "speaker": "Blanka Chudobová",
+      "text": "No a takže naštěstí teda jako vyhrálo moje srdce a ty, takže jsem si říkala ne, to je prostě jedinečná příležitost, že jo. Bylo to velké rozhodnutí vzít si půjčku, takže jsem ale do toho šla, prostě to přesně byla ta odvaha a dělat to jinak, rozhodnout se tím srdcem a prostě žít to své poslání, takže to vyhrálo, takže to byla jedna překonaná výzva, bych řekla. No a další výzvy jsem tam vždycky byla já. Prostě pracovat na sobě. Je to jako velikánský seberozvoj. Je to prostě podnikání, a abych mohla úspěšně podnikat, tak si v sobě musím zpracovávat veškerý brzdy, co mě prostě brzdí, a rozpouštět to. Takže je to o tom získat své sebevědomí."
+    },
+    {
+      "i": 45,
+      "t": 1222,
+      "speaker": "Blanka Chudobová",
+      "text": "Strašně důležitou roli tam hrála víra, věřit vlastně, když ještě nemám tu zkušenost s tím a nemůžu se opřít, tak prostě věřit, že to takhle funguje, tak to byl taky jako důležitý bod, který pomohl vždycky ty pochybnosti překonat. A strašně mi pomáhalo následovat fakt docela to, co funguje, takže když jsi natočil nějaký videa, jak se v nějakých situacích chovat, tak jsem si prostě říkala, já tomu budu věřit a prostě půjdu to takhle otestovat."
+    },
+    {
+      "i": 46,
+      "t": 1257,
+      "speaker": "Blanka Chudobová",
+      "text": "A ono to fakt fungovalo, takže to taky bylo důležitý."
+    },
+    {
+      "i": 47,
+      "t": 1261,
+      "speaker": "CoachVille",
+      "text": "Čili jak se ti osvědčilo to, co v podstatě je takovým základem, že vzdělání předchází výsledkům?"
+    },
+    {
+      "i": 48,
+      "t": 1273,
+      "speaker": "Blanka Chudobová",
+      "text": "Ano, vzdělání předchází výsledkům, ale prostě mně se strašně vyplácí jako... Je to paralelně, že vždycky já jsem měla tendenci prostě všechno, to vzdělání a ty informace, a [nesrozumitelné] toho prostě spoustu, a pak teprve se pustit, až to budu všechno dobře umět. A tady je super prostě vzdělávat se a jít to rovnou zkoušet, protože to je efektivnější cesta daleko, jde to rychleji a je to šitý na míru potom."
+    },
+    {
+      "i": 49,
+      "t": 1302,
+      "speaker": "CoachVille",
+      "text": "My se někdy setkáváme právě s tím přístupem toho klasického školství, že lidé očekávají, že nejdřív se to všechno naučí a pak to teprve budu dělat, jo. A ty, když jsi tím vlastně procházela, dneska je to rok, tak vlastně co bys vzkázala někomu, kdo uvažuje o tom, jak já můžu někoho koučovat, když to ještě neumím, když jsem teprve na začátku? Protože s tímhle procesem máš roční zkušenost, tak vlastně co bys takovým lidem vzkázala?"
+    },
+    {
+      "i": 50,
+      "t": 1335,
+      "speaker": "Blanka Chudobová",
+      "text": "No, že je to neprospěšný přesvědčení, jakože tam člověk si dává..."
+    },
+    {
+      "i": 51,
+      "t": 1362,
+      "speaker": "Blanka Chudobová",
+      "text": "Nedělat si tam nějaké obavy, strachy, a prostě jít si za těma zkušenostmi. Prostě říct si, jdu si pro zkušenosti. A zkušenosti to vždycky pak vlastně [nesrozumitelné], a vlastně se z toho učit."
+    },
+    {
+      "i": 52,
+      "t": 1375,
+      "speaker": "CoachVille",
+      "text": "Hezký. Blanko, ty máš samozřejmě zkušenost být koučovaná, v průběhu toho výcviku mnoha tréninkovými partnery, takže jsi to zažila v roli hráčky. Jaký to pro tebe je být koučovaná? Jaká to je zkušenost?"
+    },
+    {
+      "i": 53,
+      "t": 1393,
+      "speaker": "Blanka Chudobová",
+      "text": "Je to pro mě zkušenost úplně skvělá v tom, že se ty věci právě dějou. Že člověk o tom jenom nemluví, ale fakt se to děje. Pro mě je to ta praxe."
+    },
+    {
+      "i": 54,
+      "t": 1403,
+      "speaker": "Blanka Chudobová",
+      "text": "Je to udržení pozornosti na tom, co potřebuju."
+    },
+    {
+      "i": 55,
+      "t": 1409,
+      "speaker": "Blanka Chudobová",
+      "text": "Můžu se na to podívat prostě i z jiného úhlu. Vždycky tam zjistím nové možnosti. To je totiž objevování těch nových možností, co by ti sabotéři a ty strachy blokovali. To je nebezpečný, to je neznámý. A tam se to prostě bezpečně otevře v tom prostředí. Kdy zatím s tím nic nemusíš dělat, jenom pojď prostě vymýšlet. Vlastně člověk tu svoji kreativitu prodere přes ty sabotéry. To je prostě super prostředí, kde se dá krásně tvořit. A pak už je zase jenom krůček to jít fakt zrealizovat a tím se prostě posouvat."
+    },
+    {
+      "i": 56,
+      "t": 1439,
+      "speaker": "Blanka Chudobová",
+      "text": "Takže pro mě je, že věci se dějou potom."
+    },
+    {
+      "i": 57,
+      "t": 1444,
+      "speaker": "CoachVille",
+      "text": "Takže vlastně můžeš být v integritě s tím, že když koučuješ další lidi, tak sama to zažíváš, a potom se daleko snadněji dostaneš k tomu, že lidem pomůžeš k jejich důležitým uvědoměním."
+    },
+    {
+      "i": 58,
+      "t": 1457,
+      "speaker": "Blanka Chudobová",
+      "text": "Přesně tak. A navíc ze své zkušenosti vím, co mi pomohlo a dělá dobře a co se mi líbí u toho koučování. A tím pádem si řeknu, aha, tak tohle chci dopřát i těm svým hráčům. Takže vlastně z vlastní zkušenosti, co mi na tom přijde super, tak to přenášet prostě jim, což je taky super."
+    },
+    {
+      "i": 59,
+      "t": 1475,
+      "speaker": "CoachVille",
+      "text": "Blanko, my máme občas zkušenost, že se nám ozve někdo, kdo řekne něco jako... Já už o tom uvažuji roky, že se začnu učit, a až teďka se k tomu dostávám. Tak máš něco, co bys třeba doporučila lidem, kteří vlastně už to třeba dlouho zvažují, a na základě svojí dosavadní zkušenosti?"
+    },
+    {
+      "i": 60,
+      "t": 1499,
+      "speaker": "Blanka Chudobová",
+      "text": "No, jako evidentně, když o tom tak dlouho uvažují, tak je tam něco táhne, tam prostě něco je, přesně jako cítí, to by mohlo být to moje poslání. Takže moje doporučení prostě je, jako dát tomu šanci, vrhnout se tam, protože jako žít v souladu, žít s tím, co mi dává smysl, je prostě základ jako šťastného života. A jestli má někdo děti, tak já tvrdím, že to nejlepší, co jim můžeme předat, je, když rodič žije svoje poslání, i když je to mnohdy ta náročnější varianta než to pohodlný vzít prostě zaměstnání někde."
+    },
+    {
+      "i": 61,
+      "t": 1535,
+      "speaker": "Blanka Chudobová",
+      "text": "Kde nejsem šťastná, ale je to pohodlný a je to tak tady při ruce, tak to prostě tím dětem jako úplně ukazujeme, jak ten život žít prostě úplně na půl, na třetinu, ne naplno. Když prostě jdu po té cestě, co mi dává smysl, a je i těžká, tak to je přesně to, co jako si myslím, že to je to nejlepší, co člověk může předat tomu dítěti. Prostě pojď žít ten život naplno, pojď se učit, pojď ten potenciál zvyšovat. Úplně to tam jako cítím. Takže rozhodně, jestli."
+    },
+    {
+      "i": 62,
+      "t": 1566,
+      "speaker": "Blanka Chudobová",
+      "text": "Že to tam někdo cítí, že to tam jako takhle má, tak ať do toho skočí. Protože, a jestli tam má ty sabotéry, které ho brzdí, tak se zkusit prostě fakt zaměřit, ne na tu hlavu, prostě zkusit ji vypnout, ale třeba se nadchnout a zkusit to tím srdcem, no, to by taky jako mohlo pomoct. A nebo mít tu víru vlastně, ze zkušeností, co tam jako ví, tak věřit, že to funguje, a jít za tím, no."
+    },
+    {
+      "i": 63,
+      "t": 1595,
+      "speaker": "CoachVille",
+      "text": "A ty jsi vlastně zmínila rodičovství a častá otázka taky je, jak vlastně to, že se učíš koučovat, ovlivňuje tvůj vztah s rodinou, s dětmi, a jaká je ta zkušenost vlastně být koučkou a současně být mámou, a jak to ovlivňuje tvoji komunikaci s dětmi?"
+    },
+    {
+      "i": 64,
+      "t": 1621,
+      "speaker": "Blanka Chudobová",
+      "text": "No tak jako vyloženě se to snoubí, jo, protože jednak teda mám svobodu, že si všechno plánuju tak, jak já chci, to znamená na ty děti jako mám čas. No a jednak ta komunikace, ona je to vlastně strašně ruku v ruce s respektující výchovou, kterou já prostě mám ráda a preferuju, takže to si úplně jako notuje, to znamená, neříkám furt dítěti, jak co má dělat, ale ptám se prostě, že jo, ať si jako kdyby na to přijde samo, protože když si na to přijde samo, má daleko větší motivaci to dělat. Takže se to úplně jako takhle provazuje."
+    },
+    {
+      "i": 65,
+      "t": 1654,
+      "speaker": "Blanka Chudobová",
+      "text": "Je super, že můžu sdílet třeba už s tím svým nejstarším, kterému bude dvanáct, svoji cestu, a on to se mnou fakt prožívá. A podle mě je to pro něho úplně skvělý, že já sdílím aj co se mi povede, co se mi nepovede a jak se cítím. A nedávno jsem si četla prostě něco nahlas tam z playbooku, a teď syn byl doma a říkal, jo mami, to je dobrý, jako teď vidím víc, o čem to je. A teď mi začal odpovídat na ty otázky a normálně si vymyslel projekt, on si vymyslel projekt, že chce učit děti anglicky."
+    },
+    {
+      "i": 66,
+      "t": 1685,
+      "speaker": "Blanka Chudobová",
+      "text": "A úplně jsem byla nadšená. Takže jako mě nikdy nenapadlo koučovat své dítě, což jako v rodině se ani nemá. Ale já jsem úplně koukala, jak mi odpovídal krásně na ty dotazy. A jako fakt, jako co bys třeba od nás potřeboval, a on by potřeboval jako podporu od rodičů, a vymýšlel takový dospělácký věci, to bylo prostě úžasný. Takže jo, jde to ruku v ruce a ty děti prostě se naučí jako odhalit svoje dary, talenty a jít za tím,"
+    },
+    {
+      "i": 67,
+      "t": 1716,
+      "speaker": "Blanka Chudobová",
+      "text": "co je baví a naplňuje."
+    },
+    {
+      "i": 68,
+      "t": 1719,
+      "speaker": "CoachVille",
+      "text": "To je velký."
+    },
+    {
+      "i": 69,
+      "t": 1722,
+      "speaker": "CoachVille",
+      "text": "Blanko, a když to je taková jako velká otázka globálního rázu, jak vlastně vnímáš přínos koučování jako oboru pro lidstvo a pro budoucnost?"
+    },
+    {
+      "i": 70,
+      "t": 1736,
+      "speaker": "Blanka Chudobová",
+      "text": "No já to beru prostě jako úžasnou formu rozvíjení, jakože mi přijde, no, že jakože, jak se říká, že prostě žijeme úplně malinkatý procentičko toho našeho potenciálu, tak mi to úplně otvírá dveře do dalších těch možností a úplně za tím prostě cítím žít víc naplno, prozkoumat z toho víc, víc z toho zkusit a žít ten život fakt jako plno, naplno. To je prostě rozvinout ten svůj potenciál, co je ještě možný. A furt probourávat ty stropy a jít a výš a výš. A tohle je pro mě úplně strašně"
+    },
+    {
+      "i": 71,
+      "t": 1768,
+      "speaker": "Blanka Chudobová",
+      "text": "inspirující cesta a to mě prostě naplňuje a láká."
+    },
+    {
+      "i": 72,
+      "t": 1773,
+      "speaker": "CoachVille",
+      "text": "Hezký. Máš nějaký oblíbený motto, nějaký citát, myšlenku, která tě inspiruje, ovlivňuje?"
+    },
+    {
+      "i": 73,
+      "t": 1781,
+      "speaker": "Blanka Chudobová",
+      "text": "Jo, to jsem získala tady taky v CoachVille, že pokud to není ani trochu děsivé, nemá smysl to hrát, to mi přijde úplně boží."
+    },
+    {
+      "i": 74,
+      "t": 1791,
+      "speaker": "Blanka Chudobová",
+      "text": "Hezký. No, prostě je to o tom, jako vycházet z té komfortní zóny, protože pak se to děje, no, pak se pak člověk posouvá a je to zábava, no."
+    },
+    {
+      "i": 75,
+      "t": 1803,
+      "speaker": "CoachVille",
+      "text": "Blanko, a jak vlastně ten trénink CoachVille ovlivnil tvůj dosavadní život? Jaký vliv na tebe měl?"
+    },
+    {
+      "i": 76,
+      "t": 1812,
+      "speaker": "Blanka Chudobová",
+      "text": "Jak jsem říkala, jako... Hrozně moc mě ovlivňují ty lidi, protože říkám, jako fakt tři lidi jsou moji blízcí, jako na dennodenní bázi, vlastně se s nima jako vídám, což hodně ovlivní, takže prostě úžasní lidi. Je to o přístupu, o přístupu k životu. Mám pocit, že fakt jako žiju to, co mi dává smysl, a to je prostě velký, to jako je zásadní."
+    },
+    {
+      "i": 77,
+      "t": 1849,
+      "speaker": "Blanka Chudobová",
+      "text": "A asi mi to přináší samozřejmě tu svobodu, která má pro mě velikánskej smysl, a svobodu."
+    },
+    {
+      "i": 78,
+      "t": 1858,
+      "speaker": "Blanka Chudobová",
+      "text": "Svobodu časovou, finanční. Mně to prostě přináší ty možnosti."
+    },
+    {
+      "i": 79,
+      "t": 1866,
+      "speaker": "Blanka Chudobová",
+      "text": "No, to by tak asi bylo jako v kostce."
+    },
+    {
+      "i": 80,
+      "t": 1870,
+      "speaker": "CoachVille",
+      "text": "Hezky. Zkus ještě pojmenovat vlastně nějaký vzkaz pro naše diváky a posluchače. Něco, co bychom... Co bychom jim mohli vzkázat takhle jako na závěr toho dnešního rozhovoru?"
+    },
+    {
+      "i": 81,
+      "t": 1884,
+      "speaker": "Blanka Chudobová",
+      "text": "Co bychom jim mohli vzkázat?"
+    },
+    {
+      "i": 82,
+      "t": 1889,
+      "speaker": "Blanka Chudobová",
+      "text": "No, jako určitě prostě, jestli cítí, že je to táhne, tak ať prostě to neodkládají a jdou do toho hned, protože pak se prostě rozjede ta zábavná cesta, no."
+    },
+    {
+      "i": 83,
+      "t": 1906,
+      "speaker": "Blanka Chudobová",
+      "text": "Co mi tak přijde, prostě vypnout tu hlavu, ty sabotéry a všechno, co říká jako ne, nebo tam má milion námitek, ale poslechnout to srdce, jít prostě do toho."
+    },
+    {
+      "i": 84,
+      "t": 1918,
+      "speaker": "CoachVille",
+      "text": "Tak jo. Slyšeli jste Blanku Chudobovou a děkuji, že jste byli dneska u sledování tohohle podcastu. Blanko, tobě děkuji moc za to, že jsme společně mohli tenhle rozhovor uskutečnit, a těším se někdy příště."
+    },
+    {
+      "i": 85,
+      "t": 1933,
+      "speaker": "Blanka Chudobová",
+      "text": "Super, já moc taky děkuji. Díky, ahoj. Ahoj."
+    }
+  ]
+}

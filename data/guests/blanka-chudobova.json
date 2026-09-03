@@ -1,0 +1,48 @@
+{
+  "slug": "blanka-chudobova",
+  "displayName": "Blanka Chudobová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-02",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 13,
+  "priorProfessionText": "ekonomka (veřejná ekonomie), korporace; mateřská se třemi dětmi; krátce práce v Anglii, pak covid a doma s dětmi",
+  "priorProfessionCat": "rodičovská, jiné",
+  "regionType": "neuvedeno",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "rozhodování hlavou: gymnázium, ekonomka, korporát bez radosti; tři děti a dlouhá mateřská; přestěhování do Anglie, po 3 měsících v práci covid; inventura darů: lidé se jí svěřují, naslouchá, klade provokativní otázky"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "test předpokladů pro kouče z reklamy na Facebooku vyšel dobře; poprvé rozhodnutí srdcem, ne hlavou"
+    },
+    {
+      "label": "Start",
+      "text": "playbook: sežeňte si 5 hráčů; panika; první lekce nadchla; „zeptám se na životní sen a děj se vůle boží“; první hráči mezi známými, nadšené reakce"
+    },
+    {
+      "label": "Po levelu 1",
+      "text": "rozhodování, zda pokračovat: sabotéři (moc peněz, standard rodiny, neumíš generovat hráče), manžel (nejdřív si vydělej), Aleš (zůstaň s komunitou); vyhrálo srdce, vzala si půjčku"
+    },
+    {
+      "label": "Dnes (13. měsíc)",
+      "text": "jeden z prvních hráčů s ní zůstal; nejraději koučuje tvůrce a podnikatele; tři blízcí lidé z komunity; nejstarší syn si po otázkách z playbooku vymyslel projekt"
+    }
+  ]
+}
