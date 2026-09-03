@@ -1,0 +1,50 @@
+{
+  "slug": "marketa-zimcikova",
+  "displayName": "Markéta Zimčíková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 11,
+  "priorProfessionText": "práce s lidmi v různých oborech: děti, obchod, resource management, nábory a školení nováčků; „rozstřelený multipotenciál“",
+  "priorProfessionCat": "HR a personalistika",
+  "regionType": "neuvedeno",
+  "ageBand": "do 35",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "jiné",
+      "url": "https://www.instagram.com/multi.coach/",
+      "label": "Instagram multi.coach (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "mnoho prací s lidmi, které ji vyčerpávaly; zájem o psychologii a osobní rozvoj; Malý princ a filozofie Život jako hra; nikdy nebyla koučovaná"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "kritéria: kariéra, práce na cestách, lidé, potenciál pomáhat; okamžitá praxe jako rozhodovací faktor"
+    },
+    {
+      "label": "Start",
+      "text": "„z nuly na tisíc“, hodně hráčů; obavy „budu dobrá? budu mít klienty?“ si vymluvila v prvních dvou týdnech; komunita, kde není mimozemšťan"
+    },
+    {
+      "label": "Dnes (téměř rok, 200 hodin)",
+      "text": "živí se koučováním (podle úvodu tazatele); 13 různých koučů a parťáků za rok; hráči: multitalentovaní tvůrci, témata nastavení mysli a sebehodnota; klienti 20 až 60 let"
+    }
+  ]
+}
