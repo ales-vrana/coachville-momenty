@@ -1,0 +1,44 @@
+{
+  "slug": "lucie-frankova",
+  "displayName": "Lucie Franková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 42,
+  "priorProfessionText": "oděvní návrhářka; řízení marketingu a komunikace v nadnárodních korporacích; podnikání ve financích; ředitelka demokratické školy; otevírání českého trhu pro americkou společnost",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "mnoho profesí (návrhářka, marketing a komunikace v korporátech, finance, ředitelka demokratické školy); první zastavení v životě; pár let koketování s koučováním; přesvědčení „nejdřív se musím stát někým“"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "americká firma se stáhla z Evropy; „než najdu další, naučím se pracovat s lidmi“; heslo „život je jenom hra“; srovnání dvou škol, rozhovor s koučem ve výcviku, vstupní testy"
+    },
+    {
+      "label": "Start",
+      "text": "online tréninky jako novinka; koučování jako dobrodružství; aha: i po letech řízení komunikace se učí naslouchat"
+    },
+    {
+      "label": "Dnes (přes 3,5 roku, přes 1 000 hodin podle úvodu)",
+      "text": "klientka od prvního tréninku dodnes (finanční poradkyně, kancelář, franšíza, tým); klienti z doporučení, web teprve tvoří; hráčky: podnikatelky a manažerky, které mají načteno, ale neaplikují"
+    }
+  ]
+}
