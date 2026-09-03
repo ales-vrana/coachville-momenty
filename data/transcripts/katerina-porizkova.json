@@ -1,0 +1,893 @@
+{
+  "episode": "katerina-porizkova",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 1,
+      "speaker": "CoachVille",
+      "text": "Zdravím, tady je Aleš Vrána z CoachVille a my tady máme dneska další rozhovor v rámci podcastu, a dneska je tady s náma Katka Pořízková. Ahoj, Katko."
+    },
+    {
+      "i": 1,
+      "t": 11,
+      "speaker": "Kateřina Pořízková",
+      "text": "Ahoj, Aleši."
+    },
+    {
+      "i": 2,
+      "t": 12,
+      "speaker": "CoachVille",
+      "text": "Já o tobě, Katko, řeknu našim divákům a posluchačům, že ty jsi bývalou HR manažerkou v Automotive s 20letou praxí a dneska je to téměř rok, co jsi s náma v CoachVille, a máš 200 odkoučovaných hodin. Pojď nám, Katko, říct něco o sobě a jak ses vlastně dostala ke koučování."
+    },
+    {
+      "i": 3,
+      "t": 32,
+      "speaker": "Kateřina Pořízková",
+      "text": "Velmi ráda. Já bych na začátek chtěla poděkovat tobě, Aleši, že jsi mě pozval, dal mi tu příležitost, což pro mě bylo velice překvapivé, protože koučuju relativně krátkou dobu. A tak, co bych doplnila o sobě, těch 20 let v Automotive bylo dlouhých, krásných, spoustu věcí jsem se naučila. Opravdu ta cesta byla dlouhá, od nějakých 350 zaměstnanců do 2000, když jsem odcházela. Spoustu věcí za sebou bylo hotových, ale ty důvody, proč jsem odešla, to možná zmíníme později."
+    },
+    {
+      "i": 4,
+      "t": 66,
+      "speaker": "Kateřina Pořízková",
+      "text": "A co ještě o mně, no, mám dvě úžasné dcery a neskutečně podporujícího manžela, takže to prostředí doma je vhodné pro to, abych mohla koučovat, což je dosti rozhodující, řekla bych."
+    },
+    {
+      "i": 5,
+      "t": 81,
+      "speaker": "CoachVille",
+      "text": "Skvělý. Katko, a pojďme teda teďka zavzpomínat na to, jak to vlastně u tebe bylo. V roli HR manažera se samozřejmě setkáváš se spoustou situací s lidmi, a potom přišel vlastně nějaký impuls a moment vlastně, kdy jsi začala třeba vůbec uvažovat o tom a učit se koučovat. Jak to vlastně bylo u tebe na začátku?"
+    },
+    {
+      "i": 6,
+      "t": 100,
+      "speaker": "Kateřina Pořízková",
+      "text": "No, řekněme, že já jsem jako nějakou delší dobu již zvažovala, že bych potřebovala změnu v životě, a akorát jsem ještě tedy netušila, jak by to mohlo vypadat. A přišla v podstatě nabídka z CoachVille, respektive CoachVille měl krásnou reklamu na Facebooku, která na mě vyskočila, a to byl ten okamžik, moment, kdy jsem si řekla, aha, tak to vypadá velmi zajímavě, to je přesně to, co bych potřebovala a co se mnou rezonuje. A nehledě na to, Aleši, ten tvůj marketing je prostě perfektně zacílený, a opravdu já jsem měla pocit, že seš v mojí hlavě, když jsi to psal, anebo že seš u mě prostě v kanceláři."
+    },
+    {
+      "i": 7,
+      "t": 140,
+      "speaker": "Kateřina Pořízková",
+      "text": "Že jsem si říkala, tyjo, jak ten Aleš to ví, jak to tady funguje, to je prostě jako geniální. Takže to byl takový moment."
+    },
+    {
+      "i": 8,
+      "t": 148,
+      "speaker": "CoachVille",
+      "text": "Předvídatelné."
+    },
+    {
+      "i": 9,
+      "t": 153,
+      "speaker": "CoachVille",
+      "text": "Čili přišel tenhle impuls v podobě toho příspěvku, který jsi udělal, a vlastně začala jsi o tom uvažovat. A tam je vždycky pro spoustu lidí ten důležitý moment vlastně toho jako rozhodování se do toho vstoupit, protože pro někoho je to krátká doba, pro někoho je to delší doba, a většinou je to spojený s tím, že tady vidíme příležitost a tady jsou možná nějaké pochybnosti a obavy. Jak jsi to měla tady s tímto rozhodováním na začátku?"
+    },
+    {
+      "i": 10,
+      "t": 180,
+      "speaker": "Kateřina Pořízková",
+      "text": "No, je to zajímavé, jako paradoxně u mě, protože u mě to rozhodování většinou trvá delší dobu, tak v tomto případě to bylo velice rychle, protože to první setkání s reklamou bylo někdy, nevím, na začátku května loňského roku. Za 14 dní jsem si udělala test předpokladů být koučem, který dopadl dobře, v což jsem doufala. A řekněme začátkem června jsem absolvovala krátký workshop s tebou, Zažij koučování, který mě v podstatě jenom přesvědčil o tom,"
+    },
+    {
+      "i": 11,
+      "t": 213,
+      "speaker": "Kateřina Pořízková",
+      "text": "že jsem tam správně, a to byla půlka června, kdy jsme startovali vlastně náš první trénink."
+    },
+    {
+      "i": 12,
+      "t": 223,
+      "speaker": "CoachVille",
+      "text": "Téměř rok poté, a ty už jsi vlastně od ledna letošního roku na volné noze, což je vlastně jako úžasný výsledek, dostat se k tomu osvobození se od korporace. Ale pojďme se vlastně podívat, jak to bylo u tebe na začátku. Když jsi vstoupila do tréninku, tak měla jsi tam nějaké pochybnosti o sobě, o tom tréninku nebo o tom, jestli se ti bude dařit a jak se ti dařilo vlastně vůbec."
+    },
+    {
+      "i": 13,
+      "t": 252,
+      "speaker": "CoachVille",
+      "text": "S tím, jaká příležitost versus riziko, jak jsi s tím hrála tehdy?"
+    },
+    {
+      "i": 14,
+      "t": 258,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já si myslím, že pravděpodobně 99,9 % lidí, kteří nastupují do koučovacího tréninku, tak mají pochybnosti. Mají velké pochybnosti. Já nejsem výjimkou. Já jsem těch pochybností měla spoustu. Ať už od toho, zda to zvládnu, zda to bude dobrý, budou tam klienti, jak to celý vlastně proběhne. A ony postupně ty pochybnosti jako mizely. A proč mizely, to je úplně jako jednoduchý, protože prostě ten trénink z nás nedělá jenom lepší kouče,"
+    },
+    {
+      "i": 15,
+      "t": 293,
+      "speaker": "Kateřina Pořízková",
+      "text": "nejenom lepší kouče, ale v podstatě tak jako mění naše nastavení. Aspoň u mě to tak bylo. Já jsem si kdysi na začátku jako... Co je to koučování? Každý si pokládá tu otázku, a tím, že jsem z HR světa, tak samozřejmě ty poučky, jakoby ty teoretické, tam byly, tak jsem jako tušila, o čem to jako je, ale vlastně mi nedocvaklo tehdy někdy na začátku, že to může být i o tom, že ne, že já měním ten život toho klienta hráče, ale že to koučování mění mě samotnou. To mi docvaklo, až jsem nastoupila do toho tréninku."
+    },
+    {
+      "i": 16,
+      "t": 329,
+      "speaker": "CoachVille",
+      "text": "Čili to bylo vlastně v důsledku celého toho tréninku i té zkušenosti být pravidelně koučovaná?"
+    },
+    {
+      "i": 17,
+      "t": 335,
+      "speaker": "Kateřina Pořízková",
+      "text": "Je to tak. Je to tak. To byla kombinace tréninku a plus být koučovaná."
+    },
+    {
+      "i": 18,
+      "t": 340,
+      "speaker": "CoachVille",
+      "text": "A jak bys vlastně popsala to, co se u tebe začalo vyvíjet a měnit vlastně díky tomu, že jsi tím procházela?"
+    },
+    {
+      "i": 19,
+      "t": 348,
+      "speaker": "Kateřina Pořízková",
+      "text": "To, co jako razantně se změnilo, tak byl můj přístup sama k sobě a přístup jako k těm věcem, které se dějí. A to znamená... U mě to byla prostě nějaká sebejistota, sebevědomí, které mě prostě posunuly dopředu. A myslím, že dává to koučování téměř všem, teda věřím v to."
+    },
+    {
+      "i": 20,
+      "t": 368,
+      "speaker": "CoachVille",
+      "text": "A ten tvůj prvotní záměr vlastně se přihlásit do CoachVille, tak byl vlastně v souvislosti s tím, že jsi chtěla koučování nějakým způsobem využít v práci, nebo ses už chtěla jako osamostatnit a vlastně vyhlížela sis to jako další kariérní cestu a co nejdřív vlastně jako se do ní přepnout. Někdo to totiž má, že v té práci ještě chce zůstat, chce to tam používat, někdo už chce exit co nejdříve. Jak jsi to měla tehdy?"
+    },
+    {
+      "i": 21,
+      "t": 394,
+      "speaker": "Kateřina Pořízková",
+      "text": "Jo, jo, určitě. Ta první myšlenka byla přesně, jak jsi zmínil, tu variantu jedna, to znamená, že jsem uvažovala o tom, že to využiju ve své práci, což se ostatně nabízelo, protože samozřejmě firma, pro kterou jsem pracovala, tak měla spoustu rozvojových programů, a tam se to prostě nabízelo. Ale postupem doby, řekněme, že ta myšlenka zrála v to odejít a být sama sebou a sama na vlastní noze."
+    },
+    {
+      "i": 22,
+      "t": 422,
+      "speaker": "CoachVille",
+      "text": "Hezký. A když vlastně jsi začala v tréninku, tak na co tam jako vzpomínáš z toho začátku, z těch prvních lekcí, z prvního měsíce? Jaký to pro tebe vlastně bylo? Na co tam vzpomínáš?"
+    },
+    {
+      "i": 23,
+      "t": 435,
+      "speaker": "Kateřina Pořízková",
+      "text": "Ty mi úplně jako nahráváš a usmívám se, protože si vzpomínám na tu jednu situaci. Kdy ty jsi nám jako vysvětloval, že je v pořádku, že my jako kouči nejsme pro každého klienta, a je v pořádku, že každý klient není tak jako pro nás. A dal jsi tam tu paralelu, jako když mrknete do toho diáře, máte tam ty schůzky, tak jako je fajn, když se těšíte na tu schůzku s tím klientem. A jak jsi řekl tady tu věc, tak mi hned naskočila ta paralela s tím mým diářem aktuálním v tom korporátu, jak jsem se podívala na ty moje schůzky."
+    },
+    {
+      "i": 24,
+      "t": 470,
+      "speaker": "Kateřina Pořízková",
+      "text": "A já jsem jako s hrůzou zjistila, že vlastně většina z nich, jako já se na ně netěším. A to bylo jako pro mě dost zásadní."
+    },
+    {
+      "i": 25,
+      "t": 479,
+      "speaker": "CoachVille",
+      "text": "No jasně, protože když půjdeme ke koučovací praxi, tak přece nebudeme, proto abychom si vybudovali něco, na co se zase nebudeme těšit. To už jsme měli taky předtím, že jo. A když člověk zjistí, že už se těší jenom na víkend, tak je možný, že už vlastně pozbyl všechny body v té stávající hře, je potřeba změnit hru. To takhle vypadalo vlastně i z toho, jak to popisuješ v tom kalendáři, že to takhle nějak bylo. Jak to vlastně bylo s tvou prací? Ty jsi byla vlastně už v té práci, jakože řekněme, někdo bývá nespokojený, někdo bývá znuděný, někdo bývá ve stresu. Jak jsi to měla vlastně s tou prací?"
+    },
+    {
+      "i": 26,
+      "t": 513,
+      "speaker": "Kateřina Pořízková",
+      "text": "Hm. Tam bylo jako všeho, jo. Ta práce byla velice zajímavá opravdu těch 20 let, jako někdo řekne, ty jo, jsi v jedné firmě tak dlouho, to musí být strašná nuda. Tím, že se ta firma neustále rozvíjela a opravdu jako rostla, jak jsem říkala, už jenom na tom počtu zaměstnanců to bylo vidět, že jsme se fakt nenudili na HR, takže tam přicházely nové věci, nové zkušenosti, nové výzvy. Ale ve finále vlastně jako já jsem zjistila, že to prostředí jako mi postupem doby jako nevyhovuje, že vlastně to prostředí není pro mě, že já potřebuji prostě tu změnu."
+    },
+    {
+      "i": 27,
+      "t": 553,
+      "speaker": "Kateřina Pořízková",
+      "text": "To byl ten jako impuls, kdy jsem si uvědomila, že potřebuji prostě něco nového. Tím pádem přišlo mi do života CoachVille a ukázalo mi tu cestu jinam."
+    },
+    {
+      "i": 28,
+      "t": 566,
+      "speaker": "CoachVille",
+      "text": "Pojďme zavzpomínat na to, když jsi získala svýho prvního platícího hráče. Jaký to pro tebe bylo?"
+    },
+    {
+      "i": 29,
+      "t": 573,
+      "speaker": "Kateřina Pořízková",
+      "text": "Nádherný to bylo, no. Bylo to překvapivý, bylo to krásný. A vlastně to bylo takové jako ty pochybnosti, jako že já asi řeknu o něco, co normálně běžně jako dělám, a ještě mi to za to někdo zaplatí. Jako je to fakt možný, fakt je to reálně a je to tady."
+    },
+    {
+      "i": 30,
+      "t": 596,
+      "speaker": "CoachVille",
+      "text": "Tak se to stalo."
+    },
+    {
+      "i": 31,
+      "t": 600,
+      "speaker": "CoachVille",
+      "text": "Hezký. To byl vlastně jako nějaký tvůj důležitý okamžik z tvojí cesty. Tím prvním rokem tohoto tréninku a nějaký bod, ve kterým se něco zásadního odehrálo pro tebe, pro člověka, nebo pro tebe, pro kouče. Na co si vzpomeneš?"
+    },
+    {
+      "i": 32,
+      "t": 624,
+      "speaker": "Kateřina Pořízková",
+      "text": "Na co vzpomínám? Já myslím, že ty okamžiky, kdy přišel první platící hráč a po něm přišli další, a já musím říct, že já jsem vlastně... Díky tomu tréninku i díky tomu nastavení jsem začala získávat samá ano na tu spolupráci. A je to zajímavé, ty jsi nám sám říkal, pojďte získávat ne, to je prostě přirozené, člověk se tím učí. Tak já za tu dobu, jestli jsem získala, myslím si, že jenom jedno ne,"
+    },
+    {
+      "i": 33,
+      "t": 655,
+      "speaker": "Kateřina Pořízková",
+      "text": "jinak mám samá ano."
+    },
+    {
+      "i": 34,
+      "t": 660,
+      "speaker": "CoachVille",
+      "text": "Není to škoda?"
+    },
+    {
+      "i": 35,
+      "t": 662,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já to nechci přivolávat úplně."
+    },
+    {
+      "i": 36,
+      "t": 666,
+      "speaker": "CoachVille",
+      "text": "Gratuluji k tomu. Asi něco děláš správně."
+    },
+    {
+      "i": 37,
+      "t": 670,
+      "speaker": "CoachVille",
+      "text": "Čemu přisuzuješ to, že se to děje právě takto?"
+    },
+    {
+      "i": 38,
+      "t": 675,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já si osobně myslím, že to je o tom vnitřním nastavení a rozhodnutí. Protože jakmile já jsem se vnitřně rozhodla, že opravdu to je moje cesta a chci to takhle jít a žít, tak ono se to potom prostě děje. Protože to potom automaticky vyzařuje i ze mě, a opravdu i lidi, které třeba znám delší dobu, tak mi to potvrzují. Aniž bych já se ptala, tak oni automaticky mi říkají, tyjo, u tebe se něco stalo, tam je nějaká změna, tyjo, co se děje? A začnu o tom přemýšlet. A prostě přicházejí, no. Přicházejí buď ti, kteří už mě znají z dřívějška a rádi se mnou spolupracovali,"
+    },
+    {
+      "i": 39,
+      "t": 714,
+      "speaker": "Kateřina Pořízková",
+      "text": "a pak přicházejí nový, které to láká a zajímá ten nový svět, ten nový úhel pohledu, který můžeme společně objevit."
+    },
+    {
+      "i": 40,
+      "t": 722,
+      "speaker": "CoachVille",
+      "text": "A ve kterým momentu jsi začala vnímat, že bude možný z té korporace odejít? A co k tomu vlastně u tebe vedlo?"
+    },
+    {
+      "i": 41,
+      "t": 739,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já jsem o tom byla přesvědčená od prvopočátku, že ta cesta možná je, ale tu větší jistotu, řekněme, jsem získala po nějakých třech, čtyřech měsících, že to prostě dává smysl. My jsme absolvovali první metodu, transformační koučování, a potom jsme nastoupili do nové metody, Život jako hra, a tam se mi to začalo celé skládat a začalo to dávat ještě větší smysl než na začátku, a já jsem věděla, že to prostě půjde."
+    },
+    {
+      "i": 42,
+      "t": 766,
+      "speaker": "CoachVille",
+      "text": "Hezký. Když se podíváme na tvoje zkušenosti s hráči, kdy máš odkoučovaných 200 hodin, možná že už se ti to projevilo, kdo jsou tvoji oblíbení hráči, kdo jsou tvoji oblíbení hráči jako doposud, co vlastně mají za charakteristiky, jak je poznáš, že jsou to tvoji oblíbení hráči, co je spojuje."
+    },
+    {
+      "i": 43,
+      "t": 786,
+      "speaker": "Kateřina Pořízková",
+      "text": "To je hezká otázka, nad kterou vlastně já uvažuji jako delší dobu, a mně přijde, že v podstatě já mám ráda ty hráče, kteří opravdu něco chtějí udělat s tím životem. To, že chtějí nějakou změnu, to, že se chtějí někam posunout. A to v podstatě je ten společný jmenovatel všech těch hráčů, které v současné době já mám. A to je to, co mě na tom baví. Ten detail, čemu se věnujeme, ten je různý."
+    },
+    {
+      "i": 44,
+      "t": 817,
+      "speaker": "Kateřina Pořízková",
+      "text": "Můžou tam být vztahy, může tam být byznys. Je tam práce prostě na sobě, jsou tam i témata jako odchodu prostě z práce, v podstatě to stejné, co jsem zažila já, jakoby tady tuto cestu, protože těch témat tam je mnoho, ale všichni mají jeden společný jmenovatel, a to je to, že chtějí. A to je pro mě velice důležité a zásadní."
+    },
+    {
+      "i": 45,
+      "t": 841,
+      "speaker": "CoachVille",
+      "text": "Katko, co tě vlastně na koučování baví? Zkus pojmenovat pár věcí, které tě na koučování skutečně jako baví, naplňují."
+    },
+    {
+      "i": 46,
+      "t": 849,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já jsem si vždycky myslela na začátku, že to je to, že já v podstatě potřebuji pomoct těm lidem a podpořit ty lidi, a vstupem do koučování jsem jako pochopila, že to není jako jenom o nich, ale že to je hlavně o mně, a že to je to, co mi to dává jako víc, že vlastně jako já sama sebe mohu postavit na to první místo. Podpořit sama sebe, vyživit, podpořit, a pak můžu jako dávat těm ostatním. To je jak s tou kyslíkovou maskou v tomhle teda, že napřed si nasadím já a pak jako zachraňuji ty ostatní okolo sebe. Tak to mi přijde jako dobrá paralela, že vlastně si uvědomuji, že já jsem ta nejdůležitější, a když já jsem v klidu jako nejdůležitější osoba, tak pak může fungovat to ostatní okolo, včetně toho koučování, a tím pádem v té chvíli já jsem schopna"
+    },
+    {
+      "i": 47,
+      "t": 894,
+      "speaker": "Kateřina Pořízková",
+      "text": "dát maximum nebo podpořit toho klienta hráče na maximum. To mi přijde jako nejvíc."
+    },
+    {
+      "i": 48,
+      "t": 903,
+      "speaker": "CoachVille",
+      "text": "Často vlastně na začátku člověk zvažuje, tak budu mít koho koučovat, budou ty hráči, budu dostávat ano. Měla jsi koho koučovat, jak to vlastně u tebe bylo? Když jsi vstoupila do CoachVille, pak jsi získala ty hráče, ty jsi zmiňovala, že jsi dostávala často ano. Čili asi pravděpodobně měla koho koučovat, ale vlastně jak to u tebe bylo tady s tím, protože to je častý, že jako a co když nebudu mít koho koučovat, tak vlastně jako stane se tady tohle vlastně někomu, je to vůbec možný v CoachVille?"
+    },
+    {
+      "i": 49,
+      "t": 940,
+      "speaker": "Kateřina Pořízková",
+      "text": "Určitě je to možný, já myslím, že ty nástroje, ty cesty nám CoachVille ukazuje od začátku, to je jako v podstatě součástí těch tréninků a součástí všeho. A ta obchodní část je tam nedílnou součástí a pro mě velice důležitou, kdy jsem si jako uvědomila, že jsem správně na tom správném místě. A jak to bylo u mě, to bylo jako jednoduché tím, že v podstatě jsem byla v korporaci, která v té lokalitě tady v České republice měla už 2000 zaměstnanců, tak jako ten prostor tam jako byl široký, takže samozřejmě jakoby ta nabídka směřovala tam."
+    },
+    {
+      "i": 50,
+      "t": 973,
+      "speaker": "Kateřina Pořízková",
+      "text": "Poté, co jsem dala tu výpověď, tak jsem o tom začala řekněme otevřeněji mluvit a více mluvit, že už to nebylo co skrývat, že jo? No a ti klienti jako nejsou jenom tady z té části, ale jsou i z části řekněme té přátelské, jiné, z té skupiny těch přátel, které mám okolo sebe jako nových, a řekněme i z byznysu jiného, jako kosmetického průmyslu, dokonce i z finančního poradenství. Takže to mám jako rozvrstvené, že mi přijde ta strategie..."
+    },
+    {
+      "i": 51,
+      "t": 1004,
+      "speaker": "Kateřina Pořízková",
+      "text": "Jako vyplácí se to mít jako opravdu rozvrstvené, a tím pádem se mi ti hráči skládají jako z různých vrstev, z různých společností, s různými tématy, a to mě na tom jako baví."
+    },
+    {
+      "i": 52,
+      "t": 1019,
+      "speaker": "CoachVille",
+      "text": "A to je vlastně pro spoustu lidí vlastně jako překvapivý, že ty metody jsou nezávislé na těch tématech, které lidi přinášejí. A ptají se často, jak je to možný, jak je možný, že vlastně můžeš koučovat tolik různých lidí z tolika různých sfér."
+    },
+    {
+      "i": 53,
+      "t": 1038,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já velmi často dostávám otázku, když koučuješ, a prosím tě, a co jako teda koučuješ, nebo koho koučuješ, jako že děláš HR? A já říkám, ne, to vůbec není tady s tímto spojené, naopak ty metody, techniky jsou tak jako univerzální, že to je jenom o tom daném člověku, co přináší za téma. A mě ve finále jako, pro mě není důležité, jestli je to opravdu ten korporátní klient, anebo to je, nevím, teďka paní, která je třeba nezaměstnaná. Tam prostě pro mě tady v tom to nehraje roli, tam není rozdíl."
+    },
+    {
+      "i": 54,
+      "t": 1070,
+      "speaker": "CoachVille",
+      "text": "A když jsi vlastně vstoupila do CoachVille, tak ses stala součástí té komunity. Jak vlastně vnímáš ty zkušenosti, které přináší ta komunita, to být součástí té komunity, a co ti to dává?"
+    },
+    {
+      "i": 55,
+      "t": 1087,
+      "speaker": "Kateřina Pořízková",
+      "text": "To je něco, to je věc, která mi neskutečně pomohla se posunout dál, a bez té komunity by to prostě jako nebylo možný. A proč tomu tak je? Pro mě je to prostředí, které ta komunita vytváří, to je prostředí jistoty a bezpečí toho, že se můžu otevřít, toho, že mě nikdo nehodnotí, toho, že prostě můžu říct cokoliv, a tím pádem, když si dovolím říct cokoliv, tak jako mě to posune dál. To je prostě... Takže nový úhel pohledu na ten celý život, který jsem do té doby, řekněme, měla v náznacích, ale nebylo to tak jako na 100 %, možná ještě víc, na 200 %, jak to mám teď. Takže to bylo dost důležité."
+    },
+    {
+      "i": 56,
+      "t": 1133,
+      "speaker": "CoachVille",
+      "text": "Děkuji. A my máme vlastně spoustu možností, jak se lidé v dnešní době rozvíjí, ať už jsou to jako knížky, podcasty, webináře, semináře, konference, YouTube videa, různý kurzy, mentoring, a pak je tady vlastně koučování. V čem bys řekla, že je koučování vlastně unikátní nebo nenahraditelný nebo odlišný? A jak se to vlastně jako doplňuje nebo nedoplňuje s těmi dalšími formami rozvoje?"
+    },
+    {
+      "i": 57,
+      "t": 1165,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já si osobně myslím, že to je v podstatě taková třešnička na dortu."
+    },
+    {
+      "i": 58,
+      "t": 1172,
+      "speaker": "Kateřina Pořízková",
+      "text": "Že to všechno ostatní, co jsi vyjmenoval mimo koučování, je nesmírně důležitý a určitě je fajn si nastudovat, a samostudium a mít svýho mentora a mít to, ale to koučování je v podstatě opravdu ten [nesrozumitelné] nepostradatelnosti. To je ta třešnička na tom dortu. A tak, jak mi zmínil v podstatě jeden můj klient, když jsem se ho ptala, co bych mohla změnit já, když jsme dělali nějakou řekněme rekapitulaci po více sezeních, co mu třeba nevyhovovalo během toho našeho koučování a co by prostě chtěl mít jinak, tak on mi řekl, no víš, já na začátku jsem si jako prostě myslel, že mi budeš říkat, jak ty věci mám dělat."
+    },
+    {
+      "i": 59,
+      "t": 1222,
+      "speaker": "Kateřina Pořízková",
+      "text": "A tak jsem byl překvapený, že to tam vůbec nebylo. A vlastně... Já si uvědomuji, že to je dobře, protože kdybys to tak udělala, tak já bych si to napsal na ten papírek někam. Ten bych někde zahodil a vlastně nic by se nestalo. Takže to si myslím, že vlastně jako dokresluje přesně tu podstatu toho koučování a proč je jako důležitý pro ten rozvoj těch lidí."
+    },
+    {
+      "i": 60,
+      "t": 1246,
+      "speaker": "CoachVille",
+      "text": "A ty sama jsi měla před nástupem do CoachVille zkušenost, že tě někdo koučoval, jako někdo, kdo je profesionální kouč? Ne."
+    },
+    {
+      "i": 61,
+      "t": 1257,
+      "speaker": "Kateřina Pořízková",
+      "text": "Nikdy jsem neměla zkušenost."
+    },
+    {
+      "i": 62,
+      "t": 1259,
+      "speaker": "CoachVille",
+      "text": "A jaký je vlastně pro tebe rozdíl? Žila jsi dlouho bez této zkušenosti, a pak jsi začala, a poslední rok žiješ prostě s tou zkušeností být koučem a být koučovaná. Tak jaký to je vlastně, když člověk nebyl koučovaný a je koučovaný? Tak vlastně v čem je ten rozdíl pro tebe?"
+    },
+    {
+      "i": 63,
+      "t": 1279,
+      "speaker": "Kateřina Pořízková",
+      "text": "No to je jako když jedeš prostě na tom kole, že jo. Bez toho kouče jedeš na tom kole a zdoláváš tu trasu tady, nevím, od nás z Olomouce na Sněžku, a jedeš jako dlouho a pomalu. No a když si vezmeš toho kouče, no tak to je, jak když nasedneš do tryskáče. Šups a seš tam. Jo, to je prostě opravdu a to zrychlení je tam enormní. To zrychlení v tom myšlení, vnímání situací, dělání kroků, dělání těch změn. Jo, to prostě je úplně někde jinde."
+    },
+    {
+      "i": 64,
+      "t": 1311,
+      "speaker": "Kateřina Pořízková",
+      "text": "A to mluvím sama za sebe. Myslím, že jsem toho důkazem."
+    },
+    {
+      "i": 65,
+      "t": 1316,
+      "speaker": "CoachVille",
+      "text": "Čili rozdíl je v rychlosti toho, jak se dostaneš, jak rychle se dostaneš k tomu, co chceš. Ještě něco dalšího, co tě napadá, že je vlastně rozdílem, protože to je často pro lidi velice známá situace, že nemají svého kouče. Vlastně to téměř nikdo nemá, svého kouče, kromě... Víme, že je to vlastně jako zatím velice rarita, když má někdo svého kouče. Čili z pozice někoho, kdo to"
+    },
+    {
+      "i": 66,
+      "t": 1346,
+      "speaker": "CoachVille",
+      "text": "vlastně jako začal zažívat před rokem, tak to vlastně máš jako čerstvý. Nějaký další rozdíl kromě rychlosti je tam pro tebe?"
+    },
+    {
+      "i": 67,
+      "t": 1355,
+      "speaker": "Kateřina Pořízková",
+      "text": "Určitě, je tam toho víc, je tam ta transformace jako taková, tam je prostě prostor, a je ten čas na to, aby si každý uvědomil ty věci sám o sobě, o tom, jak to má být. Má ty věci v životě, jak by je chtěl mít, a jak vlastně se k tomu dostane. A ta uvědomění o tom, že říct si prostě do určitou pravdu, hele, prostě tady v tom nejsem spokojená, spokojený. A je fajn s tím něco udělat, je k nezaplacení. Protože spousta lidí prostě, mi přijde, že žijí v takovém, v uvozovkách,"
+    },
+    {
+      "i": 68,
+      "t": 1386,
+      "speaker": "Kateřina Pořízková",
+      "text": "krysím závodě, jak se říká. Prostě jedou takový to kolečko a vlastně nejsou schopni z něho vykouknout. A tím, že... Když se dostanu ke kouči, tak je možný prostě chviličku se zastavit v tom běhu, nadechnout se a popřemýšlet. A ten moment toho přemýšlení, ten prostor přináší v podstatě, ukazuje tu cestu. A to jsou ty zlomové momenty za mě."
+    },
+    {
+      "i": 69,
+      "t": 1413,
+      "speaker": "CoachVille",
+      "text": "Katko, a když vlastně nastal ten moment, že ses rozhodovala odejít z té korporace, to bylo samozřejmě jako velký rozhodnutí? Pojď teďka povědět vlastně jako něco o tomhle momentu vlastně, jak jsi věděla, že už je ten čas, a jak to vlastně jako u tebe bylo, protože to je samozřejmě ten důležitý moment, je vlastně jako osvobození, to, že člověk půjde dělat to, co chce dělat, a vlastně změna z role zaměstnance na roli člověka na volné noze je velká změna. Tak vlastně jak to bylo u tebe tady s tímto rozhodnutím?"
+    },
+    {
+      "i": 70,
+      "t": 1453,
+      "speaker": "Kateřina Pořízková",
+      "text": "Ono to uzrávalo jakoby postupně. Řekněme, že ta cesta CoachVille mě opravdu utvrdila v tom, že je nutné udělat změnu. Jenom jsem netušila ještě na začátku, že bude tak razantní a že bude tak rychle. A to, co k tomu přispělo, už jsem to zmiňovala, bylo v podstatě to prostředí, které v tom korporátu bylo nějak nastavené a které mi jakoby přestalo vyhovovat. Jo."
+    },
+    {
+      "i": 71,
+      "t": 1482,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já jsem si uvědomila, že víceméně to, co tam žiju teďka, takže by mohlo takhle vypadat třeba další 10, 20 let. A to už jsem nechtěla, to už jsem nebyla ochotná v podstatě, nechci říct úplně obětovat, ale věnovat. Čili jsem říkala, že nejvyšší čas tu změnu udělat. A to vůbec není o tom, že v tom korporátu bylo všechno špatné. Naopak, já jsem se naučila spoustu věcí, spoustu věcí jsem si uvědomila. Opravdu jsem posunula sama sebe. Já jsem měla veliký tým, já jsem měla, nás bylo 14 celkem, takže to bylo opravdu jako velká skupina lidí. Ale uvědomila jsem si, že potřebuju ty věci posouvat někde jinde jinak. A to rozhodnutí opravdu padlo někdy v tom říjnu, a víceméně tím posledním okamžikem v rámci toho rozhodnutí"
+    },
+    {
+      "i": 72,
+      "t": 1535,
+      "speaker": "Kateřina Pořízková",
+      "text": "jako byl i můj muž, který mi jasně řekl, no tak co, tak myslíš to jako vážně, nebo jak to teda máš, jako děláš si to srandu, legraci, jak to teda máš, že jo. To je jako velmi povzbuzující tady v tomto, a tam jsem si uvědomila, ano, jako není na co čekat, tak pojďme do toho. Protože mě osobně rozhodnutí trvají dlouho, jo, já nejsem ten typ, že se dneska rozmyslím a zítra prostě odcházím, jako já nejsem takový střelec, já když už, tak to ve mně dozrává delší dobu. Ale pak, když to dozraje, tak prostě pak už přes to nejede vlak."
+    },
+    {
+      "i": 73,
+      "t": 1568,
+      "speaker": "Kateřina Pořízková",
+      "text": "A pro mě už není cesty zpět. Mimochodem, ta cesta zpět se mi otevřela, dostala jsem nabídku vrátit se, vrátit se dokonce na vyšší pozici, a já jsem ji právě odmítla."
+    },
+    {
+      "i": 74,
+      "t": 1584,
+      "speaker": "CoachVille",
+      "text": "A kdybys ještě doplnila, protože?"
+    },
+    {
+      "i": 75,
+      "t": 1589,
+      "speaker": "Kateřina Pořízková",
+      "text": "A, no, protože prostě já tu cestu už mám nastavenou jinde. Protože já jsem teď kouč a já chci jít po této cestě. Protože koučování mi dává svobodu vnitřní. To, že já jsem tam, kde jsem, dělám to, co chci, dělám to, kdy chci, a mám tam tu seberozhodnost sama za svůj život. Jako, že mi to neurčuje, nemusím být v nějakých limitech, mantinelech."
+    },
+    {
+      "i": 76,
+      "t": 1621,
+      "speaker": "Kateřina Pořízková",
+      "text": "A koučování mi dává, ty věci si prostě směřuju sama. A to je pro mě jako dost podstatný."
+    },
+    {
+      "i": 77,
+      "t": 1631,
+      "speaker": "CoachVille",
+      "text": "Svoboda prostě nevyjde z módy."
+    },
+    {
+      "i": 78,
+      "t": 1634,
+      "speaker": "Kateřina Pořízková",
+      "text": "Ne, myslím si, že ne."
+    },
+    {
+      "i": 79,
+      "t": 1637,
+      "speaker": "CoachVille",
+      "text": "Dokonce tady natolik, že když tě chtěli zpátky dokonce na vyšší pozici, tak vlastně už to nebylo k jednání."
+    },
+    {
+      "i": 80,
+      "t": 1647,
+      "speaker": "CoachVille",
+      "text": "Protože je možný, že i u tebe nastává ten koncept nezaměstnatelnosti."
+    },
+    {
+      "i": 81,
+      "t": 1656,
+      "speaker": "Kateřina Pořízková",
+      "text": "Je to tak, je to tak. Je to pravda, zajímavý, že ač je to teďka pátý měsíc, co jsem pryč, tak už jenom ta představa jít zpět do toho standardního režimu, od teďka, já plácnu, od sedmi do půl čtvrté, nebo od osmi do půl páté, je pro mě nepředstavitelná. Nepředstavitelná. A já vlastně si ten den skládám tak, aby to vyhovovalo mně, samozřejmě že se nějakým způsobem lehce přizpůsobuji těm klientům, ale řekněme, že tam jsou prostě okamžiky, okna časová, která využívám jenom sama pro sebe, protože mám děti ve škole, manžel je v práci, nemám zrovna klienta, je to dopoledne, a já prostě ho využiju tak, že jdu třeba do lesa."
+    },
+    {
+      "i": 82,
+      "t": 1703,
+      "speaker": "Kateřina Pořízková",
+      "text": "Takhle mi volal kamarád před měsícem a říká, jak se máš, říkám, mám se báječně, říkám, jak ty, jo. Ty poslouchej, já co vlastně, co se jako děje, já tam slyším nějaký jako ptáky, co to je? Říkám, to víš, já jsem dneska v lese. A mám takové zaražené ticho na té druhé straně a on říká, jak to jako myslíš? Já podotýkám, bylo úterý 11 hodin dopoledne. Já říkám, já jsem odešla z korporátu, já jsem prostě teďka na procházce. Tak tam bylo takové ticho, zaražené, a následně říkám, tak to je báječný."
+    },
+    {
+      "i": 83,
+      "t": 1734,
+      "speaker": "Kateřina Pořízková",
+      "text": "A následně na to mi řekl... Je to ale perfektní, že to vím. Víš, jako já bych potřeboval pro ty, on má menší firmu, já bych potřeboval pro své zaměstnance koučování. Máš, prosím tě, prostor?"
+    },
+    {
+      "i": 84,
+      "t": 1744,
+      "speaker": "CoachVille",
+      "text": "Tak takhle to bylo."
+    },
+    {
+      "i": 85,
+      "t": 1748,
+      "speaker": "CoachVille",
+      "text": "Hezký. Já jsem se právě chtěl zeptat, jaký byly ty momenty, když už jsi do práce nemusela, tak vlastně jak probíhal ten první měsíc, první dva měsíce. Jaký to pro tebe bylo? Jaká to byla zkušenost? Jaký to byly emoce?"
+    },
+    {
+      "i": 86,
+      "t": 1765,
+      "speaker": "Kateřina Pořízková",
+      "text": "Mně, musím říct, že mi velmi doznívaly jako emoce z toho odchodu, možná by někdo řekl rozchodu, protože přece jenom po 20 letech, když seš někde, tak to už jako partnerství, že to už v podstatě jak se rovná tomu rozvodu, tam ty emoce jsou, a velmi u mě byly velmi aktivní, velmi jakoby výrazné, takže to ještě doznívalo, řekněme, v tom lednu, a v tom únoru se to pomaličku začalo uklidňovat. A co mi moc pomohlo, tak bylo v podstatě jakoby systém a organizace té práce, na kterou já jsem byla zvyklá, kterou jsem si vytvořila, tyto návyky jsem si vytvořila již během toho mého působení v korporátu, takže vlastně v podstatě ty stejné nástroje, které jsem používala předtím, tak jsem si jenom přenesla sem do toho koučování, a bylo to jenom o té organizaci toho kalendáře."
+    },
+    {
+      "i": 87,
+      "t": 1815,
+      "speaker": "Kateřina Pořízková",
+      "text": "A v tuto chvíli ten kalendář vlastně dneska je kalendář můj kamarád. A je můj nástroj, je můj pomocník, už to není ten, kdo určuje můj čas, kdo je ten v uvozovkách otrokář, kterého nemám ráda, ale je to naopak, už je to můj pomocník, to se jako taky třeba změnilo."
+    },
+    {
+      "i": 88,
+      "t": 1837,
+      "speaker": "CoachVille",
+      "text": "Hezký. A když vlastně se zamyslíme nad tím, že je tady někdo, kdo nás poslouchá, kdo uvažuje o vstupu do CoachVille a kdo třeba ještě jako u sebe má vlastně nějaké otázky a pochybnosti. Je něco, co bys těmto lidem před startem chtěla říct, chtěla nasdílet? Něco, co by pro ně mohlo být užitečný? Co bys jim"
+    },
+    {
+      "i": 89,
+      "t": 1867,
+      "speaker": "CoachVille",
+      "text": "chtěla vzkázat?"
+    },
+    {
+      "i": 90,
+      "t": 1870,
+      "speaker": "Kateřina Pořízková",
+      "text": "No, za mě je to v podstatě jednoduchý, jako běžte do toho."
+    },
+    {
+      "i": 91,
+      "t": 1877,
+      "speaker": "Kateřina Pořízková",
+      "text": "Protože nevím... Nic horšího se vám nemůže stát, než že se stanete koučem. A to jste si přece vždycky přáli."
+    },
+    {
+      "i": 92,
+      "t": 1887,
+      "speaker": "CoachVille",
+      "text": "Jak to myslíš? Že vlastně to je jasná věc, že se to stane?"
+    },
+    {
+      "i": 93,
+      "t": 1893,
+      "speaker": "Kateřina Pořízková",
+      "text": "Jasně. Co ztratit? Já jsem přesvědčená o tom, že ty lidé nemají co ztratit, a když do toho vstoupí a začnou se tomu prostě věnovat, tak si tu svou cestu najdou. A nikde není psáno, že musí být takhle na volné noze jako já, můžou si to prostě zkombinovat se současným zaměstnáním, tak jak jsi to zmiňoval ty, je spousta koučů, kteří prostě mají, já nevím, půl úvazek někde a k tomu koučují. Proč ne? Někdo prostě někde má vzdělávací projekty, programy a k tomu koučuje. Proč ne? Nikde není psáno, že to musí být prostě opravdu jenom 100% čisté koučování. Každý si tu svou cestu najde. A jestliže už je to přilákalo, jestliže už je to láká vůbec to téma,"
+    },
+    {
+      "i": 94,
+      "t": 1933,
+      "speaker": "Kateřina Pořízková",
+      "text": "tak si myslím, že je na 90 % prostě rozhodnuto uvnitř, už má rozhodnuto v sobě, že do toho chce jít. Jenom jsou tam nějaké ty obavy. A ty obavy, které prostě nás brzdí, které běhají v hlavě, ti sabotéři nebo ty opičky, které tam prostě říkají ty nesmysly, jakože ne, tak ty na to nemáš, no to. Ježiš, a kolik takových lidí už tady bylo? Ne, [nesrozumitelné]."
+    },
+    {
+      "i": 95,
+      "t": 1961,
+      "speaker": "CoachVille",
+      "text": "Jedna z častých věcí, které od těchto zájemců slyšíme, tak je vlastně to, že potřebuji sebedůvěru na to, abych mohl začít."
+    },
+    {
+      "i": 96,
+      "t": 1973,
+      "speaker": "CoachVille",
+      "text": "Máš k tomu nějaký komentář?"
+    },
+    {
+      "i": 97,
+      "t": 1975,
+      "speaker": "Kateřina Pořízková",
+      "text": "Velmi, velmi, velmi. Ta sebedůvěra se buduje v průběhu toho tréninku. A to je i můj případ. A jako čekat na to, že tu sebedůvěru získají někde jinde. To nevím, jak dlouho jim to bude trvat. To je jak když půjdu na tom kole na tu Sněžku. To jim bude trvat sakra dlouho, než se na tu Sněžku dostanou. Důvěra se opravdu získává díky tomu prostředí v koučování. To je aspoň moje zkušenost, takže jenom říkám to, co zafungovalo u mě."
+    },
+    {
+      "i": 98,
+      "t": 2009,
+      "speaker": "Kateřina Pořízková",
+      "text": "A to, co si myslím, že by mohlo se týkat třeba všech lidí."
+    },
+    {
+      "i": 99,
+      "t": 2014,
+      "speaker": "CoachVille",
+      "text": "To je to vlastně, takže sebedůvěru získáme díky tomu, že začneme."
+    },
+    {
+      "i": 100,
+      "t": 2018,
+      "speaker": "Kateřina Pořízková",
+      "text": "Je to tak, protože než začneme, tam je spousta otázek, ale vlastně to jsou jenom takové hypotézy. Jak to asi bude vypadat, co se asi stane, ale to je takové, co by kdyby."
+    },
+    {
+      "i": 101,
+      "t": 2033,
+      "speaker": "CoachVille",
+      "text": "A podařilo se ti to předtím nějak odhadnout, tvoje odhady předtím, než jsi do toho vstoupila, a to, co jsi potom zažívala, dařilo se ti to odhadnout, nebo to bylo jiný? No, nedařilo."
+    },
+    {
+      "i": 102,
+      "t": 2045,
+      "speaker": "Kateřina Pořízková",
+      "text": "Nedařilo. No, protože já jsem byla hodně při zemi, a kdyby se mě někdo zeptal loni touto dobou, kdy já už jsem možná měla po tom testu předpokladů koučovacích, že jak to bude vypadat za rok a jestli jako už budu prostě jako koučovat a už nebudu v práci, tak to by mě v životě nenapadlo. To byl takový, takový [nesrozumitelné], takový posun. A bylo to tak rychlý, že opravdu bych si to nedovolila, nebo nedovolila jsem si to takto představit, že to bude"
+    },
+    {
+      "i": 103,
+      "t": 2076,
+      "speaker": "Kateřina Pořízková",
+      "text": "opravdu tak razantní. A s tím souvisí to sebevědomí, sebedůvěra a všechny tady ty atributy, to je ta transformace, kterou já jsem prošla a procházím stále."
+    },
+    {
+      "i": 104,
+      "t": 2089,
+      "speaker": "CoachVille",
+      "text": "Ono vlastně je pravdou, že kouč může jít dobrým příkladem svým hráčům tím, že zažívá zkušenosti, a"
+    },
+    {
+      "i": 105,
+      "t": 2102,
+      "speaker": "CoachVille",
+      "text": "zkušenosti, které si dříve neuměl představit, a pak si je představil, a dneska je zažívá."
+    },
+    {
+      "i": 106,
+      "t": 2106,
+      "speaker": "Kateřina Pořízková",
+      "text": "Je to tak. Jeden klient na začátku spolupráce mi říká, hm, mě asi fakt nejvíc zajímá ten tvůj příběh, jak to vlastně bylo celé, a pro mě to je strašná inspirace."
+    },
+    {
+      "i": 107,
+      "t": 2122,
+      "speaker": "Kateřina Pořízková",
+      "text": "Odchod z korporátu."
+    },
+    {
+      "i": 108,
+      "t": 2126,
+      "speaker": "CoachVille",
+      "text": "A kdyby vlastně někdo dneska byl v podobné situaci, jako jsi byla ty tehdy, tak je něco, co bys těm lidem jako doporučila vlastně z hlediska celé té zkušenosti, protože tam vlastně jsou nějaké jako momenty, kdy sis třeba jako uvědomila něco o sobě nebo o koučování, nebo o té korporaci, co vlastně tobě osobně jako pomohlo, co dneska může být vlastně jako otázka, kterou ten člověk třeba může mít a zatím na ni jako nenašel odpověď. Máš něco takového?"
+    },
+    {
+      "i": 109,
+      "t": 2158,
+      "speaker": "Kateřina Pořízková",
+      "text": "U mě to bylo tak, že já jsem si uvědomila ty věci sama o sobě, co vlastně jako chci mít ve svém životě a co tam už prostě nepotřebuji, co už tam nemá to své místo. A to byl ten moment toho rozhodnutí. To si myslím, že by mohlo pomoct ostatním."
+    },
+    {
+      "i": 110,
+      "t": 2176,
+      "speaker": "CoachVille",
+      "text": "Čili uvědomění si, co chci."
+    },
+    {
+      "i": 111,
+      "t": 2179,
+      "speaker": "Kateřina Pořízková",
+      "text": "Je to tak."
+    },
+    {
+      "i": 112,
+      "t": 2181,
+      "speaker": "CoachVille",
+      "text": "Což vlastně pravděpodobně člověk zažije, když zažije koučování na sobě. Což je vlastně velice zajímavé, když jsi zmiňovala, že jsi předtím koučovaná nikdy nebyla, a pak ses rozhodla stát se koučem."
+    },
+    {
+      "i": 113,
+      "t": 2198,
+      "speaker": "CoachVille",
+      "text": "Jsi to na sobě vlastně jako nezažila, nebo jsi měla nějakou ukázku koučování s někýma? Jaký to bylo?"
+    },
+    {
+      "i": 114,
+      "t": 2206,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já jsem jedinou ukázku koučování měla s tebou v rámci toho workshopu před tím vstupem do CoachVille, a bylo to takové, že tak dvě, tři otázky tam zazněly, aha, jo. Doteďka já ten sešitek mám zachovaný a doteďka tam úplně vidím, jak tam mám ty tři otázky napsané. Co vlastně byste chtěli, jak to má vypadat, co pro vás znamená ta svoboda, co tím získáte, tou změnou v tom vašem životě."
+    },
+    {
+      "i": 115,
+      "t": 2236,
+      "speaker": "Kateřina Pořízková",
+      "text": "A to tam ve mně jako rezonovalo velmi. A to byla krátká ukázka. Nás tam bylo, jestli se dobře nemýlím, asi pět nebo šest, takže těch ukázek tam byly asi dvě nebo tři během té hodinky. A toto jsem říkala, tak fajn, to je ta správná cesta."
+    },
+    {
+      "i": 116,
+      "t": 2255,
+      "speaker": "CoachVille",
+      "text": "Hezký. Kam všude to vedlo?"
+    },
+    {
+      "i": 117,
+      "t": 2260,
+      "speaker": "CoachVille",
+      "text": "A jak vlastně vnímáš přínos oboru koučování pro lidstvo jako celé? Jaký je ten přínos pro lidi, když mají k dispozici koučování jako nástroj, nebo koučování jako obor, nebo kouče jako někoho ve svém životě? Tak jaký je ten přínos pro lidi a jaký je ten rozdíl, když lidé mají své kouče nebo nemají své kouče? Jak bys to pojmenovala?"
+    },
+    {
+      "i": 118,
+      "t": 2287,
+      "speaker": "Kateřina Pořízková",
+      "text": "Mně první, co jde na jazyk, je ta spokojenost. To, že ti lidi vlastně najdou sami sebe a najdou tu cestu, kterou potřebují pro svůj život. Tak, aby žili prostě v souladu se svým vnitřním nastavením. Aby opravdu pak byli spokojení a šťastně žili ten život. To možná zní jako v pohádce, ale ono to tak v podstatě je. Protože pak, když žijeme životy proti svému přesvědčení, protože se to tak musí, nebo protože prostě se to tak jako očekává, nebo protože to tak jako je zvykem, ale vlastně vnitřně s tím jako neladí ten člověk, tak to není ta správná cesta."
+    },
+    {
+      "i": 119,
+      "t": 2327,
+      "speaker": "Kateřina Pořízková",
+      "text": "Takže za mě prostě to koučování, jako život s tím koučováním je, nebo s koučem, je nacházení té správné cesty k tomu šťastnému životu. A to je jako alfa a omega. A to mě asi nepřestane nikdy bavit."
+    },
+    {
+      "i": 120,
+      "t": 2341,
+      "speaker": "CoachVille",
+      "text": "Rozhodně, když už začalo, tak nepřestane."
+    },
+    {
+      "i": 121,
+      "t": 2346,
+      "speaker": "CoachVille",
+      "text": "Nevím, jestli to není příliš osobní, ale vlastně lidi často zajímá, jak je to s návratností investice a jak je to vlastně s výdělkama. Vlastně je něco, co bys mohla a chtěla nasdílet vlastně z hlediska toho, jak to vypadá finančně s odměnama, který dostáváš za koučování dnes, a jak třeba očekáváš, že budou v následujících letech?"
+    },
+    {
+      "i": 122,
+      "t": 2367,
+      "speaker": "Kateřina Pořízková",
+      "text": "Jo, určitě můžu být otevřená. Já jsem momentálně na sazbě hodinové 1500 Kč na hodinu, a já věřím, že to poroste. Zatím mám tam před sebou ještě taky naplánované tréninky, které bych ráda absolvovala, nové metody, tak abych se zlepšovala a tím pádem byla větším přínosem i pro ty hráče. A co se týče té návratnosti, té investice, tak pomalinku se na tom pracuje. Neříkám, že to je vše již za mnou, to určitě ne. Těch 200 odkoučovaných hodin"
+    },
+    {
+      "i": 123,
+      "t": 2398,
+      "speaker": "Kateřina Pořízková",
+      "text": "zatím není mnoho, jsem někde, řekněme, na tom začátku, ale pro mě je to na dobré cestě."
+    },
+    {
+      "i": 124,
+      "t": 2406,
+      "speaker": "CoachVille",
+      "text": "Gratuluju k tomu. Je to skvělej start. Ono vlastně potom zjistíme, že ta hodnota pro hráče je tak obrovská, že často je to jako o tom, OK, tak už se cítím, že je čas přijmout hráče za vyšší sazbu. A ono se to prostě bude dít. Pojď teďka povědět, jak vlastně vstup do CoachVille, jaká jako velká a záludná otázka, nebo velice jednoduchá, jak trénink CoachVille ovlivnil tvůj dosavadní život?"
+    },
+    {
+      "i": 125,
+      "t": 2438,
+      "speaker": "Kateřina Pořízková",
+      "text": "Tak já myslím, že už to tady bylo řečeno velmi..."
+    },
+    {
+      "i": 126,
+      "t": 2441,
+      "speaker": "CoachVille",
+      "text": "Přece jsme tady nepopsali všechno, ale třeba tě ještě něco napadne."
+    },
+    {
+      "i": 127,
+      "t": 2444,
+      "speaker": "Kateřina Pořízková",
+      "text": "Kromě té zásadní životní změny, to znamená jakoby té pracovní, toho povolání, tak ta změna, já ji vnímám jako... V tom domácím prostředí, ve zklidnění, v tom, že jsem více doma, v tom, že si užívám já děti a děti si užívají víc mě, že nepřijíždím v 6 hodin večer domů. Ano, mám klienty večer, v odpoledních hodinách koučuju, ale zase ty děti vidím, když přichází ze školy, třeba v tu jednu hodinu a půl druhé, což dřív bylo úplně sci-fi."
+    },
+    {
+      "i": 128,
+      "t": 2480,
+      "speaker": "Kateřina Pořízková",
+      "text": "Za mě ta největší změna asi v tom, že já jsem se víc uklidnila, víc jsem šla do sebe, k sobě, a tím pádem se uklidnily všechny věci okolo mě. Řekla bych, že je to všechno harmoničtější. To myslím jako důležitou změnu."
+    },
+    {
+      "i": 129,
+      "t": 2497,
+      "speaker": "CoachVille",
+      "text": "Hezký. Katko, máš nějaký oblíbený moto, nějaký citát, který tě inspiruje nebo tě provází nebo je pro tebe zajímavý, který bys chtěla nasdílet?"
+    },
+    {
+      "i": 130,
+      "t": 2505,
+      "speaker": "Kateřina Pořízková",
+      "text": "Jo, jo, jo. Když řekneš moto, já si vždycky vzpomenu na náš trénink už v těch transformačkách, a ty jsi tam říkal, tak napřed hraj a potom čaj. A to je prostě pro mě jako úderný a zůstává to tam v té hlavě, vždycky to rezonuje, vždycky si to i řeknu. Dokonce to občas používám i se svýma klientama a jim se to taky líbí, protože není na co čekat, není důvod prostě otálat a pojďme do toho. Protože ten život tady máme tady a teď."
+    },
+    {
+      "i": 131,
+      "t": 2538,
+      "speaker": "Kateřina Pořízková",
+      "text": "A on se nebude odehrávat za deset let. Já nebudu plánovat sebe za deset let. Teď ho tady užívám. Teď jsem tady a teď a je zapotřebí opravdu si ho užívat, a ty věci okolo se potom [nesrozumitelné]."
+    },
+    {
+      "i": 132,
+      "t": 2551,
+      "speaker": "CoachVille",
+      "text": "Já si vybavuju, že to je vlastně jako v kontextu toho, že lidé, když chtějí udělat nějakou důležitou činnost, aktivitu, do které se chtějí pustit, tak si ještě půjdou udělat čaj. Až poté se do té aktivity pustí. Ale vlastně ono je princip, který říká nejdřív hraj. Nejdřív hraj a potom čaj. Takhle to bylo. Hezký. Nejdřív hraj je skutečně silný princip. Ono to vlastně jako třeba v koučování nemůže fungovat ani jinak."
+    },
+    {
+      "i": 133,
+      "t": 2584,
+      "speaker": "CoachVille",
+      "text": "Protože koučem se nikdo nestane tím, že bude čekat na to, až bude příhodnější moment."
+    },
+    {
+      "i": 134,
+      "t": 2591,
+      "speaker": "CoachVille",
+      "text": "Vždycky si vybavím tu paní, která prostě mi říkala, tak Aleši, už jsem tady, já tě 8 let sleduju a už jsem konečně nastoupila. Říkám, no, to je skvělý, že už jsi tady, už jsi mohla být osmým rokem koučem, ale dobře, začneme až teď."
+    },
+    {
+      "i": 135,
+      "t": 2611,
+      "speaker": "CoachVille",
+      "text": "Někdy vlastně to zdržení má svůj účel a často to člověk potom pojmenuje, na co jsem čekal. Protože ten princip zůstává stejný. Stále stejný, nejdřív hraj."
+    },
+    {
+      "i": 136,
+      "t": 2621,
+      "speaker": "Kateřina Pořízková",
+      "text": "Je to tak."
+    },
+    {
+      "i": 137,
+      "t": 2623,
+      "speaker": "CoachVille",
+      "text": "Katko, je tady něco, co bys chtěla vzkázat budoucím koučům, a něco, co bys vzkázala budoucím hráčům, někomu, kdo uvažuje o tom, že si najme kouče, nebo někdo, kdo by třeba chtěl vlastně jako si vyzkoušet koučování s tebou. Co bys vzkázala koučům a potom co bys vzkázala hráčům?"
+    },
+    {
+      "i": 138,
+      "t": 2643,
+      "speaker": "Kateřina Pořízková",
+      "text": "Tak, co bych vzkázala koučům, je to, že opravdu se toho nebojte a běžte do toho naplno, a pokud máte pochybnosti, tak je zahoďte a dbejte rad, které dostáváte v trénincích, protože to je krásný návod. To je takový návod, kterého se můžete držet na začátku, a jenom na vás, jestli u něj zůstanete, nebo si ho potom upravíte podle vašich zkušeností a vaší cesty. Ale pokud jsou na začátku pochybnosti, tak to je cesta, která je, řekněme, nějak lety osvědčená, otrénovaná."
+    },
+    {
+      "i": 139,
+      "t": 2676,
+      "speaker": "Kateřina Pořízková",
+      "text": "A jsou tam vychytané věci, jako kudy cesta nevede a kudy naopak cesta vede. Takže ty rady jsou tam dobře míněné, takže to mi přijde jakoby fajn. No a co bych vzkázala hráčům?"
+    },
+    {
+      "i": 140,
+      "t": 2690,
+      "speaker": "Kateřina Pořízková",
+      "text": "Včera bylo pozdě. Už včera jste měli mít svého kouče, tak pojďte do toho."
+    },
+    {
+      "i": 141,
+      "t": 2696,
+      "speaker": "CoachVille",
+      "text": "Hezký. Katko, děkuji moc, že jsme společně mohli projít tímhle rozhovorem. Je tady něco, co třeba chceš, aby ještě zaznělo? A já jsem se na to nezeptal, ještě to nezaznělo?"
+    },
+    {
+      "i": 142,
+      "t": 2705,
+      "speaker": "Kateřina Pořízková",
+      "text": "Já myslím, že tady zaznělo spousta věcí, a já si myslím, že to takto můžeme ukončit, a děkuji ještě jednou za pozvání, velice si toho vážím a těším se na další setkávání."
+    },
+    {
+      "i": 143,
+      "t": 2721,
+      "speaker": "CoachVille",
+      "text": "Katko, ještě pověz, jak se s tebou může někdo spojit, pokud by se s tebou chtěl spojit? Já totiž vím, že jsi mi zmiňovala, že vlastně nemáš svoje stránky, nemáš profil na webu CoachVille, přestože se koučováním živíš. Existuje nějaká cesta, jak se s tebou může někdo spojit, pokud by chtěl?"
+    },
+    {
+      "i": 144,
+      "t": 2738,
+      "speaker": "Kateřina Pořízková",
+      "text": "Určitě, určitě. Já mám aktivní profil na LinkedInu jako Kateřina Pořízková, a co se týče těch webovek a tak dále, tak na tom se jako pracuje, ty jsou prostě v nějakém procesu momentálně."
+    },
+    {
+      "i": 145,
+      "t": 2750,
+      "speaker": "CoachVille",
+      "text": "Takže nejjednodušší způsob je na LinkedInu. [nesrozumitelné] Katko, děkuji moc, že jsi udělala čas na to, abychom se společně mohli setkat, abychom to mohli společně projít, abychom to mohli nasdílet, a moc si toho vážím, jsi velkou inspirací, a děkuji, že jsme to dneska mohli zažít."
+    },
+    {
+      "i": 146,
+      "t": 2771,
+      "speaker": "Kateřina Pořízková",
+      "text": "Perfektně, děkuji tak ještě jednou, a přeji krásný den všem."
+    },
+    {
+      "i": 147,
+      "t": 2775,
+      "speaker": "CoachVille",
+      "text": "Díky moc, milí posluchači, milí diváci, tohle byl podcast s Katkou Pořízkovou."
+    }
+  ]
+}

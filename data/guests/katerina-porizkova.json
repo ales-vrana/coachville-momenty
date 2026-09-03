@@ -1,0 +1,48 @@
+{
+  "slug": "katerina-porizkova",
+  "displayName": "Kateřina Pořízková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 11,
+  "priorProfessionText": "HR manažerka v automotive, 20 let v jedné firmě (růst z 350 na 2 000 zaměstnanců), tým 14 lidí; od ledna na volné noze",
+  "priorProfessionCat": "HR a personalistika",
+  "regionType": "krajské město",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "20 let HR v automotive; delší dobu potřeba změny; reklama na Facebooku „jako by seděl u mě v kanceláři“"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "začátek května reklama, za 14 dní test předpokladů, začátkem června workshop Zažij koučování (3 otázky v sešitku), půlka června start; záměr nejdřív „do práce“"
+    },
+    {
+      "label": "Start",
+      "text": "pochybnosti „zvládnu to, budou klienti“; diář: na většinu schůzek v korporátu se netěší; první hráči z firmy s 2 000 zaměstnanci; za rok jen jedno ne"
+    },
+    {
+      "label": "3. až 4. měsíc",
+      "text": "po metodě Život jako hra jistota, že odchod půjde; rozhodnutí v říjnu, muž: „myslíš to vážně?“; odmítla návrat na vyšší pozici"
+    },
+    {
+      "label": "Dnes (téměř rok, 200 hodin, 5. měsíc na volné noze)",
+      "text": "sazba 1 500 Kč/h, návratnost investice zatím ne; klienti z firmy, přátel, kosmetiky, finančního poradenství; děti ve 13.30 místo návratu v 18; emoce z odchodu doznívaly do února"
+    }
+  ]
+}

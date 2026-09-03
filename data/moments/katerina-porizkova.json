@@ -1,0 +1,400 @@
+[
+  {
+    "id": "kt001",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 6,
+    "endUtt": 7,
+    "quote": "No, řekněme, že já jsem jako nějakou delší dobu již zvažovala, že bych potřebovala změnu v životě, a akorát jsem ještě tedy netušila, jak by to mohlo vypadat. A přišla v podstatě nabídka z CoachVille, respektive CoachVille měl krásnou reklamu na Facebooku, která na mě vyskočila, a to byl ten okamžik, moment, kdy jsem si řekla, aha, tak to vypadá velmi zajímavě, to je přesně to, co bych potřebovala a co se mnou rezonuje. A nehledě na to, Aleši, ten tvůj marketing je prostě perfektně zacílený, a opravdu já jsem měla pocit, že seš v mojí hlavě, když jsi to psal, anebo že seš u mě prostě v kanceláři.",
+    "summary": "Delší dobu zvažovala, že potřebuje změnu, jen netušila, jak by mohla vypadat. Pak na ni na Facebooku vyskočila reklama CoachVille a to byl moment: to je přesně to, co potřebuji a co se mnou rezonuje. Měla pocit, že Aleš při psaní seděl u ní v kanceláři.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň B: potřeba změny bez konkrétní obavy; rozhodnutí je v kt002. Štítek názor."
+  },
+  {
+    "id": "kt002",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 10,
+    "endUtt": 11,
+    "quote": "No, je to zajímavé, jako paradoxně u mě, protože u mě to rozhodování většinou trvá delší dobu, tak v tomto případě to bylo velice rychle, protože to první setkání s reklamou bylo někdy, nevím, na začátku května loňského roku. Za 14 dní jsem si udělala test předpokladů být koučem, který dopadl dobře, v což jsem doufala. A řekněme začátkem června jsem absolvovala krátký workshop s tebou, Zažij koučování, který mě v podstatě jenom přesvědčil o tom, že jsem tam správně, a to byla půlka června, kdy jsme startovali vlastně náš první trénink.",
+    "summary": "Paradoxně: rozhodování jí obvykle trvá dlouho, tady to bylo rychlé. První setkání s reklamou na začátku května, za 14 dní test předpokladů být koučem, který dopadl dobře, začátkem června krátký workshop Zažij koučování, který ji jen přesvědčil, že je tam správně, a v půlce června start prvního tréninku.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "reklama → test za 14 dní → workshop → start: cca 6 týdnů",
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: tři konkrétní kroky ověření (test, workshop, ukázka) s časem. Tag Proč jsem váhala stupeň B: bez váhání."
+  },
+  {
+    "id": "kt003",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 14,
+    "endUtt": 19,
+    "quote": "Já si myslím, že pravděpodobně 99,9 % lidí, kteří nastupují do koučovacího tréninku, tak mají pochybnosti. Mají velké pochybnosti. Já nejsem výjimkou. Já jsem těch pochybností měla spoustu. Ať už od toho, zda to zvládnu, zda to bude dobrý, budou tam klienti, jak to celý vlastně proběhne. A ony postupně ty pochybnosti jako mizely. A proč mizely, to je úplně jako jednoduchý, protože prostě ten trénink z nás nedělá jenom lepší kouče, nejenom lepší kouče, ale v podstatě tak jako mění naše nastavení. Aspoň u mě to tak bylo. Já jsem si kdysi na začátku jako... Co je to koučování? Každý si pokládá tu otázku, a tím, že jsem z HR světa, tak samozřejmě ty poučky, jakoby ty teoretické, tam byly, tak jsem jako tušila, o čem to jako je, ale vlastně mi nedocvaklo tehdy někdy na začátku, že to může být i o tom, že ne, že já měním ten život toho klienta hráče, ale že to koučování mění mě samotnou. To mi docvaklo, až jsem nastoupila do toho tréninku.",
+    "summary": "Podle ní 99,9 % lidí nastupuje do výcviku s pochybnostmi a ona nebyla výjimka: zvládnu to, bude to dobré, budou klienti, jak to proběhne. Postupně mizely, protože trénink nedělá jen lepší kouče, ale mění nastavení. Z HR znala teoretické poučky, ale nedošlo jí, že koučování změní ji samotnou, ne jen klienta. Razantně se změnil přístup k sobě: sebejistota, sebevědomí.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "pochybnosti na startu: zvládnu to? budou klienti?",
+    "topics": [
+      "sebeduvera",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8 stupeň B: obavy pojmenované, mechanismus změny (trénink + být koučovaná), bez konkrétní situace. Tag C1 stupeň C: obava „budou klienti“, výsledek v kt006. Úsek obsahuje repliky tazatele (16, 18). Štítek názor."
+  },
+  {
+    "id": "kt004",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 21,
+    "endUtt": 21,
+    "quote": "Jo, jo, určitě. Ta první myšlenka byla přesně, jak jsi zmínil, tu variantu jedna, to znamená, že jsem uvažovala o tom, že to využiju ve své práci, což se ostatně nabízelo, protože samozřejmě firma, pro kterou jsem pracovala, tak měla spoustu rozvojových programů, a tam se to prostě nabízelo. Ale postupem doby, řekněme, že ta myšlenka zrála v to odejít a být sama sebou a sama na vlastní noze.",
+    "summary": "První myšlenka byla využít koučování ve své práci; nabízelo se to, firma měla spoustu rozvojových programů. Postupem doby ale myšlenka zrála v to odejít a být sama sebou, na vlastní noze.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň B: záměr „do práce“ a jeho změna, bez času. Štítek názor."
+  },
+  {
+    "id": "kt005",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 23,
+    "endUtt": 24,
+    "quote": "Ty mi úplně jako nahráváš a usmívám se, protože si vzpomínám na tu jednu situaci. Kdy ty jsi nám jako vysvětloval, že je v pořádku, že my jako kouči nejsme pro každého klienta, a je v pořádku, že každý klient není tak jako pro nás. A dal jsi tam tu paralelu, jako když mrknete do toho diáře, máte tam ty schůzky, tak jako je fajn, když se těšíte na tu schůzku s tím klientem. A jak jsi řekl tady tu věc, tak mi hned naskočila ta paralela s tím mým diářem aktuálním v tom korporátu, jak jsem se podívala na ty moje schůzky. A já jsem jako s hrůzou zjistila, že vlastně většina z nich, jako já se na ně netěším. A to bylo jako pro mě dost zásadní.",
+    "summary": "Vzpomíná na jednu situaci z prvních lekcí: Aleš vysvětloval, že kouč není pro každého klienta a je fajn, když se na schůzku v diáři těšíte. Hned jí naskočila paralela s jejím diářem v korporátu a s hrůzou zjistila, že na většinu schůzek se netěší. To pro ni bylo zásadní.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň B: konkrétní uvědomění (diář), co rozhodlo o odchodu, bez čísla. Tag 25 stupeň B: princip ze školy jako spouštěč."
+  },
+  {
+    "id": "kt006",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 29,
+    "endUtt": 39,
+    "quote": "Na co vzpomínám? Já myslím, že ty okamžiky, kdy přišel první platící hráč a po něm přišli další, a já musím říct, že já jsem vlastně... Díky tomu tréninku i díky tomu nastavení jsem začala získávat samá ano na tu spolupráci. A je to zajímavé, ty jsi nám sám říkal, pojďte získávat ne, to je prostě přirozené, člověk se tím učí. Tak já za tu dobu, jestli jsem získala, myslím si, že jenom jedno ne, jinak mám samá ano.",
+    "summary": "První platící hráč: nádherné, překvapivé; pochybnost „řeknu si o něco, co běžně dělám, a ještě mi za to někdo zaplatí?“ Pak přišli další a začala získávat samá ano; Aleš říkal „pojďte získávat ne“, ona za rok získala myslím jen jedno ne. Přisuzuje to vnitřnímu rozhodnutí: jakmile se rozhodla, že je to její cesta, lidé, kteří ji znají, sami říkali „u tebe se něco stalo“. Přicházejí ti, kdo ji znají z dřívějška, i noví.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "za rok jen jedno „ne“ na nabídku spolupráce",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "nechci-oslovovat",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň A: platící hráči během prvního roku, kontinuita (200 hodin podle úvodu), s číslem (jedno ne); bez počtu klientů. Tag C2 stupeň A: mechanismus (lidé si změny všimli sami). Tag 5 stupeň C: první platba bez data a částky. Úsek obsahuje repliky tazatele (30, 31, 34, 36, 37), 149 s."
+  },
+  {
+    "id": "kt007",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 41,
+    "endUtt": 41,
+    "quote": "Já jsem o tom byla přesvědčená od prvopočátku, že ta cesta možná je, ale tu větší jistotu, řekněme, jsem získala po nějakých třech, čtyřech měsících, že to prostě dává smysl. My jsme absolvovali první metodu, transformační koučování, a potom jsme nastoupili do nové metody, Život jako hra, a tam se mi to začalo celé skládat a začalo to dávat ještě větší smysl než na začátku, a já jsem věděla, že to prostě půjde.",
+    "summary": "Že cesta z korporátu je možná, věřila od začátku, ale větší jistotu získala po třech, čtyřech měsících: po první metodě (transformační koučování) nastoupili do metody Život jako hra a tam se jí to začalo skládat a věděla, že to půjde.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 4,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 21 stupeň B: kdy poznala, že může odejít (3 až 4 měsíce), bez čísla o příjmu. Štítek názor."
+  },
+  {
+    "id": "kt008",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 49,
+    "endUtt": 51,
+    "quote": "Poté, co jsem dala tu výpověď, tak jsem o tom začala řekněme otevřeněji mluvit a více mluvit, že už to nebylo co skrývat, že jo? No a ti klienti jako nejsou jenom tady z té části, ale jsou i z části řekněme té přátelské, jiné, z té skupiny těch přátel, které mám okolo sebe jako nových, a řekněme i z byznysu jiného, jako kosmetického průmyslu, dokonce i z finančního poradenství. Takže to mám jako rozvrstvené, že mi přijde ta strategie... Jako vyplácí se to mít jako opravdu rozvrstvené, a tím pádem se mi ti hráči skládají jako z různých vrstev, z různých společností, s různými tématy, a to mě na tom jako baví.",
+    "summary": "Nástroje pro získání hráčů jsou součástí tréninků od začátku a obchodní část byla pro ni důležitá. U ní to bylo jednoduché: korporace v její lokalitě měla 2 000 zaměstnanců, takže první nabídka mířila tam. Po výpovědi o tom začala mluvit otevřeněji. Klienti ale nejsou jen odtud: z okruhu nových přátel, z jiného byznysu, z kosmetického průmyslu, dokonce z finančního poradenství. Vyplácí se mít to rozvrstvené.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "první hráči z firmy s 2 000 zaměstnanci; klienti ze 4 různých okruhů",
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "ziskam-klienty",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C2 stupeň A: odkud hráči přišli (firma, přátelé, jiné obory) a co pomohlo (mluvit otevřeně po výpovědi). Tag C1 stupeň B. Tag 4 stupeň B: segmenty, cena v kt014."
+  },
+  {
+    "id": "kt009",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 70,
+    "endUtt": 76,
+    "quote": "jako byl i můj muž, který mi jasně řekl, no tak co, tak myslíš to jako vážně, nebo jak to teda máš, jako děláš si to srandu, legraci, jak to teda máš, že jo. To je jako velmi povzbuzující tady v tomto, a tam jsem si uvědomila, ano, jako není na co čekat, tak pojďme do toho. Protože mě osobně rozhodnutí trvají dlouho, jo, já nejsem ten typ, že se dneska rozmyslím a zítra prostě odcházím, jako já nejsem takový střelec, já když už, tak to ve mně dozrává delší dobu. Ale pak, když to dozraje, tak prostě pak už přes to nejede vlak. A pro mě už není cesty zpět. Mimochodem, ta cesta zpět se mi otevřela, dostala jsem nabídku vrátit se, vrátit se dokonce na vyšší pozici, a já jsem ji právě odmítla.",
+    "summary": "Odchod uzrával postupně; netušila, že bude tak razantní a rychlý. Uvědomila si, že to, co v korporátu žije, by mohlo vypadat stejně dalších 10, 20 let, a to už nebyla ochotná věnovat. Nebylo tam všechno špatně: naučila se spoustu věcí, vedla tým 14 lidí. Rozhodnutí padlo v říjnu a poslední kapkou byl její muž: „Tak co, myslíš to vážně, nebo si děláš legraci?“ Rozhodnutí u ní zrají dlouho, ale pak přes to nejede vlak. Cesta zpět se jí otevřela: dostala nabídku vrátit se na vyšší pozici a odmítla ji, protože koučování jí dává vnitřní svobodu a seberozhodnost.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "tým 14 lidí; „dalších 10, 20 let“; rozhodnutí v říjnu, odchod v lednu; odmítnutá vyšší pozice",
+    "isAdmission": false,
+    "topics": [
+      "co-rekl-partner",
+      "co-se-muselo-zmenit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 16 stupeň A: konkrétní věta partnera a co se stalo pak (výpověď). Tag 33 stupeň A: co se změnilo (odchod po 20 letech) a co zůstalo (uznání, co se naučila). Tag Proč jsem váhala stupeň A: „dalších 10, 20 let“ jako důvod. Úsek obsahuje otázku tazatele (74), 178 s."
+  },
+  {
+    "id": "kt010",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 81,
+    "endUtt": 83,
+    "quote": "Takhle mi volal kamarád před měsícem a říká, jak se máš, říkám, mám se báječně, říkám, jak ty, jo. Ty poslouchej, já co vlastně, co se jako děje, já tam slyším nějaký jako ptáky, co to je? Říkám, to víš, já jsem dneska v lese. A mám takové zaražené ticho na té druhé straně a on říká, jak to jako myslíš? Já podotýkám, bylo úterý 11 hodin dopoledne. Já říkám, já jsem odešla z korporátu, já jsem prostě teďka na procházce. Tak tam bylo takové ticho, zaražené, a následně říkám, tak to je báječný. A následně na to mi řekl... Je to ale perfektní, že to vím. Víš, jako já bych potřeboval pro ty, on má menší firmu, já bych potřeboval pro své zaměstnance koučování. Máš, prosím tě, prostor?",
+    "summary": "Pátý měsíc pryč a představa vrátit se do režimu od sedmi do půl čtvrté je nepředstavitelná. Den si skládá tak, aby vyhovoval jí; lehce se přizpůsobuje klientům, ale okna, kdy jsou děti ve škole a manžel v práci, využívá pro sebe, třeba jde do lesa. V úterý v 11 dopoledne jí volal kamarád, slyšel ptáky a zaražené ticho vystřídalo: „to je báječné, já bych pro své zaměstnance potřeboval koučování, máš prostor?“",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 11,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "vedle-prace-a-rodiny",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: konkrétní scéna změny (les v úterý dopoledne) po 5 měsících na volné noze. Tag 8 stupeň B. Tag C1 stupeň B: poptávka od kamaráda s firmou, bez informace o uzavření."
+  },
+  {
+    "id": "kt011",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 86,
+    "endUtt": 87,
+    "quote": "Mně, musím říct, že mi velmi doznívaly jako emoce z toho odchodu, možná by někdo řekl rozchodu, protože přece jenom po 20 letech, když seš někde, tak to už jako partnerství, že to už v podstatě jak se rovná tomu rozvodu, tam ty emoce jsou, a velmi u mě byly velmi aktivní, velmi jakoby výrazné, takže to ještě doznívalo, řekněme, v tom lednu, a v tom únoru se to pomaličku začalo uklidňovat. A co mi moc pomohlo, tak bylo v podstatě jakoby systém a organizace té práce, na kterou já jsem byla zvyklá, kterou jsem si vytvořila, tyto návyky jsem si vytvořila již během toho mého působení v korporátu, takže vlastně v podstatě ty stejné nástroje, které jsem používala předtím, tak jsem si jenom přenesla sem do toho koučování, a bylo to jenom o té organizaci toho kalendáře. A v tuto chvíli ten kalendář vlastně dneska je kalendář můj kamarád. A je můj nástroj, je můj pomocník, už to není ten, kdo určuje můj čas, kdo je ten v uvozovkách otrokář, kterého nemám ráda, ale je to naopak, už je to můj pomocník, to se jako taky třeba změnilo.",
+    "summary": "Emoce z odchodu, možná spíš rozchodu, po 20 letech doznívaly velmi výrazně; přirovnává to k rozvodu. V lednu ještě doznívaly, v únoru se to začalo uklidňovat. Pomohl systém a organizace práce, návyky z korporátu přenesla do koučování. Kalendář je dnes její kamarád a pomocník, ne otrokář, který určuje čas.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "emoce z odchodu po 20 letech „jako rozvod“, doznívaly do února",
+    "topics": [
+      "co-bylo-tezsi",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Co bylo těžší stupeň A: přiznání s časem (leden až únor) a s tím, co pomohlo (systém z korporátu). Tag 33 stupeň A: co zůstalo (organizace práce), co se změnilo (vztah ke kalendáři)."
+  },
+  {
+    "id": "kt012",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 97,
+    "endUtt": 100,
+    "quote": "Velmi, velmi, velmi. Ta sebedůvěra se buduje v průběhu toho tréninku. A to je i můj případ. A jako čekat na to, že tu sebedůvěru získají někde jinde. To nevím, jak dlouho jim to bude trvat. To je jak když půjdu na tom kole na tu Sněžku. To jim bude trvat sakra dlouho, než se na tu Sněžku dostanou. Důvěra se opravdu získává díky tomu prostředí v koučování. To je aspoň moje zkušenost, takže jenom říkám to, co zafungovalo u mě.",
+    "summary": "Na námitku „potřebuji nejdřív sebedůvěru, abych mohl začít“: sebedůvěra se buduje v průběhu tréninku, to je i její případ. Čekat, že ji získají někde jinde, je jako jet na kole na Sněžku, bude to trvat sakra dlouho. Před začátkem je spousta otázek, ale jsou to jen hypotézy, „co by kdyby“.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8 stupeň B: odpověď na námitku z vlastní zkušenosti, bez konkrétní situace. Úsek obsahuje repliku tazatele (99). Štítek názor."
+  },
+  {
+    "id": "kt013",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 102,
+    "endUtt": 103,
+    "quote": "Nedařilo. No, protože já jsem byla hodně při zemi, a kdyby se mě někdo zeptal loni touto dobou, kdy já už jsem možná měla po tom testu předpokladů koučovacích, že jak to bude vypadat za rok a jestli jako už budu prostě jako koučovat a už nebudu v práci, tak to by mě v životě nenapadlo. To byl takový, takový [nesrozumitelné], takový posun. A bylo to tak rychlý, že opravdu bych si to nedovolila, nebo nedovolila jsem si to takto představit, že to bude",
+    "summary": "Odhadnout, jak to dopadne, se jí nepodařilo, protože byla hodně při zemi. Kdyby se jí loni touto dobou, po testu předpokladů, někdo zeptal, jestli za rok bude koučovat a nebude v práci, v životě by ji to nenapadlo; nedovolila si to takhle představit. Bylo to rychlé a razantní, a s tím souvisí sebevědomí a sebedůvěra, transformace, kterou prochází stále.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň B: realita předčila opatrné očekávání, s časem (rok), bez čísla. Tag S8 stupeň B."
+  },
+  {
+    "id": "kt014",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 114,
+    "endUtt": 115,
+    "quote": "Já jsem jedinou ukázku koučování měla s tebou v rámci toho workshopu před tím vstupem do CoachVille, a bylo to takové, že tak dvě, tři otázky tam zazněly, aha, jo. Doteďka já ten sešitek mám zachovaný a doteďka tam úplně vidím, jak tam mám ty tři otázky napsané. Co vlastně byste chtěli, jak to má vypadat, co pro vás znamená ta svoboda, co tím získáte, tou změnou v tom vašem životě. A to tam ve mně jako rezonovalo velmi. A to byla krátká ukázka. Nás tam bylo, jestli se dobře nemýlím, asi pět nebo šest, takže těch ukázek tam byly asi dvě nebo tři během té hodinky. A toto jsem říkala, tak fajn, to je ta správná cesta.",
+    "summary": "Jedinou ukázku koučování měla s Alešem na workshopu před vstupem: zazněly dvě, tři otázky (co byste chtěli, co pro vás znamená svoboda, co tou změnou získáte). Sešitek má dodnes a ty tři otázky v něm vidí. Bylo jich tam pět nebo šest, ukázky dvě nebo tři během hodinky. Řekla si: fajn, to je ta správná cesta.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "3 otázky ze zkušební ukázky, 5 až 6 účastníků",
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: konkrétní ukázka před vstupem a co v ní rozhodlo. Tag 26 stupeň C: první zkušenost jako hráčka."
+  },
+  {
+    "id": "kt015",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 122,
+    "endUtt": 123,
+    "quote": "Jo, určitě můžu být otevřená. Já jsem momentálně na sazbě hodinové 1500 Kč na hodinu, a já věřím, že to poroste. Zatím mám tam před sebou ještě taky naplánované tréninky, které bych ráda absolvovala, nové metody, tak abych se zlepšovala a tím pádem byla větším přínosem i pro ty hráče. A co se týče té návratnosti, té investice, tak pomalinku se na tom pracuje. Neříkám, že to je vše již za mnou, to určitě ne. Těch 200 odkoučovaných hodin zatím není mnoho, jsem někde, řekněme, na tom začátku, ale pro mě je to na dobré cestě.",
+    "summary": "Otevřeně: momentálně je na hodinové sazbě 1 500 Kč a věří, že poroste; má před sebou další tréninky a metody, aby byla větším přínosem pro hráče. Návratnost investice: pomalinku se na tom pracuje, není to za ní; 200 hodin zatím není mnoho, je na začátku, ale na dobré cestě.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "1 500 Kč/h po roce; 200 hodin; návratnost investice zatím ne",
+    "isAdmission": true,
+    "costText": "návratnost investice po roce ještě není za ní",
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "pujcka-a-klient-neprijde",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: sazba s číslem a s časem (po roce, 200 hodin). Tag 15 stupeň A: poctivé „návratnost zatím ne“. Tag 11 stupeň A: co se splnilo (sazba) a co ještě ne (návratnost). Bez informace o měsíčním příjmu; nedoplňovat."
+  },
+  {
+    "id": "kt016",
+    "episode": "katerina-porizkova",
+    "guest": "katerina-porizkova",
+    "startUtt": 127,
+    "endUtt": 128,
+    "quote": "Kromě té zásadní životní změny, to znamená jakoby té pracovní, toho povolání, tak ta změna, já ji vnímám jako... V tom domácím prostředí, ve zklidnění, v tom, že jsem více doma, v tom, že si užívám já děti a děti si užívají víc mě, že nepřijíždím v 6 hodin večer domů. Ano, mám klienty večer, v odpoledních hodinách koučuju, ale zase ty děti vidím, když přichází ze školy, třeba v tu jednu hodinu a půl druhé, což dřív bylo úplně sci-fi. Za mě ta největší změna asi v tom, že já jsem se víc uklidnila, víc jsem šla do sebe, k sobě, a tím pádem se uklidnily všechny věci okolo mě. Řekla bych, že je to všechno harmoničtější. To myslím jako důležitou změnu.",
+    "summary": "Kromě změny povolání vnímá změnu doma: zklidnění, je víc doma, užívá si děti a děti ji. Nepřijíždí v šest večer; klienty má odpoledne a večer, ale děti vidí, když přicházejí ze školy v jednu, půl druhé, což dřív bylo sci-fi. Uklidnila se, šla k sobě, a tím se uklidnilo všechno okolo.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vedle-prace-a-rodiny",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 8 stupeň A: konkrétní změna denního režimu (děti ve 13.30 místo návratu v 18). Tag 33 stupeň B."
+  }
+]
