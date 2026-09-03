@@ -1,0 +1,50 @@
+{
+  "slug": "tomas-giertl",
+  "displayName": "Tomáš Giertl",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 6,
+  "priorProfessionText": "práce na směny v automotive; dnes montáž dílů s volnou pracovní dobou souběžně s rozjezdem praxe; Slovensko; dříve jiný kurz koučování",
+  "priorProfessionCat": "neuvedeno",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "jiné",
+      "url": "https://www.instagram.com/plny_potencial/",
+      "label": "Instagram plny_potencial (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "směny v automotive, odchod 2020; půl roku na hledání poslání; slovenský kurz koučování bez praxe s klienty, neproplacen; práce na montáži s volnou dobou; podcast Život jako hra denně"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "vyžádaná psychodiagnostika, týden odkládaná ze strachu, nadprůměrné výsledky; obavy z ceny, půjčka"
+    },
+    {
+      "label": "Start",
+      "text": "výzva 5 hráčů, spolužáci a pak oslovení lidí; kalendář: práce, koučování, spánek; velký stres a zároveň „toto je ono“; soudil lidi podle zájmu o koučování, pak se s nimi jen bavil"
+    },
+    {
+      "label": "Dnes (6 měsíců, přes 130 hodin)",
+      "text": "hráči tvůrci (YouTube, TikTok, MLM); 5 kouček na jedno téma; komunita jako první místo, kde není sám; nabízí úvodní hodiny zdarma"
+    }
+  ]
+}

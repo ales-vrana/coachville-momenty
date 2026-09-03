@@ -1,0 +1,103 @@
+{
+  "slug": "tomas-giertl",
+  "title": "6 měsíců ve výcviku CoachVille, 130 odkoučovaných hodin",
+  "guestSlugs": [
+    "tomas-giertl"
+  ],
+  "vimeoId": "1223647217",
+  "vimeoHash": "41b7e970f7",
+  "vimeoUrl": "https://vimeo.com/1223647217/41b7e970f7",
+  "recordedAt": "2023-10-01",
+  "durationS": 2190,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod: automotive, 6 měsíců, 130 hodin"
+    },
+    {
+      "t": 38,
+      "title": "Směny, odchod 2020, půl roku hledání"
+    },
+    {
+      "t": 103,
+      "title": "Slovenský kurz: nalévačka bez klientů"
+    },
+    {
+      "t": 222,
+      "title": "Montáž s volnou dobou a podcast"
+    },
+    {
+      "t": 290,
+      "title": "Vyžádaná psychodiagnostika a půjčka"
+    },
+    {
+      "t": 348,
+      "title": "Start: hravost, ukázky, výzva 5 hráčů"
+    },
+    {
+      "t": 467,
+      "title": "Práce, koučování, spánek"
+    },
+    {
+      "t": 520,
+      "title": "Stres a „toto je ono“"
+    },
+    {
+      "t": 603,
+      "title": "Soudil jsem lidi; teď se jen bavím"
+    },
+    {
+      "t": 736,
+      "title": "Všechno nebo nic; introverti"
+    },
+    {
+      "t": 878,
+      "title": "5 kouček na jedno téma"
+    },
+    {
+      "t": 1001,
+      "title": "Kouči neradí"
+    },
+    {
+      "t": 1059,
+      "title": "Hráči: tvůrci"
+    },
+    {
+      "t": 1158,
+      "title": "Všichni stejní a jiní"
+    },
+    {
+      "t": 1270,
+      "title": "Komunita: poprvé ne sám"
+    },
+    {
+      "t": 1428,
+      "title": "Matrix: knihy vs. kouč"
+    },
+    {
+      "t": 1574,
+      "title": "Život bez kouče: prokrastinace"
+    },
+    {
+      "t": 1703,
+      "title": "Sebekoučování: kurz, ke kterému se nedostal"
+    },
+    {
+      "t": 1803,
+      "title": "Motto z dávkovače vody"
+    },
+    {
+      "t": 1859,
+      "title": "Vzkaz: udělej si psychodiagnostiku"
+    },
+    {
+      "t": 2010,
+      "title": "Vzkaz hráčům, kontakt a závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/tomas-giertl.json"
+}
