@@ -1,0 +1,111 @@
+{
+  "slug": "lubos-sabo",
+  "title": "Luboš Sabo: obchodní ředitel, který neuměl prodat sám sebe",
+  "guestSlugs": [
+    "lubos-sabo"
+  ],
+  "vimeoId": "1223480489",
+  "vimeoHash": "32a2386dc1",
+  "vimeoUrl": "https://vimeo.com/1223480489/32a2386dc1",
+  "recordedAt": "2025-06-01",
+  "durationS": 2740,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod: obchodní ředitel, rok a půl, 5. měsíc na volné noze"
+    },
+    {
+      "t": 46,
+      "title": "20 let marketing; výcvik při práci"
+    },
+    {
+      "t": 153,
+      "title": "Záměr: kouč, nebo lepší ředitel?"
+    },
+    {
+      "t": 214,
+      "title": "Hypotéka, děti a 10 let od prvního kontaktu"
+    },
+    {
+      "t": 306,
+      "title": "Manželka: měl bys dělat kouče"
+    },
+    {
+      "t": 414,
+      "title": "Pochybnosti: skoro 40, zbláznil se?"
+    },
+    {
+      "t": 474,
+      "title": "První hodina a první platby"
+    },
+    {
+      "t": 585,
+      "title": "Obchodník, který neumí prodat sebe"
+    },
+    {
+      "t": 697,
+      "title": "Co mě baví: „toto je ono“"
+    },
+    {
+      "t": 815,
+      "title": "Měsíce rozhodování o odchodu"
+    },
+    {
+      "t": 876,
+      "title": "Technická pauza"
+    },
+    {
+      "t": 969,
+      "title": "Sebedůvěra od nuly"
+    },
+    {
+      "t": 1183,
+      "title": "Databáze, web, videa, networking"
+    },
+    {
+      "t": 1384,
+      "title": "ACC vs. PCC: 2D vs. 3D"
+    },
+    {
+      "t": 1476,
+      "title": "Poprvé bez potřeby něco měnit"
+    },
+    {
+      "t": 1605,
+      "title": "Svoboda a zodpovědnost s hypotékou"
+    },
+    {
+      "t": 1756,
+      "title": "1 600 € za sezónu"
+    },
+    {
+      "t": 1876,
+      "title": "Klient 31 setkání"
+    },
+    {
+      "t": 1943,
+      "title": "Majitelé firem a sebevědomí"
+    },
+    {
+      "t": 2065,
+      "title": "Angažovaný hravý tvůrce"
+    },
+    {
+      "t": 2140,
+      "title": "Šest měsíců odhodlávání a LinkedIn zpráva"
+    },
+    {
+      "t": 2342,
+      "title": "Koučování a společnost"
+    },
+    {
+      "t": 2484,
+      "title": "Vzkaz hráčům, komunita, závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/lubos-sabo.json"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "lubos-sabo",
+  "displayName": "Luboš Sabo",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 18,
+  "priorProfessionText": "20 let v marketingu, 10 let obchodník, 5 let obchodní ředitel digitální agentury s vlastním týmem; Slovensko (Bratislava); od začátku roku na volné noze",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "velkoměsto",
+  "ageBand": "35 až 49",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "20 let marketing, obchodní ředitel; před 10 lety první kontakt s pojmem coaching; před 5 lety manželka: „měl bys dělat kouče“, první placená koučka; léto 2023 scénáře s plusy a mínusy, reklama CoachVille"
+    },
+    {
+      "label": "Rozhodnutí (12/2023)",
+      "text": "obavy: stíhat, vydělat, klienti, vhodný člověk, „zbláznil se“, skoro 40, hypotéka, 2 děti; po rozhodnutí uvolnění"
+    },
+    {
+      "label": "Start",
+      "text": "první hodina jiná, než čekal; lidé platili hned; databáze kontaktů z obchodu a vlastní tým; paradox obchodníka, který neumí prodat sebe"
+    },
+    {
+      "label": "1. rok",
+      "text": "databáze se vyčerpala: web, videa, networking v Bratislavě se zvědavostí kouče; 6 měsíců odhodlávání, pak oslovil veřejně známou osobu, hráč za 2 až 3 týdny; měsíce rozhodování o odchodu z práce, koučovali ho parťáci"
+    },
+    {
+      "label": "Dnes (rok a půl, skoro 300 hodin, 5. měsíc na volné noze)",
+      "text": "1 600 € za herní sezónu, cíl +50 až 70 % do roka; nejdelší klient 31 setkání; persona: angažovaný hravý tvůrce; obavy s hypotékou, ale „závisí to na mně“"
+    }
+  ]
+}
