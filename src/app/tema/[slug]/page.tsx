@@ -2,9 +2,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import CtaBar from "@/components/CtaBar";
-import Denominator from "@/components/Denominator";
+import Denominator, { plural } from "@/components/Denominator";
 import MomentCard from "@/components/MomentCard";
-import { getCostLine, getDenominator, getMomentsForTopic, getNextWorkshop, getTopics, site } from "@/lib/data";
+import MomentList from "@/components/MomentList";
+import { getCostLine, getDenominator, getMomentsForTopic, getNextWorkshop, getPublishedTopics, getTopics, site } from "@/lib/data";
+import { topicUrl } from "@/lib/urls";
 
 export function generateStaticParams() {
   return getTopics().map((t) => ({ slug: t.id }));
@@ -29,7 +31,11 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
   const guests = new Set(moments.map((m) => m.guest)).size;
   const cost = getCostLine(moments);
   const workshop = getNextWorkshop();
-  const RELATED_SAMPLE = 7;
+  // Další téma: následující publikované ve stejné skupině, jinak první další v pořadí.
+  const published = getPublishedTopics().map((t) => t.topic);
+  const pi = published.findIndex((t) => t.id === topic.id);
+  const nextTopic =
+    published.slice(pi + 1).find((t) => t.group === topic.group) ?? published[pi + 1] ?? published[0] ?? null;
 
   return (
     <div className="space-y-6">
@@ -56,23 +62,25 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
           .
         </p>
       ) : (
-        <div className="space-y-4">
-          {moments.slice(0, RELATED_SAMPLE).map((m, i) => (
-            <div key={m.id} className="space-y-4">
-              <MomentCard m={m} index={i} layout="row" />
-              {i === 0 && (
-                <div className="px-1">
-                  <Denominator d={d} topicMoments={moments.length} topicGuests={guests} compact />
-                </div>
-              )}
+        <MomentList
+          items={moments.map((m) => ({
+            id: m.id,
+            cat: m.guestData.priorProfessionCat ?? "neuvedeno",
+            hasNumber: m.hasNumber,
+            isAdmission: m.isAdmission,
+          }))}
+          afterFirst={
+            <div className="px-1">
+              <Denominator d={d} topicMoments={moments.length} topicGuests={guests} compact />
             </div>
+          }
+          nextTopic={nextTopic && nextTopic.id !== topic.id ? { href: topicUrl(nextTopic.id), label: nextTopic.label } : null}
+          totalLabel={`${moments.length} ${plural(moments.length, "moment", "momenty", "momentů")}`}
+        >
+          {moments.map((m, i) => (
+            <MomentCard key={m.id} m={m} index={i} layout="row" />
           ))}
-          {moments.length > RELATED_SAMPLE && (
-            <p className="text-sm text-muted">
-              Dalších {moments.length - RELATED_SAMPLE} momentů najdete u jednotlivých hostů.
-            </p>
-          )}
-        </div>
+        </MomentList>
       )}
 
       <section className="card p-5">
