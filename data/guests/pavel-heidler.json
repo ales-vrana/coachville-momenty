@@ -1,0 +1,48 @@
+{
+  "slug": "pavel-heidler",
+  "displayName": "Pavel Heidler",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 24,
+  "priorProfessionText": "lídr v obchodu, 6 let vedení týmů (retail); celoživotní sportovní nadšenec, fotbal",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "6 let vedení lidí v obchodě, spíš mentorování; 3 roky samostudia leadershipu; kolega nastoupil do výcviku, podcasty"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "obava z ceny a z toho, že to bude „další kurz, od kterého odejdu“; záměr: lepší lídr a kariéra"
+    },
+    {
+      "label": "Start",
+      "text": "první hodina: sežeňte si lidi a do akce; bez strachu díky one-to-one z práce; propadl tomu po prvním čtyřhodinovém kurzu"
+    },
+    {
+      "label": "Po týdnech",
+      "text": "objevil, že jde o něj; plán se změnil: chce se tím živit; hráči na Bali, ve Švédsku, v Praze, Hradci"
+    },
+    {
+      "label": "Dnes (2 roky)",
+      "text": "ještě část času v zaměstnání, za měsíc, dva profesionální kouč naplno; sportovní projekty; hráči: lídři týmů, sportovci, koučové; cca 10 koučů včetně placeného"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+[
+  {
+    "id": "ph001",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 5,
+    "endUtt": 7,
+    "quote": "A přišlo to úplně náhodou. Vlastně měl jsem kolegu, který nastoupil do koučovacího výcviku, a mě to zaujalo, protože to znělo to samé, co jsem dělal v práci, a to bylo trošku jiné. A tak jsem začal poslouchat různý informace o tom, začal jsem poslouchat podcasty a rozhodl jsem se připojit. A všechno to bylo jenom z čisté zvídavosti, v tom naučit se být víc prospěšnej pro ty lidi a být lepší lídr. A možná i jsem měl ten předpoklad, že mi to pomůže v práci vystoupat možná v nějakých kariérních žebřících.",
+    "summary": "Vždycky vedl lidi a zpětně chápe, že to bylo trochu koučování, i když o tom nevěděl; v obchodě to bylo spíš mentorování. Asi tři roky se vzdělával, jak být lepší lídr a víc rozumět lidem. Pak úplně náhodou: kolega nastoupil do koučovacího výcviku a znělo to jako to, co dělá v práci, jen jinak. Poslouchal podcasty a přidal se, z čisté zvídavosti, aby byl prospěšnější lidem a lepší lídr, a s předpokladem, že mu to pomůže v kariérním žebříčku.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "3 roky samostudia leadershipu před výcvikem",
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň A: původní záměr byl čistě pracovní (lepší lídr, kariéra); co se stalo je v ph005. Tag 11 stupeň B: kolega ve výcviku a podcasty jako ověření. Tag Proč jsem váhal stupeň B."
+  },
+  {
+    "id": "ph002",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 9,
+    "endUtt": 10,
+    "quote": "Pamatuju si, že samozřejmě to byla finanční investice, protože to bylo něco novýho a není to nejlevnější. A byla tam obava v tom, jestli mi to za to stojí, jestli to know-how, co tam dostanu, bude sedět ceně, co já zaplatím, nebo jestli to vůbec nějak využiju, jestli to není jenom nějaký další kurz, který si zaplatím a potom budu v tom třeba pár měsíců a pak od toho odejdu. Takže určitě finance, a druhá stránka tam bylo to moje využití. Ale to nebylo až tak velký, protože jsem věřil, že mi to nějakým způsobem pomůže. Nějak jsem to cítil, ale furt to tam hrálo nějakou malou roli.",
+    "summary": "Byla to finanční investice, něco nového a „není to nejlevnější“. Obava zněla: stojí mi to za to, bude know-how sedět ceně, využiju to vůbec, nebo je to jen další kurz, který si zaplatím, pár měsíců v něm budu a pak odejdu. Finance byly hlavní, využití menší, protože cítil, že mu to pomůže; ale hrálo to roli.",
+    "proofElements": [
+      "situace",
+      "cena"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdyz-jsem-videl-cenu",
+      "uz-jsem-se-spalil",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 27 stupeň A: reakce na cenu pojmenovaná vlastními slovy, bez částky. Tag 29 stupeň B: obava z „dalšího kurzu, od kterého odejdu“, bez konkrétního předchozího kurzu. Štítek názor je správně."
+  },
+  {
+    "id": "ph003",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 13,
+    "endUtt": 15,
+    "quote": "Začátek byl strašně zajímavý, protože si pamatuju na moji první hodinu, kde mi bylo asi řečeno, že seženete si lidi, který můžete koučovat, a hnedka pojďme do akce. Což teďka vlastně vnímám, že to bylo skvělý, protože jsme do toho hnedka spadli a strašně jsem si to užíval, protože já mám tu zkušenost, že jsem měl individuální hodiny v práci s těmi lidmi, takže mi to přišlo úplně běžný, úplně normální. Akorát to mělo úplně jiný rozměr.",
+    "summary": "Na první hodině zaznělo: sežeňte si lidi, které můžete koučovat, a hned do akce. Dnes to vnímá jako skvělé, protože do toho hned spadli. Jemu to přišlo běžné, protože měl v práci individuální hodiny s lidmi, jen koučovací konverzace měla úplně jiný rozměr než hodina v práci. Propadl tomu po prvním čtyřhodinovém kurzu a po prvních hodinách s klienty.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 0,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 26 stupeň B: opak strachu, první setkání bez obav díky praxi one-to-one v práci; užitečné pro manažery. Tag 25 stupeň B: škola dala zadání jít hned do praxe."
+  },
+  {
+    "id": "ph004",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 23,
+    "endUtt": 24,
+    "quote": "Můj prvoplánový plán, nebo prvotní plán bych řekl, bylo získat vědomosti, který využiju potom s lidmi v práci, a tím získám určitý výsledky v rámci korporátu a tím budu mít lepší pozice a takhle vystoupat. To byl prvotní plán. A pamatuju si, že po x týdnech jsem najednou zjistil, že objevuju sám sebe a je to hodně o osobním rozvoji a o uvědomění, co člověk reálně chce a nechce. A ta myšlenka a ten plán se začal celkem měnit a došlo to do bodu, kdy tam nebyla cesta zpět a věděl jsem, že to je ta cesta, kterou se chci živit. Jakoby to po nějaký době přesáhlo tu první myšlenku a vzalo to úplně jiný směr a ta vize byla trošku jiná.",
+    "summary": "Prvotní plán: získat vědomosti, využít je s lidmi v práci, mít výsledky v korporátu, lepší pozice, vystoupat. Po x týdnech zjistil, že objevuje sám sebe a je to hodně o osobním rozvoji a o tom, co člověk reálně chce a nechce. Plán se začal měnit, až došel do bodu, kdy nebyla cesta zpět: věděl, že tímhle se chce živit. Přesáhlo to první myšlenku a vzalo jiný směr.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "koucovat-a-zustat-v-praci",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň A: záměr „jen do práce“ a jeho změna, s časem (po týdnech). Tag 21 stupeň B: kombinace trvala dva roky (ph007). Tag 33 stupeň B."
+  },
+  {
+    "id": "ph005",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 26,
+    "endUtt": 28,
+    "quote": "Já myslím, že tam je spoustu věcí, které se staly. Pro mě co bylo důležitý, je vlastně, že díky koučování jsme se mohli propojit se spoustou nových lidí odkudkoliv. A mohl jsem koučovat člověka, co žil na Bali, co žil ve Švédsku, co byl v Praze, v Hradci, a bylo to vlastně jedno. A najednou jsem zjistil, jaký obrovský potenciál to může mít a s kým vším se můžu vlastně potkat a koho můžu oslovit a můžeme se vidět a mít koučovací rozhovor. Takže najednou jsem zjistil, že jsem 6 let potkával zhruba 60-70 podobných, stejných lidí v práci, a teďka se ten svět vlastně otevírá.",
+    "summary": "Díky koučování se propojil s lidmi odkudkoli: koučoval člověka na Bali, ve Švédsku, v Praze i v Hradci, a bylo to jedno. Zjistil, že šest let potkával v práci zhruba 60 až 70 stejných lidí, a teď se svět otevírá; viděl v tom novou příležitost. Práce je online z domova, nemusí nikam cestovat. Na druhou stranu je to podnikání a změna mindsetu ze zaměstnance na někoho, kdo věci vytváří.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "6 let stejných 60 až 70 lidí v práci vs. hráči na Bali, ve Švédsku, v Praze a Hradci",
+    "isAdmission": false,
+    "topics": [
+      "male-mesto",
+      "ziskam-klienty",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 3 stupeň A: konkrétní hráči mimo bydliště, online; host bydliště neuvádí. Tag C1 stupeň B: odkud hráči přišli není řečeno, jen odkud jsou. Tag 33 stupeň B: zaměstnanec vs. podnikatel."
+  },
+  {
+    "id": "ph006",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 34,
+    "endUtt": 35,
+    "quote": "Jo, já bych se potom krátce vrátil k tomu momentu toho rozhodnutí, ale teďka momentálně věnuju ještě nějaký čas vlastně i té druhé práci. A protože mě to furt naplňuje v rámci vedení lidí a furt tam mám svůj nějaký projekt, ale během, řekněme, měsíce, dvou, se stávám profesionálním koučem naplno s tím, že mám rozjetý další projekty v rámci sportovních oblastí, to je vlastně nějaká moje cílovka. Takže já myslím, že celkové koučování.",
+    "summary": "Momentálně ještě věnuje část času druhé práci, protože ho vedení lidí naplňuje a má tam projekt, ale během měsíce, dvou se stává profesionálním koučem naplno. K tomu rozjíždí projekty ve sportovní oblasti, což je jeho cílovka. Každý to má nějak: on má individuální klienty a k tomu projekty, které doplňují vizi; nemusí to být zaměstnání, může to být spolupráce.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "monthsFromStart": 24,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 21 stupeň A: dva roky souběh zaměstnání a koučování, odchod naplánovaný na měsíc, dva od natáčení; bez hodin týdně a bez příjmu. Tag 33 stupeň B."
+  },
+  {
+    "id": "ph007",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 38,
+    "endUtt": 43,
+    "quote": "Jo, já to zase stáhnu trošku na tu práci, protože u nás bylo zvykem vlastně vedoucím říkat koučové. Takže jsem měl takovou představu, že kouč je někdo, kdo pomáhá lidem, a to je taková ta hlavní myšlenka. A pomáhá jakýmkoliv způsobem, jestli to je názorama, jestli to je tipama, jestli to je otázkama, to bylo víceméně jedno. A ještě jsem měl kouče hodně spojovaný ze sportovního prostředí, že kouč je někdo, kdo trénuje a říká, co má dělat, vytváří nějaký plány. Takže ta myšlenka prvotní byla dobrá, že vlastně pomáhá lidem, ale to, co bylo potom všechno, to to úplně změnilo. Teď si uvědomuju, že ta představa po těch dvou, dvou a půl letech je úplně jiná, no. A byla celkem mylná, no, musím teďka říct.",
+    "summary": "V jeho firmě bylo zvykem říkat vedoucím „koučové“, takže měl představu, že kouč je někdo, kdo pomáhá lidem jakýmkoli způsobem: názory, tipy, otázkami, to bylo jedno. A kouč ze sportu, který trénuje, říká, co dělat, a dělá plány. Po dvou a půl letech ví, že představa byla celkem mylná. Slovo kouč se dnes bere mnoha způsoby a je rád, že může být na straně těch, kdo vědí, co to vlastně je.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S1 stupeň B: představa „kouč radí a dělá plány“ a její oprava, bez konkrétní situace. Tag TR4 stupeň B: „slovo kouč se bere mnoha způsoby“. Úsek obsahuje repliku tazatele (42). Štítek názor."
+  },
+  {
+    "id": "ph008",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 55,
+    "endUtt": 56,
+    "quote": "Nechci říkat procenta, ale to je určitě obrovská část toho, že se mi v tom koučování daří a že jsem zůstal na té cestě. A myslím si, že se podařilo najít podobně smýšlející lidi a s určitými lidmi to přesahuje být tím kolegou, ale vznikají určitá kamarádství. A všichni jsme na stejný cestě, všichni si pomáháme a skoro by nebyl týden, kdy bych neměl svoje koučování třeba s někým z komunity, a neustále se udržujeme, podporujeme, takže. Myslím, že to je nedílná součást toho úspěchu. Bylo by strašně těžký jít na tuhletu cestu sám, bez nikoho a bez kolegů nebo bez komunity.",
+    "summary": "Komunita je podle něj obrovská část toho, že se mu daří a že na cestě zůstal. Našel podobně smýšlející lidi, z některých se stali kamarádi, a skoro není týden, kdy by neměl koučování s někým z komunity. Jít tou cestou sám, bez kolegů a komunity, by bylo strašně těžké.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S4 stupeň B: co ho udrželo (komunita, týdenní koučování), bez konkrétní krize. Štítek názor je správně."
+  },
+  {
+    "id": "ph009",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 65,
+    "endUtt": 66,
+    "quote": "Jo, určitě jedno z témat nebo jedna skupina lidí jsou lídři týmu. Je to takový přirozený u mě, že jsem tím prošel, a tím víc se podle mě do toho můžu i víc vcítit. A strašně mě baví klient v roli lídra týmu, který řeší rozvoj toho svýho perimetru, co má, nebo těch lidí. A vlastně třeba připravovat lidi na větší pozice, nebo i sám sebe na větší pozice. Celková agenda prostě v rámci vedení lidí a leadershipu. A určitě si užívám koučování sportovců, protože to je taky součást mého života, a připravování sportovců v kritických momentech na výkon je něco, kde určitě cítím svoji vášeň. A určitě mám rád i koučování koučů a napomáhání koučům stát se skvělými kouči. Takže tady ty tři agendy mě teď baví úplně nejvíc.",
+    "summary": "Tři skupiny hráčů, které ho teď baví nejvíc: lídři týmů, kteří řeší rozvoj svých lidí a přípravu na větší pozice (sám tím prošel, tak se vcítí); sportovci a jejich příprava na výkon v kritických momentech; a koučové, kterým pomáhá stát se skvělými kouči.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň C: segmenty hráčů bez ceny a bez počtu. Štítek názor."
+  },
+  {
+    "id": "ph010",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 70,
+    "endUtt": 76,
+    "quote": "Já bych to tak jako furt dokázal zkousnout, ale já myslím, že i tím, že každý týden sedím se svým koučem a mluvím o těch věcech a změnách, tak si to dokážu i uvědomovat a začlenit si to do toho života. A ty změny se dějou průběžně, takže já jsem to jako nepocítil. Ono je potom vždycky zajímavý se podívat zpětně, že aha, tohle všechno se stalo a jak se to vlastně stalo. Takže pro posluchače, bylo to v pohodě.",
+    "summary": "Změnilo ho to „o 100 %“: představuje si, kde by byl bez kurzu; možná na lepší pozici v práci, ale pořád by hledal větší smysl. Změnil se směr pracovní i osobní, možná i smysl života. Ani jedna část podle něj nezůstala stejná, což může znít jako moc. Na otázku, jestli je to nepříjemná změna, se zasměje: „budete trpět“, ale děje se to průběžně, ne v jeden den, a díky týdennímu sezení s koučem si to stihne uvědomit a začlenit; nepocítil to jako nápor.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: co se změnilo (směr, smysl) a poctivé „nic nezůstalo stejné“, s časem (průběžně, týdně). Tag 11 stupeň B: co se splnilo bez čísel. Úsek obsahuje repliky tazatele (72, 74), 150 s."
+  },
+  {
+    "id": "ph011",
+    "episode": "pavel-heidler",
+    "guest": "pavel-heidler",
+    "startUtt": 92,
+    "endUtt": 93,
+    "quote": "Já jsem nejenom koučoval s parťákama, ale vlastně jsem využíval i služby placenýho kouče. Takže pro mě to bylo i zjišťovat, co mi funguje nejlíp, kde já mám ten největší svůj rozvoj. A za moji dobu jsem koučoval třeba s deseti koučema a každý mi dal něco, s někým jsem na té cestě už obrovský čas a s někým to bylo na určitou dobu, a je to o tom poznávání. Myslím si, že jsem došel do bodu, kdy jsem našel někoho, kdo přesně zapadá do toho mého smyslu a do toho snu, co vlastně chci hledat. A že to sedí po všech vlastně stránkách.",
+    "summary": "Nekoučoval jen s parťáky, využíval i služby placeného kouče, aby zjistil, co mu funguje nejlíp a kde má největší rozvoj. Za svou dobu koučoval asi s deseti kouči; každý mu něco dal, s někým je na cestě dlouho, s někým jen na určitou dobu. Došel do bodu, kdy našel někoho, kdo přesně zapadá do jeho smyslu a snu.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "cca 10 koučů za 2 roky, včetně placeného",
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň B: ověřování z pozice hráče během výcviku, s číslem. Tag 25 stupeň C: placeného kouče si zařídil sám."
+  }
+]
