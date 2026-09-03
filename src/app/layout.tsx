@@ -19,6 +19,8 @@ const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
 
 // Stránka /podminky-poctive zůstává dostupná přes URL, ale odkazy na ni jsou zatím skryté (text není dopsaný).
 const SHOW_TERMS_LINKS = false;
+// Stránka /otazky-pro-hosty zůstává dostupná přes URL, odkaz v zápatí je skrytý.
+const SHOW_QUESTIONS_LINK = false;
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
@@ -36,7 +38,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
                 Témata
               </Link>
               <Link href="/#hoste" className="hover:text-teal-deep">
-                Hosté
+                Studenti
               </Link>
               <Link href="/pro-partnera" className="hover:text-teal-deep">
                 Pro partnera
@@ -56,9 +58,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             <p>{site.footer.operator}</p>
             <p>{site.footer.consentNote}</p>
             <p className="flex flex-wrap gap-x-5 gap-y-1 border-t border-white/15 pt-4">
-              <Link href="/otazky-pro-hosty" className="text-white underline decoration-teal hover:text-teal">
-                Otázky, které dostává každý host
-              </Link>
+              {SHOW_QUESTIONS_LINK && (
+                <Link href="/otazky-pro-hosty" className="text-white underline decoration-teal hover:text-teal">
+                  Otázky, které dostává každý host
+                </Link>
+              )}
               {SHOW_TERMS_LINKS && (
                 <Link href="/podminky-poctive" className="text-white underline decoration-teal hover:text-teal">
                   Podmínky poctivě

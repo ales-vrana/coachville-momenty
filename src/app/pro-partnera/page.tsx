@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Denominator from "@/components/Denominator";
-import MomentCard from "@/components/MomentCard";
-import { getCollections, getDenominator, getMoment, getMomentViews, site } from "@/lib/data";
+import EpisodePlayer from "@/components/EpisodePlayer";
+import { getCollections, getDenominator, site } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Pro partnera, který to má platit",
@@ -20,12 +20,6 @@ const QUESTIONS = [
 
 export default function PartnerPage() {
   const col = getCollections().find((c) => c.slug === "pro-partnera");
-  const curated = (col?.momentIds ?? []).map((id) => getMoment(id)).filter((m): m is NonNullable<typeof m> => Boolean(m));
-  const fallback = getMomentViews()
-    .filter((m) => m.isAdmission || m.hasNumber)
-    .sort((a, b) => Number(b.isAdmission) - Number(a.isAdmission))
-    .slice(0, 5);
-  const moments = curated.length ? curated : fallback;
   const d = getDenominator();
 
   return (
@@ -50,17 +44,19 @@ export default function PartnerPage() {
         </p>
       </section>
 
-      <section className="space-y-3">
-        <h2 className="text-xl">Momenty s čísly a s tím, co nevyšlo</h2>
-        {moments.length === 0 ? (
-          <p className="text-muted">Zatím doplňujeme.</p>
-        ) : (
-          <div className="grid gap-3 sm:grid-cols-2">
-            {moments.map((m) => (
-              <MomentCard key={m.id} m={m} refParam="partner" showTopic />
-            ))}
-          </div>
-        )}
+      <section className="card space-y-4 p-5">
+        <div>
+          <p className="eyebrow">Video pro partnery a partnerky</p>
+          <h2 className="mt-1 text-xl normal-case">{site.partnerVideo.title}</h2>
+          <p className="mt-1 text-muted">{site.partnerVideo.note}</p>
+        </div>
+        <EpisodePlayer
+          vimeoId={site.partnerVideo.vimeoId}
+          vimeoHash={site.partnerVideo.vimeoHash}
+          title={site.partnerVideo.title}
+          chapters={[]}
+          momentStarts={[]}
+        />
       </section>
 
       {/* Sekce „Co se stane, když to nepůjde“ (odkaz na Podmínky poctivě) je dočasně skrytá, text stránky není dopsaný. */}

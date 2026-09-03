@@ -52,6 +52,7 @@ export interface SiteConfig {
   };
   links: { coachReviews: string; clientReferences: string; questionsPage: string };
   footer: { operator: string; consentNote: string };
+  partnerVideo: { vimeoId: string; vimeoHash?: string; title: string; note: string };
 }
 
 // ---------- základní načtení ----------

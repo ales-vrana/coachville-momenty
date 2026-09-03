@@ -6,7 +6,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: `${base}/`, changeFrequency: "weekly", priority: 1 },
     { url: `${base}/pro-partnera`, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${base}/otazky-pro-hosty`, changeFrequency: "monthly", priority: 0.4 },
     ...getPublishedTopics().map((t) => ({ url: `${base}/tema/${t.topic.id}`, changeFrequency: "weekly" as const, priority: 0.8 })),
     ...getMomentViews().map((m) => ({ url: `${base}/m/${m.id}`, changeFrequency: "monthly" as const, priority: 0.6 })),
     ...getPublishedGuests().map((g) => ({ url: `${base}/host/${g.slug}`, changeFrequency: "monthly" as const, priority: 0.5 })),

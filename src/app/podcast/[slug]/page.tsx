@@ -57,10 +57,6 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
               </Link>
             </span>
           ))}
-          .{" "}
-          <Link href="/otazky-pro-hosty" className="underline">
-            Otázky, které dostává každý host
-          </Link>
           .
         </p>
       </header>

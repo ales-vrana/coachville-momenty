@@ -23,7 +23,13 @@
     "questionsPage": "/otazky-pro-hosty"
   },
   "footer": {
-    "operator": "Web provozuje CoachVille CZ/SK (Aleš Vrána). Rozhovory vede zakladatel školy; hosté nedostali za rozhovor odměnu.",
-    "consentNote": "Každý host vidí a schvaluje přesně ty úseky, které tu jsou. Souhlas může kdykoliv odvolat e-mailem na ales@coachville.cz; úsek zmizí do 48 hodin."
+    "operator": "Web provozuje CoachVille CZ/SK (www.coachville.eu, firma CoachVille LLC Coachville Center for Coaching Mastery - ICF Level 3 akreditovaný výcvik koučů). Rozhovory vede zakladatel školy; hosté jsou studenti výcviku, dostali pozvánku k možnosti sdílet svou zkušenost, bez nároku na odměnu.",
+    "consentNote": "Každý host vidí a schvaluje přesně ty úseky, které tu jsou. Souhlas může kdykoliv odvolat e-mailem na ales@coachville.eu; úsek zmizí do 48 hodin."
+  },
+  "partnerVideo": {
+    "vimeoId": "747245023",
+    "vimeoHash": "e66b2fd57e",
+    "title": "Váš partner se stává koučem",
+    "note": "Toto video si můžete přehrát s partnerem, nebo partnerkou společně."
   }
 }

@@ -86,7 +86,7 @@ export default function Home() {
         </section>
       )}
 
-      <section className="card p-5">
+      <section className="card p-5 sm:p-8">
         <Denominator d={d} />
         <p className="mt-3 text-sm text-muted">
           Tohle není reklama a není to místo, kde se platí za výcvik. Když po dvou momentech budete chtít vědět, jestli je to pro vás,
