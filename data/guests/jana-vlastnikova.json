@@ -1,0 +1,48 @@
+{
+  "slug": "jana-vlastnikova",
+  "displayName": "Jana Vlastníková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 42,
+  "priorProfessionText": "17 let v korporátu (Mars, Poříčí nad Sázavou), 13 let manažerské role, projektová manažerka s týmem; dnes malé s.r.o.: koučování, mentoring, projektový management",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "venkov",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "17 let v korporátu, 13 let manažerka; rozvoj lidí jen 30 % času; rodinná situace a dokončený projekt; královský balíček; strach: hypotéka, jistota"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "jako zaměstnanec drahá, jako odborník zajímavá; malé s.r.o. se dvěma nohami; výběr školy podle toho, že učí i podnikání; záměr profesionální koučka hned"
+    },
+    {
+      "label": "Start",
+      "text": "online z venkova s dětmi; doma despekt, oporou komunita; první čtvrt rok koučovala zdarma, po 12 týdnech si klientka sama řekla, že chce platit"
+    },
+    {
+      "label": "1. rok",
+      "text": "„jak sehnat dalšího klienta, navolávat se mi nechtělo“; konec odstupného: neklid a tlak; pak reference"
+    },
+    {
+      "label": "Dnes (3,5 roku, přes 1 200 hodin)",
+      "text": "cca 15 klientů najednou, majitelé malých a středních firem; končí v 13.30 kvůli dětem; víc poptávky než kapacity, tým se dvěma kolegy; vyzkoušela 9 až 10 koučů"
+    }
+  ]
+}

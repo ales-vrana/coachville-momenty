@@ -1,0 +1,111 @@
+{
+  "slug": "jana-vlastnikova",
+  "title": "Koučování mi dalo svobodu, můžu si řídit svůj čas",
+  "guestSlugs": [
+    "jana-vlastnikova"
+  ],
+  "vimeoId": "871037109",
+  "vimeoHash": "fa4d21077a",
+  "vimeoUrl": "https://vimeo.com/871037109/fa4d21077a",
+  "recordedAt": "2023-10-01",
+  "durationS": 2890,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod: projektová manažerka, 1 200 hodin"
+    },
+    {
+      "t": 83,
+      "title": "17 let v korporátu a krok do neznáma"
+    },
+    {
+      "t": 198,
+      "title": "„Přece to používám“ a výběr školy"
+    },
+    {
+      "t": 351,
+      "title": "Online z venkova, despekt doma"
+    },
+    {
+      "t": 466,
+      "title": "Rada pro nepodporu z rodiny"
+    },
+    {
+      "t": 549,
+      "title": "Zdarma čtvrt rok: „chtěla bych ti platit“"
+    },
+    {
+      "t": 741,
+      "title": "Reakce na oslovení"
+    },
+    {
+      "t": 811,
+      "title": "Musí být kouč zralý?"
+    },
+    {
+      "t": 954,
+      "title": "Kouč vs. mentor"
+    },
+    {
+      "t": 1067,
+      "title": "Proč lídr s koučovacím přístupem"
+    },
+    {
+      "t": 1213,
+      "title": "Rada budoucím koučům: proč, škola, rezerva"
+    },
+    {
+      "t": 1450,
+      "title": "Co mi to dalo: svoboda"
+    },
+    {
+      "t": 1521,
+      "title": "Hráči: majitelé malých a středních firem"
+    },
+    {
+      "t": 1690,
+      "title": "Co mě baví: spolutvorba"
+    },
+    {
+      "t": 1780,
+      "title": "Komunita a „kam ho dáš?“"
+    },
+    {
+      "t": 1918,
+      "title": "První rok: navolávat se mi nechtělo"
+    },
+    {
+      "t": 2026,
+      "title": "Koučování vs. kurzy"
+    },
+    {
+      "t": 2146,
+      "title": "Pseudojistota zaměstnance"
+    },
+    {
+      "t": 2270,
+      "title": "Koučování a strach ve společnosti"
+    },
+    {
+      "t": 2446,
+      "title": "Brýle a pedikúra"
+    },
+    {
+      "t": 2612,
+      "title": "9 až 10 koučů za 3,5 roku"
+    },
+    {
+      "t": 2697,
+      "title": "Dva tipy: tlak a cílovka"
+    },
+    {
+      "t": 2795,
+      "title": "Motto a závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/jana-vlastnikova.json"
+}
