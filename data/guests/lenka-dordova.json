@@ -1,0 +1,48 @@
+{
+  "slug": "lenka-dordova",
+  "displayName": "Lenka Ďorďová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 30,
+  "priorProfessionText": "20 let v personalistice (recruiterka, HR generalistka, HR manažerka), na mateřské s druhým synem; Slovensko",
+  "priorProfessionCat": "HR a personalistika",
+  "regionType": "neuvedeno",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "20 let v HR, sen být HR manažerkou; rozhovory jeden na jednoho ji bavily; mateřská s druhým synem: „co se budu nudit, naučím se něco nového“"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "vstup ve 40 jako dárek sobě, plán: ACC pro kariéru a návrat do práce; při rozhovoru o PCC „určitě ne“, pak „Lenko, věříš si?“; vnitřní prázdnota v korporátu"
+    },
+    {
+      "label": "Start",
+      "text": "první konverzace s roztřesenými koleny, krok za krokem podle konceptu; první setkání za 500 Kč"
+    },
+    {
+      "label": "Zkouška naplno",
+      "text": "pár měsíců před koncem mateřské dítě dřív do školky, 4 měsíce „tvař se, že jsi profesionální koučka“; klienti a pravidelné platby 3 až 4× měsíčně; ukončila pracovní poměr, založila firmu"
+    },
+    {
+      "label": "Dnes (3. rok, PCC program)",
+      "text": "přes 970 hodin; hodina kolem 3 000 Kč; klientka 2 roky nepřetržitě, klienti v Lucembursku a Švýcarsku; startupy, majitelé menších firem, lidé před kariérní změnou; hlídá si čas kvůli dětem"
+    }
+  ]
+}

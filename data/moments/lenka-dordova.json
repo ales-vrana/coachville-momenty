@@ -1,0 +1,382 @@
+[
+  {
+    "id": "ld001",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 2,
+    "endUtt": 4,
+    "quote": "No a počas materskej dovolenky som sa rozhodla, že čo sa budem nudiť na materskej, tak sa naučím niečo nové, a určite sa mi k tomu HR odboru hodí spôsob vedenia efektívnych rozhovorov. Tak som sa rozhodla vyhľadať si nejaký zaujímavý študijný program ku koučovaniu. Čiže možno toľko k môjmu predstaveniu a nejakému tomu prvému dotyku s CoachVille.",
+    "summary": "Dvacet let v personalistice, od recruiterky přes HR generalistku k HR manažerce; být HR manažerkou byl její sen už na obchodní akademii. Při rozhovorech jeden na jednoho ji začaly bavit osobnosti a motivace lidí. Na mateřské s druhým synem si řekla: co se budu nudit, naučím se něco nového, co se mi bude hodit k HR, a hledala studijní program ke koučování.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "20 let v HR; dva synové (18 a 3)",
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň A: původní záměr byl využít koučování v HR kariéře, ne se jím živit; co se stalo dál je v ld002 a ld004. Tag Proč jsem váhala stupeň B: motiv bez váhání."
+  },
+  {
+    "id": "ld002",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 12,
+    "endUtt": 15,
+    "quote": "Či sa posúvam do levelu PCC, kde som ešte pred naším rozhovorom bola rozhodnutá, že určite nie, ďakujem, stačí, veď o pár mesiacov sa vraciam do práce. No ale nastal teda u mňa veľký zlom v tom, že som sa rozhodla, že OK, idem do toho. A to bol ten bod, kedy som si povedala, Lenka, veríš si? Máš potenciál na to, že túto prácu dokážeš robiť. Je to vec, ktorá ťa baví, napĺňa, dáva ti zmysel, a je tu naozaj priestor rozvíjať sa v tom. Pretože aby som doplnila.",
+    "summary": "Vstup si dopřála jako dárek ke čtyřicítce: level ACC, využiju to pro kariéru a vrátím se do práce. Bod zlomu přišel při rozhovoru o postupu do PCC, kde byla předem rozhodnutá: určitě ne, za pár měsíců se vracím do práce. A pak si řekla: Lenko, věříš si? Máš na to potenciál, baví tě to, dává ti to smysl. V korporátu už narážela na vnitřní prázdnotu: několik meetingů denně, data do šesti různých systémů. Když věděla, v čem pokračovat nechce, začala hledat, v čem chce.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "vstup ve 40 letech; rozhodnutí o PCC pár měsíců před návratem do práce",
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "sebeduvera",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň A: obavy pojmenované (vrátit se do práce), co rozhodlo (otázka „veríš si?“, prázdnota v korporátu). Tag S8 stupeň A: konkrétní věta, kterou si sebedůvěru nařídila. Úsek 107 s."
+  },
+  {
+    "id": "ld003",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 17,
+    "endUtt": 19,
+    "quote": "Tak to si spomínam veľmi čerstvo. Pretože keď si nám povedal, že naozaj [nesrozumitelné], vaše prvé koučovanie, oslovte prvých hráčov, tak to bol adrenalín. Ale keďže ten adrenalín ja asi tak trochu milujem, tak som do toho naozaj šla. A človek vstupoval naozaj do tej prvej, druhej, tretej, piatej, desiatej konverzácie s obrovským rešpektom, s pokorou, s materiálmi a s roztrasenými kolenami. Ale ono naozaj je to, ako",
+    "summary": "Když zaznělo „oslovte první hráče“, byl to adrenalin. Do první, druhé, páté, desáté konverzace vstupovala s respektem, pokorou, materiály a roztřesenými koleny. Do klidu ji dostalo to, že šla krok za krokem podle konceptu: úvodní rozhovor, úvodní lekce, jak klást otázky. A komunita, kde se cítila bezpečně a mohla si to zkoušet, na rozdíl od online kurzů, kde jsou zdroje, ale ne praxe.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "první konverzace s roztřesenými koleny",
+    "monthsFromStart": 0,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 26 stupeň A: strach pojmenovaný a co pomohlo (postup krok za krokem, bezpečné prostředí). Tag 25: co dala škola (koncept, komunita), co musela sama (jít do konverzací)."
+  },
+  {
+    "id": "ld004",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 24,
+    "endUtt": 28,
+    "quote": "o pár mesiacov skôr, aby som si vytvorila ten časový priestor, že a teraz sa tvár, že si profesionálny kouč a ideš naplno využiť tú kapacitu dňa. Vybudovanú disciplínu z korporátu mám tak, že som naozaj veľmi disciplinovane vedela si spraviť harmonogram. A 4 mesiace som si vyskúšala, ako by to bolo, keby. A ono sa to začalo celé diať. Prišli klienti, prišli pravidelné platby. Uvedomila som si, že tá výplata nemusí prísť zrazu raz za mesiac, ale ono to môže prísť trikrát za mesiac, štyrikrát za mesiac, že prečo sa fokusovať na jeden termín v tom kalendári. Ono začali tie platby chodiť častejšie. Že som vedela byť flexibilnejšia, že som sa vedela učiť, keď chcem. Že som vedela odniesť to dieťa do škôlky a o štvrtej ho ísť vybrať. Čo keď v korporáte som si zobrala o štvrtej veci, tak sa ťa spýtajú kolegovia zo strany, čo, máš pol dňa dovolenky? Kam ideš tak skoro? Takže v tomto mi to začalo dávať obrovský priestor. Vedela som s tým mať ešte stretnutia o sedemnástej, bez problémov. Takže môžem to zhrnúť tak, že zarobím si tie isté peniaze,",
+    "summary": "Celý život byla přesvědčená, že jde správnou kariérní cestou: škola, rodina, dům, dvě děti, všechno OK. Úspěch přišel, štěstí ne. Pár měsíců před návratem z mateřské zvažovala, jestli se chce vracet: ráno odejdeš, večer se vrátíš, vyčerpání. Dala dítě do školky o pár měsíců dřív, aby měla čas, a čtyři měsíce zkoušela „tvař se, že jsi profesionální koučka“ s disciplínou z korporátu. Přišli klienti, přišly pravidelné platby, ne jednou, ale třikrát čtyřikrát za měsíc. Dítě vyzvedne ve čtyři, setkání může mít v pět. Vydělá stejné peníze, ale nevěnuje práci tolik hodin.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "4měsíční zkouška naplno; platby 3 až 4× měsíčně; „zarobím si tie isté peniaze, ale nevenujem tomu toľko hodín“",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "vedle-prace-a-rodiny",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň A: jak přišli klienti (zkouška naplno 4 měsíce, disciplína, postup školy), kdy (před koncem mateřské), že platí pravidelně; bez počtu klientů. Tag 8 stupeň A: školka dřív, vyzvedávání ve čtyři. Tag 21: odpověď „nezůstala jsem“, zkoušela to naplno ještě před návratem. Příjem „stejné peníze“ je tvrzení hosta bez částky. Úsek 130 s."
+  },
+  {
+    "id": "ld005",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 30,
+    "endUtt": 32,
+    "quote": "Čiže tie prvé stretnutia boli 500 českých korún. Neskôr sme si povedali, ak budeš mať cez 250 hodín alebo ak budeš mať za sebou nejaký level kurzu, tak môžeš tú cenu zdvihnúť. Postupne som šla na 1200 českých korún. Dnes sa to pohybuje na hodinu okolo 3 tisíc českých korún v závislosti od klienta, od balíčka, aký kupuje, ktorá sezóna spolupráce. A tá vízia do budúcna, ak dosiahnem teda úspešne level PCC a možno sa vydám ešte ďalej, tak ja to vidím tak,",
+    "summary": "Šla podle doporučení školy, kde je krok za krokem, jak prodávat, oslovovat a přijímat námitky i ne. První setkání byla za 500 Kč. Domluva zněla: po 250 hodinách nebo po dalším levelu můžeš cenu zvednout. Postupně šla na 1 200 Kč. Dnes se hodina pohybuje kolem 3 000 Kč podle klienta, balíčku a sezóny spolupráce. A po PCC to podle ní není konečná hranice.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "500 Kč → 1 200 Kč (po 250 hodinách) → cca 3 000 Kč/h",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "prvni-penize",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: cenová cesta s čísly a s pravidlem pro zvýšení (250 hodin nebo level). Tag 5 stupeň B: první platba 500 Kč, bez data. Slovenská koučka účtuje v Kč (klienti v ČR); nedoplňovat."
+  },
+  {
+    "id": "ld006",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 34,
+    "endUtt": 36,
+    "quote": "Toto mi pomohlo veľmi, že sme si navzájom takto kázali pomáhať a že všetko, čo sme sa naučili, my sme si okamžite vedeli vyskúšať reálne, že neodchádza človek len s vedomosťami. Lebo veľa ľudí sa pozerá na sebarozvoj, počúvam podcasty, čítam články, knihy, a nejako to sám spracujem, ale že sme dostali hneď tú príležitosť v danej lekcii, a poď to hneď skúsiť. Čiže čo si sa naučil, hneď poď praktikovať. A teraz, keď to praktikuješ prvýkrát, druhýkrát, tretíkrát, máme niekoľkých tréningových parťákov, niekoľkých ozajstných klientov. Ono to jednoducho plynule človek na seba dostáva, a naozaj možno aj ten vyklepaný hlas alebo nejaký rešpekt z toho prvého je úplne iný ako už pri 10., 15. stretnutí, a ono sa to všetko deje a odohráva, ale človek to musí vnímať a spracovať. V tomto ja vidím veľkú podporu, že sme mali priestor na to skúšanie.",
+    "summary": "Nejvíc jí pomohla komunita spolužáků: co-party, vzájemná podpora, aby získali dovednost oslovit klienta, zaujmout ho a nabídnout setkání. Co se naučili v lekci, hned šli zkoušet s tréninkovými parťáky i s reálnými klienty. Roztřesený hlas z prvního setkání je při desátém, patnáctém úplně jiný, ale člověk to musí vnímat a zpracovat.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "rozdíl mezi 1. a 10. až 15. setkáním",
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 25 stupeň B: škola dala okamžitou praxi a komunitu, vlastní část je zpracovat to. Tag 26 stupeň B: strach mizí s počtem setkání, bez konkrétní situace."
+  },
+  {
+    "id": "ld007",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 38,
+    "endUtt": 39,
+    "quote": "Veľmi rada, naozaj. Keď som počúvala ja takéto podcasty, tak som si povedala, to sú marketingové nahrávky. Aby to zaujalo ľudí. Keď počúvam, že opustil som firmu, založil som si vlastnú spoločnosť a som profesionálny kouč, tak sa mi to zdalo také neuveriteľné, ale v zmysle neuveriteľne krásne. Že wow, tak akože raz by som aj ja chcela byť na takomto podcaste. A ono prešlo niekoľko rokov a ja som dnes tu a hovorím čistú pravdu.",
+    "summary": "Když podobné podcasty poslouchala, říkala si: to jsou marketingové nahrávky, aby to zaujalo lidi. „Opustil jsem firmu, založil společnost, jsem profesionální kouč“ jí znělo neuvěřitelně, ale neuvěřitelně krásně: jednou bych chtěla být na takovém podcastu. Uplynulo několik let a dnes tu sedí a říká čistou pravdu.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: host sám pojmenoval podezření „je to marketing“ a co se u něj splnilo; konkrétní čísla jsou v ld004, ld005 a ld012. Vděčnost škole v 39 do shrnutí nepřenášet."
+  },
+  {
+    "id": "ld008",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 43,
+    "endUtt": 45,
+    "quote": "Tak ako nám bolo v úvode tréningu odporúčané koučovať za radom, kto je naozaj ochotný podstúpiť takýto koučovací rozhovor, a to je naozaj veľmi obohacujúce. Prejsť rôznymi kategóriami osobností, vypočuť si rôzne tie príbehy. A čo sa mi z toho vykryštalizovalo naozaj nejako prirodzene z toho kvanta, by som rozdelila možno takých troch základných kategórií, a sú to startupy, čiže naozaj klient, ktorý má víziu, nápad,",
+    "summary": "Podle doporučení školy koučovala zpočátku každého, kdo byl ochotný, a z toho množství se vykrystalizovaly tři skupiny: startupy (vize a nápad, ale neví, kde začít), majitelé menších firem, kteří chtějí na vyšší level, a lidé před kariérní změnou, kde využívá dvacet let z HR: mají schopnosti, ale příliš mnoho „ale“.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň B: kdo jsou platící klienti, bez částek (ty v ld005). Tag 22 stupeň B: HR zkušenost využitá v koučovací praxi. Štítek názor je správně."
+  },
+  {
+    "id": "ld009",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 52,
+    "endUtt": 55,
+    "quote": "A deje sa to a darí sa mi to. Takže ja si myslím, že pre mňa to bol obrovský vplyv, lebo s mojím nasadením, energiou a dynamikou ja som bola ochotná tej práci dať strašne veľa. Nechcem povedať všetko, ale strašne veľa. A dnes dávam to strašne veľa do coachingu. Čiže je to do mojich klientov, do môjho vzdelávania, ale stále si ten čas sledujem a viem, že keď niečo, ja som do troch minút v škôlke. Pre to moje dieťa som tu, čo je pre mňa momentálne v tejto životnej etape najdôležitejšia hodnota, naozaj. Ten work-life balance pre mňa znamená matka a podnikateľka, takže by som s tým bola spokojná ja aj moja rodina. Netvrdím, že tak bude navždy, o pár rokov sa situácia zmení, tá kapacita času, keď bude produktívna časť dňa, sa zmení, keď to dieťa bude viac samostatné, ale teraz je to pre mňa úplne to najviac.",
+    "summary": "Často přemýšlí, co kdyby zůstala. Blízcí kolegové končili v práci i ze zdravotních důvodů, což pro ni byl výstražný prst. Doma rychle vyřešila rodinu a čekala, až všichni usnou, aby mohla otevřít laptop a dodělat, co „je třeba“; brala zodpovědnost za celý tým. To chtěla změnit a daří se jí to. Nasazení a energii dává dál, dnes do koučování a klientů, ale hlídá si čas: když je potřeba, je do tří minut ve školce. Netvrdí, že to tak bude navždy.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "vedle-prace-a-rodiny",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň A: konkrétní podoba přetížení (laptop po usnutí rodiny, zodpovědnost za tým) a co je jinak (hlídání času, školka). Tag 33 stupeň A: co se změnilo (hodiny) a co zůstalo (nasazení, disciplína). Zmínku o zdravotních problémech kolegů nechat obecnou, nespojovat výcvik se zdravím."
+  },
+  {
+    "id": "ld010",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 58,
+    "endUtt": 61,
+    "quote": "O tom by som možno ťažko hovorila, až lebo by ma to až dojalo, pretože moje pracovné dni boli naozaj 9-10 hodín bežne, pokiaľ sa nedialo niečo veľké, naozaj byť v tom office, plus cesta hodina tam, hodina späť, takže naozaj tie dni boli také, že odchádzam 6.30, prichádzam 19.30, viac-menej bežne. A ja som normálne cítila, ako to spracovávam, že som doma, mám kalendár, viem, kedy mám klienta, a ja zrazu na chvíľku idem von, a bola som z toho, že som sa rozplakala na vlastnej záhrade, že ja môžem vidieť aj slnko, denné svetlo, a že vlastne ako som ja žila. Na nastavení mysle, a to úprimne uznávam, že pokiaľ som bola vo vnútri v korporácii, tak ja som bola naozaj presvedčená o tom, že my sme tam v poriadku a ten svet okolo bol nejaký pomalý. Tá dynamika je tu super zdravá, to je drive, mňa to baví. A teraz, keď som vystúpila a trošku mením tú optiku,",
+    "summary": "Pracovní dny měla 9 až 10 hodin v kanceláři plus hodina cesty tam a zpět: odchod 6.30, návrat 19.30. Když pak doma s kalendářem klientů vyšla na chvíli ven, rozplakala se na vlastní zahradě, že může vidět slunce a denní světlo, a jak vlastně žila. Uvnitř korporátu byla přesvědčená, že jsou v pořádku oni a svět kolem je pomalý. Zjistila, že vypnula sociální kontakty a s manželem neměli čas ani na víkend. Disciplínu v práci si drží dál, ostatní čas věnuje životu.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "9 až 10 h v kanceláři + 2 h cesty; 6.30 až 19.30",
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň A: čísla přetížení a konkrétní scéna změny (zahrada). Tag 33 stupeň A: změnila hodiny a vztahy, disciplína zůstala. Úsek 123 s."
+  },
+  {
+    "id": "ld011",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 68,
+    "endUtt": 72,
+    "quote": "robila som len to, čo bolo na našich lekciách, to, čo bolo na videách, študijných materiáloch. Išla som krok za krokom. Sledovala som, čo sa deje. Pre rozšírenie vlastných nejakých sociálnych sietí v mojej lokalite som sa niekoľkokrát zúčastnila networkingových stretnutí, kde som získala strategické partnerstvá, kde som spoznala nových ľudí, naučila som sa, ako rozprávať o svojej profesii, aby to druhá strana počúvala, ako prijímať nejaké tie reakcie. Máme naozaj celú sadu scenárov, čo môže nastať, ak ti povie klient takú a takú odpoveď, čiže toto pre mňa boli",
+    "summary": "Netušila, co je prodávat služby; obchodu se nikdy nevěnovala. Škola dala základní sales skill: otázky, práci s námitkami, vlastní mindset, přijímání odpovědí, se sadou scénářů, co může nastat. Dělala jen to, co se učilo na lekcích, videích a v materiálech, krok za krokem. Kvůli síti ve své lokalitě šla několikrát na networkingová setkání, kde získala strategická partnerství a naučila se mluvit o své profesi tak, aby druhá strana poslouchala. Známí z jiných škol se podle ní naučí odbornost, ale tenhle set dovedností ne.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C2 stupeň B: konkrétní cesta (networking, strategická partnerství, scénáře), ale bez čísla a času; výsledky jsou v ld004 a ld012. Srovnání s jinými školami je názor hosta bez jmen. Štítek názor."
+  },
+  {
+    "id": "ld012",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 80,
+    "endUtt": 81,
+    "quote": "No, prvé mi napadlo asi ten veľký krok, že idem ďalej. A to bol okamih, kedy som sa rozhodla, že idem do profesionálneho koučovania. Potom to, že idem si to vyskúšať, aké by to bolo, keby. Potom taký záblesk spomienky chodí k tomu, keď klientka povedala áno na predĺženie spolupráce, až som si poskočila, zakričala od radosti. A mám klientku dnes, ktorá so mnou ide dva roky nepretržite, čo je pre mňa tiež veľká odmena. Mám klientku z Luxemburgu, mám klienta vo Švajčiarsku, že vlastne ako fakt to otvára dvere. To sú pre mňa okamihy, kedy si spomeniem v úvode, že ježiš, to by nebolo ani možné. A potom prišlo prvé áno, prvá faktúra, druhá faktúra, a deje sa to. Večerná spolupráca, týždenná spolupráca, strategický partner, a zrazu sa začali diať také veci, že som si povedala, že to je nádherné. A poďme do toho.",
+    "summary": "Milníky: rozhodnutí jít do profesionálního koučování, zkouška „jaké by to bylo, kdyby“, a záblesk, když klientka řekla ano na prodloužení spolupráce a ona si poskočila a zakřičela radostí. Jednu klientku má nepřetržitě dva roky. Má klientku z Lucemburska a klienta ve Švýcarsku. Na začátku by to nepovažovala za možné, pak přišlo první ano, první faktura, druhá faktura, večerní i týdenní spolupráce, strategický partner.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "klientka 2 roky nepřetržitě; klienti v Lucembursku a Švýcarsku",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "male-mesto",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag C1 stupeň A: kontinuita (2 roky) a první faktury. Tag 3 stupeň B: slovenská koučka s klienty v zahraničí, tedy klientela nezávislá na místě; host to nevztahuje k malému městu, jen ke „otevírání dveří“. Tag 5 stupeň C: první faktura bez částky a data."
+  },
+  {
+    "id": "ld013",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 84,
+    "endUtt": 87,
+    "quote": "učila na maturitu, spravila si ju. Keď si sa učila na skúšky, dokázala si to. Keď si chcela ísť na nejaký pohovor do veľkej firmy, dokázala si to. Keď sa raz budeš teraz učiť a dodržiavať to, čo už CoachVille vymyslel, urobil a napísal, tak jednoducho, aký by mal byť iný výsledok? Prečo by to malo byť inak? Ak to vtedy fungovalo, prečo by to nefungovalo teraz? Čiže za mňa naozaj asi fakt taká tá sebadisciplína a dôvera v seba.",
+    "summary": "Za úspěchem vidí disciplínu a víru v sebe. „Nejdřív hraj“ pro ni znamenalo začít bez jistoty, s nezodpovězenými otázkami, koho bude koučovat a jak získávat. Když přišly první úspěchy, potvrdilo se, že to jde: chce to pokoru, postupnost a čas na učení ze všech zdrojů. Řekla si: na maturitu ses naučila, na zkoušky ses naučila, na pohovor do velké firmy taky; když se teď naučíš a dodržíš to, co škola vymyslela, proč by měl být jiný výsledek?",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8 stupeň B: mechanismus sebedůvěry (odkaz na vlastní minulé úspěchy), bez konkrétní krize; ta je v ld014. Štítek názor je správně."
+  },
+  {
+    "id": "ld014",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 89,
+    "endUtt": 91,
+    "quote": "Počúvaš to od teba. Čo tak si niekedy dať ten príkaz sama sebe? Ale nie je to v tom zmysle motivácia, že naozaj, ver si, že teraz je ten správny čas, skús do toho ísť. Ale nebolo to jednoduché. Dnes sa nad tým usmievam, ale človek si aj poplakal, aj bol úplne v neistote, alebo videl, že ako to je teraz na účte a že podarí sa to, nepodarí sa, čo to bude, aké to bude. A možno aj to je nejaký zdroj tej motivácie, že a teraz zapni všetky motory. Poď na turbo, alebo už tu ide o veľa. A fakt to ťa potom ženie k tomu výkonu niekedy, že fakt teraz ide o veľa, teraz to chcem a dosiahnem to, a podarí sa, o to väčšia potom radosť.",
+    "summary": "Někteří jsme naučení poslouchat; co si ten příkaz „věř si“ dát někdy sama? Ale nebylo to jednoduché. Dnes se nad tím usmívá, ale člověk si i poplakal, byl v nejistotě, díval se, jak to vypadá na účtu, jestli se to podaří. I to byl zdroj motivace: teď zapni všechny motory, jde o hodně. A když se to podaří, o to větší radost.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "slzy, nejistota a pohled na stav účtu, jestli se to podaří",
+    "topics": [
+      "co-bylo-tezsi",
+      "kdy-jsem-to-chtel-vzdat",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Co bylo těžší stupeň A: přiznání (pláč, nejistota, účet) bez čísla. Tag S4 stupeň B: krize pojmenovaná, co udrželo („ide o veľa“), bez konkrétního momentu."
+  },
+  {
+    "id": "ld015",
+    "episode": "lenka-dordova",
+    "guest": "lenka-dordova",
+    "startUtt": 103,
+    "endUtt": 105,
+    "quote": "To fakt znie tak, že mne sa zmenilo veľmi veľa. Môžem povedať, že ten rok, kedy som vstúpila, bol transformačný rok pre mňa v osobnostnom nastavení. Ďalší rok som si povedala, že transformujem prostredie, čo sa týka kariéry, čiže som naozaj ukončila ten pracovný pomer, rozhodla som sa založiť si firmu.",
+    "summary": "Že koučování funguje jinak než samostudium nebo rozhovor s AI, pochopila, až když si to zažila: poprvé, podruhé jí bylo zvláštní být koučovaná, pak to dostalo jinou dynamiku a začala to používat jako koučka. Život dělí na bez CoachVille a s CoachVille. Rok vstupu byl transformační v osobním nastavení. Další rok transformovala prostředí: ukončila pracovní poměr a založila firmu.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "koucovsky-typ",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: postup po letech (rok 1 osobní změna, rok 2 odchod ze zaměstnání a firma); co zůstalo je v ld009. Tag 21: v prvním roce zůstala zaměstnaná (na mateřské), odešla až ve druhém. Tag S1 stupeň B: zvláštní pocit z prvních koučování. Citace záměrně končí před zmínkou o zdravotní transformaci; do shrnutí nepřenášet."
+  }
+]
