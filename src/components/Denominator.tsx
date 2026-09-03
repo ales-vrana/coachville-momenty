@@ -10,11 +10,15 @@ export default function Denominator({
   topicMoments,
   topicGuests,
   compact = false,
+  tiles = true,
+  unknownLine = true,
 }: {
   d: DenominatorT;
   topicMoments?: number;
   topicGuests?: number;
   compact?: boolean;
+  tiles?: boolean; // dlaždice hosté / rozhovory / momenty
+  unknownLine?: boolean; // věta „Kolik se tím živí, nevíme.“
 }) {
   const c = site.community;
   const strongPct = Math.round((c.coachesWithStrongProof / c.coachesTotal) * 100);
@@ -42,12 +46,14 @@ export default function Denominator({
     <div>
       <p className="eyebrow">Zdroj</p>
       <h2 className="mt-1 text-2xl">Co za tím je</h2>
-      <div className="mt-5 grid grid-cols-3 gap-3 sm:gap-4">
-        <Tile n={d.hosts} label={plural(d.hosts, "host", "hosté", "hostů")} />
-        <Tile n={d.episodes} label={plural(d.episodes, "rozhovor", "rozhovory", "rozhovorů")} />
-        <Tile n={d.moments} label={plural(d.moments, "moment", "momenty", "momentů")} />
-      </div>
-      <div className="mt-8">
+      {tiles && (
+        <div className="mt-5 grid grid-cols-3 gap-3 sm:gap-4">
+          <Tile n={d.hosts} label={plural(d.hosts, "host", "hosté", "hostů")} />
+          <Tile n={d.episodes} label={plural(d.episodes, "rozhovor", "rozhovory", "rozhovorů")} />
+          <Tile n={d.moments} label={plural(d.moments, "moment", "momenty", "momentů")} />
+        </div>
+      )}
+      <div className={tiles ? "mt-8" : "mt-5"}>
         <div className="flex items-baseline justify-between gap-3">
           <p className="text-sm font-semibold text-navy">{c.coachesTotal} koučů v komunitě</p>
           <p className="text-xs text-muted">stav k září 2026</p>
@@ -70,7 +76,7 @@ export default function Denominator({
         </div>
       </div>
       <p className="mt-4 border-t border-line pt-3 text-sm text-ink">
-        Kolik se tím živí, nevíme. Písemné důkazy: {c.writtenProofs.toLocaleString("cs-CZ")} záznamů, z toho {c.hardBusinessProofs}{" "}
+        {unknownLine ? "Kolik se tím živí, nevíme. " : ""}Písemné důkazy: {c.writtenProofs.toLocaleString("cs-CZ")} záznamů, z toho {c.hardBusinessProofs}{" "}
         tvrdých obchodních.
       </p>
     </div>
