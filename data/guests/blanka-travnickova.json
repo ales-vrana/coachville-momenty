@@ -1,0 +1,44 @@
+{
+  "slug": "blanka-travnickova",
+  "displayName": "Blanka Trávníčková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 42,
+  "priorProfessionText": "lektorka angličtiny 12 let na volné noze, dříve koordinátorka v korporaci; lektoruje dál souběžně s koučováním",
+  "priorProfessionCat": "OSVČ a podnikání",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "12 let lektorka na volné noze, nejvyšší certifikace, „a co dál?“; srovnání škol, rozhovor s Alešem před vstupem; obavy „nezbláznila jsem se?“, uživím se tím?"
+    },
+    {
+      "label": "Start",
+      "text": "e-mail: najdi 5 hráčů, panika; zeptala se a měla 7; koučování od první hodiny; nadšení, kterého si okolí všimlo"
+    },
+    {
+      "label": "První roky",
+      "text": "první klienti jako zrcadlo; přesvědčení, že bude muset skončit s lektorováním, se nenaplnilo; komunita jako kmen"
+    },
+    {
+      "label": "Dnes (3,5 roku, přes 700 hodin)",
+      "text": "kombinuje lektorování a koučování; témata sebeláska a sebepřijetí; dlouhodobý hráč, kterému nastavila hranice, zůstal"
+    }
+  ]
+}
