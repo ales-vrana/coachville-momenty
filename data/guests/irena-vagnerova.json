@@ -1,0 +1,48 @@
+{
+  "slug": "irena-vagnerova",
+  "displayName": "Irena Vágnerová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 22,
+  "priorProfessionText": "20 let v korporaci (role neuvedena); zaměstnání skončilo rok před natáčením",
+  "priorProfessionCat": "neuvedeno",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "2018 reklama Život jako hra na Facebooku („tu lehkost, to chci“); koučovaná studenty CoachVille; kvůli investici odloženo; víc než 2 000 dní"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "srpen 2023, bez zdůvodnění pro okolí, vnitřní hlas silnější než pochybnosti; první koučování nanečisto na workshopu (15 z 10)"
+    },
+    {
+      "label": "Start",
+      "text": "sen z prvního bloku: uvolnit se; první platby „rozklepané“; kritérium ceny: čas odebraný rodině"
+    },
+    {
+      "label": "Rok od startu",
+      "text": "konec v korporátu po 20 letech oznámený 14 dní předem; hledání práce, maturita dítěte; přizvala si kouče a pokračovala"
+    },
+    {
+      "label": "Dnes (skoro 2 roky, PCC program)",
+      "text": "téměř 300 hodin; hráčky: citlivé ženy v životní změně, management rodiny; „poprvé jsem šťastná“"
+    }
+  ]
+}

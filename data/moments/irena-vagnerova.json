@@ -1,0 +1,291 @@
+[
+  {
+    "id": "iv001",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 1,
+    "endUtt": 1,
+    "quote": "Jo, tak myšlenka úplně nepřišla, byl to spíš takový jako vnitřní tah. Tah za tím, co jsem nevěděla ještě, že potřebuju, ale mě to jako by táhlo. Takže poprvé jsem se s koučováním, neboli s Život jako hra, setkala v roce 2018, kdy na Facebooku jsem... Přesně si pamatuju moment, kdy jsem klikla na reklamu Život jako hra, protože jsem říkala, to chci, tu lehkost, to potřebuju.",
+    "summary": "Nebyla to myšlenka, spíš vnitřní tah za něčím, o čem ještě nevěděla, že to potřebuje. Poprvé se s koučováním, tehdy pod značkou Život jako hra, potkala v roce 2018: přesně si pamatuje moment, kdy na Facebooku klikla na reklamu, protože si řekla „to chci, tu lehkost, to potřebuju“.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň B: první kontakt s datem (2018), bez obavy. Tag 11 stupeň C. Následující promluva 2 (zdravotní historie hosta) je záměrně mimo všechny momenty; nepřenášet do shrnutí ani do profilu."
+  },
+  {
+    "id": "iv002",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 3,
+    "endUtt": 3,
+    "quote": "Tak jsem byla koučovaná studentama z CoachVille a to jsem si strašně užila. Bylo to odlehčující, ano. Ale tenkrát jsem nějak kvůli asi investicím, tak to tak jako nedopadlo a já jsem koučování odložila. A my když jsme se spolu setkali znova v roce 2023 v srpnu, tak jsme spolu oslavili to, že mi to trvalo více jak 2000 dní, než jsem se rozhodla, že budu koučem. On do toho zasáhl covid, ale tak ten smazal hodně času. No, tak takhle jsem začala opravdu už studium v srpnu 2023",
+    "summary": "Nechala se koučovat studenty CoachVille a moc si to užila, bylo to odlehčující. Kvůli investici to ale tehdy nedopadlo a koučování odložila. Když se s Alešem znovu potkali v srpnu 2023, oslavili spolu, že jí trvalo víc než 2 000 dní, než se rozhodla, že bude koučkou; do toho zasáhl covid. Studium začala v srpnu 2023.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "více než 2 000 dní od prvního kontaktu (2018) do startu (8/2023)",
+    "isAdmission": true,
+    "costText": "víc než 2 000 dní odkladu, tehdy kvůli investici",
+    "topics": [
+      "cena-cekani",
+      "kdyz-jsem-videl-cenu",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag D6 stupeň A: cena čekání s číslem (2 000 dní) a s důvodem (investice). Tag 27 stupeň B: reakce na cenu jen jako „kvůli investicím to nedopadlo“. Tag 11 stupeň A: koučovaná studenty před vstupem. Citace záměrně končí před nedokončenou větou o vnějším tlaku; úsek končí na 173 s, před promluvou 4."
+  },
+  {
+    "id": "iv003",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 6,
+    "endUtt": 6,
+    "quote": "Já budu často mluvit dneska o vnitřním hlasu, který tak jako ze mě křičel, ale já jsem ještě tenkrát nevěděla, já jsem to nerozeznávala, že to je můj vnitřní hlas. A on naštěstí, zaplať pámbů, byl tak silnej, že prostě vždycky překřičel všechno ostatní, nějaké pochybnosti, nějaké odůvodňování. A myslím si, že to byl právě ten soulad toho koučování s mým vnitřním hlasem, který si tak jako ladil společně, a tak si jako přitáhlo to koučování s mým vnitřním hlasem. Já jsem tam stála jako na straně a já jsem to jako sledovala, co se děje.",
+    "summary": "Vnitřní hlas z ní křičel, ale tehdy ho ještě nerozeznávala. Naštěstí byl tak silný, že vždycky překřičel pochybnosti a zdůvodňování. Koučování si s ním podle ní ladilo a přitáhlo se; ona stála stranou a sledovala, co se děje.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S8 stupeň B: rozhodnutí bez zdůvodnění, vnitřní hlas silnější než pochybnosti. Štítek názor."
+  },
+  {
+    "id": "iv004",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 8,
+    "endUtt": 9,
+    "quote": "Já ráda říkám, že to byla raketa. Já jsem, no, absolutní jako jízda, protože... Už první ty momenty, kdy se v prvním bloku, který se učíme v transformačním koučování, kdy si pojmenujete svůj vlastní sen, a já jsem nepřipravená řekla, že se chci uvolnit. Tenhle ten sen mě provází po celou dobu, teďka skoro dva roky. Pořád si jdu za tím cílem, pořád ho posouvám, to uvolnění se, a přidávám k tomu další věci, které se tak jako jemně a krásně nabalují. Takže prostě to byl jakoby odrazový můstek do nové éry mého života. Taky říkám, taky druhé půlky života.",
+    "summary": "Začátek byla „raketa“. Hned v prvním bloku transformačního koučování si každý pojmenuje vlastní sen a ona nepřipravená řekla: chci se uvolnit. Ten sen ji provází skoro dva roky, pořád ho posouvá a nabaluje na něj další věci. Odrazový můstek do nové éry, „druhé půlky života“.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 25 stupeň B: konkrétní cvičení z prvního bloku a jeho dlouhodobý efekt, bez situace s cenou. Štítek názor."
+  },
+  {
+    "id": "iv005",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 12,
+    "endUtt": 13,
+    "quote": "Já už jsem si vlastně první, úplně první koučování vyzkoušela na tvém workshopu. To byla, možná si vybavíš, když vlastně se ptáš účastníků workshopu na škále 1 až 10, jak se jim to líbilo, když si vyzkoušejí to koučování v tom breakout roomu. Já jsem ti tam do toho chatu hlásila vždycky 15. Takže bylo to ano, uvolňující, protože ono se to",
+    "summary": "Úplně první koučování si vyzkoušela na Alešově workshopu v breakout roomu. Když se účastníků ptal na škále 1 až 10, jak se jim to líbilo, hlásila do chatu vždycky 15. Bylo to uvolňující a otevírající, vzájemnost s hráčem i se sebou; ty pocity vidí i zpětně.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "na škále 1 až 10 hlásila 15",
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: první koučování nanečisto na workshopu před vstupem. Tag 26 stupeň B: první setkání bez strachu, s pocitem."
+  },
+  {
+    "id": "iv006",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 21,
+    "endUtt": 23,
+    "quote": "Já si úplně poprvé jako nepamatuju. Bylo to určitě v tom období, kdy si oslovujeme svoje první hráče, a je to takový jako rozklepaný, že vůbec jakože, aha, jako jo, tak on někdo platí za to. Takže samozřejmě přicházíš jako, že jestli vůbec ti někdo za to zaplatí a kolik, ale jako jo, zaplatí, protože ta hodnota, kterou ty dáváš, je dost podobná, jako ty jsi dostával, nebo jako já jsem dostávala během koučování i těch prvních koučování, co jsem prožívala ve výcviku. Takže...",
+    "summary": "Úplně první platbu si nepamatuje; bylo to v období oslovování prvních hráčů, „rozklepané“: aha, někdo za to platí. Přichází otázka, jestli vůbec někdo zaplatí a kolik. Zaplatí, protože hodnota, kterou dává, je podobná té, kterou sama dostávala při prvních koučováních ve výcviku. Vzájemná výměna energie.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "prvni-penize",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 5 stupeň C: první platba bez data i částky. Tag 4 stupeň B: zdůvodnění, proč platí. Štítek názor."
+  },
+  {
+    "id": "iv007",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 25,
+    "endUtt": 31,
+    "quote": "Mně se to tam hodně střídalo s tím, že přesně nějaký vnitřní já má jasno. Tam je to bezpodmínečný, tam prostě já do toho dávám energii, já mám ty znalosti, já jsem prošla výcvikem, není co obhajovat. A samozřejmě přijdou ty malé pošklebné zvuky. Já jsem s tím pracovala tak, že jsem si to dala do roviny času a mojí rodiny, a kolik času já chci dělat to, co chci, být s tím, s kým chci být, a jak je to pro mě cenný, když vlastně místo toho budu s někým jiným a budu dávat tu energii, ten čas někomu jinému. Takže to byla asi pro mě ta rovina, která mi hrozně pomohla v tom mít jasno, že za to potřebuji dostat nějaké peníze.",
+    "summary": "Chvíli jí trvalo naučit se, že do setkání dává energii a nemá bezednou studnu; koučování jí pomáhá i nabíjet, ale jen vydávat nemůže. Druhý přichází pro podporu a provázení, takže musí přijít výměna; směnný obchod fungoval odpradávna. Pochybnosti se střídaly s vnitřním jasnem: mám znalosti, prošla jsem výcvikem, není co obhajovat. Pomohlo dát to do roviny času a rodiny: kolik času chce dát komu, a co ji stojí, když ho dá někomu jinému. Z toho bylo jasno, že za to potřebuje peníze.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "chvíli trvalo přijmout, že za koučování má dostat zaplaceno; „malé pošklebné zvuky“",
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A pro vlastní kritérium ceny (čas odebraný rodině), bez částky. Tag S8 stupeň B. Úsek obsahuje otázku tazatele (29), 173 s."
+  },
+  {
+    "id": "iv008",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 34,
+    "endUtt": 43,
+    "quote": "A teď se dostali do životní fáze, kde najednou je něco jinak, a oni vědí, že potřebují změnu a cítí, že ta odolnost, kterou doteďka měli, by opravdu mohla zase fungovat zpátky pro ně, je to jejich taková jako superschopnost, a jenom potřebují pomoc na té cestě ji znovu vymotat z toho utaženýho klubíčka vlny, jak je strašně jako stažený, namačkaný do sebe, a oni nevědí, za který konec zatáhnout, kde je ten koneček, kde se rozmotá to klubíčko.",
+    "summary": "Setkává se hlavně s velmi citlivými ženami, občas s citlivými muži: lidmi, kteří byli dosud odolní, a teď jsou v životní fázi, kdy je něco jinak; vědí, že potřebují změnu, a chtějí svou odolnost zase vymotat z utaženého klubíčka vlny, kde nevědí, za který konec zatáhnout. Hráči přicházejí se „starými programy“, které chtějí přepsat, s tématy vztahů v rodině a management rodiny.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň C: segment hráčů a témata, bez ceny a počtu. Úsek obsahuje repliky tazatele (38, 40), 188 s. Štítek názor."
+  },
+  {
+    "id": "iv009",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 50,
+    "endUtt": 52,
+    "quote": "Já budu mít velmi osobní doporučení a možná neoslovím všechny, kdo budou poslouchat ten podcast. Já mám doporučení, že jakmile nemůžete najít důvod pro to, proč se stát koučem, který byste dali těm ostatním a vysvětlili jim, hele, já potřebuju, já chci bejt, já přemýšlím o koučování proto... Pokud ten důvod nemáte, tak věřte, že asi nejspíš je to to pravý a vy se tím koučem máte stát. Tak tohle byla moje cesta a mně se to pořád opakovaně potvrzuje, takže to je moje doporučení.",
+    "summary": "Velmi osobní doporučení: pokud nemůžete najít důvod, proč se stát koučem, který byste vysvětlili ostatním, věřte, že to nejspíš je to pravé. Ona zdůvodnění nepotřebovala ani pro sebe; otázky „bude to vydělávat, zvládnu to, nebudu vypadat blbě, nebudou se mi smát“ vůbec neprobíhaly, protože vnitřní hlas byl silnější.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhala stupeň B: opak většiny hostů, rozhodnutí bez zdůvodnění; obavy vyjmenované jako to, co neproběhlo. Úsek obsahuje repliku tazatele (51). Štítek názor."
+  },
+  {
+    "id": "iv010",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 57,
+    "endUtt": 62,
+    "quote": "Štěstí. Já poslední dobou říkám častěji, možná jako po dlouhý době, jakože poprvé jako nějak, že jsem šťastná. A já neříkám, že jsem měla nějaký špatný život těch 20 let v korporátním prostředí, ale já jsem to vůbec necítila, že jsem u sebe, že si to užívám. Prostě jsem jako žila něco. A teď jsem šťastná.",
+    "summary": "Dalo jí to uvolnění, které si pojmenovala na začátku studia, pocit doma a štěstí. Poslední dobou říká častěji, možná poprvé, že je šťastná. Neříká, že měla špatný život těch dvacet let v korporátu, ale necítila, že je u sebe a že si to užívá; „prostě jsem žila něco“. Korporát se dá docela v pohodě přežít, ale právě jen přežít.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň B: co se změnilo vnitřně, s časem (20 let); vnější změna je v iv012. Tag 11 stupeň C. Úsek obsahuje repliku tazatele (61)."
+  },
+  {
+    "id": "iv011",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 72,
+    "endUtt": 73,
+    "quote": "Žití těch teoretických rad, teoretických informací, uvádění do praxe, protože třeba já jsem dost často slyšela od manžela, že ty věci, které si zjišťuju, mám jako mantry, a teď je jako opakuju, a teď ale nežiju to. A za mě poprvé teďka, s tím objevováním sebe sama, přichází to, že pokud je nějaká ta informace, kterou já chci žít, tak ji teprve dostávám teďka jako příležitostí žít.",
+    "summary": "Rozdíl mezi klasickým seberozvojem a koučováním je pro ni propojení: žít teoretické rady, převádět informace do praxe. Od manžela často slýchala, že věci, které si zjišťuje, má jako mantry, opakuje je, ale nežije. Teprve teď s objevováním sebe sama dostává informaci, kterou chce žít, jako příležitost ji žít.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "co-rekl-partner"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 25 stupeň B: co musela sama (žít to, ne opakovat). Tag 16 stupeň C: partnerova věta se týká seberozvoje, ne rozhodnutí o výcviku. Předchozí promluva 71 (zdravotní zmínka) je záměrně mimo úsek. Štítek názor."
+  },
+  {
+    "id": "iv012",
+    "episode": "irena-vagnerova",
+    "guest": "irena-vagnerova",
+    "startUtt": 90,
+    "endUtt": 94,
+    "quote": "Dneska před rokem jsem se dozvěděla, že za 14 dní končím v korporátu. Wow, gratuluju. Ano, a prostě dalo mi to tu možnost si ulehčit. A i přes komplikace života, přes hledání práce, vytváření nový struktury svýho života vůbec. Do toho prostě další aktivity v rodině jako maturita dítěte, různý jako třeba rodinný vztahy, tak tohle to všechno já jsem měla zvládat buď to sama, anebo s někým. A zase tam asi jako zaplať pámbů zafungovalo to vnitřní já a řeklo, hele, pojď, někoho přizvi a dáš to, nebude to lehký, ale dáš to.",
+    "summary": "Rok před natáčením se dozvěděla, že za 14 dní končí v korporátu, po 20 letech. Výcvik jí dal možnost si to ulehčit: přes komplikace, hledání práce a tvorbu nové struktury života, a k tomu rodinu, maturitu dítěte, vztahy. Mohla to zvládat sama, nebo s někým; vnitřní já řeklo: přizvi někoho, nebude to lehké, ale dáš to. I v té životní těžkosti cítí lehkost a je šťastná.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "konec v korporátu po 20 letech oznámený 14 dní předem, rok před natáčením",
+    "isAdmission": true,
+    "costText": "ztráta zaměstnání po 20 letech uprostřed výcviku, hledání práce, maturita dítěte",
+    "topics": [
+      "kdyz-vstoupi-zivot",
+      "co-se-muselo-zmenit",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag R5 stupeň A: konkrétní událost (konec zaměstnání) uprostřed výcviku, co udělala (přizvala kouče, pokračovala). Tag 33 stupeň A. Tag 21 stupeň B: byla zaměstnaná první rok výcviku. Úsek začíná promluvou 90, aby vynechal větu v 89 o duševním zdraví; nepřenášet. Obsahuje repliku tazatele (91)."
+  }
+]
