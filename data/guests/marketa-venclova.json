@@ -1,0 +1,50 @@
+{
+  "slug": "marketa-venclova",
+  "displayName": "Markéta Venclová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 36,
+  "priorProfessionText": "ředitelka neziskové organizace v cestovním ruchu; koučuje přes tři roky vedle vedení organizace; třetím rokem v komunitě CoachVille",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=Mark%C3%A9ta%20Venclov%C3%A1",
+      "label": "LinkedIn pod jménem (z rozhovoru, přesný profil neověřen)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "ředitelka neziskové organizace v cestovním ruchu; životní heslo „to musíš vydržet“; knihy a kurzy seberozvoje s malým efektem"
+    },
+    {
+      "label": "Start",
+      "text": "výcvik začal v době covidu, byl pro ni balzám; první koučovací otázka „jaká bys chtěla být“ ji rozčílila"
+    },
+    {
+      "label": "Rozcestí",
+      "text": "po prvním stupni váhavé období: peníze (nevydělávala dost) a čas; po čase pokračovala, nelituje"
+    },
+    {
+      "label": "Dnes (přes 3 roky)",
+      "text": "koučuje vedle vedení organizace, chce být profesionální koučkou vlastním tempem; zařizuje si doma koučovnu; témata rovnováha práce a život"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+[
+  {
+    "id": "mv001",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 5,
+    "endUtt": 12,
+    "quote": "Proto mě to tak strašně oslovilo. A jednoduše řečeno, ten můj život se řídil heslem, to musíš vydržet. A je to v pořádku. To se prostě tak ti děje, jo, to prostě tak je, a vlastně se máš dobře. A takže to bylo takový nalhávání si vlastně toho, že je všechno dobrý a že někteří se mají ještě hůř a že je dobrý to vydržet, protože to je vlastně ten cíl. Takhle jsem asi byla vychovaná zkrátka, jo, jakože nestěžovat si a vydržet to. Tak asi si dovedeš, Aleši, představit, o jakým obrovským objevům a věcem muselo docházet, když mě někdo potkal, svůj kouč, když mi řekl, jaká bych chtěla být, jaké bych chtěla mít charakterové vlastnosti. Tak jsem byla chvíli ticho a říkám mu, no, co to je jako za otázku? Teď to přece jako nejde. Teď si to přece nemůžu, jako proč se mě na to ptáš, když to je přece daný, v tom se každý takhle narodíme, a je to tak, a já nezměním ani sebe, ani ostatní, a prostě to tak je a jenom ten život nějak prostě uplyne a nějak to je důležitý to vydržet. A vlastně jsem se i trošku rozčílila, říkala jsem si, co to je, jako je to blbost, jako to fakt nejde. No ale pak on na tom trval, ať mu to teda jako fakt řeknu. No takže jsem mu to řekla, no, i když jsem tomu prostě nevěřila. No a prostě teď jsem svědkem toho, že nejen já, ale i moji klienti zažívají tyhle věci, kdy se mění oni sami, mění se jejich okolí, a je to něco, co si nedokázali třeba vůbec představit, jak by to mohlo být, a jsou to prostě úžasné věci. A mně to znělo jako sci-fi nebo jako nějaká magie, nebo já nevím, něco. Prostě člověk, který to nezažije nebo je tím takzvaně nepolíben, tak mu to asi tak přijde. Nebo že v tom jsou nějaké čáry, kouzla, ezoterika, nebo já nevím, všechno možný. Nebo že to prostě jednoduše není pravda.",
+    "summary": "Do koučování šla s tím, že si díky němu začne plnit sny; první objev bylo uvědomění, že může něco ve svém životě ovlivnit. Její život se do té doby řídil heslem „to musíš vydržet“, tak byla vychovaná. Když se jí kouč zeptal, jaká by chtěla být a jaké charakterové vlastnosti by chtěla mít, chvíli mlčela, rozčílila se, že to přece nejde, a odpověděla, jen když na tom trval. Dnes vidí totéž u svých klientů: mění se oni i jejich okolí. Nezasvěcenému to zní jako sci-fi nebo ezoterika, přitom je to jednoduché a účinné.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň B: konkrétní změna vnitřního nastavení („musíš vydržet“ → „můžu ovlivnit“), bez čísel a času. Tag Koučovský typ stupeň C: startovní nastavení proti koučování, naučitelnost jen naznačena."
+  },
+  {
+    "id": "mv002",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 18,
+    "endUtt": 20,
+    "quote": "Na to si vzpomínám velmi dobře. Bylo to pro mě vlastně takový to očekávání, co bude, jako předtím, takže to je vždycky takový ten nejhezčí pocit, takového toho štěstí, jako co z toho bude, co dalšího se naučím. Takže to mám ráda. Pamatuju si na to, že to bylo vlastně v době covidu, to začalo, kdy se všechno zavřelo, a pro mě to byl prostě balzám, bylo to super, všechny ty tréninky, a že jsem vlastně celým tím obdobím proplula úplně skvěle a těšila jsem se na každej ten výcvik. No a prostě skvělá atmosféra, to sdílení, ta svoboda. Těžko se to popisuje, já si myslím, že to chce prostě zažít.",
+    "summary": "Na start výcviku vzpomíná dobře: očekávání, co bude a co se naučí. Začalo to v době covidu, kdy se všechno zavřelo, a výcvik pro ni byl balzám. Celým obdobím proplula skvěle a na každý trénink se těšila: atmosféra, sdílení, svoboda. Těžko se to popisuje, chce to zažít.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň C: výcvik jako opora v období covidu, bez popisu stavu před (spánek, hodiny). Tag Vedle práce stupeň C: ředitelka ve výcviku během covidu, bez hodin týdně."
+  },
+  {
+    "id": "mv003",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 22,
+    "endUtt": 28,
+    "quote": "No, ovlivněno je to tak, že dávám větší prostor pro to, aby něco vznikalo společně, abychom jako společně tvořili, a funguje to výborně. Velký objev pro mě bylo i takové to nehodnotící uvědomění vlastně. To je skvělý nastavení, to, že já jsem se naučila nehodnotit situace, osoby ve svém blízkém okolí. No a taky hlavně sebe. To taky jako není úplně, to je možná to nejtěžší. A takže teď přemýšlím, v čem nejvíc mi to pomohlo. No, možná se tady už opakuju, no, pořád je to o nějaké lehkosti, nadhledu toho, že ty věci plynou jednodušeji, to znamená, ze složitého je to jednodušší. Něco, co mi dřív třeba bralo energii, tak mi to teď tu energii vlastně může i dát dokonce. To jsem si nedovedla třeba představit. Když přijde nějaká překážka nebo výzva, nebo něco prostě složitýho, tak je nádherný vidět, že se to dá prostě obrátit ve skvělou příležitost. A to mě strašně baví.",
+    "summary": "Jako ředitelka dává větší prostor tomu, aby věci vznikaly společně s týmem, a funguje to výborně. Velký objev bylo nehodnotící uvědomění: naučila se nehodnotit situace, lidi v okolí a hlavně sebe, což je možná nejtěžší. Věci plynou jednodušeji. Co jí dřív bralo energii, jí ji dnes může i dát: překážka se dá obrátit v příležitost. Vymizely momenty vzdychání a starostí, jak to bude; hned hledá cestu a zkouší to.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň B: manažerka popisuje změnu vedení týmu (spolutvorba, nehodnocení), bez konkrétní pracovní situace. Tag 30 stupeň B: energie z překážek, konec „vzdychání“. Aleš to v 29 shrne jako změnu z obav z budoucnosti na její tvorbu."
+  },
+  {
+    "id": "mv004",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 32,
+    "endUtt": 35,
+    "quote": "Já myslím, že důležitý moment byla fáze pro mě, kdy jsem měla ukončený vlastně ten výcvik toho prvního stupně, tu jedničku, a šla jsem jako a věděla jsem, že chci pokračovat, ale vlastně tak nějak jako pořád jsem nevěděla jak. A hledala jsem nějaký... Kdy to bude nejlepší, tak jsem tam trošku měla takový váhavý období. A tu chvíli jsem si vůbec nedovedla představit, jak to udělat. No a vlastně po nějakým čase se to stalo, takže to bylo pro mě určitě velmi důležitý. A co mi tam pomohlo? Nevím, prostě se stal nějaký zázrak. Když jsem to nechala nějak plynout, řešila jsem to i vlastně z toho finančního hlediska, že v té době jsem si ještě nevydělávala tolik, abych si to mohla dovolit, že ten trénink něco stojí, ale je to zcela v pořádku, takže to tam nějak bylo. Pak jsem řešila, jestli si to můžu dovolit z hlediska času a tak dále. A teď zpětně, když se na to podívám, tak tak se to stalo tak, jak mělo, a vůbec toho nelituju, a je to super. Takže myslím si, že pro mě je každej okamžik klíčový, když se rozhoduju, co se týče toho vzdělávání, nějaký stupeň dál a víc, tak to považuji jako za klíčový.",
+    "summary": "Důležitý moment její cesty: po ukončení prvního stupně věděla, že chce pokračovat, ale nevěděla jak a kdy, a měla váhavé období. Řešila to i finančně, v té době si ještě nevydělávala tolik, aby si výcvik mohla dovolit, a řešila, jestli si to může dovolit časově. Po nějaké době se to stalo, nelituje toho a každé rozhodnutí o dalším stupni vzdělávání považuje za klíčové.",
+    "proofElements": [
+      "situace",
+      "cena",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "váhavé období po prvním stupni: peníze (nevydělávala dost) a čas",
+    "topics": [
+      "proc-jsem-vahal",
+      "co-bylo-tezsi",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Proč jsem váhal stupeň A: pojmenované důvody váhání (finance, čas) a výsledek. Tag Co bylo těžší stupeň B: přiznání váhavého období s pojmenovanou cenou (peníze, čas), bez délky. Tag 27 stupeň B: cena jako důvod odkladu, bez částky a bez kritéria. Způsob platby neuvádí; nedoplňovat."
+  },
+  {
+    "id": "mv005",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 37,
+    "endUtt": 39,
+    "quote": "Myslím si, že z mýho pohledu a z mých zkušeností to je věc, které nebude litovat. A která se může, ale nemusí taky odkládat. A určitě bych vzkázala, že pokud někdo pochybuje nebo váhá, nebo je v té fázi, tak ať se rozhodne, že ano. Pokud se rozhodne, že ano, tak to bude správný rozhodnutí. A neznám nikoho, kdo by to nějak nezužitkoval ve svým životě, tohleto, protože to pomůže, ať už se podaří, nebo nepodaří vybudovat nějakou koučovací praxi. Tak jsem to tak i brala, že to je prostě investice do mě, do mého života, do mého myšlení, do mého budoucího života. To se prostě určitě vyplatilo. Já jsem zažila i různý kurzy.",
+    "summary": "Tomu, kdo pochybuje nebo váhá, vzkazuje, že podle její zkušenosti je to věc, které nebude litovat, a která se může, ale nemusí odkládat. Nezná nikoho, kdo by to ve svém životě nezužitkoval, ať už se koučovací praxi podaří vybudovat, nebo ne. Brala to jako investici do sebe, do svého myšlení a budoucího života; vyplatilo se to. Zažila i různé kurzy.",
+    "proofElements": [
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "cena-cekani",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Cena čekání stupeň C: názor, že odklad není nutný, bez vlastní vyčíslené ceny čekání. Tag Proč jsem váhal stupeň B: rámec „investice do sebe“. Úsek končí před promluvou 40 (osobní zmínka o terapii mimo momenty), srovnání s kurzy je ve 39."
+  },
+  {
+    "id": "mv006",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 42,
+    "endUtt": 44,
+    "quote": "No, chtěla jsem se stát profesionálním koučem a chci. Pořád to trvá, akorát ta moje cesta má nějaký svoje tempo a pořád se k tomu přibližuji víc a víc. Třeba dneska, když jsem si zapnula zoom na tenhle rozhovor, tak jsem si uvědomila, že se k té cestě posunu třeba i tím, že jsem si tady vytvořila takovou místnost ve svým bytě, svoji koučovnu, která teď ještě není úplně zařízená, ale brzy už bude, a teď tady mám vlastně takovou koučovací, nebo koučovací, teď není to koučovací, ale prostě premiéru, která se týká koučování v tomhle přenosu. Takže to je třeba jeden z těch viditelných posunů nebo hmatatelných, o důkaz toho, že se ta cesta vyvíjí.",
+    "summary": "Do výcviku vstupovala s tím, že se stane profesionální koučkou, a pořád to chce. Její cesta má vlastní tempo a přibližuje se k tomu víc a víc. Při zapnutí zoomu na rozhovor si uvědomila, že si doma vytvořila vlastní místnost, koučovnu, která ještě není zařízená, ale brzy bude; rozhovor je pro ni premiéra. Hmatatelný důkaz, že se cesta vyvíjí.",
+    "proofElements": [
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jina-cesta-nez-skola-ukazovala",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 19 stupeň B: po třech letech stále „na cestě“ k profesionální praxi, vlastní tempo; poctivé. Tag 21 stupeň B: ředitelka koučuje vedle vedení organizace tři roky, bez rozsahu praxe."
+  },
+  {
+    "id": "mv007",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 46,
+    "endUtt": 49,
+    "quote": "No, baví mě témata třeba, když řešíme věci, které se týkají nějakého životního balancu nebo třeba nějaké vyrovnání mezi pracovním a soukromým životem, to, jak to prostě ovlivňuje ty jednotlivé sféry. A je krásný slyšet, když mám třeba hráče, který je takovým prototypem toho, kdo jede prostě po nějakém výkonu, a to, že třeba neodpočívá, nebo to, že si nedává čas pro sebe, tak se to pak třeba objevuje na jeho stavech. A hrozně hezký je, když pak třeba slyším, že já se mám jako skvěle, tohle se mi povedlo, a řekne, a já už nechci být první. Já jsem si teď uvědomil, že nejsem první, a je to vlastně ta výhra. Takže baví mě na tom ty paradoxy vlastně, ale u každého je to samozřejmě jinak. U každého to funguje jinak, ale asi nejvíc mě baví nacházení právě harmonizace vztahů, které vlastně my třeba vůbec neřešíme. Řešíme pracovní život, ale to, že to potom ovlivňuje ten spokojený rodinný život a vztahy, tak to je pro mě asi nejzajímavější.",
+    "summary": "Baví ji témata životní rovnováhy mezi prací a soukromím a to, jak ovlivňují jednotlivé sféry. Má hráče, kteří jedou na výkon, neodpočívají a nedávají si čas pro sebe, a projevuje se to na jejich stavech. Pak slyší: „já už nechci být první, a to je vlastně ta výhra.“ Baví ji paradoxy a harmonizace vztahů, které při řešení práce vůbec neřešíme, a přitom ovlivňují rodinný život.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13 stupeň C: specializace (rovnováha práce a život, vztahy) jako důvod, proč si ji klient vybere, není řečeno výslovně. Klienti bez jména a bez detailů."
+  },
+  {
+    "id": "mv008",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 53,
+    "endUtt": 55,
+    "quote": "No, vlastně už při tom výcviku jsem zažívala různé změny nebo různé aha momenty, které se týkají třeba komunikace právě i v rodině, i s dětmi. A takže ono je to jako aplikovatelný vlastně i do osobního života, do čehokoliv. A je to prostě o uvědomění si nebo uvědomování si sebe sama, o práci prostě na sobě. A je prostě hrozně hezký vidět, jak skrz sebe člověk mění ty ostatní, takže takový to nastavení. A to nastavení, někdy i já jsem dřív taková byla, že jsem měla pocit, že něco v tom mým okolí je špatně. A tohleto byla taky velká věc, to, že člověk to prostě pustí a dělá to, co může ovlivnit, čili pracuje sám se sebou, rozhoduje se a volí si to, jak se bude zachovávat v různých situacích. A to potom prostě nastartuje nebo může nastartovat ty změny.",
+    "summary": "Už při výcviku zažívala aha momenty v komunikaci v rodině i s dětmi; je to aplikovatelné do osobního života, do čehokoliv. Skrz sebe člověk mění ostatní. Dřív měla pocit, že něco v jejím okolí je špatně. Velká věc bylo to pustit a dělat to, co může ovlivnit: pracovat sama se sebou, rozhodovat se a volit, jak se v situacích zachová. To nastartuje změny.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň B: co se změnilo (přestala opravovat okolí), bez konkrétní situace. Tag 22 stupeň C: přenos do rodiny, ne do práce."
+  },
+  {
+    "id": "mv009",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 57,
+    "endUtt": 58,
+    "quote": "Hele, nejvíc. Mě nejvíc baví na tom to spojení s tou intuicí, nebo s tím, že to prostě jako proudí nějak, to, že to využívá ten přítomnej okamžik. A baví mě ty krásný chvíle, krásný okamžiky, který já zažívám s těmi klienty. A baví mě to, že můžu být u toho, když se jim mění ty jejich životy, když zažívají prostě taková malá nebo i velká vítězství, a to, že jim můžu v tom pomoct, tak to je pro mě asi největší odměna. To bych řekla, že asi pro každého kouče. A vlastně mě to i dobíjí energií, dá se říct, jo, takže to je takový, to se jako málokdy stane, že by člověk dělal něco, co je takový jako samonabíjecí.",
+    "summary": "Nejvíc ji baví spojení s intuicí, přítomný okamžik a krásné chvíle s klienty. Být u toho, když se jim mění životy a zažívají malá i velká vítězství, je pro ni největší odměna. A dobíjí ji to energií: málokdy člověk dělá něco, co je „samonabíjecí“.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň C: koučování jako zdroj energie, bez stavu před. Aleš v 60 dodává, že to není na pracovním trhu běžné."
+  },
+  {
+    "id": "mv010",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 62,
+    "endUtt": 64,
+    "quote": "Dává to obrovský smysl, protože tam je prostor prostě pro podporu, pro navázání prostě vztahů, inspiraci. A je to super, jako vlastně si strašně moc rozumíme, aniž bychom se třeba znali tak důkladně nebo se tak často potkávali. A nejlepší jsou samozřejmě ty živá setkání, které teď za chvilku vlastně bude. A je to strašně inspirativní a skvělý. A jestli si pamatuji, když jsem byla na první akci, tak jsem z toho měla trošku obavy, protože tam vlastně skoro nebyli moc lidé z toho mého kurzu, který jsem znala, takže jsme se vlastně skoro vůbec neznali, jenom prostě pár. A ty jsi mi říkal, že to bude báječný. A no, to báječný... Bylo to ještě lepší než báječný. Bylo to super. Cítila jsem se prostě jako doma. Jako v rodině. Prostě jsme si rozuměli úplně. Skvělé.",
+    "summary": "Komunita jí dává obrovský smysl: prostor pro podporu, vztahy, inspiraci. Lidé si rozumí, i když se neznají důkladně; nejlepší jsou živá setkání. Z první akce měla obavy, protože tam skoro nebyl nikdo z jejího kurzu. Aleš jí řekl, že to bude báječné; bylo to ještě lepší, cítila se jako doma, jako v rodině.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 25 stupeň B: co dostala od školy (komunita, živá setkání) a obava před první akcí. Co musela sama, tu nezaznívá."
+  },
+  {
+    "id": "mv011",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 68,
+    "endUtt": 75,
+    "quote": "Já děkuju moc za tuhle otázku, protože já jsem se tímhle tím vším přesně prošla, těmi knihami a různými kurzy a tak dále. A je to prostě diametrálně jiné. A řekla bych, jestli třeba nebo jestli nějaká kniha, přednáška, kdybych to vyjádřila třeba procentuálně, tak to mi pomohlo třeba z 5 % a koučování mi pomohlo z 95 nebo ze 100 %. Je to úplně něco jiného. Ale ono to vlastně, když se na to podíváme, tak nevím, jak jsem já mohla být dřív přesvědčená o tom, že to může nějak pomoct, nebo jsem měla nějaká očekávání, protože teď mi přijde logické, protože je to individualizované na rozdíl od všech těchto věcí. Protože i v těch knihách tam jsou nějaké věci univerzální, hlavně [nesrozumitelné], není tam praxe. A takže je to úplně něco jiného. Ty jsi tam, je to všechno pro tebe, jako pro toho hráče, všechno se to vlastně jako přizpůsobuje jenom tobě, máš vedle sebe experta, který se zabývá jenom tebou a tvými myšlenkami, takže jste vlastně na to dva, tím si to jako znásobíš vlastně. Takže logicky to musí mít mnohem větší účinek. A řešíš tam i ty věci, který ty potřebuješ tu chvíli. Takže je to prostě několikanásobně mnohem efektivnější a rychlejší. Proto se dosahuje těch výsledků tak rychle oproti těm jiným věcem. Nebo vůbec nějakých se dosahuje. Nebo to fungovalo jenom chvíli. Buď to ani nenastalo, nebo to časem vyprchalo. Ještě... To koučování prostě přináší trvalý změny. V tom je i ten rozdíl.",
+    "summary": "Prošla knihami i různými kurzy a koučování je diametrálně jiné: kniha nebo přednáška jí pomohly z 5 %, koučování z 95 nebo 100 %. Dnes jí to přijde logické: je to individualizované, v knihách jsou univerzální věci a chybí praxe. Při koučování je expert, který se zabývá jen tebou a tvými myšlenkami, jste na to dva a řešíš, co potřebuješ právě teď. Proto jsou výsledky rychlejší. U jiných věcí výsledek buď nenastal, nebo časem vyprchal; koučování přináší trvalé změny.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "kniha nebo přednáška 5 %, koučování 95 až 100 % (vlastní odhad hostky)",
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing",
+      "uz-jsem-se-spalil"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Jen marketing stupeň A: hostka sama prošla knihami a kurzy s malým efektem, popíše rozdíl. Tag 29 stupeň B: kurzy a knihy jako to, co nefungovalo, bez konkrétního produktu. Procenta jsou subjektivní odhad, ne měření."
+  },
+  {
+    "id": "mv012",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 77,
+    "endUtt": 77,
+    "quote": "Ale to mě ani nenapadlo. Myslím si, že je to asi lepší než nic. Ale to, jak bych to vysvětlila, proč si myslím, že to nemůže fungovat, no, není tam nějaký takový nadhled, odstup, logicky nemůže být, že jo. Ten kouč ti dává nějakou podporu nebo výzvu, kterou ty si sám nedokážeš tu chvíli dát.",
+    "summary": "Sebekoučování ji ani nenapadlo; je to asi lepší než nic, ale nemůže to fungovat, protože tam chybí nadhled a odstup. Kouč dává podporu nebo výzvu, kterou si člověk sám v té chvíli dát nedokáže.",
+    "proofElements": [
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Jen marketing stupeň C: názor na sebekoučování, bez zkušenosti. Krátký úsek (39 s)."
+  },
+  {
+    "id": "mv013",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 79,
+    "endUtt": 79,
+    "quote": "Jo, je, určitě. Nevím, jestli to řeknu úplně přesně, ale to, co já teď zažívám, a to, co je něco, co mě inspiruje, o čem se přesvědčuju stále víc, tak je to takové to motto. Jakože udělat ten první krok, kterýho se bojím, je vlastně ten první krok k úspěchu. To je to, co mě inspiruje.",
+    "summary": "Její motto, o kterém se přesvědčuje stále víc: udělat první krok, kterého se bojím, je první krok k úspěchu.",
+    "proofElements": [
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag Sebedůvěra stupeň C: motto, ne popis vlastního vývoje sebedůvěry. Krátký úsek (33 s)."
+  },
+  {
+    "id": "mv014",
+    "episode": "marketa-venclova",
+    "guest": "marketa-venclova",
+    "startUtt": 84,
+    "endUtt": 86,
+    "quote": "No, já bych doporučila se podívat na to, jakým prošel výcvikem, jestli to je akreditovaný výcvik, jestli je to součástí Mezinárodní asociace koučů, jestli má nějaké odkoučované hodiny a jestli má nějaké reference. A taky bych se třeba podívala na to, jestli se specializuje třeba na něco, co já potřebuju taky jako klient. Dobrá, dobrá. Pak bych si ho vyzkoušela, a pak bych zjistila, jestli je mi to příjemný. Si myslím, že to bude určitě, pokud tyhle kritéria projdou, ale tak jestli mi je to příjemný nebo hodně příjemný. A jestli je to ono, to se prostě potom pozná.",
+    "summary": "Jak si vybrat kouče: podívat se, jakým prošel výcvikem, jestli je akreditovaný a součástí mezinárodní asociace koučů, jestli má odkoučované hodiny a reference. Pak jestli se specializuje na to, co klient potřebuje. Potom ho vyzkoušet a zjistit, jestli je to příjemné, nebo hodně příjemné; jestli je to ono, se pozná.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "k-cemu-papir",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 14 stupeň B: k čemu je papír z pohledu klienta (akreditace, asociace, hodiny, reference). Tag 13 stupeň C: jak se odlišit ve výběru."
+  }
+]
