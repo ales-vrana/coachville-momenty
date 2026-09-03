@@ -34,16 +34,17 @@ export default function PartnerPage() {
       <section className="card p-5">
         <Denominator d={d} tiles={false} unknownLine={false} />
         <p className="mt-2 text-sm text-muted">
-          Čísla pocházejí z písemných zápisů studentů v komunitě školy, ne z dotazníku spokojenosti.{" "}
-          <a href={site.links.coachReviews} className="underline" target="_blank" rel="noopener">
-            Písemné zkušenosti koučů
-          </a>{" "}
-          a{" "}
-          <a href={site.links.clientReferences} className="underline" target="_blank" rel="noopener">
-            reference klientů
-          </a>{" "}
-          jsou k nahlédnutí celé.
+          Čísla pocházejí z písemných zápisů studentů v komunitě školy, ne z dotazníku spokojenosti. Písemné zkušenosti koučů a
+          reference koučovaných klientů jsou k nahlédnutí celé:
         </p>
+        <div className="mt-3 flex flex-wrap gap-2">
+          <a href={site.links.coachReviews} className="btn-primary" target="_blank" rel="noopener">
+            Písemné zkušenosti koučů ↗
+          </a>
+          <a href={site.links.clientReferences} className="btn-primary" target="_blank" rel="noopener">
+            Reference koučovaných klientů ↗
+          </a>
+        </div>
       </section>
 
       <section className="card space-y-4 p-5">

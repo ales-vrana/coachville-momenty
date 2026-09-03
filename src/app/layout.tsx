@@ -43,6 +43,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <Link href="/pro-partnera" className="hover:text-teal-deep">
                 Pro partnera
               </Link>
+              <a href={site.links.coachReviews} className="hidden hover:text-teal-deep md:inline" target="_blank" rel="noopener">
+                Zkušenosti koučů
+              </a>
+              <a href={site.links.clientReferences} className="hidden hover:text-teal-deep md:inline" target="_blank" rel="noopener">
+                Reference klientů
+              </a>
               {SHOW_TERMS_LINKS && (
                 <Link href="/podminky-poctive" className="hover:text-teal-deep">
                   Podmínky
@@ -57,7 +63,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             <Logo inverse />
             <p>{site.footer.operator}</p>
             <p>{site.footer.consentNote}</p>
-            <p className="flex flex-wrap gap-x-5 gap-y-1 border-t border-white/15 pt-4">
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-3 border-t border-white/15 pt-4">
               {SHOW_QUESTIONS_LINK && (
                 <Link href="/otazky-pro-hosty" className="text-white underline decoration-teal hover:text-teal">
                   Otázky, které dostává každý host
@@ -68,13 +74,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
                   Podmínky poctivě
                 </Link>
               )}
-              <a href={site.links.coachReviews} className="text-white underline decoration-teal hover:text-teal" target="_blank" rel="noopener">
-                Písemné zkušenosti koučů
+              <a href={site.links.coachReviews} className="btn-primary" target="_blank" rel="noopener">
+                Písemné zkušenosti koučů ↗
               </a>
-              <a href={site.links.clientReferences} className="text-white underline decoration-teal hover:text-teal" target="_blank" rel="noopener">
-                Reference klientů
+              <a href={site.links.clientReferences} className="btn-primary" target="_blank" rel="noopener">
+                Reference koučovaných klientů ↗
               </a>
-            </p>
+            </div>
             <p className="text-xs text-white/50">CoachVille Europe · jediná škola v ČR/SK s ICF Level 3 akreditací · od roku 2001</p>
           </div>
         </footer>
