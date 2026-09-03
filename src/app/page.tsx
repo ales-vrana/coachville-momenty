@@ -97,6 +97,14 @@ export default function Home() {
           .
         </p>
       </section>
+
+      <section className="rounded-2xl bg-navy p-6 text-white sm:p-8">
+        <h2 className="text-2xl text-white">{site.contactCta.heading}</h2>
+        <p className="mt-2 max-w-2xl text-white/85">{site.contactCta.text}</p>
+        <a href={site.contactCta.url} className="btn-primary mt-5" target="_blank" rel="noopener">
+          {site.contactCta.button} ↗
+        </a>
+      </section>
     </div>
   );
 }

@@ -31,5 +31,11 @@
     "vimeoHash": "e66b2fd57e",
     "title": "Váš partner se stává koučem",
     "note": "Toto video si můžete přehrát s partnerem, nebo partnerkou společně."
+  },
+  "contactCta": {
+    "heading": "Ještě s námi nejste v kontaktu?",
+    "text": "Rezervujte si termín 10minutového telefonátu, kde společně zjistíme, jestli dává spolupráce oboustranný smysl pro Vaši situaci.",
+    "button": "Rezervace krátkého telefonátu",
+    "url": "https://calendly.com/cveurope/jak-zacit-s-koucovanim-1"
   }
 }
