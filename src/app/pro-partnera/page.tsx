@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Denominator from "@/components/Denominator";
 import MomentCard from "@/components/MomentCard";
 import { getCollections, getDenominator, getMoment, getMomentViews, site } from "@/lib/data";
@@ -32,7 +31,7 @@ export default function PartnerPage() {
   return (
     <div className="space-y-8">
       <header className="max-w-3xl">
-        <h1 className="text-3xl font-bold leading-tight tracking-tight">{col?.title ?? "Pro partnera, který to má platit"}</h1>
+        <h1 className="text-3xl leading-tight">{col?.title ?? "Pro partnera, který to má platit"}</h1>
         <p className="mt-3 text-lg text-muted">{col?.intro}</p>
       </header>
 
@@ -52,7 +51,7 @@ export default function PartnerPage() {
       </section>
 
       <section className="space-y-3">
-        <h2 className="text-xl font-semibold">Momenty s čísly a s tím, co nevyšlo</h2>
+        <h2 className="text-xl">Momenty s čísly a s tím, co nevyšlo</h2>
         {moments.length === 0 ? (
           <p className="text-muted">Zatím doplňujeme.</p>
         ) : (
@@ -64,20 +63,10 @@ export default function PartnerPage() {
         )}
       </section>
 
+      {/* Sekce „Co se stane, když to nepůjde“ (odkaz na Podmínky poctivě) je dočasně skrytá, text stránky není dopsaný. */}
       <section className="card p-5">
-        <h2 className="text-xl font-semibold">Co se stane, když to nepůjde</h2>
-        <p className="mt-2 text-muted">
-          Pauza, zpomalení, ukončení, splátky, pro koho to není. Napsáno jako pravidla, která škola skutečně uplatňuje, ne jako
-          marketing.
-        </p>
-        <Link href="/podminky-poctive" className="mt-3 inline-block rounded-full bg-ink px-4 py-2 text-sm font-medium text-white hover:bg-black">
-          Podmínky poctivě
-        </Link>
-      </section>
-
-      <section className="card p-5">
-        <h2 className="text-xl font-semibold">7 otázek pro každou školu</h2>
-        <p className="mt-1 text-sm text-muted">Položte je nám i komukoliv jinému. Odpovědi CoachVille jsou na stránce Podmínky poctivě.</p>
+        <h2 className="text-xl">7 otázek pro každou školu</h2>
+        <p className="mt-1 text-sm text-muted">Položte je nám i komukoliv jinému. Odpovědi CoachVille zveřejníme na stránce Podmínky poctivě, až bude dopsaná.</p>
         <ol className="mt-3 list-decimal space-y-2 pl-5">
           {QUESTIONS.map((q) => (
             <li key={q}>{q}</li>

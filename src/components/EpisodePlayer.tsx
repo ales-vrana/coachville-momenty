@@ -102,9 +102,9 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
               // eslint-disable-next-line @next/next/no-img-element
               <img src={thumbnailUrl} alt="" className="absolute inset-0 h-full w-full object-cover opacity-80" />
             ) : (
-              <div className="absolute inset-0 bg-gradient-to-br from-accent to-accent-deep" />
+              <div className="absolute inset-0 bg-gradient-to-br from-navy via-navy-deep to-[#1d2747]" />
             )}
-            <span className="relative rounded-full bg-white/95 px-5 py-3 text-base font-semibold text-ink shadow-lg">
+            <span className="relative rounded-full bg-white px-5 py-3 text-base font-bold text-navy shadow-lg">
               {status === "loading" ? "Načítám…" : pendingSeek !== null ? `Přehrát od ${formatTime(pendingSeek)}` : "Přehrát celý rozhovor"}
             </span>
           </button>

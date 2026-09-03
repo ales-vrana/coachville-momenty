@@ -46,7 +46,7 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
       <header className="flex items-start gap-4">
         <Avatar name={g.displayName} photo={g.consentScope.photo ? g.photo : undefined} size={72} />
         <div>
-          <h1 className="text-2xl font-bold leading-tight tracking-tight sm:text-3xl">{g.displayName}</h1>
+          <h1 className="text-2xl leading-tight sm:text-3xl">{g.displayName}</h1>
           <p className="mt-1 text-muted">
             Předtím {g.priorProfessionText}
             {whereLabel(g) ? `, ${whereLabel(g)}` : ""}
@@ -59,7 +59,7 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
 
       <div className="grid gap-4 sm:grid-cols-2">
         <section className="card p-5">
-          <h2 className="text-xs uppercase tracking-wide text-muted">Časová osa</h2>
+          <h2 className="eyebrow">Časová osa</h2>
           {g.timeline.length ? (
             <ol className="mt-2 space-y-2">
               {g.timeline.map((p, i) => (
@@ -74,7 +74,7 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
           )}
         </section>
         <section className="card p-5">
-          <h2 className="text-xs uppercase tracking-wide text-muted">Ověřte si to sami</h2>
+          <h2 className="eyebrow">Ověřte si to sami</h2>
           {verify.length ? (
             <ul className="mt-2 space-y-1 text-sm">
               {verify.map((l) => (
@@ -89,7 +89,7 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
             <p className="mt-2 text-sm text-muted">Ověřovací odkaz mimo web CoachVille doplňujeme.</p>
           )}
           {g.contactAllowed && g.contactUrl && (
-            <a href={g.contactUrl} className="mt-3 inline-block rounded-full border border-line bg-white px-4 py-2 text-sm font-medium hover:bg-paper-2">
+            <a href={g.contactUrl} className="btn-secondary mt-3">
               Napsat {g.displayName.split(" ")[0]}
             </a>
           )}
@@ -111,7 +111,7 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
 
       {[...byTopic.entries()].map(([topicId, ms]) => (
         <section key={topicId} className="space-y-3">
-          <h2 className="font-semibold">{ms[0].primaryTopic.label}</h2>
+          <h2 className="text-base">{ms[0].primaryTopic.label}</h2>
           <div className="grid gap-3 sm:grid-cols-2">
             {ms.map((m) => (
               <MomentCard key={m.id} m={m} />

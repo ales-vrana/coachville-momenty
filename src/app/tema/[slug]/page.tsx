@@ -34,13 +34,13 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
   return (
     <div className="space-y-6">
       <nav className="text-sm text-muted">
-        <Link href="/#temata" className="underline">
+        <Link href="/#temata" className="btn-link">
           Témata
         </Link>{" "}
-        · {topic.group}
+        <span className="mx-1">·</span> <span className="eyebrow">{topic.group}</span>
       </nav>
       <header className="max-w-3xl">
-        <h1 className="text-2xl font-bold leading-tight tracking-tight sm:text-3xl">{topic.label}</h1>
+        <h1 className="text-2xl leading-tight sm:text-3xl">{topic.label}</h1>
         {topic.aliases && topic.aliases.length > 0 && (
           <p className="mt-1 text-sm text-muted">Také: {topic.aliases.join(" · ")}</p>
         )}
@@ -59,7 +59,7 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
         <div className="space-y-4">
           {moments.slice(0, RELATED_SAMPLE).map((m, i) => (
             <div key={m.id} className="space-y-4">
-              <MomentCard m={m} index={i} />
+              <MomentCard m={m} index={i} layout="row" />
               {i === 0 && (
                 <div className="px-1">
                   <Denominator d={d} topicMoments={moments.length} topicGuests={guests} compact />
@@ -76,13 +76,13 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
       )}
 
       <section className="card p-5">
-        <h2 className="font-semibold">Co byste potřeboval/a slyšet, abyste se rozhodl/a, ať už jakkoliv?</h2>
+        <h2 className="text-base normal-case">Co byste potřeboval/a slyšet, abyste se rozhodl/a, ať už jakkoliv?</h2>
         <p className="mt-1 text-sm text-muted">
           Napište mi to. Čtu každou odpověď a podle nich natáčím další rozhovory.
         </p>
         <a
           href={`mailto:ales@coachville.cz?subject=${encodeURIComponent(`Co bych potřeboval/a slyšet: ${topic.label}`)}`}
-          className="mt-3 inline-block rounded-full border border-line bg-white px-4 py-2 text-sm font-medium hover:bg-paper-2"
+          className="btn-secondary mt-3"
         >
           Odpovědět e-mailem
         </a>

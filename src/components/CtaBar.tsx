@@ -34,7 +34,7 @@ export default function CtaBar({ workshop, threshold = 2 }: Props) {
     <div className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-white/95 p-3 shadow-[0_-4px_16px_rgba(0,0,0,0.08)] backdrop-blur">
       <div className="mx-auto flex max-w-3xl items-center gap-3">
         <div className="min-w-0 flex-1">
-          <p className="text-sm font-semibold leading-tight">Zjistit na workshopu, jestli je to pro mě</p>
+          <p className="text-sm font-bold leading-tight text-navy">Zjistit na workshopu, jestli je to pro mě</p>
           <p className="text-xs text-muted">
             {formatCz(workshop.date)}
             {workshop.time ? ` ${workshop.time}` : ""}, {workshop.price} Kč, 2 h online. Odejdete s odpovědí, i kdyby zněla „ne“.
@@ -43,7 +43,7 @@ export default function CtaBar({ workshop, threshold = 2 }: Props) {
         <a
           href={workshop.url}
           onClick={() => track("cta_click", { cta: "workshop" })}
-          className="shrink-0 rounded-full bg-accent px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-deep"
+          className="btn-primary shrink-0"
         >
           Rezervovat
         </a>

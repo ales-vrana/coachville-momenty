@@ -213,11 +213,11 @@ export default function MomentPlayer({
               // eslint-disable-next-line @next/next/no-img-element
               <img src={thumbnailUrl} alt="" className="absolute inset-0 h-full w-full object-cover opacity-80" />
             ) : (
-              <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-accent to-accent-deep">
+              <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-navy via-navy-deep to-[#1d2747]">
                 <span className="text-6xl font-semibold text-white/80">{initialsText}</span>
               </div>
             )}
-            <span className="relative flex items-center gap-3 rounded-full bg-white/95 px-5 py-3 text-base font-semibold text-ink shadow-lg">
+            <span className="relative flex items-center gap-3 rounded-full bg-white px-5 py-3 text-base font-bold text-navy shadow-lg">
               <PlayIcon />
               {status === "loading" ? "Načítám…" : `Přehrát od ${startLabel}`}
             </span>
@@ -225,7 +225,7 @@ export default function MomentPlayer({
         )}
         {status === "ended" && (
           <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 bg-black/80 p-6 text-center text-white">
-            <p className="text-sm uppercase tracking-wide text-white/70">Konec momentu</p>
+            <p className="text-xs font-semibold uppercase tracking-wider text-white/70">Konec momentu</p>
             {next ? (
               <Link
                 href={`/m/${next.id}`}
@@ -252,7 +252,7 @@ export default function MomentPlayer({
       {muted && (status === "playing" || status === "paused") && (
         <button
           onClick={unmute}
-          className="w-full rounded-xl bg-accent px-4 py-3 text-center font-semibold text-white shadow-sm"
+          className="btn-primary w-full"
         >
           Zapnout zvuk
         </button>
@@ -260,7 +260,7 @@ export default function MomentPlayer({
       {error && <p className="text-sm text-red-700">{error}</p>}
 
       <div className="card p-4 sm:p-6">
-        <p className="mb-3 text-xs uppercase tracking-wide text-muted">
+        <p className="eyebrow mb-3">
           Přepis momentu · klepnutím na odstavec přeskočíte na to místo ve videu
         </p>
         <div className="space-y-3 text-[17px] leading-relaxed">

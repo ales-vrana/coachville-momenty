@@ -17,7 +17,7 @@ export default function Avatar({
   return (
     <div
       style={style}
-      className="flex shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-accent to-accent-deep font-semibold text-white"
+      className="flex shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-navy to-navy-deep font-semibold text-white"
       aria-hidden="true"
     >
       {initials(name)}

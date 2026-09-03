@@ -1,38 +1,99 @@
 @import "tailwindcss";
+@import "@fontsource-variable/montserrat";
 
+/* Brand CoachVille Europe (Brand Manual v2): Navy #394A82, Teal #38C0C3, Gold #BF933A, Cream #FAF9F5, Dark #30302E, Gray #6C757D. */
 @theme {
-  --color-ink: #1c1a17;
-  --color-muted: #6b6560;
-  --color-paper: #fbf9f5;
-  --color-paper-2: #f2ede5;
-  --color-paper-3: #e7e0d5;
-  --color-line: #e2dbd0;
-  --color-accent: #1f7a6d;
-  --color-accent-deep: #145a50;
-  --color-accent-soft: #dff1ec;
-  --color-warn: #b45309;
-  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --color-ink: #1a1a1a;
+  --color-muted: #6c757d;
+  --color-paper: #faf9f5;
+  --color-paper-2: #f3f1eb;
+  --color-paper-3: #e9e6de;
+  --color-line: #e4e1d9;
+  --color-navy: #394a82;
+  --color-navy-deep: #2b3a68;
+  --color-navy-overlay: rgba(36, 48, 86, 0.8);
+  --color-teal: #38c0c3;
+  --color-teal-deep: #2a9da0;
+  --color-teal-soft: #e3f6f6;
+  --color-gold: #bf933a;
+  --color-gold-soft: #f7efdd;
+  --color-dark: #30302e;
+  /* zpětně kompatibilní aliasy (accent = teal, accent-deep = navy) */
+  --color-accent: #38c0c3;
+  --color-accent-deep: #394a82;
+  --color-accent-soft: #e3f6f6;
+  --color-warn: #bf933a;
+  --font-sans: "Montserrat Variable", Montserrat, "Gotham", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
 }
 
-html {
-  color-scheme: light;
-}
+@layer base {
+  html {
+    color-scheme: light;
+  }
 
-body {
-  background: var(--color-paper);
-  color: var(--color-ink);
-  font-family: var(--font-sans);
-  -webkit-font-smoothing: antialiased;
-}
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6;
+  }
 
-a {
-  text-underline-offset: 3px;
+  a {
+    text-underline-offset: 3px;
+    text-decoration-color: var(--color-teal);
+  }
+
+  /* Nadpisy podle brand manuálu: Bold, uppercase u H1/H2, navy. */
+  h1,
+  h2,
+  h3 {
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--color-navy);
+  }
+
+  h1,
+  h2 {
+    text-transform: uppercase;
+  }
 }
 
 .card {
-  @apply rounded-2xl border border-line bg-white shadow-[0_1px_2px_rgba(0,0,0,0.04)];
+  @apply rounded-2xl border border-line bg-white shadow-[0_1px_3px_rgba(57,74,130,0.08)];
 }
 
 .chip {
   @apply inline-flex items-center gap-1 rounded-full border border-line bg-paper-2 px-2.5 py-1 text-xs font-medium text-ink;
+}
+
+.chip-number {
+  @apply border-teal/50 bg-teal-soft text-navy;
+}
+
+.chip-admission {
+  @apply border-gold/40 bg-gold-soft text-gold;
+}
+
+/* Gold label nad nadpisem */
+.eyebrow {
+  @apply text-xs font-medium uppercase tracking-[0.12em] text-gold;
+}
+
+/* Tlačítka */
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full bg-teal px-5 py-2.5 text-sm font-bold uppercase tracking-wide text-white shadow-sm transition hover:bg-teal-deep;
+}
+
+.btn-navy {
+  @apply inline-flex items-center justify-center gap-2 rounded-full bg-navy px-5 py-2.5 text-sm font-bold uppercase tracking-wide text-white shadow-sm transition hover:bg-navy-deep;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full border border-navy/30 bg-white px-5 py-2.5 text-sm font-semibold text-navy transition hover:border-teal hover:bg-teal-soft;
+}
+
+.btn-link {
+  @apply inline-flex items-center gap-1 text-sm font-semibold text-navy underline decoration-teal underline-offset-4 hover:text-teal-deep;
 }

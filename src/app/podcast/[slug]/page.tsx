@@ -45,8 +45,8 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
   return (
     <div className="space-y-6">
       <header>
-        <p className="text-sm text-muted">Celý nesestříhaný rozhovor · natočeno {formatDateCz(ep.recordedAt)}</p>
-        <h1 className="mt-1 text-2xl font-bold leading-tight tracking-tight sm:text-3xl">{ep.title}</h1>
+        <p className="eyebrow">Celý nesestříhaný rozhovor · natočeno {formatDateCz(ep.recordedAt)}</p>
+        <h1 className="mt-1 text-2xl normal-case leading-tight sm:text-3xl">{ep.title}</h1>
         <p className="mt-1 text-sm text-muted">
           Ptá se {ep.interviewerName}, {ep.interviewerRole}.{" "}
           {guests.map((g, i) => (
@@ -75,7 +75,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
       />
 
       <section className="space-y-3">
-        <h2 className="font-semibold">Momenty z tohoto rozhovoru ({moments.length})</h2>
+        <h2 className="text-base">Momenty z tohoto rozhovoru ({moments.length})</h2>
         <div className="grid gap-3 sm:grid-cols-2">
           {moments.map((m) => (
             <div key={m.id}>

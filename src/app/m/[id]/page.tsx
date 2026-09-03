@@ -76,7 +76,8 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
   return (
     <div className="space-y-6">
       <nav className="text-sm text-muted">
-        <Link href={topicUrl(m.primaryTopic.id)} className="underline">
+        <span className="eyebrow">Moment</span> <span className="mx-1">·</span>{" "}
+        <Link href={topicUrl(m.primaryTopic.id)} className="btn-link">
           {m.primaryTopic.label}
         </Link>
       </nav>
@@ -84,9 +85,9 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
       <header className="flex items-start gap-3">
         <Avatar name={g.displayName} photo={g.consentScope.photo ? g.photo : undefined} size={56} />
         <div className="min-w-0">
-          <h1 className="text-xl font-bold leading-snug sm:text-2xl">{m.summary}</h1>
+          <h1 className="text-lg font-semibold normal-case leading-snug sm:text-xl">{m.summary}</h1>
           <p className="mt-1 text-sm text-muted">
-            <Link href={guestUrl(g.slug)} className="font-medium text-ink underline">
+            <Link href={guestUrl(g.slug)} className="font-semibold text-navy underline">
               {g.displayName}
             </Link>
             , předtím {g.priorProfessionText}
@@ -146,8 +147,8 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
       />
 
       <div className="flex flex-wrap gap-1.5">
-        {m.hasNumber && <span className="chip">s číslem{m.numberText ? `: ${m.numberText}` : ""}</span>}
-        {m.isAdmission && <span className="chip border-warn/30 text-warn">přiznání{m.costText ? `: ${m.costText}` : ""}</span>}
+        {m.hasNumber && <span className="chip chip-number">s číslem{m.numberText ? `: ${m.numberText}` : ""}</span>}
+        {m.isAdmission && <span className="chip chip-admission">přiznání{m.costText ? `: ${m.costText}` : ""}</span>}
         {typeof m.monthsFromStart === "number" && <span className="chip">{m.monthsFromStart}. měsíc od startu</span>}
         {typeof m.hoursPerWeek === "number" && <span className="chip">{m.hoursPerWeek} h týdně</span>}
       </div>
@@ -155,16 +156,16 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
       <section className="card space-y-3 p-5">
         <div className="flex flex-wrap gap-2 text-sm">
           {next && (
-            <Link href={`/m/${next.id}`} className="rounded-full bg-ink px-4 py-2 font-medium text-white hover:bg-black">
+            <Link href={`/m/${next.id}`} className="btn-primary">
               Další moment k tomuto tématu
             </Link>
           )}
-          <Link href={episodeUrl(ep.slug, m.start)} className="rounded-full border border-line bg-white px-4 py-2 hover:bg-paper-2">
+          <Link href={episodeUrl(ep.slug, m.start)} className="btn-secondary">
             Celý rozhovor od {formatTime(m.start)}
           </Link>
         </div>
         <div>
-          <p className="text-xs uppercase tracking-wide text-muted">Ověřte si to sami</p>
+          <p className="eyebrow">Ověřte si to sami</p>
           {verify.length > 0 ? (
             <ul className="mt-1 flex flex-wrap gap-2 text-sm">
               {verify.map((l) => (
@@ -187,7 +188,7 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
           )}
         </div>
         <div>
-          <p className="text-xs uppercase tracking-wide text-muted">Sdílet</p>
+          <p className="eyebrow">Sdílet</p>
           <div className="mt-1">
             <ShareMenu momentId={m.id} baseUrl={site.baseUrl} guestName={g.displayName} summary={m.summary} />
           </div>
@@ -209,7 +210,7 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
 
       {related.length > 0 && (
         <section className="space-y-3">
-          <h2 className="font-semibold">Další momenty k otázce „{m.primaryTopic.label}“</h2>
+          <h2 className="text-base">Další momenty k otázce „{m.primaryTopic.label}“</h2>
           <div className="grid gap-3 sm:grid-cols-2">
             {related.map((r) => (
               <MomentCard key={r.id} m={r} />

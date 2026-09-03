@@ -79,17 +79,17 @@ export default function SetView({ moments, salespeople }: { moments: SetMoment[]
               {m.phase ? ` · ${m.phase}` : ""}
             </p>
             <p className="mt-2 text-[17px] leading-snug">{m.summary}</p>
-            <Link href={`/m/${m.id}`} className="mt-3 inline-block rounded-full bg-ink px-4 py-2 text-sm font-medium text-white hover:bg-black">
+            <Link href={`/m/${m.id}`} className="btn-primary mt-3">
               Otevřít moment
             </Link>
           </li>
         ))}
       </ol>
       <section className="card p-5">
-        <h2 className="font-semibold">Až to uvidíte, napište jednu věc: co vám tam chybělo?</h2>
+        <h2 className="text-base normal-case">Až to uvidíte, napište jednu věc: co vám tam chybělo?</h2>
         <div className="mt-3 flex flex-wrap gap-2 text-sm">
           {owner?.email && (
-            <a href={`mailto:${owner.email}?subject=${encodeURIComponent("Co mi v momentech chybělo")}`} className="rounded-full bg-accent px-4 py-2 font-medium text-white hover:bg-accent-deep">
+            <a href={`mailto:${owner.email}?subject=${encodeURIComponent("Co mi v momentech chybělo")}`} className="btn-primary">
               Odpovědět {owner.name}
             </a>
           )}
