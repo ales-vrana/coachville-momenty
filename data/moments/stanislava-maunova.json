@@ -1,0 +1,337 @@
+[
+  {
+    "id": "sm001",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 5,
+    "endUtt": 7,
+    "quote": "Zhruba rok jsem hledala způsob, jak to dělat jinak. A začala jsem si říkat o kouče sama pro sebe, který by mi prostě ukázal, jak to mám já, jak by to se mnou ladilo. No a tak jsem hledala a hledala a už jsem si říkala, že si pořád nemůžu najít někoho, s kým by mě to bavilo. No a pak se jednoho dne na Facebooku prostě objevila nějaká reklama na kouče. Já jsem si říkala, ty brďo, hele, tohle to mě docela zaujalo, protože slovíčka jako hra a tak docela se mnou rezonovaly. Tak jsem si říkala, no nic, zkusím prostě nějakej ten testík, co tam byl vstupní, a uvidíme, jak to dopadne. A do dneška si pamatuju náš hodinový rozhovor, který byl původně na půl hodiny, kdy jsem tam vlastně sdílela s tebou nějaký myšlenky, který mám, a obavy, který mám. A ty jsi mi je všechny prostě rozprášil. Bylo to takový jako způsob, protože já jsem si říkala, jo, o co tady jako jde, když to prostě vyzkouším, tak to zjistím. A když to nevyzkouším, tak si možná budu jednou naříkat, že jsem se do toho nepustila. Takže takhle vlastně jsem se já přihlásila do koučovacího výcviku. Samozřejmě s tím záměrem, že ty zkušenosti, které nabudu, budu používat prioritně na jiný vedení těch svých zaměstnanců. I jsem je vlastně koučovala ze začátku,",
+    "summary": "Zhruba rok hledala, jak to dělat jinak, a hledala kouče sama pro sebe; nemohla najít nikoho, s kým by ji to bavilo. Pak se na Facebooku objevila reklama, slova jako „hra“ s ní rezonovala. Udělala vstupní test a dodnes si pamatuje hodinový rozhovor, původně na půl hodiny, kde sdílela myšlenky a obavy, a Aleš je „všechny rozprášil“. Když to vyzkouší, zjistí to; když ne, možná bude jednou naříkat. Přihlásila se se záměrem vést jinak své zaměstnance.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: rok hledání kouče, test, hodinový rozhovor před vstupem. Tag Proč jsem váhala stupeň B: obavy nepojmenované konkrétně. Tag 22 stupeň A: záměr „pro vedení zaměstnanců“; změna v sm002."
+  },
+  {
+    "id": "sm002",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 8,
+    "endUtt": 14,
+    "quote": "Ono mě to fakt pohltilo, pohltilo mě to koučování. Ono je opravdu atraktivní, když to prostě potom umíš a objevuješ ty techniky a ty metody. Myslím si, že lidi jsou přirozeně zvídaví a zajímají je tyhle ty věci ohledně psychologie, takže tohle to mě na tom bavilo. A potom vlastně, když jsem viděla snad za šest týdnů, co se odehrálo s tím týmem, my jsme fakt... Najednou jsem měla spoustu volného času, mohla jsem si dělat vlastně věci, které byly důležité pro mě jako pro rozvoj firmy, a vůbec jsem nemusela zaměřovat pozornost na nějaký controlling, delegování úkolů, kontrolu vlastně toho, v jaké fázi to vůbec je. A i ty lidi, najednou jsme fakt byli tým, já jsem to cítila poprvé, že jsme tým. No a tak vlastně přišla myšlenka, že je velká škoda, abych si tohle zažila jenom já.",
+    "summary": "Ze začátku koučovala své zaměstnance a objevovala chyby, které dělala jako manažerka: pozornost na slabé stránky místo toho, v čem jsou dobří. Záměr „jen pro vedení lidí“ se změnil za tři týdny; koučování ji pohltilo. Asi za šest týdnů viděla, co se stalo s týmem: najednou měla spoustu volného času na rozvoj firmy, nemusela kontrolovat a delegovat, a poprvé cítila, že jsou tým. Přišla myšlenka, že je škoda, aby to zažila jen ona; po sedmnácti letech v obchodu znala spoustu lidí, kteří by si takového kouče dopřáli. Po šesti týdnech věděla, že je to její budoucí cesta.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "záměr změněn za 3 týdny; efekt v týmu za 6 týdnů; 17 let v obchodu",
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "co-vycvik-udelal-s-pretizenim",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň A: konkrétní změny v manažerské praxi a rychlá změna záměru. Tag 30 stupeň B: volný čas díky týmu, bez hodin (ty jsou v sm007). Tag 21 stupeň B: v té době stále ředitelka. Úsek obsahuje repliky tazatele (9, 11), 141 s."
+  },
+  {
+    "id": "sm003",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 16,
+    "endUtt": 18,
+    "quote": "Jo, jo. Ta první byla vůbec to, že jsem věděla, že úplně od začátku budeme koučovat od prvního týdne. To byl obrovský strašák pro mě, protože jsem říkala, [nesrozumitelné], já vůbec nic neumím, co já tam budu předvádět. Ti lidi to poznají. A teď vlastně jsem měla fakt spoustu nějakých takových vnitřních strachů. Ale to bylo to nejlepší, co se mi mohlo stát, protože tyhle ty strachy jsem měla možná první týden, dva. A nebyly tak velký, jak jsem si myslela. Asi tam bylo důležité, že jsem to koučování měla v nějakém bezpečném prostředí lidí, kterým jsem mohla vlastně i potom říct, ale prostě učím se to teprve, je úplně v pohodě, když tam něco nebude ladit, klidně mi to řekni, že jsme byli fakt otevření. Takže to, že jsem prvních třeba fakt těch 14 dní měla možnost si to rovnou zkoušet a oťukat si to. Tak bylo skvělý. A hlavně ono se to fakt potom ani nikdy nestalo, protože ty lidi nepoznali, že je něco blbě. To jsem třeba věděla já, že tuhle tu otázku jsem měla dát jinak, nebo tahle ta otázka, takhle se nedává, ale ty lidi vůbec nevěděli, oni byli fakt tak v tom procesu, že to bylo jedno velký flow. Takže to byla jedna obava, ta se hodně rychle rozprášila, a druhá, ta mi trvala trochu déle. To bylo o tom, jestli budu mít ty lidi, ty klienty na to, abych je koučovala.",
+    "summary": "První obava: koučovat od prvního týdne. „Já vůbec nic neumím, co já tam budu předvádět, ti lidé to poznají.“ Bylo to to nejlepší, co se jí mohlo stát; strachy trvaly týden, dva a nebyly tak velké. Pomohlo bezpečné prostředí lidí, kterým mohla říct: teprve se to učím, klidně mi řekni, když něco nebude ladit. A nikdy se to nestalo: lidé nepoznali, že něco bylo blbě; ona věděla, že otázku měla dát jinak, oni byli v jednom flow.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "„vůbec nic neumím, ti lidé to poznají“; strach trval týden, dva",
+    "monthsFromStart": 0,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 26 stupeň A: strach pojmenovaný, s časem (14 dní), co pomohlo (otevřenost, bezpečné prostředí) a co se stalo (nikdo nepoznal). Tag Co bylo těžší stupeň B."
+  },
+  {
+    "id": "sm004",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 19,
+    "endUtt": 23,
+    "quote": "A pravděpodobně, jo, já už vím, čím to bylo. Protože já jsem vlastně potom nastupovala do toho profi kurzu, do toho ročního velkýho. A to je možná důležité. Já jsem si řekla, že... Já jsem se zadlužila. Já jsem na to ty peníze v tu chvíli neměla. Takže jsem si říkala, že to všechno budu, ty měsíční splátky, platit jenom vlastně z koučování. A musela jsem se na to podívat v tu chvilku úplně jinak. Že jsem musela přehodnotit, koho koučuju, uvolnit se třeba z nějakých barterů nebo něčeho, co jsem koučovala zdarma a co už vlastně po těch třech, čtyřech měsících nedávalo úplně logiku. Takže jsem zvýšila tu vlastně hodinovou mzdu s tím, že... Hodinovou prostě nějakou sazbu s tím, že jsem rovnou šla do toho, že prostě jsem v profesionálním tréninku a jako profesionální budoucí kouč nemůžu tyhle ty věci dělat za amatérský ceny. Už jsem věděla svoji hodnotu, už jsem za sebou měla nějakých 13 týdnů výcviku, 4 měsíce koučování, a to mi vlastně pomohlo opravdu jít do té odvahy a tu částku takhle navýšit.",
+    "summary": "Druhá obava trvala déle: budu mít platící klienty, ne známé zdarma? Začínala s doporučenou symbolickou cenou a hned ze začátku ji byli ochotni zaplatit tři, čtyři lidé, které oslovila. Pak přišel skok na pětinásobek. Důvod: nastupovala do ročního profesionálního kurzu a zadlužila se, peníze v tu chvíli neměla. Řekla si, že měsíční splátky bude platit jen z koučování. Musela přehodnotit, koho koučuje, uvolnit se z barterů a koučování zdarma, které po třech, čtyřech měsících nedávalo logiku, a zvýšit sazbu: jako budoucí profesionální koučka nemůže pracovat za amatérské ceny. Měla za sebou 13 týdnů výcviku a 4 měsíce koučování. Vytřídilo se i v hlavě, koho ji baví koučovat a koho ne.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "3 až 4 platící hned; skok na 5násobek ceny po 13 týdnech výcviku a 4 měsících koučování; půjčka na roční program, splátky jen z koučování",
+    "isAdmission": true,
+    "costText": "půjčka na roční program bez peněz v ruce; konec barterů a koučování zdarma",
+    "monthsFromStart": 4,
+    "topics": [
+      "pujcka-a-klient-neprijde",
+      "odkud-penize-na-skolu",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 15 stupeň A: půjčka s pravidlem „splátky jen z koučování“ a co udělala (zvýšení ceny, výběr klientů); výsledek v sm006. Tag 24 stupeň A: peníze na školu z půjčky. Tag 4 stupeň A: pětinásobek bez absolutní částky; nedoplňovat. Úsek 124 s."
+  },
+  {
+    "id": "sm005",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 25,
+    "endUtt": 25,
+    "quote": "Dodneška si pamatuju první SMSku vlastně od klienta po koučování, kdy mi říkal, že vlastně jel potom domů a že se třásl ještě asi do večera. A druhý den, že se z toho vyspal a vlastně všechno to klaplo. A všechno to, co se v něm odehrávalo po nějaké emoční i rozumové stránce, tak to, když jsem četla, tak jsem byla dojatá, to jsem byla úplně vyřízená, to jsem říkala, wow, tyjo, to je vlastně neuvěřitelné, co to s těma lidma dělá. A přitom já jsem z té hodiny neměla takový pocit, že jsem si říkala, jo, tak to prostě nějak projdem, tak jak to je, držela jsem se metody, moc jsem neřešila, jestli jdu moc do hloubky nebo ne. A přitom vlastně tohle se dělo, tak to byl",
+    "summary": "Dodnes si pamatuje první SMS od klienta po koučování: jel domů a ještě do večera to v něm pracovalo, druhý den se vyspal a všechno klaplo. Když to četla, byla dojatá: to je neuvěřitelné, co to s lidmi dělá. Přitom z té hodiny neměla pocit, že by šla do hloubky; držela se metody a nic neřešila.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 26 stupeň B: první zpětná vazba od klienta vs. vlastní pocit „jen jsem se držela metody“. Tag S8 stupeň B. Reakce klienta parafrázována obecně. Štítek názor."
+  },
+  {
+    "id": "sm006",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 26,
+    "endUtt": 27,
+    "quote": "fakt krásnej moment. A ten byl hodně rychlý. Já si myslím, že možná fakt v průběhu prvních těch třech měsíců to fakt letí, tam se to jako splývá. Takže to byl jeden okamžik. A ten druhej byl ten, co jsem mluvila před chvílí, když jsem se rozhodla, že se zadlužím a že si budu vydělávat koučováním. A to začínalo nějak v červenci a v září jsem se rozhodla, že to nebudu splácet pět let, ale že do roka to bude zaplacený. A tam se odehrával další nějaký push-up efekt, že jsem si říkala, co můžu udělat prostě proto, abych tu splátku, protože tam jsem měla možnost mimořádný splátky, tak abych posílala každý měsíc prostě násobně větší, ale opravdu jako násobně. A já jsem každý další měsíc posílala čím dál víc na ty splátky. A to byl taky takový nějaký aha moment, kdy jsem si [nesrozumitelné] vlastně ten progres. Takže jsem ho měla měřitelný vlastně na tom, že jsem si udělala speciální účet, tam jsem posílala všechny peníze vydělaný koučováním, a každý měsíc tam byla větší částka, kterou jsem mohla použít na to zaplacení tý půjčky. To si myslím, že bylo hodně důležitý.",
+    "summary": "Druhý okamžik: rozhodnutí zadlužit se a vydělávat koučováním. Začalo to v červenci a v září se rozhodla, že půjčku nebude splácet pět let, ale že do roka bude zaplacená. Ptala se, co může udělat, aby posílala násobně vyšší mimořádné splátky, a každý další měsíc posílala víc. Progres měla měřitelný: speciální účet, kam chodily všechny peníze z koučování, a každý měsíc tam byla větší částka na splacení půjčky.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "půjčka: plán splatit do roka místo 5 let; každý měsíc vyšší mimořádná splátka; oddělený účet pro příjmy z koučování",
+    "isAdmission": false,
+    "topics": [
+      "pujcka-a-klient-neprijde",
+      "ziskam-klienty",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 15 stupeň A: mechanismus splácení z koučování s časem; host neříká výslovně, kdy byla půjčka doplacena, jen že částky rostly; nepřevádět na „splaceno do roka“. Tag C1 stupeň A pro rostoucí měsíční příjem, bez částek. Tag 5 stupeň B."
+  },
+  {
+    "id": "sm007",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 29,
+    "endUtt": 32,
+    "quote": "Takže to jsem velmi rychle pochopila. Právě v tom rozhovoru s tebou, jak jsme měli na začátku, jsem si říkala, jo, dělám v obchodě, takže umím obchodovat, mám ten učitelský gen v sobě, to bude prostě skvělý, baví mě psychologie, mám z ní i státnice, to prostě všechno využiju, jo. A musím říct, že vlastně jako ne. Že to, co jsem fakt vytěžovala každej den, bylo to, že jsem se držela té metody, že jsem fakt šla čistě s tím, protože jsem tam nevnášela nějaký svoje výmysly. Protože jakmile jsem to tak udělala, tak se to úplně rozteklo, vůbec to nebylo jako k tomu, jo. A co jsem tam potom zapojila... Takže vlastně tahle ta kázeň byla důležitá, si fakt hlídat ty věci tak, jak bych je dělala, jak je moudří lidé přede mnou vymysleli, a spíš tam použít třeba nějakou kreativitu, jo. Že fakt to není o radách, anebo prostě o tom, že si člověk myslí, jo, já jsem přesně rozený kouč, jo. A tak, když vlastně o tom mluvím, tak si uvědomuji spoustu lidí z výcviku, kteří na mě nepůsobili jako ten rozený kouč, a jsou skvělí dneska. A je to právě asi o tom, že opravdu se drželi toho, co se mají, a nevymýšleli nějakou svoji verzi.",
+    "summary": "Nejdřív si myslela, že bude stačit říkat „jsem kouč“ a všichni se pohrnou, budou ji obdivovat a chtít rady, protože kouč je přece nabitý radami. To se nestalo ani jeden den. Myslela si taky: dělám v obchodě, mám učitelský gen, státnice z psychologie, to všechno využiju. A ne. Co využívala každý den, bylo držet se metody bez vlastních výmyslů; jakmile je přidala, „rozteklo se to“. Spousta lidí z výcviku na ni nepůsobila jako rození kouči a dnes jsou skvělí, protože se drželi toho, co mají.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "„rozený kouč“ s obchodem, učitelským genem a státnicemi z psychologie: nic z toho nepomohlo, jen kázeň v metodě",
+    "topics": [
+      "koucovsky-typ",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S1 stupeň A: opak námitky z obou stran (myslela si, že je rozená, a nebylo to ono; „nerození“ jsou dnes skvělí). Tag TR4 stupeň B. Úsek obsahuje repliku tazatele (30). Štítek názor je správně."
+  },
+  {
+    "id": "sm008",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 34,
+    "endUtt": 39,
+    "quote": "nedělo a vlastně člověk zná nějaké ty funkční postupy, jak se dá komunikovat jinak, já říkám laskavěji, tak to bylo pro mě zásadní, že jsem si to změnila. A i jsem si přeskládala vůbec ten život trošku jinak. A hlavně jsem už potom přestala pracovat 60 nebo 70 hodin týdně a pracovala jsem třeba fakt v uvozovkách jenom 40. Já si pamatuji, že jsem si říkala, jak jsem oslavovala, že už pracuji jen 40 hodin, než mě zase konfrontoval vlastně můj parťák kouč a říkal, čím to, že standard je pro tebe důvodem k oslavě.",
+    "summary": "Manažerovi to přinese sebeuvědomění: byla velmi autoritativní i v rodině, a když znáte funkční postupy laskavější komunikace, změní se to. Přeskládala si život a přestala pracovat 60 nebo 70 hodin týdně; pracovala „jenom“ 40 a oslavovala to, dokud ji parťák kouč nekonfrontoval: čím to, že standard je pro tebe důvodem k oslavě? A tým: dřív velká fluktuace, najednou se stabilizoval a choval se jako kmen, kde každý věděl, co je jeho úkolem, a ona byla jen stařešina. Taky proto se jí pak těžko odcházelo.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "z 60 až 70 hodin týdně na 40; fluktuace v týmu se zastavila (tvrzení hosta)",
+    "isAdmission": true,
+    "costText": "dřív 60 až 70 hodin týdně; autoritativní i v rodině",
+    "hoursPerWeek": 40,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "vyuziju-to-v-praci",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň A: čísla hodin před a po, s konkrétní větou kouče. Tag 22 stupeň A: dopad na tým (fluktuace, tvrzení hosta bez čísla). Tag 8 stupeň B. Úsek 141 s."
+  },
+  {
+    "id": "sm009",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 41,
+    "endUtt": 44,
+    "quote": "A najednou vlastně přišel ten okamžik, vlastně to moje proč je, protože chci navždy vypnout budík. To je taková banalita, ale pro mě je to velká symbolika. A já už jsem pak vlastně s každým tím dalším budíkem, když mě to budilo, tak jsem vstávala s tím, že dneska můžu udělat cokoliv proto, abych už ten budík mohla navždy vypnout, aby už třeba zítra se to nedělo. Takže tohleto bylo vlastně nějaká taková podpůrná věc, která se tam objevovala. A tím, jak to koučování je volný v čase, v místě, že si to hodně řídíš vlastně sama proti tomu manažerskému postu nějakému, tak jsem začala i testovat. A dalším slůvkem nebo větou, kterou jsem si začala říkat, bylo: protože můžu. Takže jsem třeba udělala to, že jsem někam odjela. Takže jsem někam odjela. A lidi se divili, proč jsem odjela, a já jsem jim říkala, protože můžu. A tak jsem to postupně začala zkoušet, jak chutná ta svoboda. No a zalíbilo se mi v ní a nějak víc jsem se v ní zabydlela a musela jsem se fakt už potom rozhodnout, protože jsem viděla, že to moje poslání jako manažerský, že jsem už pravděpodobně na konci té cesty a že je čas",
+    "summary": "Na začátku výcviku si každý stanovuje sen; ona ho měla vždycky, ale schovaný za slovem „až“. Její proč: navždy vypnout budík. S každým dalším budíkem vstávala s tím, že dnes může udělat cokoli, aby to zítra už nebylo. Protože koučování je volné v čase i místě, začala testovat: odjela, a když se lidé divili, říkala „protože můžu“. Zabydlela se ve svobodě a viděla, že manažerské poslání je u konce a je čas dělat něco víc pro sebe.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "koucovat-a-zustat-v-praci",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň B: mechanismus změny (sen za „až“, testování svobody), bez data; odchod v sm010. Tag 21 stupeň B: testovala volnou nohu ještě jako ředitelka. Štítek názor."
+  },
+  {
+    "id": "sm010",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 53,
+    "endUtt": 58,
+    "quote": "Já řeknu, jak neovlivnilo. Bydlím na stejném místě a mám stejného manžela. A to je jediné, co se asi nezměnilo. Odešla jsem fakt z dobře placený práce. Myslím si, že... A i mě to bavilo. To já vůbec nemůžu říct, že by mě tam to nebavilo. Být obchodní ředitelkou, když miluješ obchod, je prostě skvělý. A dnes jsem vlastně OSVČ, podnikám na sebe. A je to změna, o které vím, že už je finální, pokud se nestane něco zásadního. Takže to je určitě prostě veliký. Tak rozhodně si uvědomuji, že jsem žila, jak to říct, prostě nějakej úplně jiný příběh. Já vůbec to dneska nechápu zpětně, jo, ale když si uvědomuji, že jsem pak dělala 60, 80 hodin týdně, jo, a fakt že všechno bylo schovaný pod rámec, jakoby nějakou nálepkou, že to dělám, aby se děti měly dobře, ale děti se dobře neměly, protože děti neměly vůbec mámu, jo. A byly v době nějakých teenagerů, prostě dětí, já nevím, od deseti let, prostě dejme tomu, kdy ta máma byla většinu času někde pryč, protože prostě měla pocit, že když vydělá hodně peněz a bude úspěšná v kariéře, takže to je pro ty děti, přece to dělám, ne? Takže tahleta proměna tohohle dogmatu, kdy jsem si uvědomila, že to je prostě úplně o něčem jiném.",
+    "summary": "Řekne, co se nezměnilo: bydlí na stejném místě a má stejného manžela; to je jediné. Odešla z dobře placené práce, která ji navíc bavila, být obchodní ředitelkou, když milujete obchod, je skvělé. Dnes je OSVČ a ví, že změna je finální. Zpětně nechápe, že dělala 60 až 80 hodin týdně pod nálepkou „pro děti“, a děti přitom mámu neměly. Dnes svoboda: čtyři dny v Římě „protože můžu“, koučování brzy ráno a odpoledne volno; „co si budeme nalhávat, není to špatně placené“, věci si může dopřát bez dalších odkroucených hodin.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "dřív 60 až 80 hodin týdně; odchod z dobře placené práce; příjem „není špatný“ bez částky",
+    "isAdmission": true,
+    "costText": "60 až 80 hodin týdně „pro děti“, které přitom mámu neměly; odchod z práce, která ji bavila",
+    "topics": [
+      "co-se-muselo-zmenit",
+      "co-bylo-tezsi",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: host sám vyjmenuje, co zůstalo (místo, manžel) a co se změnilo. Tag Co bylo těžší stupeň A: přiznání o dětech. Tag 11 stupeň B: „není to špatně placené“ bez částky, nepřevádět. Úsek končí promluvou 58; promluva 59 (zmínka o zdravotním hledisku) je záměrně mimo. Úsek 177 s."
+  },
+  {
+    "id": "sm011",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 61,
+    "endUtt": 63,
+    "quote": "Jo, ale bez toho by se to nikdy nestalo. Kdybych, dejme tomu, prošla nějaký kurz a nebyla tam ta vzájemná podpora, že jsme se vzájemně už potkávali, koučovali, že jsme se i osobně setkávali, tak by to vyšumělo. A já to vím, znám ty příběhy, ty lidi, kteří tu komunitu opustili. S tím, že si dali třeba pauzičku, jo, nebo řekli vlastně teď, že chvíli si to potřebuju rozmyslet. A já je nevidím v tom našem vlaku. Dneska se s nima občas i píšeme, ale ten jejich příběh skončil. A kdo jsme zůstali v té komunitě, kdo jsme si to brali, jo, ty věci z té komunity, tu energii, i nějaký takový ty, tu podporu, když prostě člověk zrovna nemohl, jo, anebo i... Fakt někdy jenom to, že jsou, jo, a že víš, že prostě se, já nevím, párkrát za rok někde potkáte, tohleto bylo klíčový. A myslím si, že mi tam... Já dneska, když se podívám na svoje nejbližší přátele, tak jsou to lidi vlastně z CoachVille, jo. Vlastně ukončila se většina přátelství těch starších, protože už nějak mi nedávají úplně logiku, už to prostě nejsem já. Ti lidi jsou v mým životě, byli tam důležitý, ale teď v přítomnosti jsou moji nejbližší přátelé. Dá se říct, že z 90 % lidi z CoachVille.",
+    "summary": "Bez komunity by se to nestalo; bez vzájemné podpory, koučování a osobních setkání by to vyšumělo. Zná příběhy lidí, kteří komunitu opustili: dali si „pauzičku“ nebo si to chtěli chvíli rozmyslet, a v tom vlaku už je nevidí; jejich příběh skončil. Kdo zůstal a bral si energii a podporu, když zrovna nemohl, ten jel dál. Dnes jsou její nejbližší přátelé z 90 % lidé z CoachVille; většina starších přátelství skončila, protože už to není ona.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "nejbližší přátelé z 90 % z komunity",
+    "isAdmission": false,
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag S4 stupeň A: pozorování, že „pauzička“ u ostatních znamenala konec, a co ji drželo; bez vlastní krize (ta je v sm013). Tag 25 stupeň B. Úsek 89 s."
+  },
+  {
+    "id": "sm012",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 77,
+    "endUtt": 81,
+    "quote": "prostě to, co už jsem říkala, když se budeš držet té metody a budeš v tom ukázněný, tak to prostě bude fungovat. A je to docela snadný potom. Vlastně nepotřebuješ na to kdo ví jaký další vzdělání. Takže tohle. No a to, co říkáme my, nejdřív hraj. To znamená, nečekej na to, až budeš mít, já nevím, x týdnů kurzu za sebou, až budeš mít x týdnů nějakého koučování s parťákem, ale prostě jdi do toho normálně, jak se má. A naostro. A pojď si to zkoušet v praxi, protože jenom tam zjistíš ty relevantní informace, jak to s tebou skutečně je.",
+    "summary": "Rada: nezastavit. Respektuj své tempo, i pomalejší, ale nenech se zastavit strachem, který se tváří jako závažný důvod; obvykle se za něj strach jen schovává. Máš parťáky a komunitu, nejsi na to sám. Když se budeš držet metody a budeš ukázněný, bude to fungovat a je to snadné; nepotřebuješ na to kdovíjaké další vzdělání. A nejdřív hraj: nečekej na x týdnů kurzu, jdi do toho naostro, jen v praxi zjistíš, jak to s tebou je.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "koucovsky-typ",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň B: „nepotřebuješ další vzdělání“ z pozice někoho se státnicemi z psychologie (sm007). Tag S1 stupeň B. Tag 26 stupeň B. Štítek názor je správně."
+  },
+  {
+    "id": "sm013",
+    "episode": "stanislava-maunova",
+    "guest": "stanislava-maunova",
+    "startUtt": 87,
+    "endUtt": 88,
+    "quote": "Jo, já cítím, že klíčový a vždycky mě to podrželo bylo to, že jsem měla to svoje proč, ten sen, a byla jsem s ním každý den ve spojení.",
+    "summary": "Klíčové bylo, že měla své proč, svůj sen, a byla s ním každý den ve spojení. Byly okamžiky, kdy to nebylo lehké, protože se něco stalo v rodině i jinak. Tím, že byla každý den v tom, proč to má smysl, a každý den byl možností se k tomu přiblížit, ji to podrželo. Mějte své proč blízko a buďte s ním v kontaktu každý den.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdyz-vstoupi-zivot",
+      "kdy-jsem-to-chtel-vzdat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag R5 stupeň B: životní události během výcviku pojmenované obecně, co pomohlo (denní kontakt se snem). Citace záměrně končí před zmínkou o zdraví; do shrnutí nepřenášet. Tag S4 stupeň B. Štítek názor."
+  }
+]

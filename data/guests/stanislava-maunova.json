@@ -1,0 +1,48 @@
+{
+  "slug": "stanislava-maunova",
+  "displayName": "Stanislava Maunová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 24,
+  "priorProfessionText": "17 let v obchodu na různých pozicích, obchodní ředitelka akciové společnosti; předtím 3,5 roku učitelka; dnes OSVČ",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "učitelka 3,5 roku, pak 17 let obchod až po ředitelku a.s.; 60 až 80 hodin týdně; rok hledala kouče pro sebe; reklama, test, hodinový rozhovor"
+    },
+    {
+      "label": "Start",
+      "text": "záměr „vést zaměstnance jinak“ změněn za 3 týdny; strach z koučování od prvního týdne trval 14 dní; za 6 týdnů tým jako kmen; první 3 až 4 platící za symbolickou cenu"
+    },
+    {
+      "label": "4. měsíc",
+      "text": "půjčka na roční program, splátky jen z koučování; konec barterů, pětinásobná cena; oddělený účet, každý měsíc vyšší mimořádná splátka; ze 60 až 70 hodin na 40"
+    },
+    {
+      "label": "Odchod",
+      "text": "sen za slovem „až“: navždy vypnout budík; testování svobody „protože můžu“; odchod z dobře placené práce, která ji bavila"
+    },
+    {
+      "label": "Dnes (2 roky, přes 760 hodin)",
+      "text": "OSVČ, změna finální; hráči rebelové; někteří klienti celé 2 roky; nejbližší přátelé z 90 % z komunity; pátek jako víkend"
+    }
+  ]
+}

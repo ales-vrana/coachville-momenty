@@ -1,0 +1,557 @@
+{
+  "episode": "stanislava-maunova",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 1,
+      "speaker": "CoachVille",
+      "text": "Milí hráči, milí kouči, já vás vítám u dalšího rozhovoru. Dneska je tady s náma Stáňa Maunová. Stáňa dříve pracovala spoustu let v obchodu na různých pozicích a později se stala ředitelkou akciové společnosti a poté se stala koučkou. Dneska je to dva roky, co je koučem, a má za sebou přes 760 odkoučovaných hodin. Stáňo, já tě tady vítám. Ahoj."
+    },
+    {
+      "i": 1,
+      "t": 29,
+      "speaker": "Stanislava Maunová",
+      "text": "Ahoj Aleši, já vítám tebe taky a vítám lidi, co nás poslouchají."
+    },
+    {
+      "i": 2,
+      "t": 34,
+      "speaker": "CoachVille",
+      "text": "Skvěle, pojďme se do toho pustit. Stáňo, pojď se představit našim divákům a posluchačům, řekni něco o sobě."
+    },
+    {
+      "i": 3,
+      "t": 41,
+      "speaker": "Stanislava Maunová",
+      "text": "Přemýšlím, co by tak mohlo být zajímavé. Můj příběh je úplně od začátku. Já jsem vyrostla v učitelské rodině, takže mi bylo dáno do vínku, že bych měla být učitelkou. To jsem vydržela celých dlouhých tři a půl roku."
+    },
+    {
+      "i": 4,
+      "t": 58,
+      "speaker": "Stanislava Maunová",
+      "text": "A pak už vlastně jsem nějak cítila, že chci předávat nějaký informace těm lidem, ale že to úplně není ten školní způsob. Takže vlastně ten obchod byl takovej úžasnej článek, kde jsem mohla být učitelem a mohla jsem vlastně předávat nějaký informace a dokonce jsem z toho mohla ještě docela hezky žít. Takže tak vlastně nějak je ta profesní dráha. Postupně jsem se i v tom docela mužském oboru vyprofilovala, vlastně jak se říká, až na nějakou ředitelku."
+    },
+    {
+      "i": 5,
+      "t": 117,
+      "speaker": "Stanislava Maunová",
+      "text": "Zhruba rok jsem hledala způsob, jak to dělat jinak. A začala jsem si říkat o kouče sama pro sebe, který by mi prostě ukázal, jak to mám já, jak by to se mnou ladilo. No a tak jsem hledala a hledala a už jsem si říkala, že si pořád nemůžu najít někoho, s kým by mě to bavilo. No a pak se jednoho dne na Facebooku prostě objevila nějaká reklama na kouče. Já jsem si říkala, ty brďo, hele, tohle to mě docela zaujalo, protože slovíčka jako hra a tak docela se mnou rezonovaly."
+    },
+    {
+      "i": 6,
+      "t": 152,
+      "speaker": "Stanislava Maunová",
+      "text": "Tak jsem si říkala, no nic, zkusím prostě nějakej ten testík, co tam byl vstupní, a uvidíme, jak to dopadne. A do dneška si pamatuju náš hodinový rozhovor, který byl původně na půl hodiny, kdy jsem tam vlastně sdílela s tebou nějaký myšlenky, který mám, a obavy, který mám. A ty jsi mi je všechny prostě rozprášil."
+    },
+    {
+      "i": 7,
+      "t": 175,
+      "speaker": "Stanislava Maunová",
+      "text": "Bylo to takový jako způsob, protože já jsem si říkala, jo, o co tady jako jde, když to prostě vyzkouším, tak to zjistím. A když to nevyzkouším, tak si možná budu jednou naříkat, že jsem se do toho nepustila. Takže takhle vlastně jsem se já přihlásila do koučovacího výcviku. Samozřejmě s tím záměrem, že ty zkušenosti, které nabudu, budu používat prioritně na jiný vedení těch svých zaměstnanců. I jsem je vlastně koučovala ze začátku,"
+    },
+    {
+      "i": 8,
+      "t": 206,
+      "speaker": "Stanislava Maunová",
+      "text": "takže jsme si vlastně ladili. Já jsem objevovala všechny ty chyby, který jsem dělala jako manažer, kdy jsem vlastně neustále zaměřovala pozornost na jejich třeba slabý stránky, místo toho, abych se podívala, v čem jsou dobrý a jak to můžu vlastně využít jako manažer. Takže takhle nějak jsem se já dostala ke koučování. Dává logiku."
+    },
+    {
+      "i": 9,
+      "t": 230,
+      "speaker": "CoachVille",
+      "text": "Jasně. A když jsi do toho vlastně šla s tím, že se budeš zlepšovat ve vedení lidí, dneska víme, že ses stala profesionálním koučem. Čili ten záměr se nějak v průběhu času změnil?"
+    },
+    {
+      "i": 10,
+      "t": 246,
+      "speaker": "Stanislava Maunová",
+      "text": "Jo, no ne v průběhu času, za tři týdny, jo."
+    },
+    {
+      "i": 11,
+      "t": 250,
+      "speaker": "CoachVille",
+      "text": "Ok. A co vlastně k tomu vedlo, že jsi změnila takhle směr?"
+    },
+    {
+      "i": 12,
+      "t": 259,
+      "speaker": "Stanislava Maunová",
+      "text": "Ono mě to fakt pohltilo, pohltilo mě to koučování. Ono je opravdu atraktivní, když to prostě potom umíš a objevuješ ty techniky a ty metody. Myslím si, že lidi jsou přirozeně zvídaví a zajímají je tyhle ty věci ohledně psychologie, takže tohle to mě na tom bavilo. A potom vlastně, když jsem viděla snad za šest týdnů, co se odehrálo s tím týmem, my jsme fakt... Najednou jsem měla spoustu volného času, mohla jsem si dělat vlastně věci, které byly důležité pro mě jako pro rozvoj firmy, a vůbec jsem nemusela zaměřovat pozornost na nějaký controlling, delegování úkolů, kontrolu vlastně toho, v jaké fázi to vůbec je. A i ty lidi, najednou jsme fakt byli tým, já jsem to cítila poprvé, že jsme tým."
+    },
+    {
+      "i": 13,
+      "t": 311,
+      "speaker": "Stanislava Maunová",
+      "text": "No a tak vlastně přišla myšlenka, že je velká škoda, abych si tohle zažila jenom já."
+    },
+    {
+      "i": 14,
+      "t": 319,
+      "speaker": "Stanislava Maunová",
+      "text": "A věděla jsem, že mám ve svým okolí za ty roky, protože já už jsem asi sedmnáct let v tom obchodě byla, tak že mám ve svým okolí spoustu lidí, který by si možná podobného kouče, co jsem dopřála já svým lidem, tak by si taky dopřáli. Ale asi za tři týdny to mi začalo nějak vrtat v hlavě, že bych to chtěla vlastně trošku víc. A když končil ten první trénink po těch šesti týdnech, tak jsem viděla, že tohle bude moje budoucí cesta."
+    },
+    {
+      "i": 15,
+      "t": 347,
+      "speaker": "CoachVille",
+      "text": "Hezky. Stáňo, když zvážíš vlastně ten start v tréninku, co byly ty obavy, kterým jsi tam čelila, a jak se to s nima vyvíjelo potom, co jsi začala? Protože my pozorujeme ten rozdíl, že ty obavy, který člověk má před vstupem, tak se potom odvíjí kompletně jiným způsobem. Tak jak jsi to měla ty, čeho jsi se obávala a jak se to vyvíjelo?"
+    },
+    {
+      "i": 16,
+      "t": 376,
+      "speaker": "Stanislava Maunová",
+      "text": "Jo, jo. Ta první byla vůbec to, že jsem věděla, že úplně od začátku budeme koučovat od prvního týdne. To byl obrovský strašák pro mě, protože jsem říkala, [nesrozumitelné], já vůbec nic neumím, co já tam budu předvádět. Ti lidi to poznají. A teď vlastně jsem měla fakt spoustu nějakých takových vnitřních strachů."
+    },
+    {
+      "i": 17,
+      "t": 398,
+      "speaker": "Stanislava Maunová",
+      "text": "Ale to bylo to nejlepší, co se mi mohlo stát, protože tyhle ty strachy jsem měla možná první týden, dva. A nebyly tak velký, jak jsem si myslela. Asi tam bylo důležité, že jsem to koučování měla v nějakém bezpečném prostředí lidí, kterým jsem mohla vlastně i potom říct, ale prostě učím se to teprve, je úplně v pohodě, když tam něco nebude ladit, klidně mi to řekni, že jsme byli fakt otevření. Takže to, že jsem prvních třeba fakt těch 14 dní měla možnost si to rovnou zkoušet a oťukat si to."
+    },
+    {
+      "i": 18,
+      "t": 431,
+      "speaker": "Stanislava Maunová",
+      "text": "Tak bylo skvělý. A hlavně ono se to fakt potom ani nikdy nestalo, protože ty lidi nepoznali, že je něco blbě. To jsem třeba věděla já, že tuhle tu otázku jsem měla dát jinak, nebo tahle ta otázka, takhle se nedává, ale ty lidi vůbec nevěděli, oni byli fakt tak v tom procesu, že to bylo jedno velký flow. Takže to byla jedna obava, ta se hodně rychle rozprášila, a druhá, ta mi trvala trochu déle. To bylo o tom, jestli budu mít ty lidi, ty klienty na to, abych je koučovala."
+    },
+    {
+      "i": 19,
+      "t": 461,
+      "speaker": "Stanislava Maunová",
+      "text": "Nemyslím teďkon ty známý zadarmo pro ten začátek, ale potom fakt ty platící klienty. A já teď vůbec vlastně nevím, jak se to všechno odehrálo. Musím chvilku přemýšlet. Protože já jsem začínala fakt s nějakou doporučenou symbolickou cenou. A to mi vlastně byli ochotní zaplatit hnedka ze začátku tři, čtyři lidi, který jsem oslovila."
+    },
+    {
+      "i": 20,
+      "t": 488,
+      "speaker": "Stanislava Maunová",
+      "text": "A pak přemýšlím, že najednou vlastně už pak byl skok až na pětinásobnou cenu."
+    },
+    {
+      "i": 21,
+      "t": 495,
+      "speaker": "Stanislava Maunová",
+      "text": "A pravděpodobně, jo, já už vím, čím to bylo. Protože já jsem vlastně potom nastupovala do toho profi kurzu, do toho ročního velkýho. A to je možná důležité. Já jsem si řekla, že... Já jsem se zadlužila. Já jsem na to ty peníze v tu chvíli neměla."
+    },
+    {
+      "i": 22,
+      "t": 512,
+      "speaker": "Stanislava Maunová",
+      "text": "Takže jsem si říkala, že to všechno budu, ty měsíční splátky, platit jenom vlastně z koučování. A musela jsem se na to podívat v tu chvilku úplně jinak. Že jsem musela přehodnotit, koho koučuju, uvolnit se třeba z nějakých barterů nebo něčeho, co jsem koučovala zdarma a co už vlastně po těch třech, čtyřech měsících nedávalo úplně logiku. Takže jsem zvýšila tu vlastně hodinovou mzdu s tím, že... Hodinovou prostě nějakou sazbu s tím, že jsem rovnou šla do toho, že prostě jsem v profesionálním tréninku a jako profesionální budoucí kouč nemůžu tyhle ty věci dělat za amatérský ceny. Už jsem věděla svoji hodnotu, už jsem za sebou měla nějakých 13 týdnů výcviku, 4 měsíce koučování, a to mi vlastně pomohlo opravdu jít do té odvahy a tu částku takhle navýšit."
+    },
+    {
+      "i": 23,
+      "t": 568,
+      "speaker": "Stanislava Maunová",
+      "text": "V tu chvíli se fakt děly věci, protože se přesně vytřídilo i v mý hlavě, koho prostě mě baví koučovat a oslovit a koho nechci, o kom vím, že bude mít prostě pořád nějaký námitky vůči třeba té ceně a tak."
+    },
+    {
+      "i": 24,
+      "t": 585,
+      "speaker": "CoachVille",
+      "text": "Stáňo, a na nějaký zajímavý nebo důležitý okamžik tvojí cesty vzpomínáš? Takhle vlastně po startu toho výcviku. Co tam byl pro tebe nějaký zajímavý zážitek nebo zajímavý okamžik?"
+    },
+    {
+      "i": 25,
+      "t": 603,
+      "speaker": "Stanislava Maunová",
+      "text": "Dodneška si pamatuju první SMSku vlastně od klienta po koučování, kdy mi říkal, že vlastně jel potom domů a že se třásl ještě asi do večera. A druhý den, že se z toho vyspal a vlastně všechno to klaplo. A všechno to, co se v něm odehrávalo po nějaké emoční i rozumové stránce, tak to, když jsem četla, tak jsem byla dojatá, to jsem byla úplně vyřízená, to jsem říkala, wow, tyjo, to je vlastně neuvěřitelné, co to s těma lidma dělá. A přitom já jsem z té hodiny neměla takový pocit, že jsem si říkala, jo, tak to prostě nějak projdem, tak jak to je, držela jsem se metody, moc jsem neřešila, jestli jdu moc do hloubky nebo ne. A přitom vlastně tohle se dělo, tak to byl"
+    },
+    {
+      "i": 26,
+      "t": 653,
+      "speaker": "Stanislava Maunová",
+      "text": "fakt krásnej moment. A ten byl hodně rychlý. Já si myslím, že možná fakt v průběhu prvních těch třech měsíců to fakt letí, tam se to jako splývá. Takže to byl jeden okamžik. A ten druhej byl ten, co jsem mluvila před chvílí, když jsem se rozhodla, že se zadlužím a že si budu vydělávat koučováním. A to začínalo nějak v červenci a v září jsem se rozhodla, že to nebudu splácet pět let, ale že do roka to bude zaplacený. A tam se odehrával další nějaký push-up efekt, že jsem si říkala, co můžu udělat prostě proto, abych tu splátku, protože tam jsem měla možnost mimořádný splátky, tak abych posílala každý měsíc prostě násobně větší, ale opravdu jako násobně. A já jsem každý další měsíc posílala čím dál víc na ty splátky. A to byl taky takový nějaký aha moment, kdy jsem si [nesrozumitelné] vlastně ten progres."
+    },
+    {
+      "i": 27,
+      "t": 710,
+      "speaker": "Stanislava Maunová",
+      "text": "Takže jsem ho měla měřitelný vlastně na tom, že jsem si udělala speciální účet, tam jsem posílala všechny peníze vydělaný koučováním, a každý měsíc tam byla větší částka, kterou jsem mohla použít na to zaplacení tý půjčky. To si myslím, že bylo hodně důležitý."
+    },
+    {
+      "i": 28,
+      "t": 726,
+      "speaker": "CoachVille",
+      "text": "Wow. Stáňo, a co sis myslela vlastně o koučování dříve, než jsi do výcviku nastoupila, a jak se to v průběhu doby vyvinulo?"
+    },
+    {
+      "i": 29,
+      "t": 736,
+      "speaker": "Stanislava Maunová",
+      "text": "Jo, jo, jo. No, hele, tak jasně, protože kouč je prostě atraktivní, že jo. Tak nejdřív jsem si myslela, že to bude takový, že bude stačit říkat, že jsem kouč, a všichni se ke mně budou hrnout a obdivovat mě, jo, a budou chtít ty rady hlavně, že jo, protože přece kouč je vlastně nabitý radama. A tohle se nestalo ani jeden den, jo."
+    },
+    {
+      "i": 30,
+      "t": 762,
+      "speaker": "CoachVille",
+      "text": "Ok."
+    },
+    {
+      "i": 31,
+      "t": 764,
+      "speaker": "Stanislava Maunová",
+      "text": "Takže to jsem velmi rychle pochopila. Právě v tom rozhovoru s tebou, jak jsme měli na začátku, jsem si říkala, jo, dělám v obchodě, takže umím obchodovat, mám ten učitelský gen v sobě, to bude prostě skvělý, baví mě psychologie, mám z ní i státnice, to prostě všechno využiju, jo. A musím říct, že vlastně jako ne. Že to, co jsem fakt vytěžovala každej den, bylo to, že jsem se držela té metody, že jsem fakt šla čistě s tím, protože jsem tam nevnášela nějaký svoje výmysly."
+    },
+    {
+      "i": 32,
+      "t": 797,
+      "speaker": "Stanislava Maunová",
+      "text": "Protože jakmile jsem to tak udělala, tak se to úplně rozteklo, vůbec to nebylo jako k tomu, jo. A co jsem tam potom zapojila... Takže vlastně tahle ta kázeň byla důležitá, si fakt hlídat ty věci tak, jak bych je dělala, jak je moudří lidé přede mnou vymysleli, a spíš tam použít třeba nějakou kreativitu, jo. Že fakt to není o radách, anebo prostě o tom, že si člověk myslí, jo, já jsem přesně rozený kouč, jo. A tak, když vlastně o tom mluvím, tak si uvědomuji spoustu lidí z výcviku, kteří na mě nepůsobili jako ten rozený kouč, a jsou skvělí dneska. A je to právě asi o tom, že opravdu se drželi toho, co se mají, a nevymýšleli nějakou svoji verzi."
+    },
+    {
+      "i": 33,
+      "t": 842,
+      "speaker": "CoachVille",
+      "text": "Stáňo, a když vlastně zvážíme, že nás třeba poslouchá někdo, kdo je dneska v roli manažera, a může to být scénář, kdy v roli manažera chce i zůstat a chce v ní být lepší. A jak mu podle tebe koučování pomůže?"
+    },
+    {
+      "i": 34,
+      "t": 862,
+      "speaker": "Stanislava Maunová",
+      "text": "Tam vidím dvě roviny. Jedna je ta přímo zaměřená na něj jako na člověka, protože si uvědomí spoustu věcí o sobě. Spoustu, to řeknu jako [nesrozumitelné], který dělá. Jak sobě, tak i tomu týmu. Čili je tam hodně to o nějakém sebeuvědomění. To jsem měla hodně a i se to promítlo třeba fakt do rodiny. Že jsem byla velmi autoritativní i v rodině. A jakmile se to"
+    },
+    {
+      "i": 35,
+      "t": 893,
+      "speaker": "Stanislava Maunová",
+      "text": "nedělo a vlastně člověk zná nějaké ty funkční postupy, jak se dá komunikovat jinak, já říkám laskavěji, tak to bylo pro mě zásadní, že jsem si to změnila. A i jsem si přeskládala vůbec ten život trošku jinak. A hlavně jsem už potom přestala pracovat 60 nebo 70 hodin týdně a pracovala jsem třeba fakt v uvozovkách jenom 40. Já si pamatuji, že jsem si říkala, jak jsem oslavovala, že už pracuji jen 40 hodin, než mě zase konfrontoval vlastně můj parťák kouč a říkal, čím to, že standard je pro tebe důvodem k oslavě."
+    },
+    {
+      "i": 36,
+      "t": 937,
+      "speaker": "Stanislava Maunová",
+      "text": "Takže to bylo takový dobrý."
+    },
+    {
+      "i": 37,
+      "t": 942,
+      "speaker": "Stanislava Maunová",
+      "text": "Ten tým, hele, to fakt bylo neuvěřitelný, protože i mně v tu chvíli dost často odcházeli lidi, že tam byla velká fluktuace, a najednou se zastabilizoval. A co jsem pozorovala najednou, že se to chovalo jako jeden kmen, že tím, jak jsme to propletali mezi sebou, ty příběhy, nějak se vlastně učili i oni mezi sebou komunikovat jinak. Tak ten tým, najednou to opravdu byl tým. Nebylo to o tom, že tam mám pár lidí na nějaký výplatní pásce,"
+    },
+    {
+      "i": 38,
+      "t": 974,
+      "speaker": "Stanislava Maunová",
+      "text": "ale vlastně fakt jsem se cítila jako v nějakým takovým fakt kmenu, jo. Kde jsem já byla jenom součástí, takovým tím člověkem, takovým tím stařešinou,"
+    },
+    {
+      "i": 39,
+      "t": 986,
+      "speaker": "Stanislava Maunová",
+      "text": "ale každý prostě věděl, co je jeho úkolem, jo, kdo se stará, nevím, o oheň, že, kdo chodí lovit. A prostě nádherně to fakt fungovalo. Tohle bylo bezvadný, tohle si fakt zažívat. A byl to taky důvod, proč se mně těžko odcházelo potom."
+    },
+    {
+      "i": 40,
+      "t": 1003,
+      "speaker": "CoachVille",
+      "text": "Ano, samozřejmě potom se objevil takzvaný plán B. A to je, kdy manažer, který se učí koučovat, tak vlastně si všimne, že je možné, že koučování může být naplňující a svobodnější než ta role manažera. Čili vlastně co bys řekla o tom plánu B? Jak jsi to měla ty?"
+    },
+    {
+      "i": 41,
+      "t": 1028,
+      "speaker": "Stanislava Maunová",
+      "text": "Ale ono bylo klíčové, že my jsme si sami sobě na začátku toho výcviku stanovovali vlastně, co je naším snem. A já teda musím říct, že jsem ho vždycky nějak měla a byl takovej v budoucnosti. Nebyl vůbec... nežil se mnou v tu chvíli. A tím, jak jsme se o něm pořád bavili a v rámci toho výcviku člověk koučuje s parťákama a pořád vlastně s tím snem je v kontaktu, tak jsem si uvědomovala, že ho mám pořád schovaný za tím slovíčkem až."
+    },
+    {
+      "i": 42,
+      "t": 1058,
+      "speaker": "Stanislava Maunová",
+      "text": "A najednou vlastně přišel ten okamžik, vlastně to moje proč je, protože chci navždy vypnout budík. To je taková banalita, ale pro mě je to velká symbolika. A já už jsem pak vlastně s každým tím dalším budíkem, když mě to budilo, tak jsem vstávala s tím, že dneska můžu udělat cokoliv proto, abych už ten budík mohla navždy vypnout, aby už třeba zítra se to nedělo. Takže tohleto bylo vlastně nějaká"
+    },
+    {
+      "i": 43,
+      "t": 1089,
+      "speaker": "Stanislava Maunová",
+      "text": "taková podpůrná věc, která se tam objevovala. A tím, jak to koučování je volný v čase, v místě, že si to hodně řídíš vlastně sama proti tomu manažerskému postu nějakému, tak jsem začala i testovat. A dalším slůvkem nebo větou, kterou jsem si začala říkat, bylo: protože můžu. Takže jsem třeba udělala to, že jsem někam odjela. Takže jsem někam odjela. A lidi se divili, proč jsem odjela, a já jsem jim říkala, protože můžu. A tak jsem to postupně začala zkoušet, jak chutná ta svoboda. No a zalíbilo se mi v ní a nějak víc jsem se v ní zabydlela a musela jsem se fakt už potom rozhodnout, protože jsem viděla, že to moje poslání jako manažerský, že jsem už pravděpodobně na konci té cesty a že je čas"
+    },
+    {
+      "i": 44,
+      "t": 1142,
+      "speaker": "Stanislava Maunová",
+      "text": "začít dělat něco v tuhle chvíli jinak a trošku víc pro sebe."
+    },
+    {
+      "i": 45,
+      "t": 1148,
+      "speaker": "CoachVille",
+      "text": "Jasná věc. Stáňo, kdo jsou tvoji oblíbení klienti? Co jsou ty témata, které tě s nima baví probírat? Jak bys ty oblíbené hráče charakterizovala?"
+    },
+    {
+      "i": 46,
+      "t": 1166,
+      "speaker": "Stanislava Maunová",
+      "text": "Je to takový mix mezi rebelem"
+    },
+    {
+      "i": 47,
+      "t": 1171,
+      "speaker": "Stanislava Maunová",
+      "text": "a mezi někým, kdo se fakt bezhlavě pouští do výzvy, jo. Já fakt opravdu myslím bezhlavě, protože ono někdy to chce prostě odvahu, a když ty lidi tam zapojí moc hlavu, tak do těch výzev potom nejdou. Takže já fakt miluju tyhle ty lidi, kteří pořád nabourávají nějaký dogmata. Ono to mám trošku vlastně i já, že jo, že prostě není dogmatem pracovat pět dní v týdnu. Já prostě považuju pátek za svůj čas víkendu třeba už dneska, jo. A mám ráda ty lidi, kteří to taky tak vlastně cítí a pořád pokoušejí ty hranice a mají tam fakt ten kus té odvahy jít do nějakého experimentu a fakt to jenom vyzkoušet, jo. A ono je vždycky možnost se vrátit. Ale tenhle ten typ hráčů, vlastně klientů, to je prostě slast, to je odměna pro mě."
+    },
+    {
+      "i": 48,
+      "t": 1223,
+      "speaker": "CoachVille",
+      "text": "Hezký. A co bys řekla vlastně, že tě na koučování baví? Pravděpodobně tě napadne více aspektů, klidně můžeš pojmenovat několik z nich. Co tě na koučování baví? Jako na tom, kdy ty jsi koučem pro někoho dalšího?"
+    },
+    {
+      "i": 49,
+      "t": 1238,
+      "speaker": "Stanislava Maunová",
+      "text": "V tuhle chvíli mě na tom nejvíc baví, jak jsem říkala, to pokoušení těch hranic. Ono je tam velmi tenká hranice, kdy toho svýho klienta vlastně tlačíš nebo prostě chceš ho vést do nějaký výzvy, aby šel trošku mimo ty svoje hranice komfortu. A nebo vlastně zase potřebuješ ho podpořit, když vlastně zase cítíš, že teď je ten čas, kdy výzvy ne."
+    },
+    {
+      "i": 50,
+      "t": 1270,
+      "speaker": "Stanislava Maunová",
+      "text": "A potřebuje tohle. A tenhle ten taneček na té hraně, to mám teď takový nějaký téma, že to zbožňuju. Nějak tam jít a sledovat, co to s těma lidma dělá. Vlastně kam je to vede a co se tam můžou všechno naučit. A obecně tam mám ráda vztahy. Já mám nějaké svoje poslání, že vlastně díky tomu, co dělám, je svět každej den laskavější, takže se snažím ukazovat těm lidem, že existují i jiné způsoby komunikace, než tak, jak jsem to měla já, to znamená ta autoritativní nebo tak."
+    },
+    {
+      "i": 51,
+      "t": 1308,
+      "speaker": "Stanislava Maunová",
+      "text": "A vlastně v těch vztazích někdy se to fakt děje hodně na sílu. A to, že to koučování otvírá úplně jiný pohledy těm lidem, jak to třeba může cítit ta druhá strana, jo, nebo se ptáš třeba, jak by to šlo dělat jinak, tak u všech vlastně klientů, který mám, a některý už mám opravdu celý ty dva roky, tak vidím ohromný posun v tom, jak oni komunikují ven. A to mně přijde prostě krásný, že se to fakt děje, že vidím, že ten svět opravdu je laskavější, protože oni vlastně komunikují třeba úplně jiným způsobem."
+    },
+    {
+      "i": 52,
+      "t": 1343,
+      "speaker": "CoachVille",
+      "text": "Stáňo, a jak vlastně ten trénink CoachVille ovlivnil tvůj dosavadní život? Možná že to je velká otázka, možná tě napadne více aspektů. Jak vlastně to, že ses k nám přidala, ovlivnilo tvůj dosavadní život?"
+    },
+    {
+      "i": 53,
+      "t": 1356,
+      "speaker": "Stanislava Maunová",
+      "text": "Já řeknu, jak neovlivnilo. Bydlím na stejném místě a mám stejného manžela. A to je jediné, co se asi nezměnilo."
+    },
+    {
+      "i": 54,
+      "t": 1370,
+      "speaker": "Stanislava Maunová",
+      "text": "Odešla jsem fakt z dobře placený práce. Myslím si, že... A i mě to bavilo. To já vůbec nemůžu říct, že by mě tam to nebavilo. Být obchodní ředitelkou, když miluješ obchod, je prostě skvělý."
+    },
+    {
+      "i": 55,
+      "t": 1382,
+      "speaker": "Stanislava Maunová",
+      "text": "A dnes jsem vlastně OSVČ, podnikám na sebe. A je to změna, o které vím, že už je finální, pokud se nestane něco zásadního. Takže to je určitě prostě veliký."
+    },
+    {
+      "i": 56,
+      "t": 1398,
+      "speaker": "Stanislava Maunová",
+      "text": "Tak rozhodně si uvědomuji, že jsem žila, jak to říct, prostě nějakej úplně jiný příběh. Já vůbec to dneska nechápu zpětně, jo, ale když si uvědomuji, že jsem pak dělala 60, 80 hodin týdně, jo, a fakt že všechno bylo schovaný pod rámec, jakoby nějakou nálepkou, že to dělám, aby se děti měly dobře, ale děti se dobře neměly, protože děti neměly vůbec mámu, jo. A byly v době nějakých teenagerů, prostě dětí, já nevím, od deseti let, prostě dejme tomu, kdy ta máma byla většinu času někde pryč, protože prostě měla pocit, že když vydělá hodně peněz a bude úspěšná v kariéře, takže to je pro ty děti, přece to dělám, ne? Takže tahleta proměna tohohle dogmatu, kdy jsem si uvědomila, že to je prostě úplně o něčem jiném."
+    },
+    {
+      "i": 57,
+      "t": 1452,
+      "speaker": "Stanislava Maunová",
+      "text": "Pak vlastně ta svoboda. Je to fakt, já to pořád dělám, jo, teď jsem zase byla prostě na čtyři dny v Římě, jenom prostě proto, že můžu, protože jsem začala zase nějakou další éru a říkala jsem si, chtělo by to nějaký zážitek, abych na to pak jenom vzpomínala, abych si to spojila, jo. Takže vlastně mám video sama se sebou u Fontány di Trevi v Římě, kde si sobě nahrávám, tak, a tady prostě začíná teďkom zase další kapitola toho koučování, toho příběhu."
+    },
+    {
+      "i": 58,
+      "t": 1481,
+      "speaker": "Stanislava Maunová",
+      "text": "Je to vlastně o tom, že fakt ta svoboda je neuvěřitelná. Je to o tom, že fakt to koučování si můžeš vzít na Bali a můžeš být tam. Anebo koučuješ prostě brzy ráno, tak si ho můžeš vzít do ranních hodin a odpoledne mít volno. Je to i o tom, že samozřejmě, co si budeme nalhávat, to není špatně placený. Mám tu svobodu toho, že si můžu dopřát věci, které bych si možná jako manažerka dopřála taky, ale za cenu dalších hodin odkroucených. A někde se tam cestou ztratila ještě ta hodná holka. Já jsem si nesla z dětství to, že jsem jako dcera hodná holka, hodná dcera."
+    },
+    {
+      "i": 59,
+      "t": 1533,
+      "speaker": "Stanislava Maunová",
+      "text": "Vůči autoritám jsem tam měla velký respekt a měla jsem tam spoustu osobních nějakých věcí, které mi škodily ze zdravotního hlediska, a to se tam někde ztratilo. Takže dneska se hrdě hlásím tomu, že nejsem hodná holka, tak klidně [nesrozumitelné]. Takže tohle si myslím, že bylo docela velký pro mě taky."
+    },
+    {
+      "i": 60,
+      "t": 1556,
+      "speaker": "CoachVille",
+      "text": "Hezký. Stáňo, a jak vnímáš vlastně přínos a hodnotu naší komunity koučů? Co ti to dává být toho součástí?"
+    },
+    {
+      "i": 61,
+      "t": 1567,
+      "speaker": "Stanislava Maunová",
+      "text": "Jo, ale bez toho by se to nikdy nestalo. Kdybych, dejme tomu, prošla nějaký kurz a nebyla tam ta vzájemná podpora, že jsme se vzájemně už potkávali, koučovali, že jsme se i osobně setkávali, tak by to vyšumělo. A já to vím, znám ty příběhy, ty lidi, kteří tu komunitu opustili. S tím, že si dali třeba pauzičku, jo, nebo řekli vlastně teď, že chvíli si to potřebuju rozmyslet. A já je nevidím v tom našem vlaku. Dneska se s nima občas i píšeme, ale ten jejich příběh skončil. A kdo jsme zůstali v té komunitě, kdo jsme si to brali, jo, ty věci z té komunity, tu energii, i nějaký takový ty, tu podporu, když prostě člověk zrovna nemohl, jo, anebo i..."
+    },
+    {
+      "i": 62,
+      "t": 1614,
+      "speaker": "Stanislava Maunová",
+      "text": "Fakt někdy jenom to, že jsou, jo, a že víš, že prostě se, já nevím, párkrát za rok někde potkáte, tohleto bylo klíčový. A myslím si, že mi tam... Já dneska, když se podívám na svoje nejbližší přátele, tak jsou to lidi vlastně z CoachVille, jo. Vlastně ukončila se většina přátelství těch starších, protože už nějak mi nedávají úplně logiku, už to prostě nejsem já. Ti lidi jsou v mým životě, byli tam důležitý,"
+    },
+    {
+      "i": 63,
+      "t": 1648,
+      "speaker": "Stanislava Maunová",
+      "text": "ale teď v přítomnosti jsou moji nejbližší přátelé. Dá se říct, že z 90 % lidi z CoachVille."
+    },
+    {
+      "i": 64,
+      "t": 1656,
+      "speaker": "CoachVille",
+      "text": "Hezký. Stáňo, a co bys vlastně vzkázala někomu, kdo třeba ještě nikdy nezažil koučování, kdo nebyl koučovaný? Protože život, kdy nejsi koučovaná, tak ten jsi znala, že jo, jako dříve. Dneska znáš ten život jako, že jsi koučovaná, a že jsi koučovaná klidně několikrát týdně po dobu delší. Co bys vzkázala někomu, kdo ještě koučování nevyzkoušel?"
+    },
+    {
+      "i": 65,
+      "t": 1692,
+      "speaker": "Stanislava Maunová",
+      "text": "Přemýšlím, jak to říct jinak, než prostě jdi do toho a vyzkoušej to, jo. Protože mně to přijde tak normální. Takže když to nevyzkoušíš, tak to jako nezažiješ. Když ti prostě budu vyprávět, jak chutná zmrzlina, tak to může být zajímavý příběh. Ale pokud prostě si ji fakt nenecháš natočit a nesníš si ji, tak vůbec nevíš, o čem to je. A já neříkám, že to všem musí sedět, protože já jsem měla spoustu klientů, kteří na to ještě v tuhle chvíli nebyli připraveni."
+    },
+    {
+      "i": 66,
+      "t": 1723,
+      "speaker": "Stanislava Maunová",
+      "text": "Ten jejich život byl na nějaké úrovni, kdy... Ještě nebyli, protože ono to koučování je i o tom, že vlastně se nehrabete v minulosti, ale díváte se prostě víc v přítomnosti na nějakou budoucnost. A někdo fakt ještě je v té stagnaci, že nechce se dívat do té budoucnosti. Takže tím říkám, že prostě to není pro všechny, ale to nezjistíš, když to prostě nevyzkoušíš. A nemluvím o tom, že to vyzkoušíš jednou. Já jsem prostě ty lidi..."
+    },
+    {
+      "i": 67,
+      "t": 1753,
+      "speaker": "Stanislava Maunová",
+      "text": "Vždycky jsme si domlouvali tři, čtyři setkání a teprve potom jsme dělali nějaké vyhodnocování. Takže prostě pojďte si to zkusit a pojďte si to zkusit třikrát až čtyřikrát třeba, aspoň, jo. Protože když ochutnáš první citronovou zmrzlinu a to není úplně tvůj typ, tak možná, že ta tvoje je ta čokoládová, že jo. A to si prostě potřebuješ dát."
+    },
+    {
+      "i": 68,
+      "t": 1776,
+      "speaker": "Stanislava Maunová",
+      "text": "Takže pojďte ochutnat těch pár těch zmrzlin, a pak se rozhodněte, jestli máte zmrzlinu rádi, anebo ne."
+    },
+    {
+      "i": 69,
+      "t": 1783,
+      "speaker": "CoachVille",
+      "text": "A pojďme se podívat ještě na přínos koučování pro lidstvo, protože my víme, že koučování má svůj přínos. Hele, jak vlastně vnímáš to, jaký přínos má koučování jako obor pro lidi a pro budoucnost? Můžeš to vzít jako odkudkoliv."
+    },
+    {
+      "i": 70,
+      "t": 1804,
+      "speaker": "Stanislava Maunová",
+      "text": "No, zase [nesrozumitelné] otázku nemáš."
+    },
+    {
+      "i": 71,
+      "t": 1810,
+      "speaker": "Stanislava Maunová",
+      "text": "Hele, vytáhnout to, co už jsem říkala o té laskavosti, to je třeba můj osobní přínos, že si myslím, že díky tomu právě, že ta komunikace mezi lidma může být úplně jiný příběh, tak se to fakt odehrává. A mě tohle vlastně... byl, myslím, nějaký film jako Pošli to dál nebo něco takového, a tohle věřím, že existuje, že tahle ta kaskáda, když ten člověk už jednou zažije, že s ním třeba i ten kouč mluví vlastně velmi s respektem,"
+    },
+    {
+      "i": 72,
+      "t": 1840,
+      "speaker": "Stanislava Maunová",
+      "text": "jako nehodnotí ho, vlastně dokáže vykomunikovat to, co potřebuje, úplně jinýma způsobama, tak on přirozeně tím, že to zažije, tak si myslím, že to používá. Takže tohleto je určitě jedna věc, která funguje, že si myslím, když lidi spolu budou komunikovat s respektem. A ne, já řeknu, ty jsi můj zaměstnanec, tak já s tebou můžu manipulovat, nebo že tě můžu ovládat. To samé třeba dítě, jo. To, že je to moje dítě, neznamená přece, že ho můžu nějakým způsobem takhle ovládat. Pořád je to osobnost, jo. Takže to je jedna věc, co mě napadá. A i druhá, když to fakt vezmu zase z nějakého globálnějšího hlediska, jo, tak."
+    },
+    {
+      "i": 73,
+      "t": 1888,
+      "speaker": "Stanislava Maunová",
+      "text": "My fakt vymýšlíme s těma našima lidma spoustu kreativních věcí. A díky tomu se ten svět fakt rozvíjí, jo, protože pokud má třeba jako téma, že teď už prostě budu pracovat jenom tři dny v týdnu, tak musí být velmi kreativní a musí něco změnit. A možná to může i podpořit nějakej, to co já vím, pracovní trh, protože tím, že deleguje, tím, že nabízí příležitosti třeba studentům, jo, tak zase se dějou třeba jiný věci. Takže to je jenom nějaký konkrétnější tip, který vím, že se třeba děje v příbězích,"
+    },
+    {
+      "i": 74,
+      "t": 1920,
+      "speaker": "Stanislava Maunová",
+      "text": "co se dějou okolo mě, že tam je spousta kreativity, a posouvají se úplně za horizonty některá témata, která by jinak vlastně nebyla nikdy objevena a spala by a nic zásadního by se nedělo."
+    },
+    {
+      "i": 75,
+      "t": 1936,
+      "speaker": "CoachVille",
+      "text": "Stáňo, a co bys vlastně vzkázala někomu, kdo se dneska třeba rozhoduje o tom, že se do CoachVille přidá? A chce se stát koučem, nebo je dneska manažerem a chce zlepšit svoje schopnosti v komunikaci a vedení lidí. Co bys někomu takovýmu vzkázala nebo doporučila ze své zkušenosti?"
+    },
+    {
+      "i": 76,
+      "t": 1965,
+      "speaker": "Stanislava Maunová",
+      "text": "Jenom tady [nesrozumitelné] se mi dobývá domů, tak to dělá možná nějaký rambajs."
+    },
+    {
+      "i": 77,
+      "t": 1974,
+      "speaker": "Stanislava Maunová",
+      "text": "Tam je prostě důležitý, myslím si, že nezastavit. Ono může třeba respektovat svoje tempo, možná jeho tempo je pomalejší, ale určitě, když už se rozhodne, že se do toho pustí, tak se nenechat zastavit nějakým strachem nebo nějakýma obavama nebo něčím, co se tváří, jakože je to opravdu závažný důvod, protože obvykle vlastně je to něco, za co se stejně jenom schovává strach v různých podobách. A od toho má parťáky kouče,"
+    },
+    {
+      "i": 78,
+      "t": 2005,
+      "speaker": "Stanislava Maunová",
+      "text": "nebo od toho má tu komunitu, aby mu s tím lidi pomohli, že vlastně na to nebude sám a není na to sám. Čili prostě pojď do toho,"
+    },
+    {
+      "i": 79,
+      "t": 2015,
+      "speaker": "Stanislava Maunová",
+      "text": "respektuj nějakým způsobem svoje tempo, ale ať tě to jako nezastaví. Takže to je jeden tip. A druhý,"
+    },
+    {
+      "i": 80,
+      "t": 2027,
+      "speaker": "Stanislava Maunová",
+      "text": "prostě to, co už jsem říkala, když se budeš držet té metody a budeš v tom ukázněný, tak to prostě bude fungovat. A je to docela snadný potom. Vlastně nepotřebuješ na to kdo ví jaký další vzdělání. Takže tohle. No a to, co říkáme my, nejdřív hraj. To znamená, nečekej na to, až budeš mít, já nevím, x týdnů kurzu za sebou, až budeš mít x týdnů nějakého koučování s parťákem, ale prostě jdi do toho normálně,"
+    },
+    {
+      "i": 81,
+      "t": 2058,
+      "speaker": "Stanislava Maunová",
+      "text": "jak se má. A naostro. A pojď si to zkoušet v praxi, protože jenom tam zjistíš ty relevantní informace, jak to s tebou skutečně je."
+    },
+    {
+      "i": 82,
+      "t": 2068,
+      "speaker": "CoachVille",
+      "text": "Skvělý. Díky za to. Pojďme se podívat ještě, Stáňo, na nějaké tvoje oblíbené motto. Máš nějaký citát, nějakou myšlenku, která tě inspiruje nebo která tě ovlivnila v životě?"
+    },
+    {
+      "i": 83,
+      "t": 2083,
+      "speaker": "Stanislava Maunová",
+      "text": "Ano, to bude vlastně ta moje věta: protože můžu. To asi říkám hodně často a vždycky se s tím zastavuju a oslavuju to. Vždycky jednou za čas, jednou za měsíc, mám s tím jako rituálek a dívám se tam, co se všechno odehrálo, a jsou tam právě ty dvě věty, jak se vlastně stal ten svět za ten měsíc laskavější, co jsem tam vlastně udělala takového, že se to odehrálo. Takže tohle. A vždycky si právě říkám, oslavuju to, že můžu."
+    },
+    {
+      "i": 84,
+      "t": 2119,
+      "speaker": "Stanislava Maunová",
+      "text": "Vždycky tam mám napsáno, co všechno jsem mohla ten měsíc udělat. Takže to je moje větička, která mi dost často běhá třeba na displeji nebo tak."
+    },
+    {
+      "i": 85,
+      "t": 2132,
+      "speaker": "CoachVille",
+      "text": "Hezký. Stáňo, moc děkuji, že jsme společně mohli tenhle rozhovor udělat. Je tady něco, co chceš říct našim divákům, posluchačům takhle na závěr, něco, co bys vzkázala?"
+    },
+    {
+      "i": 86,
+      "t": 2142,
+      "speaker": "Stanislava Maunová",
+      "text": "Kromě toho, co už jsem vzkázala, jo."
+    },
+    {
+      "i": 87,
+      "t": 2149,
+      "speaker": "Stanislava Maunová",
+      "text": "Jo, já cítím, že klíčový a vždycky mě to podrželo bylo to, že jsem měla to svoje proč, ten sen, a byla jsem s ním každý den ve spojení. Protože kdybych to neměla, tak by to možná opravdu... Jako byly okamžiky, kdy to nebylo úplně lehký, jo, protože se něco stalo v rodině nebo prostě i zdravotně a měla jsem velký problém. A tím, že jsem byla opravdu každý den v tom svým proč, proč to má smysl. A že každý den vlastně je tím"
+    },
+    {
+      "i": 88,
+      "t": 2179,
+      "speaker": "Stanislava Maunová",
+      "text": "tou možností, jak se k tomu svýmu proč přiblížit. Tak to si myslím, že bylo klíčové. Takže kdyby ode mě mělo zaznít něco, co by mohlo inspirovat ostatní, tak je to tohleto. Prostě mějte ten svůj sen nebo to svoje proč hodně blízko a buďte s ním každý den v kontaktu."
+    },
+    {
+      "i": 89,
+      "t": 2200,
+      "speaker": "CoachVille",
+      "text": "Hezký. A kdyby se někdo z našich diváků nebo posluchačů identifikoval jako ten rebel a chtěl by si vyzkoušet koučování s tebou, jak tě může kontaktovat? Kde tě najdou?"
+    },
+    {
+      "i": 90,
+      "t": 2217,
+      "speaker": "Stanislava Maunová",
+      "text": "Na sociálních sítích, na Facebooku, na Instagramu jako Stanislava Maunová Dlouhá a na LinkedInu jako Stanislava Maunová."
+    },
+    {
+      "i": 91,
+      "t": 2227,
+      "speaker": "CoachVille",
+      "text": "Skvěle. Stáňo, děkuji moc, že jsme společně mohli udělat tenhle rozhovor. Díky za to. Díky. Milí posluchači, milí diváci, tohle byl rozhovor se Stáňou Maunovou. Díky moc. Díky taky."
+    }
+  ]
+}
