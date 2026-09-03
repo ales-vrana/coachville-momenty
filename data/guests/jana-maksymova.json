@@ -1,0 +1,50 @@
+{
+  "slug": "jana-maksymova",
+  "displayName": "Jana Nováková Maksymová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 29,
+  "priorProfessionText": "vystudovaná ekonomka; dnes koučka se zaměřením na lidi po překonání závislosti, závislé vztahy a přehlcenost; besedy ve školách",
+  "priorProfessionCat": "neuvedeno",
+  "regionType": "neuvedeno",
+  "ageBand": "35 až 49",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://www.janamaksymova.cz/",
+      "label": "Web janamaksymova.cz (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "ekonomka; vlastní životní zkušenost jako motiv pomáhat lidem po překonání závislosti; reklama Život jako hra, test předpokladů jako zlom"
+    },
+    {
+      "label": "Start (5/2021)",
+      "text": "„slon v porcelánu“, nové dveře každý trénink; člověk v hlavě, tlak na sebe zvládnout to dřív"
+    },
+    {
+      "label": "Změna",
+      "text": "z módu „až“ k obyčejné radosti; strach, že bude muset překopat celý život, se nenaplnil; podporující výchova doma"
+    },
+    {
+      "label": "Dnes (přes 2 roky, přes 360 hodin)",
+      "text": "hráči: lidé po závislosti, závislé vztahy, přehlcenost, cesta za snem; besedy ve školách; web janamaksymova.cz"
+    }
+  ]
+}

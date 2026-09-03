@@ -1,0 +1,95 @@
+{
+  "slug": "jana-maksymova",
+  "title": "Koučování mi dalo životní smysl",
+  "guestSlugs": [
+    "jana-maksymova"
+  ],
+  "vimeoId": "871035021",
+  "vimeoHash": "fbfd2dbc89",
+  "vimeoUrl": "https://vimeo.com/871035021/fbfd2dbc89",
+  "recordedAt": "2023-10-01",
+  "durationS": 2480,
+  "interviewerName": "Aleš Vrána",
+  "interviewerRole": "zakladatel CoachVille",
+  "format": "rozhovor",
+  "status": "published",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Úvod: ekonomka, start 2021"
+    },
+    {
+      "t": 31,
+      "title": "Motiv: vlastní zkušenost a mise"
+    },
+    {
+      "t": 81,
+      "title": "Reklama a test předpokladů"
+    },
+    {
+      "t": 172,
+      "title": "Cíl: pomáhat lidem po závislosti"
+    },
+    {
+      "t": 260,
+      "title": "Slon v porcelánu"
+    },
+    {
+      "t": 438,
+      "title": "Radí kouči? Ne"
+    },
+    {
+      "t": 536,
+      "title": "Mód „až“ a obyčejná radost"
+    },
+    {
+      "t": 644,
+      "title": "Nemusela jsem překopat celý život"
+    },
+    {
+      "t": 806,
+      "title": "Koučování a děti"
+    },
+    {
+      "t": 1003,
+      "title": "Co mě baví: hloubka a smysl"
+    },
+    {
+      "t": 1110,
+      "title": "Komunita"
+    },
+    {
+      "t": 1240,
+      "title": "Být koučovaná: slepá místa"
+    },
+    {
+      "t": 1368,
+      "title": "Témata hráčů"
+    },
+    {
+      "t": 1523,
+      "title": "Okresní knihovna vs. jedna aktivita"
+    },
+    {
+      "t": 1740,
+      "title": "Koučovací DNA"
+    },
+    {
+      "t": 1921,
+      "title": "Vzkaz: nejlíp uložené peníze"
+    },
+    {
+      "t": 2086,
+      "title": "Vzkaz hráčům"
+    },
+    {
+      "t": 2172,
+      "title": "Motta a besedy ve školách"
+    },
+    {
+      "t": 2289,
+      "title": "Kontakt a závěr"
+    }
+  ],
+  "transcriptFile": "data/transcripts/jana-maksymova.json"
+}
