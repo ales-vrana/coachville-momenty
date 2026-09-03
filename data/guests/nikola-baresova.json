@@ -1,0 +1,58 @@
+{
+  "slug": "nikola-baresova",
+  "displayName": "Nikola Barešová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 14,
+  "priorProfessionText": "manažerka v retailu, vede tým manažerů; dříve gastronomie (zavádění řetězce kaváren v ČR, začínala za barem)",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "do 35",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "jiné",
+      "url": "https://www.instagram.com/nemusim_kouci/",
+      "label": "Instagram nemusim_kouci (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "vedla lidi intuitivně koučovacím způsobem, vytýkali jí, že nedělá cukr a bič; před 7 lety zjistila, že se tomu říká koučování; mentorka: „proč za deset let?“"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "úvodní hovor, na dovolené všechny podcasty Život jako hra; před třicítkou „vzít to za pačesy“"
+    },
+    {
+      "label": "Start",
+      "text": "playbook: sežeňte si hráče; „jak, když nic neumím“; „už jsem zaplatila“; obavy z trapnosti, okolí reagovalo nadšeně; Instagram"
+    },
+    {
+      "label": "Půl roku",
+      "text": "záměr „jen do práce“ se změnil: chce být profesionální koučka na plný úvazek"
+    },
+    {
+      "label": "Před Vánoci",
+      "text": "nabírala moc hráčů, výkon a peníze, „odvařila se“; stop sítím a náboru; po novém roce úleva, výsledky s lehkostí"
+    },
+    {
+      "label": "Dnes (14. měsíc, odhad)",
+      "text": "přes 440 hodin; zaměstnání + koučování; hráči začínající podnikatelé a manažeři; téměř nulová fluktuace v týmu (tvrzení hosta)"
+    }
+  ]
+}
