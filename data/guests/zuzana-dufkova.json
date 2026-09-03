@@ -1,0 +1,44 @@
+{
+  "slug": "zuzana-dufkova",
+  "displayName": "Zuzana Dufková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-03",
+  "phaseAtRecording": "neuvedeno",
+  "monthsInTraining": 12,
+  "priorProfessionText": "mentorka a kariérní poradkyně (pracovní uplatnění) 12 let; dřív prošla jiným koučovacím výcvikem akreditovaným MŠMT",
+  "priorProfessionCat": "HR a personalistika",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "12 let mentorka; po covidu vyčerpání z mentoringu, klienti nechávali zodpovědnost na ní; zvažovala i skončit; byla koučovaná; jiný akreditovaný výcvik, kde jí něco chybělo"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "rozhodla se na základních workshopech CoachVille; obavy: platící klienti místo příjmu z mentoringu, budu dobrá koučka?"
+    },
+    {
+      "label": "Start",
+      "text": "oddělit mentorování od koučování jako velký úkol; bartery, oslovení neznámých lidí, placená spolupráce cca po 4 hodinách"
+    },
+    {
+      "label": "Dnes (přes rok)",
+      "text": "překlápí praxi z mentoringu na koučování; víc energie; příjem z koučování částečně nahrazuje mentoring; hráči: lidé, kteří chtějí změnu a neví jak; témata kariéra a vztahy"
+    }
+  ]
+}
