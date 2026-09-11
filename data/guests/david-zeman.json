@@ -1,0 +1,50 @@
+{
+  "slug": "david-zeman",
+  "displayName": "David Zeman",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-11",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 6,
+  "priorProfessionText": "stavební inženýr, 20 let mostní inženýr ve Správě železnic (vedení týmů, přednášky na konferencích); dál v zaměstnání, koučuje vedle práce",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "35 až 49",
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=David%20Zeman%20most",
+      "label": "LinkedIn pod jménem, profil mostního inženýra (z rozhovoru, přesný profil neověřen)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "20 let mostní inženýr ve Správě železnic; tlak v korporátu, došly síly; videa o CoachVille; ukázkové hodiny zdarma a telefonáty s koučem"
+    },
+    {
+      "label": "Start (4/2026)",
+      "text": "transformační koučování; obava o peníze („mám je, proč to nezkusit“); první hráč hned v první hodině, 10 setkání za 6 000 Kč s garancí vrácení"
+    },
+    {
+      "label": "Rozhodnutí",
+      "text": "vstup do ACC programu: nejtěžší krok zaplatit školné; vlastní kouč, vizualizace; rozhodnutí nežít ve strachu"
+    },
+    {
+      "label": "Dnes (6 měsíců, 70 hodin)",
+      "text": "strategická setkání 9 ano na 1 ne, polovina pokračuje; 1 000 Kč/h, brzy 1 500 Kč; v zaměstnání, přechod otevřený; partnerka od nedůvěry k podpoře"
+    }
+  ]
+}

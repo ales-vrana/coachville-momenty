@@ -357,6 +357,15 @@
       "status": "done",
       "slug": "zuzana-dufkova",
       "note": "mimo startovací balíček, unlisted video s hashem, embed dodal Aleš 3. 9. 2026 (název videa „Zuzana Dufkova“)"
+    },
+    {
+      "n": 45,
+      "title": "David Zeman: 6 měsíců po startu",
+      "vimeoId": "1225906256",
+      "vimeoHash": "",
+      "status": "done",
+      "slug": "david-zeman",
+      "note": "mimo startovací balíček, veřejné video (embed od Aleše 11. 9. 2026), název epizody vymyšlen; zdravotní zmínky hosta (spánek, strachy z nemoci) a příběh klientky mimo momenty"
     }
   ]
 }
