@@ -1,0 +1,50 @@
+{
+  "slug": "jana-strihavkova",
+  "displayName": "Jana Střihavková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-17",
+  "phaseAtRecording": "ACC",
+  "monthsInTraining": 24,
+  "priorProfessionText": "vedení a výuka v soukromé alternativní základní škole; po půl roce výcviku odešla, rok a půl na volné noze (koučování + podpora pedagogů, workshopy)",
+  "priorProfessionCat": "školství",
+  "regionType": "venkov",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "web",
+      "url": "https://janastrihavkova.com",
+      "label": "janastrihavkova.com (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "vedení a výuka v alternativní ZŠ, hodně práce; sen o psychologii z puberty 20 let odkládaný; reklama na CoachVille; rešerše škol, kritérium trénink od začátku; zkrácený úvazek"
+    },
+    {
+      "label": "Start (9/2024)",
+      "text": "cca 10 hodin týdně; první platící klientka z kontaktů CoachVille za 500 až 600 Kč v listopadu nebo prosinci; strach zavolat, známí zdarma „nebylo ono“"
+    },
+    {
+      "label": "Půl roku",
+      "text": "odchod ze zaměstnání, volná noha; s partnerem řešili čas, ne peníze (vlastní prostředky); klienti mezi 8 a 15 hodinou"
+    },
+    {
+      "label": "Dnes (2 roky, 300 hodin, ACC 5/2026)",
+      "text": "600 → 800 → 1 500 → 1 800 Kč za setkání, plán 2 200; spolupráce 3 až 6 měsíců, jeden klient přes rok; klient z místní FB skupiny na vesnici; příjem namixovaný (koučování + pedagogové)"
+    }
+  ]
+}
