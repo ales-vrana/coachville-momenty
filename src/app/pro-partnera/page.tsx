@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Denominator from "@/components/Denominator";
 import EpisodePlayer from "@/components/EpisodePlayer";
 import { getCollections, getDenominator, site } from "@/lib/data";
 
@@ -32,9 +31,10 @@ export default function PartnerPage() {
       </header>
 
       <section className="card p-5">
-        <Denominator d={d} tiles={false} unknownLine={false} />
-        <p className="mt-2 text-sm text-muted">
-          Čísla pocházejí z písemných zápisů studentů v komunitě školy, ne z dotazníku spokojenosti. Písemné zkušenosti koučů a
+        <p className="eyebrow">Zdroj</p>
+        <h2 className="mt-1 text-2xl">Co za tím je</h2>
+        <p className="mt-3 text-sm text-ink">
+          Na tomto webu je {d.hosts} hostů, {d.episodes} nesestříhaných rozhovorů a {d.moments} momentů. Písemné zkušenosti koučů a
           reference koučovaných klientů jsou k nahlédnutí celé:
         </p>
         <div className="mt-3 flex flex-wrap gap-2">

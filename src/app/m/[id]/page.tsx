@@ -124,7 +124,7 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
         </div>
       </dl>
       <p className="text-sm text-muted">
-        <span className="font-medium text-ink">1 z {d.hosts} hostů.</span> {site.community.sentence}
+        <span className="font-medium text-ink">1 z {d.hosts} hostů</span> na tomto webu, {d.moments} momentů z {d.episodes} rozhovorů.
       </p>
 
       <MomentPlayer
