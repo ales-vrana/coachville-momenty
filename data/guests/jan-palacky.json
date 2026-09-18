@@ -1,0 +1,64 @@
+{
+  "slug": "jan-palacky",
+  "displayName": "Jan Palacký",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-18",
+  "phaseAtRecording": "PCC",
+  "monthsInTraining": 27,
+  "priorProfessionText": "zákaznický servis v korporátu (11 let, stále zaměstnán), předtím 6 let učitel na střední škole; koučuje vedle plného úvazku",
+  "priorProfessionCat": "rodičovská, jiné",
+  "city": "Rožnov pod Radhoštěm",
+  "regionType": "malé město",
+  "ageBand": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=Jan%20Palack%C3%BD%20kouč",
+      "label": "LinkedIn (z rozhovoru, doplnit přímý odkaz)"
+    },
+    {
+      "type": "ICF",
+      "url": "https://apps.coachingfederation.org/eweb/CCFDynamicPage.aspx?webcode=ccfsearch&site=icfapp",
+      "label": "ICF Credentialed Coach Finder (PCC, ověřit jménem)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "6 let učitel SŠ, 11 let zákaznický servis v korporátu; 8 let MLM bez úspěchu; kamarád kouč, 4 až 5 setkání, recenze"
+    },
+    {
+      "label": "Start (6/2024)",
+      "text": "první kurz zaplacen najednou z úspor; skripta vs. „jdi a dělej“; první setkání „strašné“; kontakty od školy, 200 → 500 Kč"
+    },
+    {
+      "label": "3 až 6 měsíců",
+      "text": "realitní makléřka zaplatila 1 500 Kč/hod; po prvním kurzu jen 3 hráči, málem skončil; sítě a kamarádi nefungují, oslovení v sauně"
+    },
+    {
+      "label": "Po ACC",
+      "text": "na vážkách, jestli do PCC; procházka s PCC koučkou; úspěšnost nabídek 50 % → 80 až 90 %"
+    },
+    {
+      "label": "Rok",
+      "text": "všechny náklady na školu i certifikaci splaceny z koučování"
+    },
+    {
+      "label": "Dnes (9/2026, 27 měsíců, 600+ hodin, PCC)",
+      "text": "30 000 Kč za tříměsíční spolupráci; průměr spolupráce přes rok; stále v zaměstnání, 1 až 3 online schůzky denně po práci; 2 klienti lokálně"
+    }
+  ]
+}

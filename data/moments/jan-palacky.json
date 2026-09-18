@@ -1,0 +1,757 @@
+[
+  {
+    "id": "jp001",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 3,
+    "endUtt": 5,
+    "quote": "Tak já jsem předtím strávil šest let jako učitel na střední škole, takže tam už jsem si nasbíral nějaké zkušenosti, co se týče interakce s dětmi a s dospělými, protože jsem měl i nějaké odpolední kurzy. Ale vlastně jako potom po šesti letech už mě to nějak nenaplňovalo, a tak jsem se rozhodl jako změnit obor a dal jsem se na zákaznický servis do korporátu, kde vlastně funguji jedenáct let. A vlastně ten důvod byl podobný, jako proč jsem se dostal ke koučování, a to bylo, že jsem chtěl se vzdělávat, pracovat na sobě dál a nějakým způsobem růst, a to v té škole už nešlo. A vlastně je tomu ty dva roky zpátky, jak jsi říkal, dva a kousek, kdy mě oslovil můj dobrý kamarád Tomáš s tím, že je v nějaké koučovací škole a že má vizi, že bude koučem. Já říkám, no tak to určitě. A on tu vizi fakt jako držel, studoval, chodily mu nějaké výsledky, a my jsme se potom potkali spolu jednou na pivu a mě pozval, ať si zažiju koučování, na koučovací schůzku. A já říkám, tyjo, to se mi líbí, ale já bych chtěl sedět tam na té druhé straně, kde sedíš ty, povídat si s těma lidma. No a pak jsem dostal tip na CoachVille a přihlásil se do studia.",
+    "summary": "Šest let učitel na střední škole, pak jedenáct let zákaznický servis v korporátu, kde pracuje dodnes. Ke koučování ho přivedl kamarád, který byl v koučovací škole; nejdřív si říkal „no tak to určitě“, pak si u něj koučování zažil a chtěl sedět na druhé straně. Motiv: ve škole už nešlo růst.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "6 let učitel, 11 let korporát",
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň B: výchozí bod (učitel, korporátní zákaznický servis). Tag 31 stupeň A: zažil koučování u kamaráda, než se přihlásil. Kamarád jmenován jen křestním jménem."
+  },
+  {
+    "id": "jp002",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 10,
+    "endUtt": 11,
+    "quote": "Já vlastně jako jsem měl našetřené nějaké peníze. Vím, že tam bylo několik možností financování, že jo, buď formou na splátky, nebo jednorázová. A vždycky vycházela nejlíp ta jednorázová platba. A vzhledem k tomu, že jsem měl důvěru k tomu kamarádovi, který řekl, že to je super škola a pojď do toho, tak jsem neváhal a vlastně ten první kurz, to transformační koučování, jsem si vlastně zaplatil najednou. A šel jsem do toho s tím, že to je investice do mě. Nebral jsem to jako nějaký výdaj, říkal jsem si, že už jsem v životě utratil za úplně jiné věci, které se mi nikdy nevrátily. A vlastně dávala mi smysl investice do sebe a do svého rozvoje.",
+    "summary": "Měl našetřeno; ze splátek a jednorázové platby vycházela nejlépe jednorázová, tak první kurz zaplatil najednou. Bral to jako investici do sebe, ne jako výdaj: „už jsem v životě utratil za úplně jiné věci, které se mi nikdy nevrátily“.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "odkud-penize-na-skolu",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 24 stupeň B: cesta platby (úspory, najednou), bez částky. Tag 27 stupeň B: kritérium „investice, ne výdaj“."
+  },
+  {
+    "id": "jp003",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 13,
+    "endUtt": 13,
+    "quote": "Je to tak. Vlastně já jsem měl tu výhodu, že mezitím jsme se spolu potkali čtyřikrát, pětkrát, protože už jsem viděl vlastně, že se mi to koučování líbí, přinášelo mi to už hnedka, a měl jsem nějaké změny, nějaké posuny. Plus jsem si samozřejmě dočetl nějaké recenze na internetu a viděl jsem, že lidi vlastně školu dobře hodnotí. A jak říkáš, měl jsem důvěru toho kamaráda, takže jsem do toho šel a zapojil jsem se do toho v tom červnu 24.",
+    "summary": "Než se přihlásil, potkal se s kamarádem koučem čtyřikrát nebo pětkrát a viděl u sebe první posuny. K tomu recenze na internetu a důvěra v kamaráda. Přihlásil se v červnu 2024.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "4 až 5 koučovacích setkání před rozhodnutím, start 6/2024",
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 31 stupeň A: konkrétní test před závazkem (4 až 5 setkání, recenze). Tag 17 stupeň B."
+  },
+  {
+    "id": "jp004",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 15,
+    "endUtt": 16,
+    "quote": "Bylo to dost peněz najednou tím, že jsem si to nenechal dávat na splátky, takže samozřejmě trošku tam obava byla. Ale já jsem vlastně ani neřešil tu klientelu, protože jsem viděl, ta informace byla, že dostaneme přidělené nějaké kontakty, takže kde se trénovat jsem měl, takže to mě trošičku ujistilo v tom, že na to nebudu úplně sám. A byla obava, tak jdu do něčeho nového, že jo, samozřejmě to jako neznáme. Měl jsem předtím nějaké neúspěchy, zkoušel jsem multi-level marketing, kde byla velká skupina lidí. Osm let jsem tam vlastně byl, před tím školstvím, a nedopadlo to. Ale říkal jsem si, že tohle by mohla být ta příležitost, protože celý život jsem si povídal s lidma. Dostal jsem nějakou dobrou referenci, že umím naslouchat, takže nějaké malé předpoklady tam byly. Plus se mi to potvrdilo v tom testu od vás, který jsem dělal, těch základních studijních předpokladů.",
+    "summary": "Obava byla z toho, že platil hodně peněz najednou. Klientelu neřešil, protože věděl, že dostane přidělené kontakty na trénink. Před školstvím strávil osm let v multi-level marketingu a nedopadlo to; tentokrát si říkal, že celý život si povídá s lidmi a umí naslouchat, což mu potvrdil i vstupní test předpokladů.",
+    "proofElements": [
+      "cena",
+      "situace",
+      "čas",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "8 let v MLM bez úspěchu",
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "uz-jsem-se-spalil",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 17 stupeň A: pojmenovaná obava (peníze najednou) a co ji tlumilo (kontakty). Tag 29 stupeň A: minulý neúspěch (8 let MLM). Tag 1 stupeň C."
+  },
+  {
+    "id": "jp005",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 18,
+    "endUtt": 21,
+    "quote": "No, to bylo zajímavé. Za prvé jsme dostali teda spoustu studijních materiálů, že jo, skripta. A já jako vysokoškolsky vzdělaný člověk, že jo, bývalý učitel, tak jsem se snažil jako do těch skript ponořit. Rozumět všemu, abych mohl být na to nachystaný, protože přece to, co mě učili ve škole, nejdřív se to musí dobře naučit, a pak můžu jít a něco dělat. A najednou ty jsi říkal, že tady se učíme tím, že jdeme a hnedka to děláme, že chyba je v pořádku. Takže tady tohle byla první srážka vlastně s jinou realitou, že je ok udělat chybu, že je ok nevědět. Takže to mi dlouho trvalo, tenhle mindset přijmout. A ještě k tomu jsem do toho šel s tím, že já už všechno umím, já jsem přece jako dělal s lidma, mám načtený knížky, jezdil jsem po seminářích a tak dále, tak dejte mi ty klienty, já budu chodit a budu koučovat, že jo. Ale když jsem zjistil, že vlastně jako v rámci tréninku jako mám být koučovaný i já, tak to byla taková jako, a říkám aha, a jako proč? No, takže tam byla, bych řekl, taková, jak to říct, namyšlenost nebo suverenita. Ale vlastně zjistil jsem, to se mi líbilo, že každý jsme na stejné čáře. Ať už to je člověk ze školy, je z HR, z korporátu, maminky prostě na mateřství, že vlastně tady všichni začínáme stejně. A to bylo, to se mi líbilo, že vlastně jako je úplně jedno, co člověk si odžil předtím, jestli je mu 20 nebo 60, ale vlastně jako tady začínáme stejně. A nejtěžší pro mě bylo se oprostit od těch skript, protože já jsem v tu chvíli měl ten pocit, že musím být dobře jako připravený, nachystaný, a až pak můžu jít do toho terénu, až budu tím dobrým koučem. Takže jsem potom... Než jsem pochopil, že to je cesta. A nejdůležitější je začít to dělat a jít do akce.",
+    "summary": "První srážka s realitou: jako vysokoškolák a bývalý učitel se chtěl nejdřív naučit skripta a pak jít koučovat, ale tady se učí tím, že se to hned dělá a chyba je v pořádku. Ten mindset mu trvalo dlouho přijmout. Přiznává, že přišel namyšlený: „já už všechno umím, dejte mi klienty“, a divil se, proč má být sám koučovaný. Líbilo se mu, že všichni začínají na stejné čáře, ať je jim 20 nebo 60.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "dlouho trvalo přijmout, že je ok nevědět a dělat chyby; do výcviku šel s namyšleností",
+    "topics": [
+      "co-bylo-tezsi",
+      "koucovsky-typ",
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 12 stupeň A: přiznání s pojmenovanou cenou (dlouhé přijímání mindsetu, suverenita). Tag 7 stupeň B: návyk z původní profese (nejdřív se naučit). Tag 23 stupeň C: „20 nebo 60“."
+  },
+  {
+    "id": "jp006",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 25,
+    "endUtt": 26,
+    "quote": "No, to bylo vtipný, opravdu člověk ležel v jedněch skriptech a v druhých skriptech, a z druhé strany, teď u toho jsem se snažil si dělat nějaké poznámky, orientovat se, kde jsem tam vlastně v těch skriptech, a teď ještě ten člověk na druhé straně, na kameře. No, bylo to strašný, na rovinu, já bych se nechtěl vidět v těch začátcích. Ale vlastně jako, ale nějak jsem důvěřoval tomu procesu, důvěřoval jsem, že to funguje. A chtěl jsem tomu dát šanci, to si myslím, že vyhrálo, protože nebylo to určitě dokonalý, ale měl jsem tam tu chuť prostě jít a posouvat se. Nejdůležitější bylo prostě, že jsme na to nebyli sami, že jsme měli k sobě parťáky ze školy, se kterýma jsme mohli trénovat, a to si myslím, že jako rozhodlo. Protože ze začátku byl samozřejmě daleko větší poměr těch jako parťáků než jako platících klientů. To tak je a myslím si, že to je super, že člověk může trénovat s ostatníma studentama. To bylo důležité.",
+    "summary": "První koučovací setkání: ležel v jedněch skriptech, v druhých skriptech, dělal si poznámky a k tomu člověk na kameře. „Bylo to strašný, na rovinu, já bych se nechtěl vidět v těch začátcích.“ Co rozhodlo: důvěra v proces a parťáci ze školy, se kterými mohl trénovat, protože ze začátku bylo daleko víc parťáků než platících klientů.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "první setkání bylo strašné; ze začátku daleko víc parťáků než platících klientů",
+    "topics": [
+      "bojim-se-prvniho-setkani",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 26 stupeň A: konkrétní první setkání a co ho udrželo. Tag 25 stupeň B: parťáci od školy vs. vlastní důvěra v proces."
+  },
+  {
+    "id": "jp007",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 31,
+    "endUtt": 32,
+    "quote": "Ale ze začátku jsem koučoval všechny, kteří vlastně měli zájem, protože jsem jim to prezentoval s tím, že jako začínám, sbírám zkušenosti a rád bych jim prostě představil to koučování. Takže samozřejmě to byly první kontakty od tebe, co jsi dodal, což byly lidi z různých oborů a oblastí. Ale vlastně jako pamatuju si jednu paní, kterou jsem získal tehdy díky Pokémon balíčku, o který se se mnou rozdělil kamarád. Za to, že mě doporučil, dostal balíček, že jo, a my jsme si ho rozdělili napůl, a tam byla jedna paní realitní makléřka. A já jsem si tehdy účtoval u těch lidí dvě stovky na začátku, potom pětistovku, a jednou přišla tady ta paní a já už jsem byl v tom výcviku, nevím, čtvrt roku, půl roku, a už jsem si říkal, tak zkusím si říct víc, jo. Ona mi tehdy řekla pětistovku za hodinu. A kecám, to bylo patnáct set už, patnáct set to bylo. A to byl prostě game changer, jo, najednou říkám si o tolik peněz. Takže jsem úplně [nesrozumitelné]. Člověk tam šel jako se zodpovědností, s malinko jako větším, bych řekl, jako respektem. A to si pamatuju, že jsem si říkal, tyjo, takže to je super, takže já za to můžu dostat tady takovéhle peníze. A úplně mi to změnilo jako pohled, no, protože dneska samozřejmě už ta sazba je jiná. Ale tehdy mi hodně jako vlastně sebevědomí narostlo, když jsem to paní.",
+    "summary": "První klienti: kontakty od CoachVille a jedna realitní makléřka z balíčku kontaktů, o který se s ním rozdělil kamarád. Účtoval si nejdřív 200 Kč, potom 500 Kč. Někdy po čtvrt až půl roce výcviku si u makléřky řekl o 1 500 Kč za hodinu a ona zaplatila. „To byl game changer. Najednou si říkám o tolik peněz.“ Sebevědomí narostlo, dnes je sazba jiná.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "200 Kč → 500 Kč → 1 500 Kč za hodinu po cca 3 až 6 měsících",
+    "isAdmission": false,
+    "monthsFromStart": 5,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "prvni-penize",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: první cena, kdo ji zaplatil, kolikátý měsíc. Tag 5 stupeň A. Tag 10 stupeň A: první vyslovení vyšší ceny nahlas."
+  },
+  {
+    "id": "jp008",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 37,
+    "endUtt": 40,
+    "quote": "Jo, ty dva roky zpátky, nebo rok a půl zpátky, jsem se na to díval, jsem si vlastně za tu tříměsíční sezónu řekl šest tisíc korun, a dneska vlastně ten základ je třicet tisíc korun. Takže to vlastně několikanásobně vzrostlo. A upřímně řečeno, se nesetkávám s tím, že by mi někdo řekl, že to je moc drahý, což mi vlastně jako... Uvědomil jsem si, že... Je to. V tom případě ještě tu cenu můžu nějakým způsobem dále upravovat. Že dokud mi neřekne hodně lidí, že to je moc, tak je to možná málo.",
+    "summary": "Před rokem a půl si za tříměsíční sezónu říkal 6 000 Kč, dnes je základ 30 000 Kč. Nesetkává se s tím, že by někdo řekl, že je to moc drahé; z toho si odvodil, že cenu může dál upravovat: „dokud mi neřekne hodně lidí, že to je moc, tak je to možná málo“.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "obrat",
+      "situace"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "6 000 Kč → 30 000 Kč za tříměsíční spolupráci",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: vývoj akceptované ceny s částkami. Tag 10 stupeň A. Úsek obsahuje krátkou vsuvku Aleše."
+  },
+  {
+    "id": "jp009",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 42,
+    "endUtt": 43,
+    "quote": "Ale tak určitě já jako průběžně vlastně lidi jako zvu a kontaktuju do té svojí praxe, takže to jako není jako, že by to byl jako hotový proces. Co je skvělé, že se mi vlastně jako proměnilo to procento lidí, na který jsem se jako těšil a kde jsem to zažíval, kde mě to bavilo. Dřív to bylo řekněme třeba 50 na 50 a dneska, když se podívám na ty lidi, se kterýma spolupracuju, tak vlastně [nesrozumitelné] procent lidí, na které se těším. A vím, že takových ještě pár lidí tam jako se mi vejde do té praxe, a s postupem času chci taky jako aktualizovat tu cenu, protože přece jenom troufám si říct, že i s tou certifikací si člověk může říct víc. A vím, že vlastně zkušenější kouči, kteří mají odkoučovaných třeba ještě o pár set nebo o pár tisíc hodin navíc, říkají si ještě jako zajímavější částky. Takže vím, že tohleto jako s tou cenotvorbou určitě jsem neskončil, ale bude to výš.",
+    "summary": "Dnes průběžně zve a kontaktuje nové lidi, není to hotový proces. Změnil se podíl klientů, na které se těší: dřív 50 na 50, dnes většina. Cenu chce s certifikací dál zvyšovat; zkušenější koučové s tisíci hodin si říkají ještě zajímavější částky.",
+    "proofElements": [
+      "číslo",
+      "obrat",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "podíl klientů, na které se těší: 50/50 → většina",
+    "isAdmission": false,
+    "topics": [
+      "po-vycviku",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň B: stav praxe dva roky po startu, průběžné doplňování. Tag 10 stupeň B."
+  },
+  {
+    "id": "jp010",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 45,
+    "endUtt": 47,
+    "quote": "Já si myslím, že nejnáročnější část je v podstatě mít tu praxi koučovací, protože od toho se odvíjí všechno. Když člověk není v terénu a nehraje, jak já říkám, tu svoji hru, tak potom nemá kde nasbírat ty zkušenosti, nemá kde trénovat koučovací dovednosti. Nemá jak se vlastně ani připravit na certifikace, protože součástí certifikace je nějaká nahrávka, to znamená, ani bych si vlastně netroufl nahrát nějakou tu nahrávku. A v tomhle byl ten rozdíl, že kdo měl vlastně ty platící klienty, a je jedno s jakou cenovkou, ale kdo měl ty platící klienty a soustavně je doplňoval, tak vlastně jako se mu dařilo. Ale pak jsem viděl ten rozdíl těch lidí, kteří měli třeba spoustu parťáků, jako super, ale vlastně jako nesháněli aktivně ty platící klienty. A v tomhle vidím já ten zásadní rozdíl, že jako vlastně nejsme jenom koučové, že my potřebujeme trošku markeťáci, trošku obchodníci, trošku rozumět financím a tak dále. A když člověk jako tady tu stránku opomíná, taky je logické, že vlastně ho to asi moc nebude bavit, nebudou přicházet ty výsledky. A do auta taky musíme lít benzín, že asi to nepojede bez paliva.",
+    "summary": "Nejnáročnější je mít koučovací praxi, od toho se odvíjí všechno včetně nahrávky k certifikaci. Rozdíl, který viděl u spolužáků: kdo měl platící klienty, ať s jakoukoli cenovkou, a soustavně je doplňoval, tomu se dařilo; kdo měl jen spoustu parťáků a aktivně nesháněl platící, ne. „Nejsme jenom koučové, potřebujeme být trošku markeťáci, trošku obchodníci.“",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-bylo-tezsi",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 12 stupeň B: co bylo náročné (praxe), pozorování rozdílu mezi spolužáky, bez vlastní ceny. Tag 1 stupeň B."
+  },
+  {
+    "id": "jp011",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 50,
+    "endUtt": 53,
+    "quote": "Ale já začnu tím, co mi nefungovalo. Nefungovaly mi sociální sítě. Tam jako vlastně jsem na nich aktivní řekněme třeba plus minus dva roky, tak mám z toho jako jednu, slovy jednu spolupráci. Je sice fajn, jako baví mě to s tím klukem, ale vlastně jako tam mi to nešlo. A v tomhle mi to přijde kouzelný, že každý to máme trošku jinak, jo, někomu naopak ty sítě jedou, někdo je schopný se bavit úplně s cizíma lidma. Ale ta moje cesta byla přes osobní doporučení. A já jsem začal u kamarádů a dneska vlastně mám jednu spolupráci z těch všech kamarádů, který jsem oslovil. A nedávno jsem se na to díval, že jsem takhle prošel 60-70 lidí, včetně nějakých, jako když započítám jenom těch, se kterými jsme se potkali jednou, dvakrát. A z toho byl jeden kamarád. A ten game changer přišel, když jsem se seznámil s novým člověkem, s novým kamarádem v sauně. A ten příběh, který říkám, protože on tam byl s partičkou lidí a mně se líbilo, jak on mluvil, jak on uvažoval. Říkám, tyjo, tak to jako blbý tady v sauně ho kontaktovat, tak čekal jsem, až bude vlastně v šatně. A tam jsem ho oslovil s tím, že se mi líbí, jak smýšlí, a jestli náhodou prostě by si nechtěl zažít koučování, že jsem teď jako v koučovací škole, že bych se s ním rád potkal. On říkal, že jo. A dneska vlastně mě ten člověk dostal do firmy ve financích, kde on funguje. A mám tam díky tomu aktivní nějaké dvě spolupráce. Takže to si troufám říct, že díky tomu, že jsem vystoupil z té komfortní zóny, tak se tady tohle z toho stalo. A pak jsem to vlastně šel cestou doporučení. Od jednoho človíka, človíčka ke druhému. Reference, doporučení. To je ta moje cesta. Pro každého bude fungovat asi něco trošku jiného, ale tady je to, co jako mě funguje.",
+    "summary": "Co mu nefungovalo: sociální sítě, na kterých je aktivní asi dva roky, daly jednu jedinou spolupráci. Oslovil 60 až 70 kamarádů a známých a z toho vzešel jeden klient. Obrat přišel v sauně: líbilo se mu, jak jeden člověk uvažuje, počkal na něj v šatně a nabídl mu zažít koučování. Ten člověk ho později dostal do firmy ve financích, kde má dvě aktivní spolupráce. Od té doby jde cestou doporučení od člověka k člověku.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "sítě 2 roky → 1 klient; 60 až 70 oslovených kamarádů → 1 klient",
+    "isAdmission": true,
+    "costText": "dva roky na sociálních sítích přinesly jednu spolupráci; z 60 až 70 oslovených kamarádů jeden klient",
+    "topics": [
+      "nechci-oslovovat",
+      "ziskam-klienty",
+      "male-mesto"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň A: neprodejní cesta s čísly, co nefungovalo a co ano; konkrétní oslovení v sauně. Tag 1 stupeň A. Tag 3 stupeň B: klienti přes doporučení do firmy."
+  },
+  {
+    "id": "jp012",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 59,
+    "endUtt": 60,
+    "quote": "Ale začínám na tom čtvrt roku, jak jsem říkal, prostě na kratší dobu se s nikým ani nedomlouvám. Vždycky říkám, že to je, kdyby člověk chodil do fitka na měsíc a jednou za měsíc, tak asi to nebude mít žádný efekt, že jo, nebo dvakrát do měsíce. Takže čtvrt roku je základ, ale ta zkušenost je taková, že někdo po tom čtvrt roce nekončí. To znamená, jsou tam lidi, se kterýma jsem už přes dva roky ve spolupráci. A teď v průměru je to minimálně rok. Ale vlastně jako tím, že já si v průběhu toho říkám o doporučení, o recenze, tak se to tak jako postupně nabaluje. Ale jako nikdo nekončí po tom čtvrt roce, protože tam začínají jako vidět ty benefity. Většinou to jsou lidi, kteří jako nikdy koučování předtím nebyli, takže i si to jako učí, jak být v tom koučovacím rozhovoru, jak to potom jako zavádět do práce. Takže ze zkušenosti minimálně rok jako.",
+    "summary": "Na kratší dobu než čtvrt roku se s nikým nedomlouvá (přirovnání k fitku jednou za měsíc). Po čtvrt roce většinou nikdo nekončí; jsou klienti, se kterými spolupracuje přes dva roky, průměr je minimálně rok. Během spolupráce si říká o doporučení a recenze, tak se to nabaluje.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "minimum čtvrt roku, průměr přes rok, někteří přes 2 roky",
+    "isAdmission": false,
+    "topics": [
+      "po-vycviku",
+      "ziskam-klienty",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: délka spoluprací dva roky po startu. Tag 1 stupeň B: mechanika doporučení. Tag 4 stupeň C."
+  },
+  {
+    "id": "jp013",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 61,
+    "endUtt": 62,
+    "quote": "A mimochodem, ty jsi vlastně, já jsem se tě ptal, kde bydlíš, a ty bydlíš v Rožnově pod Radhoštěm. A kolik máš vlastně těch klientů takhle lokálně a kolik z nich máš online? Ale lokálně mám dva, kromě tady toho kluka ze sauny, tak ještě jeho kolegu, a jinak jsou všichni jako po celé republice. Praha, Hradec Králové, tam jednoho Slováka z Brna a tak dále, takže jako potkat se s nima je nereálný. Ale vyhovuje mi to, že to je v tom online prostředí, že můžu v podstatě koučovat odkudkoliv, kde je dobrý internet, dobré zvukové podmínky. Tak to je super, tady tahle flexibilita.",
+    "summary": "Bydlí v Rožnově pod Radhoštěm. Lokálně má dva klienty (kluk ze sauny a jeho kolega), všichni ostatní jsou online po celé republice: Praha, Hradec Králové, Slovák z Brna. Potkat se osobně je nereálné a vyhovuje mu koučovat odkudkoli, kde je dobrý internet a zvuk.",
+    "proofElements": [
+      "číslo",
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": true,
+    "numberText": "2 klienti lokálně, ostatní online po ČR",
+    "isAdmission": false,
+    "topics": [
+      "male-mesto"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 3 stupeň A: konkrétní město a podíl online klientů. Úsek začíná otázkou Aleše (uvádí město)."
+  },
+  {
+    "id": "jp014",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 64,
+    "endUtt": 65,
+    "quote": "To je dobrá otázka, co určitě nefunguje. Rozhodně nefunguje jakýkoliv tlak na ty lidi. Myslím si, že je důležité, aby člověk byl v pohodě s tím, že přijde ne, je to součást taky té cesty. Takže netlačit, neprodávat koučování, spíš vlastně se vždycky bavit s tím člověkem o tom, co je pro něj důležité, jaká je ta jeho cesta, jaká jeho nějaká vize, mise, to jedno, jak to budeme říkat. A přemýšlím, no, co nefunguje. Určitě nefunguje vysvětlovat, co je to koučování. To je jasný, protože vlastně spousta lidí to má ještě furt spojený se sportem nebo s mentoringem, a vlastně ještě furt v tom do dneška nemají jasno. Takže rozhodně bych jako nic nevysvětloval, spíš bych tam jako nechal, vyvolal tu zvědavost, ať si ten člověk to zažije, a pak může říct, jo, hele, už vím, co je koučování. Tohle bych řekl asi nejvíc, tak tyhle věci, ten tlak a to nějakým způsobem to popisovat, vysvětlovat, to nikam nevede.",
+    "summary": "Co určitě nefunguje: jakýkoli tlak na lidi a vysvětlování, co je koučování. Být v pohodě s tím, že přijde ne. Místo prodeje se bavit s člověkem o tom, co je pro něj důležité, vyvolat zvědavost a nechat ho koučování zažít.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň B: názor podložený vlastní praxí, bez čísla."
+  },
+  {
+    "id": "jp015",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 68,
+    "endUtt": 68,
+    "quote": "Ne, tohle tam vůbec nebylo. Naopak, všechno, co se řeklo, tak se dodrželo. To znamená, že jsem viděl, co nás čeká, protože jsem ty tréninky absolvoval jako všechny v obou programech, v obou certifikacích. O tom se asi budeme bavit. Když měl začít ten trénink, přišla skripta včas, takže já jsem věděl, že mám čas se na to připravit. Když se řeklo, že prostě bude video v aplikaci, kde si zase můžeme pustit nějakou nahrávku, to takhle fungovalo. Takže tohle jsem tam vůbec nevnímal, že by tam bylo něco nedodrženého.",
+    "summary": "Na otázku, co škola prezentovala jinak, než pak bylo: „Tohle tam vůbec nebylo. Naopak, všechno, co se řeklo, tak se dodrželo.“ Skripta přišla včas, videa v aplikaci fungovala, absolvoval všechny tréninky v obou programech.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň C: jednostranné, co se splnilo; nic, co ne. V přepisu byla promluva chybně přiřazena tazateli, opraveno. Doplňuje ho jp019, kde říká, co mu ve výcviku nesedělo."
+  },
+  {
+    "id": "jp016",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 77,
+    "endUtt": 82,
+    "quote": "Tak bylo to, jak jsi říkal, já jsem začal transformačním koučováním, tak ACC program, PCC program. A transformační koučování bylo pro mě něco jako úplně nového, takže tam jsem se s tím tak seznamoval. Ne úplně všechno mi tam sedělo, na rovinu. Byly tam věci, které já jsem tehdy nemohl uchopit, v rámci nějakých technik, nějakých vizualizací, ale vlastně jsem si říkal, ok, dej tomu šanci, přijdou další tréninky. Ale to, co byl game changer, bylo, že tam člověk nebyl sám, že tam byly, jak jsem říkal, další lidi úplně ve stejné pozici jako já. To znamená, v životě nekoučovali, ale myšlenka je prostě nadchla. A vlastně jako vnímám tady tu komunitu jako mega silné prostředí, protože kdyby jako té komunity nebylo, tak já skončím desetkrát, jako jo, a už tady dávno se spolu nebavíme. To, že jsme se vlastně jako podporovali navzájem s těma parťákama, že člověk měl tři, čtyři takové lidi vedle sebe, na kterých mohl trénovat, se kterýma mohl sdílet, když prostě se něco podařilo nebo nedařilo, tak to si myslím, že rozhodlo o tom, že jsem prostě šel dál a dál. A člověk viděl před sebou ty zkušenější PCC kouče. S těma zkušenějšíma technikama, že to koučování mělo trošičku jinou šťávu. Takže to bylo to, co mě jako hnalo dál, že chci taky vlastně jako mít tady tyhle schopnosti, jako mají ti koučové, kteří jsou prostě o pár let přede mnou nebo o pár set odkoučovaných hodin přede mnou. Takže jako opravdu nebýt tady toho prostředí, tak jsem si jistý, že několikrát jako skončím, protože... Přicházely prostě neúspěchy, jo. Ti začínající klienti prostě nepokračovali s tou spoluprací, jo. Nebylo to, jak to říkám dneska, že mám v průměru prostě rok a díl spolupráci. Tehdy tam byly ty argumentace třeba s tou cenou, jako jestli to není jako moc. Takže právě to byly ty okamžiky, kdy ta komunita mě podržela a věděl jsem, že vlastně zase přijde trénink, přijde škola, dobiju si baterky. A přijdou nové vědomosti a díky tomu člověk šel z týdne na týden dál, pomalu, ale vlastně každý ten krok byl jistější a postupně se to sebevědomí nabalovalo.",
+    "summary": "Ne všechno mu v prvním kurzu sedělo, některé techniky a vizualizace tehdy nedokázal uchopit. Co rozhodlo, byla komunita: „kdyby té komunity nebylo, tak já skončím desetkrát“. Měl tři čtyři parťáky, na kterých mohl trénovat a s nimiž sdílel, co se nedařilo. A nedařilo se: začínající klienti nepokračovali, argumentovali cenou. Vždy věděl, že přijde další trénink a dobije baterky; sebevědomí se nabalovalo z týdne na týden.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena",
+      "číslo"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "3 až 4 parťáci, „skončil bych desetkrát“",
+    "isAdmission": true,
+    "costText": "začínající klienti nepokračovali a argumentovali cenou; bez komunity by skončil",
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "co-udelala-skola-a-co-ja",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 28 stupeň A: konkrétní krize (odcházející klienti, cena) a mechanismus, který udržel (parťáci, další trénink). Tag 25 stupeň A. Tag 12 stupeň A."
+  },
+  {
+    "id": "jp017",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 84,
+    "endUtt": 87,
+    "quote": "Já jsem měl výhodu, že jsem už byl zvyklý jako říkat, nebo slyšet ne, v rámci toho, že jsem dřív dělal ten multilevel marketing, kde se navolávaly studené kontakty, jak se říká. A vlastně jsem věděl nebo tušil, že ty ne tam patří do té cesty, že člověk potřebuje slyšet pětkrát, desetkrát ne, než přijde prostě jedno ano. Ale vlastně vnímal jsem tam, že někteří lidi, kteří tady tu zkušenost neměli, tak vlastně je to sráželo. A dneska už dost lidí není, si myslím, aktivní v koučování, kteří tam se mnou byli v tom běhu z toho června 24. Takže myslím si, že je potřeba to brát tak, že ten neúspěch je součástí úspěchu. Tak jako v každém podnikání žádný podnikatel prostě nejde hnedka jako nahoru exponenciálně, ale taky tam jsou prostě jako pády dolů, občas prostě ten člověk jako zkrachuje, narazí na nějakého špatného kolegu a cokoliv. A myslím si, že tady to je jako podobné, ale důležité je se z toho jako zvednout, poučit se z toho nějakým způsobem a jít zase dál. Jo, prostě je to proces takový. Člověk nemůže čekat, že bude hotový kouč za měsíc, ani ne za rok. Hotový kouč jako neexistuje, za mě to je proces prostě nekonečný. Ale myslím si, že když tomu člověk dá jako poctivě třeba ty dva roky, jak jsem dal já, i po roce se dá prostě už jako být sebevědomý a zvládat vlastně tyto situace úplně v pohodě. Patří to prostě k tomu. Bylo by divný, kdyby všichni říkali ano.",
+    "summary": "Měl výhodu z minulosti v MLM: uměl slyšet ne a věděl, že člověk potřebuje slyšet pětkrát desetkrát ne, než přijde ano. Lidi bez této zkušenosti to sráželo; dost lidí z jeho běhu z června 2024 už podle něj v koučování aktivní není. Neúspěch je součást úspěchu, hotový kouč neexistuje; kdo tomu dá poctivě dva roky, i po roce už zvládá odmítnutí v pohodě.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "číslo"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "5 až 10× ne na jedno ano; dost lidí z běhu 6/2024 už není aktivních",
+    "isAdmission": false,
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "koho-bych-odradil",
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "unpublished",
+    "editorNote": "Tag 28 stupeň A: proč druzí skončili a co drželo jeho. Tag 18 stupeň B: pro koho to není (kdo neunese ne). Tag 2 stupeň B. Nepublikováno na přání Aleše (18. 9. 2026): věta o lidech z běhu 6/2024, kteří už nekoučují, má smysl jen v kontextu celého rozhovoru."
+  },
+  {
+    "id": "jp018",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 91,
+    "endUtt": 93,
+    "quote": "Hele, jako na rovinu, já jsem byl na vážkách, jestli pokračovat dál, protože samozřejmě ACC program něco stál, takže jsem nevěděl, jestli ještě... Já mám tady tenhle ten mindset, že zaplatím tu nejvýhodnější cenu, to znamená, zaplatím tu jednorázovou částku. Ale byla moje výhoda, že jsem ty peníze měl, měl jsem je naspořené, a nechal jsem si je prostě nějakým způsobem jako rezervu. A já si pamatuju, že tehdy jako... Pak jsem jako byl smířený s tím, že s tím asi skončím, protože pár těch koučů nepokračovalo dál. A vlastně tehdy jsem si promluvil s jednou zkušenou PCC koučkou a měli jsme spolu procházku a vlastně jako bavili jsme se na téma, jako jestli PCC ano nebo ne. A ona mi řekla, co jí vlastně to PCC jako dalo, jaké dveře jí to otevřelo a jaké možnosti vlastně to skýtá. A já jsem byl zvědavý. Já jsem si říkal, ty bráho, tak jako to zní dobře. Co vlastně jako budu dělat, protože jsem byl zvyklý, že prostě tréninky byly, furt skončil jeden trénink, byl další, a člověk se furt tak jako krůček po krůčku posouval. A teď, když skončilo, tak si říkám, co teď budu dělat, jakože dobře, tak budu mít svoje klienty, ale jako já se chci posouvat dál, jo, abych vlastně těm klientům mohl přinést lepší a lepší službu. Tak jsem řekl, hele, zkusím to, prostě půjdu do toho. A to bylo nejlepší rozhodnutí, na rovinu. Protože to není level 2, ale to je level 10. Protože metoda síly prostředí a metoda vnitřní svobody jsou nástroje, které si myslím, že člověk nikde jinde nezíská. A najednou jsme věděli, jak oslovit moment, kdy má někdo frustrace, kdy se mu nedaří, kdy má strach z něčeho, prostě je zaseknutý, neví proč. A najednou jsme měli ten nástroj v tom pomyslném kufříku. Věděli jsme, aha, tak takhle se s tím dá jednat. Takhle se to dá prostě oslovit a uchopit. No a",
+    "summary": "Na rovinu: po ACC byl na vážkách, jestli pokračovat; program něco stál, i když měl naspořené peníze jako rezervu. Byl smířený s tím, že skončí, protože pár koučů dál nepokračovalo. Rozhodla procházka se zkušenou PCC koučkou, která mu řekla, co jí PCC dalo. Dnes říká, že to bylo nejlepší rozhodnutí: „to není level 2, ale level 10“.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "po ACC byl smířený s tím, že skončí; pár spolužáků nepokračovalo",
+    "topics": [
+      "proc-jsem-vahal",
+      "kdy-jsem-to-chtel-vzdat",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 17 stupeň A: váhání před PCC, s čím srovnával, co rozhodlo. Tag 28 stupeň B. Tag 27 stupeň B: cena vs. rezerva."
+  },
+  {
+    "id": "jp019",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 97,
+    "endUtt": 98,
+    "quote": "Jo, ale jestli jsem měl třeba předtím řekněme nějakou možná jako 50% úspěšnost, možná ani to ne, tak vlastně se vstupem do PCC to najednou bylo třeba 80-90 %, že vlastně strašně málo jsem slyšel ne. A říkám, aha, tak to je fajn. Člověk si postupně jako navyšoval tu částku. A dneska už je to fakt více jak dvoj-, trojnásobek, díky tomu, že jsme schopni jít víc do hloubky. Jsme schopni s těma klientama oslovit vlastně cokoliv, jakoukoliv situaci, jakýkoliv moment. A dřív člověk viděl, že do některých věcí se prostě nemá jak pustit, protože nevěděl, jak to oslovit, například třeba strach z něčeho, strach z volání nebo z nějakého důležitého rozhovoru, cokoliv. Takže vlastně to byla přímá úměra, začalo se víc dařit, troufal jsem si říkat i o vyšší částky.",
+    "summary": "Před PCC měl při nabídkách možná 50% úspěšnost, spíš míň. Se vstupem do PCC se to zvedlo na 80 až 90 %, ne slyšel málokdy. Postupně navyšoval částku a dnes je to více než dvoj- až trojnásobek, protože umí jít s klienty do hloubky a oslovit i strach z volání nebo důležitého rozhovoru.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "obrat",
+      "situace"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "úspěšnost nabídek 50 % → 80 až 90 %; sazba 2 až 3×",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "sebeduvera",
+      "k-cemu-papir"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: dnešní cena jako násobek. Tag 10 stupeň A. Tag 14 stupeň B: co mu PCC úroveň reálně přinesla."
+  },
+  {
+    "id": "jp020",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 102,
+    "endUtt": 103,
+    "quote": "Já jsem si to trošku spočítal, protože já jsem si to psal. Psal jsem si všechny ty náklady, které vlastně škola stála. A zjistil jsem, že díky koučování jsem to prostě do poslední koruny jako zaplatil za rok. Za rok prostě praktikování, mluvení s klientama, se mi všechno zaplatilo, včetně certifikace. A takže já jsem byl přesvědčený o tom, že to funguje, a teď že vlastně půjdu jenom do plusu, jenom nahoru. A doporučuju rozhodně do toho jít, protože kdybych tohleto neudělal, tak si dneska nemůžu říkat prostě třicet a více tisíc prostě za tu jednu jako herní sezónu. Rozhodně bych jako neměl to sebevědomí, neměl bych ty zkušenosti. Takže to je jedna věc, že peníze se mi vrátily fakt jako po roce. A z čeho jsem měl jako začátku strach, jo, člověk vidí jako investici, ale já jsem se na to vždycky díval jako na investici, já jsem to nikdy nebral jako výdaj. Říkám, hele, jako nejlepší investice je do sebe, to prostě člověku nikdo nevezme. Takže takhle jsem to vzal, s tím [nesrozumitelné] jsem do toho šel, a postupně se prostě ten dluh, nebo jak to nazvat, jako snižoval, až to bylo prostě na nule s čistým štítem. A to byl krásný pocit, to si pamatuju.",
+    "summary": "Psal si všechny náklady na školu. Zjistil, že mu koučování za rok praktikování zaplatilo všechno do poslední koruny, včetně certifikace. Od té chvíle jde jen do plusu. Kdyby do PCC nešel, nemohl by si dnes říkat 30 a více tisíc za jednu sezónu. Na začátku měl strach z investice, bral ji ale vždy jako investici do sebe; „dluh“ se postupně snižoval, až byl na nule s čistým štítem.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "celé náklady na školu i certifikaci splaceny z koučování za rok",
+    "isAdmission": false,
+    "monthsFromStart": 12,
+    "topics": [
+      "pujcka-a-klient-neprijde",
+      "odkud-penize-na-skolu",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 15 stupeň A: který měsíc byl v minusu a kdy se to otočilo (rok). Tag 24 stupeň A: náklad pokryt z koučování. Tag 5 stupeň B."
+  },
+  {
+    "id": "jp021",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 107,
+    "endUtt": 109,
+    "quote": "Hm, to je dobrá otázka, no. Jak jsem říkal, já jsem tam v začátku šel tak trošičku jako takový namistrovaný, a jako všechno vím a všude jsem byl dvakrát. A byl jsem takový jako hodně ukecaný, a dokonce jsem skákal lidem do řeči. A to, co mě naučilo jako koučovat, je jako nehodnotit a být pomalejší, víc naslouchat. Takže člověk si jako vytříbí ty smysly a to se samozřejmě neodráží jenom v koučování, ale má to dopad na všechny ostatní oblasti, takže jako doma, s kamarádama, s kolegama. A jakmile jsem navštívil PCC program a slyšel o síle prostředí, tak se mi stalo to, že jsem taky upgradoval svoje prostředí. Některé lidi jsem prostě nechal odejít z toho prostředí, protože nebyli úplně v souladu s tím, jak já to vidím a kam já směřuju. Takže jsem si začal víc vybírat, s kým se stýkám, a daleko víc žít v přítomnosti. A řekl bych, že to má jako ozdravné účinky a příjemné účinky samozřejmě na všechny ostatní oblasti. Takže bylo na tom to hezké, že člověk se posouvá jako kouč, ale zároveň se posouvá jako člověk, jako bytost, jako někdo, jako partner, otec, že jo, mám dvě malé děti, takže myslím si, že i tam to na mě vidí, že jsem víc jako v přítomnosti s nima, není to tak, že by člověk s nima byl, ale zároveň je vlastně u toho jako nevnímal, takže. Určitě těch efektů a dopadů tam bylo víc.",
+    "summary": "Na začátku byl namistrovaný, ukecaný, skákal lidem do řeči. Koučování ho naučilo nehodnotit, být pomalejší a naslouchat, což se projevilo doma, s kamarády i s kolegy. Po PCC upgradoval své prostředí: některé lidi nechal odejít, protože nebyli v souladu s tím, kam směřuje. Má dvě malé děti a je s nimi víc v přítomnosti.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "některé lidi ze svého okolí nechal odejít",
+    "topics": [
+      "co-se-muselo-zmenit",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: co se skutečně změnilo (vztahy, přítomnost), včetně ceny. Tag 22 stupeň B: přenos do práce s kolegy."
+  },
+  {
+    "id": "jp022",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 110,
+    "endUtt": 113,
+    "quote": "Výhoda je, že si to člověk jako v rámci toho času, který má, to znamená jako po práci nebo takhle, může už naplánovat jako sám. A já jsem řekl, tak buď budu prostě sedět u televize, když to přeženu, a jako zabíjet čas, anebo hold prostě po té práci si domluvím prostě jednu, dvě schůzky denně, někdy tři, a vlastně jako budu něco dělat jako pro ten svůj život. A takhle jsem začínal, jo, že fakt jako přijel jsem z práce a pokaždé sednul a potkal se s někým. Na pár hodin, někdy to bylo náročnější, ale jako viděl jsem, že to vlastně té druhé straně dává smysl, že ti lidi mě doporučujou, a jsem tam, člověk dostal nějakou pěknou recenzi, a tak jsem si říkal, aha, tak ono to jako funguje. Takže dá se to skloubit s tím, že myslím si, že člověk potřebuje být dobře organizovaný. Ale lidi neměli vůbec problém se přizpůsobit tomu, kdy já tam mám ta volná okna, kdy se jim můžu pověnovat. A obrovská výhoda samozřejmě byla, jak jsi říkal, že se nepotkávám v podstatě s nikým. Osobně takových schůzek jsem měl jenom pár. A to spíš v rámci vztahu, udržení vztahu s těma dvěma klukama tady z města. Ale jinak jsou všichni v online prostředí, a je výhoda, že člověk takhle zvládne třeba ty dvě, tři schůzky za ten den odpoledne nebo podvečer, což by normálně s nějakým cestováním asi těžko zvládl.",
+    "summary": "Je stále v zaměstnání a při něm odkoučoval 600 hodin. Řekl si: buď budu po práci sedět u televize, nebo si domluvím jednu dvě schůzky denně, někdy tři. Vyžaduje to organizaci, ale lidé se přizpůsobili jeho volným oknům. Skoro všechno je online, osobně jen pár setkání s dvěma klienty z města; bez cestování zvládne dvě tři schůzky za odpoledne.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "600 hodin při plném úvazku, 1 až 3 schůzky denně po práci",
+    "isAdmission": false,
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 21 stupeň A: práce i koučování zároveň, kolik hodin/klientů vedle práce. Tag 8 stupeň A: kdy přesně. Citace od promluvy 111, otázka Aleše (110) uvádí 600 hodin."
+  },
+  {
+    "id": "jp023",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 115,
+    "endUtt": 117,
+    "quote": "Jo, já si myslím, že je strašně důležité jako dostat se k těm lidem, který vlastně jako koučovat chceme, jo. To znamená jako samozřejmě na začátku člověk sbíral zkušenosti, kde se dalo, tak jak jsem říkal, ale pak se to překlopilo, že najednou jako jsem se začal zaměřovat na lidi, kde máme něco společného. A vlastně najednou člověk zažíval, zažívá flow, jo, je tam prostě nějaká jako spolutvorba, jsou tam uvědomění, a ten efekt to mělo, tak jak říkáš, že člověk odcházel jako prostě nabitý, protože tam vidí ten smysl, jo. Vidím, že prostě ten člověk jako odchází s chutí jít a něco měnit, něco tvořit, něco zavádět do praxe, a si říkám ok, takže je to vlastně princip win-win, jo. Já někomu pomůžu a přitom vlastně jako nepřímo pomůžu sobě, že jo. A co se mi na tom jako líbí taky hodně, že se vlastně obohacujeme navzájem, jo. Já tam mám lidi, kteří jsou finanční poradce, hypoteční specialisti, a dělají s různýma technologiemi, a dost často mě vlastně jako inspirují i oni, jo. Že to není jako, že by si tam něco uvědomili, a vlastně končilo to, jenom ta transakce, že oni něco mají ode mě, ale vlastně já rostu s těma hráčema společně. A to je to, co mě na tom bavilo, že se posouváme a vyhráváme zároveň, že to není jenom o nich, nebo jenom o mě.",
+    "summary": "Jestli mu koučování vedle zaměstnání bralo energii: na začátku sbíral zkušenosti, kde se dalo, pak se zaměřil na lidi, se kterými má něco společného, a z rozhovorů odchází nabitý. Klienti (finanční poradci, hypoteční specialisté) inspirují i jeho: roste s hráči společně, není to jen transakce.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň B: energie, ne hodiny; bez stavu „před“. Tag 8 stupeň C."
+  },
+  {
+    "id": "jp024",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 128,
+    "endUtt": 130,
+    "quote": "Ale tak mně jako pomáhaly příběhy různé, a vím, že ty jsi dost často zmiňoval nějaké jako v tréninku, koho, jaké ředitele, jaké lidi, jaké manažery jsi třeba provázel. To znamená, u mě to bylo důvěřovat v ten systém, důvěřovat, že prostě koučování funguje, a ne nějakým způsobem to... Nehodnotit a říct si prostě, prostě to funguje, s tebou nebo bez tebe. A to sebevědomí přicházelo samozřejmě s tím, jak ty lidi zůstávali potom dál a dál v té spolupráci. A to největší sebevědomí mi dodal kluk, se kterým jsem byl v podstatě jako dva roky v kuse od začátku. Takže u něj, on zažil vlastně asi třikrát proměněné cenovky, ale furt pokračoval dál. Teď máme pauzu, ale máme si zase volat příští měsíc. A takže ta sebedůvěra, bych řekl, roste s tím, jak člověk jde a dělá tu praxi. Jako to moc jinak nepomůže, ale já jsem teda jako fakt ještě student, takže samozřejmě jsem to doplňoval všema nahrávkama, videama a tak dále, ve volném čase jsem se snažil jako zase poslouchat. A to je skvělé, jakože tady máme tu databázi, ke které má člověk jako vždycky přístup a může si tu nahrávku pustit xkrát, není tam nějaký limit. A tohleto si myslím, že bylo taky důležité. Ten studijní systém, který [nesrozumitelné], to si myslím, že je taky hodně důležité.",
+    "summary": "Sebedůvěru mu na začátku dávaly příběhy z tréninků a důvěra v systém: koučování funguje, s tebou nebo bez tebe. Pak rostla s tím, jak klienti zůstávali. Největší sebevědomí mu dodal klient, se kterým je dva roky v kuse od začátku a který zažil asi třikrát změněnou cenovku a pokračoval. K tomu nahrávky a videa v databázi školy, které si pouštěl ve volném čase.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "jeden klient 2 roky v kuse, 3× zvýšená cena",
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "po-vycviku"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 10 stupeň A: odkud se brala sebedůvěra, s konkrétním klientem. Tag 6 stupeň B."
+  },
+  {
+    "id": "jp025",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 138,
+    "endUtt": 141,
+    "quote": "Jo, hele, ACC v podstatě bych řekl, že náročná až tak nebyla. Tam to bylo o vědomostech, samozřejmě etický kodex a tak dále. A kdybych měl ty znalosti, které mám dneska, tak si troufnu říct, že bych to přeskočil a šel rovnou na PCC, protože zkrátka ta certifikace je už jako jiný level, jak jsem říkal, ne level 2, ale level 10 z mého pohledu. Už jenom ty tréninky, které tam jsou k dispozici, a ty materiály, je jich tam víc, že jo. Není to jenom ty dva, které jsem zmínil. A co se týče náročnosti, v podstatě jsem byl v tréninkách řekněme třeba rok na PCC plus minus. Ale jako samotnou přípravou, poctivou, jsem tomu dal třeba měsíc, jako když jsem si četl otázky. Nejtěžší samozřejmě, nebo nejtěžší... Ono to nebylo těžké, jako udělat tu nahrávku, jo. Já jsem si udělal dvě nahrávky a tu, za kterou jsem si stál, jsem poslal, a ta jako vyšla, jo. Takže, ale zase to bylo jenom díky tomu, že když už jsem si vybíral tu nahrávku, anebo když už jsem si za ni postavil a byl jsem si ji vyhodnotit, tak už jsem měl pět set hodin odkoučovaných. To znamená, už to nebylo, že bych nevěděl. Prostě jsem si ji poslechl dvakrát, třikrát a říkal, ok, tak to zní dobře. Tady to hezky [nesrozumitelné]. Byla tady nějaká flow, splňuje to prostě základní kompetence, dovednosti. Bylo to tím, že jsem měl prostě tolik praxe za sebou. Ok, pak se člověk musí učit na ten test, kde jsou ty nejlepší a nejhorší možnosti. To mi vzalo, jak říkám, třeba měsíc nějaké přípravy. Ale jinak jako pro člověka, který to dělá, který se tomu aktivně věnuje, tak si nemyslím, že to je jako něco jako nadměrně těžkýho.",
+    "summary": "ACC certifikace nebyla až tak náročná; s dnešními znalostmi by ji přeskočil a šel rovnou na PCC. V PCC tréninkách byl asi rok, poctivé přípravě na test dal měsíc. Udělal dvě nahrávky, poslal tu, za kterou si stál, a prošla, ale jen díky tomu, že měl v té chvíli 500 odkoučovaných hodin.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "cca 1 rok v PCC tréninkách, 1 měsíc přípravy, 2 nahrávky, 500 hodin praxe",
+    "isAdmission": false,
+    "topics": [
+      "k-cemu-papir",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 14 stupeň A: co certifikace obnáší a kdy ji dostal. Tag 12 stupeň C: test na nejlepší a nejhorší možnosti."
+  },
+  {
+    "id": "jp026",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 143,
+    "endUtt": 147,
+    "quote": "Určitě to není pro někoho, kdo není ochotný se učit a posouvat. To si myslím, že je ten základní předpoklad. Takže jestli někdo přijde... Já jsem rád, že jsem z toho, že tady všechno vím a všude jsem byl, velice rychle upustil, když jsem to na začátku měl. Ale toto si myslím, že je základ, aby člověk byl nastavený na to, že ok, tak je to něco nového, budu potřebovat se nějakým způsobem změnit, vyrůst. Takže pokud tohle člověk nemá, tak ať se ani někdo nehlásí, to bude jako ztráta času a peněz. A pro koho to ještě není, dobrá otázka. Myslím, že se ptáš, pro koho to je. Není to asi, nebo určitě, pro někoho, kdo neumí naslouchat, hodnotí lidi, chce dávat rady. Ale vlastně jako mně přijde, že tak, jak jsem pozoroval ty svoje spolužáky, tak oni takový lidi tam jako nejsou. Oni, si myslím, že se diskvalifikují sami už v rámci jako toho nějakého úvodního testu těch předpokladů, nebo nějakého úvodního hovoru, protože na začátku, si pamatuju, že byl i hovor s tebou. Tak nějak mně přijde, že se to jako přirozeně vyselektuje. Myslím si, že ta ochota se učit, ochota něco dělat a jít do té akce, ochota dělat chybu, jak jsem říkal, že vlastně je ok mýlit se, udělat chybu, něco [nesrozumitelné], to je dobře. My na to ve školství nejsme bohužel vedeni, tady prostě chyba je něco, co se musí trestat, chyba je špatně, chyba je prohřešek. Ale vlastně tohle bylo takové uvolňující, že je ok udělat tu chybu. A tím se člověk opravdu naučí, důležité je z toho něco vzít a příště se k té situaci postavit trošičku jinak.",
+    "summary": "Není to pro toho, kdo není ochotný se učit, měnit a vyrůst: „to bude ztráta času a peněz“. A pro toho, kdo neumí naslouchat, hodnotí lidi a chce dávat rady. Podle něj se takoví lidé vyselektují sami už při vstupním testu a hovoru. Ze školství si nesl, že chyba se trestá; uvolňující bylo zjistit, že je ok se mýlit.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koho-bych-odradil",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 18 stupeň A: pro koho to není, s kritériem. Tag 7 stupeň B: návyk ze školství (chyba je prohřešek)."
+  },
+  {
+    "id": "jp027",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 153,
+    "endUtt": 155,
+    "quote": "Dostanete někdy ještě nějakou jinou šanci změnit svůj život a žít svůj sen? Tohle bych se zeptal, protože pro mě to bylo, že mi někdo věřil, že mi někdo dal šanci, že můžu vlastně jít a dělat něco pro svoje sny. Že můžu vlastně nějakým způsobem, tohle může být cesta ke svobodě a k osobnímu růstu. A k tomu být mezi super lidma. Takže tohle bych mu řekl.",
+    "summary": "Otázka pro toho, kdo váhá: „Dostanete někdy ještě nějakou jinou šanci změnit svůj život a žít svůj sen?“ Pro něj to bylo o tom, že mu někdo věřil a dal mu šanci dělat něco pro své sny; cesta ke svobodě, osobnímu růstu a být mezi super lidmi.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "cena-cekani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 17 stupeň C: apel, bez faktu. Tag 20 stupeň C."
+  },
+  {
+    "id": "jp028",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 167,
+    "endUtt": 168,
+    "quote": "Jo. Hele, to byl fakt stav, kdy já jsem měl jenom tři hráče asi, plus minus, a peníze z toho byly malé. A co rozhodlo, no? Já jsem řekl, že tomu ještě dám šanci, že prostě tomu budu věřit, že to se tady třeba nekončí, tahle ta naděje. Důvěru, kterou ve mě někdo dal, protože přece jenom, že jo, ty jsi nám dával kontakty, to znamená, člověk jako se prezentuje, že je z CoachVille, a snaží se jako tomu jménu nějakým způsobem jako udělat jako dobrou pověst. Takže rozhodlo to jako zkusit to ještě, jako zatnout zuby a dát si tomu ještě prostě ten jeden další trénink, jo. Protože to, že mi jako nesedí nějaký přístup, nějaká metoda, to může být moje, jo, ale říkám, ok, tak pojď si dát ještě jednu šanci. Je to investice do tebe, není to jako v žádném případě náklad nebo výdaj, je to investice do tebe, vždycky mi to něco dá, i kdybych prostě potom koučem neměl být. A takhle jsem to bral s každým dalším tréninkem, jakože je to investice, a hold ta návratnost někdy je jako kratší a někdy je delší, ale vždycky se mi to vrátilo a vyplatilo.",
+    "summary": "Po prvním kurzu s tím málem sekl: měl asi tři hráče a peníze z toho byly malé. Rozhodl se dát tomu ještě jednu šanci a jeden další trénink, i kvůli důvěře, kterou do něj škola vložila kontakty. Že mu nesedí nějaká metoda, může být jeho věc. Každý trénink bral jako investici; návratnost byla někdy kratší, někdy delší, ale vždy se vrátila.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "po prvním kurzu jen asi 3 hráči",
+    "isAdmission": true,
+    "costText": "po prvním kurzu měl jen tři hráče a malé peníze, málem skončil",
+    "topics": [
+      "kdy-jsem-to-chtel-vzdat",
+      "pujcka-a-klient-neprijde",
+      "jina-cesta-nez-skola-ukazovala"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 28 stupeň A: konkrétní krize s číslem a mechanismus (ještě jedna šance). Tag 15 stupeň B: období s malým příjmem. Tag 19 stupeň B: odchylka od modelu (metoda nesedí). Kontext v promluvách 164 až 166."
+  },
+  {
+    "id": "jp029",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 170,
+    "endUtt": 170,
+    "quote": "To si ani nechci představovat, ale znamenalo by to, že by tam několik set hodin provázení lidí nebylo. To by zmizelo z jejich života. Já bych vlastně zadusil, tady bych řekl, jednu z možná nejlepších příležitostí v životě, kterou jsem dostal. Takže to nechci ani domyslet, ale bylo by to smutné asi, kdybych zase se vrátil do těch zajetých kolejí a nepokračoval dál. To je smutná představa.",
+    "summary": "Kdyby to tehdy utnul: několik set hodin provázení lidí by nebylo, zmizelo by to z jejich života. „Zadusil bych jednu z možná nejlepších příležitostí v životě, kterou jsem dostal.“ Vrátil by se do zajetých kolejí.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "několik set hodin, které by nevznikly",
+    "isAdmission": false,
+    "topics": [
+      "cena-cekani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 20 stupeň B: cena nevzdání se vlastními slovy; pracuje proti „neudělat nic“."
+  },
+  {
+    "id": "jp030",
+    "episode": "jan-palacky",
+    "guest": "jan-palacky",
+    "startUtt": 160,
+    "endUtt": 161,
+    "quote": "Mně se teď velmi dobře daří mezi finančníma poradcema, kteří jsou na pozici manažerů nebo ředitelů, to znamená mají nějaký malý tým, nebo už i větší tým. Byli třeba skvělý v rámci toho nějakého osobního obratu a obchodu, ale vlastně teď najednou dostávají tu roli toho, že musí někoho vést. Tak to mě baví, tady tyhle příběhy. Ty lidi mají ty cíle stejný nebo podobný, ale stejně zažívá každý trošičku jiné situace, potřebuje pomoct, nebo potřebuje posunout něco trošku jiného, nějakou obavu, nějaký strach, nějakou dovednost. Takže tady tohle mě baví. Manažery, lídři, ředitelé v nějakých firmách, tam mě to baví a tam se na tu schůzku vždycky těším.",
+    "summary": "Dnes se mu daří mezi finančními poradci, kteří se stávají manažery nebo řediteli a poprvé musí někoho vést. Byli skvělí v obchodu, teď potřebují posunout obavu, strach nebo dovednost. Manažeři, lídři, ředitelé: tam se na schůzku vždy těší.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13 stupeň B: konkrétní niche, díky které klienty získává; bez čísla."
+  }
+]
