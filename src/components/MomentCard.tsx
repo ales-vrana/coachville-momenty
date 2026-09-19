@@ -1,5 +1,6 @@
 import Link from "next/link";
 import InlineMomentPlayer from "./InlineMomentPlayer";
+import TrackLink from "./TrackLink";
 import { formatDuration, formatTime, phaseLabel, whereLabel } from "@/lib/data";
 import type { MomentView } from "@/lib/types";
 import { episodeUrl, guestUrl, momentUrl } from "@/lib/urls";
@@ -63,7 +64,19 @@ export default function MomentCard({
           {m.isAdmission && <span className="chip chip-admission">přiznání</span>}
           {m.strength === "slabý" && <span className="chip">názor</span>}
           {showTopic && <span className="chip">{m.primaryTopic.label}</span>}
-          <Link href={href} className="btn-link ml-auto">
+        </div>
+        {/* Dvě cesty dál: celý rozhovor (když host zaujal) a přepis momentu. Stejná váha, přepis vpravo jako dosud. */}
+        <div className="flex flex-wrap items-center justify-between gap-x-4 gap-y-1 border-t border-line pt-3 text-sm">
+          <TrackLink
+            href={episodeUrl(ep.slug)}
+            event="episode_open"
+            params={{ moment_id: m.id, episode: ep.slug, placement: "card" }}
+            className="btn-link"
+            aria-label={`Přehrát celý rozhovor s ${g.displayName} od začátku`}
+          >
+            <span aria-hidden="true">▶</span> Přehrát celý rozhovor od začátku
+          </TrackLink>
+          <Link href={href} className="btn-link">
             Číst přepis <span aria-hidden="true">→</span>
           </Link>
         </div>
