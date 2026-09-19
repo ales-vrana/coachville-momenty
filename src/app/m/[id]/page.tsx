@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import Avatar from "@/components/Avatar";
+import GuestMark from "@/components/GuestMark";
 import CtaBar from "@/components/CtaBar";
 import MomentCard from "@/components/MomentCard";
 import MomentPlayer from "@/components/MomentPlayer";
 import ShareMenu from "@/components/ShareMenu";
 import TrackLink from "@/components/TrackLink";
 import {
+  credentialLongLabel,
+  guestTitle,
   formatDateCz,
   formatDuration,
   formatTime,
@@ -84,12 +86,15 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
       </nav>
 
       <header className="flex items-start gap-3">
-        <Avatar name={g.displayName} photo={g.consentScope.photo ? g.photo : undefined} size={56} />
+        <GuestMark g={g} size={64} />
         <div className="min-w-0">
           <h1 className="text-lg font-semibold normal-case leading-snug sm:text-xl">{m.summary}</h1>
+          {g.credential && (
+            <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-gold">Dosažená certifikace: {credentialLongLabel(g.credential)}</p>
+          )}
           <p className="mt-1 text-sm text-muted">
             <Link href={guestUrl(g.slug)} className="font-semibold text-navy underline">
-              {g.displayName}
+              {guestTitle(g)}
             </Link>
             , předtím {g.priorProfessionText}
             {whereLabel(g) ? `, ${whereLabel(g)}` : ""}. {phaseLabel(g) ? `${phaseLabel(g)} v době natáčení` : ""}

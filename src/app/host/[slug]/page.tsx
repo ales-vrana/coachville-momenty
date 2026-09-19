@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import Avatar from "@/components/Avatar";
+import GuestMark from "@/components/GuestMark";
 import MomentCard from "@/components/MomentCard";
 import {
+  credentialLongLabel,
+  guestTitle,
   formatDateCz,
   getEpisodes,
   getGuest,
@@ -44,9 +46,12 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
   return (
     <div className="space-y-6">
       <header className="flex items-start gap-4">
-        <Avatar name={g.displayName} photo={g.consentScope.photo ? g.photo : undefined} size={72} />
+        <GuestMark g={g} size={88} />
         <div>
-          <h1 className="text-2xl leading-tight sm:text-3xl">{g.displayName}</h1>
+          <h1 className="text-2xl leading-tight sm:text-3xl">{guestTitle(g)}</h1>
+          {g.credential && (
+            <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-gold">Dosažená certifikace: {credentialLongLabel(g.credential)}</p>
+          )}
           <p className="mt-1 text-muted">
             Předtím {g.priorProfessionText}
             {whereLabel(g) ? `, ${whereLabel(g)}` : ""}

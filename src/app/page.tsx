@@ -1,9 +1,11 @@
 import Link from "next/link";
-import Avatar from "@/components/Avatar";
+import GuestMark from "@/components/GuestMark";
 import Denominator, { plural } from "@/components/Denominator";
 import {
+  credentialLongLabel,
   getDenominator,
   getPublishedGuests,
+  guestTitle,
   getPublishedTopics,
   phaseLabel,
   site,
@@ -66,13 +68,15 @@ export default function Home() {
       {guests.length > 0 && (
         <section id="hoste" className="space-y-3">
           <h2 className="text-xl">Kdo tu mluví</h2>
-          <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {/* Dva sloupce a vyšší řádek, aby byl odznak ICF (72 px) čitelný. Bez certifikace kolečko s iniciálami. */}
+          <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {guests.map((g) => (
               <li key={g.slug}>
-                <Link href={guestUrl(g.slug)} className="card flex items-center gap-3 p-3 no-underline transition hover:-translate-y-px hover:shadow-md">
-                  <Avatar name={g.displayName} photo={g.consentScope.photo ? g.photo : undefined} size={44} />
+                <Link href={guestUrl(g.slug)} className="card flex items-center gap-4 p-4 no-underline transition hover:-translate-y-px hover:shadow-md">
+                  <GuestMark g={g} size={72} />
                   <span className="min-w-0">
-                    <span className="block font-semibold text-navy">{g.displayName}</span>
+                    <span className="block font-semibold text-navy">{guestTitle(g)}</span>
+                    {g.credential && <span className="block text-xs text-muted">Dosažená certifikace: {credentialLongLabel(g.credential)}</span>}
                     <span className="block truncate text-sm text-muted">
                       Předtím {g.priorProfessionText}
                       {whereLabel(g) ? `, ${whereLabel(g)}` : ""}

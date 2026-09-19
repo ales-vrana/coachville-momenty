@@ -147,6 +147,15 @@ export function formatDateCz(iso: string): string {
   return d ? `${d}. ${m}. ${y}` : `${m}/${y}`;
 }
 
+/** „Jméno Příjmení, PCC“; bez certifikace jen jméno. */
+export function guestTitle(g: Guest): string {
+  return g.credential ? `${g.displayName}, ${g.credential}` : g.displayName;
+}
+
+export function credentialLongLabel(c: NonNullable<Guest["credential"]>): string {
+  return { ACC: "ACC, Associate Certified Coach (ICF)", PCC: "PCC, Professional Certified Coach (ICF)", MCC: "MCC, Master Certified Coach (ICF)" }[c];
+}
+
 export function phaseLabel(g: Guest): string {
   const parts: string[] = [];
   if (g.monthsInTraining) parts.push(`${g.monthsInTraining}. měsíc od startu`);

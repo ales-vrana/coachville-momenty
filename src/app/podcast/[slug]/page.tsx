@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import EpisodePlayer from "@/components/EpisodePlayer";
 import MomentCard from "@/components/MomentCard";
-import { formatDateCz, formatTime, getEpisode, getGuest, getMomentsForEpisode, getPublishedEpisodes, site } from "@/lib/data";
+import { formatDateCz, formatTime, getEpisode, getGuest, getMomentsForEpisode, getPublishedEpisodes, guestTitle, site } from "@/lib/data";
 import { guestUrl } from "@/lib/urls";
 
 export function generateStaticParams() {
@@ -53,7 +53,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
             <span key={g!.slug}>
               {i > 0 && ", "}
               <Link href={guestUrl(g!.slug)} className="underline">
-                {g!.displayName}
+                {guestTitle(g!)}
               </Link>
             </span>
           ))}

@@ -32,6 +32,7 @@ export type Phase =
   | "PCC"
   | "profesionální kouč bez credentialu"
   | "neuvedeno";
+export type Credential = "ACC" | "PCC" | "MCC";
 export type RegionType = "velkoměsto" | "krajské město" | "malé město" | "venkov" | "neuvedeno";
 export type AgeBand = "do 35" | "35 až 49" | "50+" | "neuvedeno";
 export type ProfessionCat =
@@ -72,6 +73,7 @@ export interface Guest {
   };
   consentDate?: string;
   phaseAtRecording: Phase;
+  credential?: Credential; // dosažená certifikace ICF (zobrazuje se za jménem a jako odznak); bez ní se nic neuvádí
   monthsInTraining?: number; // v době natáčení
   phaseNow?: Phase;
   phaseNowDate?: string;

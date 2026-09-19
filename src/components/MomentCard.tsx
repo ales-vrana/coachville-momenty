@@ -1,7 +1,7 @@
 import Link from "next/link";
 import InlineMomentPlayer from "./InlineMomentPlayer";
 import TrackLink from "./TrackLink";
-import { formatDuration, formatTime, phaseLabel, whereLabel } from "@/lib/data";
+import { formatDuration, formatTime, guestTitle, phaseLabel, whereLabel } from "@/lib/data";
 import type { MomentView } from "@/lib/types";
 import { episodeUrl, guestUrl, momentUrl } from "@/lib/urls";
 
@@ -53,7 +53,7 @@ export default function MomentCard({
         <p className={`font-semibold leading-snug text-ink ${first && row ? "text-lg" : "text-[16px]"}`}>{m.summary}</p>
         <p className="text-sm text-muted">
           <Link href={guestUrl(g.slug)} className="font-semibold text-navy no-underline hover:underline">
-            {g.displayName}
+            {guestTitle(g)}
           </Link>
           , předtím {g.priorProfessionText}
           {where ? `, ${where}` : ""}
