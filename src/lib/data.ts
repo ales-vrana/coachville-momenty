@@ -54,6 +54,7 @@ export interface SiteConfig {
   footer: { operator: string; consentNote: string };
   partnerVideo: { vimeoId: string; vimeoHash?: string; title: string; note: string };
   contactCta: { heading: string; text: string; button: string; url: string };
+  nextSteps: { eyebrow: string; workshop: { label: string; url: string }; call: { label: string; url: string } };
 }
 
 // ---------- základní načtení ----------

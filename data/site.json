@@ -37,5 +37,16 @@
     "text": "Rezervujte si termín 10minutového telefonátu, kde společně zjistíme, jestli dává spolupráce oboustranný smysl pro Vaši situaci.",
     "button": "Rezervace krátkého telefonátu",
     "url": "https://calendly.com/cveurope/jak-zacit-s-koucovanim-1"
+  },
+  "nextSteps": {
+    "eyebrow": "Další krok",
+    "workshop": {
+      "label": "Ukázková lekce tréninku CoachVille",
+      "url": "https://poznej.coachville.eu/workshop?utm_source=web&utm_medium=web&utm_campaign=coachville-momenty"
+    },
+    "call": {
+      "label": "Rezervuj si krátký telefonát s CoachVille",
+      "url": "https://calendly.com/cveurope/jak-zacit-s-koucovanim-1?utm_source=web&utm_medium=web&utm_campaign=coachville-momenty"
+    }
   }
 }

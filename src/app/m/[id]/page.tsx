@@ -6,6 +6,7 @@ import CtaBar from "@/components/CtaBar";
 import MomentCard from "@/components/MomentCard";
 import MomentPlayer from "@/components/MomentPlayer";
 import ShareMenu from "@/components/ShareMenu";
+import TrackLink from "@/components/TrackLink";
 import {
   formatDateCz,
   formatDuration,
@@ -154,15 +155,37 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
       </div>
 
       <section className="card space-y-3 p-5">
-        <div className="flex flex-wrap gap-2 text-sm">
-          {next && (
-            <Link href={`/m/${next.id}`} className="btn-primary">
-              Další moment k tomuto tématu
+        <div className="flex flex-wrap items-start justify-between gap-x-6 gap-y-3 text-sm">
+          <div className="flex flex-wrap gap-2">
+            {next && (
+              <Link href={`/m/${next.id}`} className="btn-primary">
+                Další moment k tomuto tématu
+              </Link>
+            )}
+            <Link href={episodeUrl(ep.slug, m.start)} className="btn-secondary">
+              Celý rozhovor od {formatTime(m.start)}
             </Link>
-          )}
-          <Link href={episodeUrl(ep.slug, m.start)} className="btn-secondary">
-            Celý rozhovor od {formatTime(m.start)}
-          </Link>
+          </div>
+          {/* Další krok s CoachVille: ukázková lekce a krátký telefonát (site.json.nextSteps, UTM coachville-momenty). */}
+          <div className="flex flex-col items-start gap-1.5 sm:items-end">
+            <p className="eyebrow">{site.nextSteps.eyebrow}</p>
+            <TrackLink
+              href={site.nextSteps.workshop.url}
+              event="cta_click"
+              params={{ target: "workshop", moment_id: m.id, placement: "moment_page" }}
+              className="btn-link"
+            >
+              {site.nextSteps.workshop.label} <span aria-hidden="true">↗</span>
+            </TrackLink>
+            <TrackLink
+              href={site.nextSteps.call.url}
+              event="cta_click"
+              params={{ target: "call", moment_id: m.id, placement: "moment_page" }}
+              className="btn-link"
+            >
+              {site.nextSteps.call.label} <span aria-hidden="true">↗</span>
+            </TrackLink>
+          </div>
         </div>
         <div>
           <p className="eyebrow">Ověřte si to sami</p>
