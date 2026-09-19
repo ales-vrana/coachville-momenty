@@ -22,14 +22,14 @@
   "gender": "muž",
   "verifyLinks": [
     {
+      "type": "ICF",
+      "url": "https://apps.coachingfederation.org/eweb/CCFDynamicPage.aspx?webcode=ccfcoachprofileview&coachcstkey=6BCF3185-65DF-4268-9418-64CB7B97540A",
+      "label": "Profil kouče v adresáři ICF (PCC)"
+    },
+    {
       "type": "LinkedIn",
       "url": "https://www.linkedin.com/search/results/all/?keywords=Jan%20Palack%C3%BD%20kouč",
       "label": "LinkedIn (z rozhovoru, doplnit přímý odkaz)"
-    },
-    {
-      "type": "ICF",
-      "url": "https://apps.coachingfederation.org/eweb/CCFDynamicPage.aspx?webcode=ccfsearch&site=icfapp",
-      "label": "ICF Credentialed Coach Finder (PCC, ověřit jménem)"
     }
   ],
   "contactAllowed": false,
