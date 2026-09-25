@@ -1,0 +1,47 @@
+{
+  "slug": "vaclav-benes",
+  "displayName": "Václav Beneš",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-25",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 6,
+  "priorProfessionText": "vedoucí kavárny Starbucks (8 let), zástupce vedoucího prodejny Lidl (5 let), Primark (3 roky); dnes provoz tří kaváren a pražírny pro kamaráda; skautský instruktor",
+  "priorProfessionCat": "manažer / vedoucí",
+  "city": "Praha",
+  "regionType": "velkoměsto",
+  "ageBand": "neuvedeno",
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "jiné",
+      "url": "https://www.instagram.com/naberuber/",
+      "label": "Instagram NaberUber (z rozhovoru, neověřeno)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "gastro a retail management 16 let; skauting, instruktorská kvalifikace; zkušební lekce v CoachVille, pak 2 roky šetření a srovnání práce a rodiny"
+    },
+    {
+      "label": "Start (4/2026)",
+      "text": "první kurz; seznam všech kontaktů z telefonu, role-play telefonátů; první platící klientka po cca 1,5 měsíci za 500 Kč"
+    },
+    {
+      "label": "Dnes (9/2026, 6 měsíců, 60 hodin)",
+      "text": "3 platící hráči + 4 strategická setkání, doporučení; sazba 1 000 Kč za setkání, plán 1 500 do konce roku; nabídky bývalým zaměstnavatelům; dvě dcery, práce vedle výcviku, rezervační kalendář"
+    }
+  ]
+}
