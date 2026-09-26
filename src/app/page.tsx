@@ -23,6 +23,17 @@ export default function Home() {
 
   return (
     <div className="space-y-10">
+      {/* Kontaktní výzva nahoře pod menu (přesun 26. 9. 2026 na přání Aleše); na desktopu text vlevo, tlačítko vpravo. */}
+      <section className="flex flex-col gap-4 rounded-2xl bg-navy p-5 text-white sm:flex-row sm:items-center sm:justify-between sm:p-6">
+        <div className="max-w-2xl">
+          <h2 className="text-xl text-white sm:text-2xl">{site.contactCta.heading}</h2>
+          <p className="mt-1 text-sm text-white/85 sm:text-base">{site.contactCta.text}</p>
+        </div>
+        <a href={site.contactCta.url} className="btn-primary shrink-0" target="_blank" rel="noopener">
+          {site.contactCta.button} ↗
+        </a>
+      </section>
+
       <section className="max-w-3xl">
         <p className="eyebrow mb-2">Momenty ze studia v CoachVille</p>
         <h1 className="text-3xl leading-tight sm:text-4xl">Rozhovory se studenty a absolventy CoachVille</h1>
@@ -100,13 +111,6 @@ export default function Home() {
         </p>
       </section>
 
-      <section className="rounded-2xl bg-navy p-6 text-white sm:p-8">
-        <h2 className="text-2xl text-white">{site.contactCta.heading}</h2>
-        <p className="mt-2 max-w-2xl text-white/85">{site.contactCta.text}</p>
-        <a href={site.contactCta.url} className="btn-primary mt-5" target="_blank" rel="noopener">
-          {site.contactCta.button} ↗
-        </a>
-      </section>
     </div>
   );
 }
