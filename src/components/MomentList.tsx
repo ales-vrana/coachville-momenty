@@ -28,6 +28,7 @@ function plural(n: number, one: string, few: string, many: string) {
   return many;
 }
 
+const SHOW_FILTERS = false; // přepínač rychlých filtrů Předtím / Důkaz
 const INITIAL = 7;
 const STEP = 10;
 
@@ -101,7 +102,10 @@ export default function MomentList({
 
   return (
     <div className="space-y-4">
-      {(catOptions.length > 1 || hasCounts > 0 || admCounts > 0) && (
+      <div id="vypis" className="scroll-mt-20" />
+      {/* Rychlé filtry (Předtím, Důkaz) vypnuty 26. 9. 2026 na přání Aleše: kategorie profesí působily
+          kontraproduktivně na lidi mimo manažerské profese. Kód zůstává za přepínačem SHOW_FILTERS. */}
+      {SHOW_FILTERS && (catOptions.length > 1 || hasCounts > 0 || admCounts > 0) && (
         <div id="filtry" className="space-y-2 scroll-mt-20" role="group" aria-label="Rychlé filtry">
           {catOptions.length > 1 && (
             <div className="flex items-center gap-2 overflow-x-auto pb-1 text-sm">
@@ -165,8 +169,8 @@ export default function MomentList({
         {shown > INITIAL && (
           <>
             {" "}
-            <a href="#filtry" className="btn-link">
-              Zpět k filtrům ↑
+            <a href={SHOW_FILTERS ? "#filtry" : "#vypis"} className="btn-link">
+              {SHOW_FILTERS ? "Zpět k filtrům ↑" : "Na začátek výpisu ↑"}
             </a>
           </>
         )}
