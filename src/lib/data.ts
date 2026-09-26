@@ -336,7 +336,7 @@ export function getDenominator(): Denominator {
   };
 }
 
-/** Agregát pro řádek „Kolik to stálo je“ na stránce tématu. */
+/** Agregát hodin týdně a měsíců od startu. Řádek „Kolik to stálo je“ byl 26. 9. 2026 ze stránky tématu odstraněn (rušil); funkce zůstává nevyužitá. */
 export function getCostLine(moments: MomentView[]): string | null {
   const hours = moments.map((m) => m.hoursPerWeek).filter((h): h is number => typeof h === "number");
   const months = moments.map((m) => m.monthsFromStart).filter((h): h is number => typeof h === "number");

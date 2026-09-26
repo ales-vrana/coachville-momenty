@@ -5,7 +5,7 @@ import CtaBar from "@/components/CtaBar";
 import Denominator, { plural } from "@/components/Denominator";
 import MomentCard from "@/components/MomentCard";
 import MomentList from "@/components/MomentList";
-import { getCostLine, getDenominator, getMomentsForTopic, getNextWorkshop, getPublishedTopics, getTopics, site } from "@/lib/data";
+import { getDenominator, getMomentsForTopic, getNextWorkshop, getPublishedTopics, getTopics, site } from "@/lib/data";
 import { topicUrl } from "@/lib/urls";
 
 export function generateStaticParams() {
@@ -29,7 +29,6 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
   const moments = getMomentsForTopic(topic.id);
   const d = getDenominator();
   const guests = new Set(moments.map((m) => m.guest)).size;
-  const cost = getCostLine(moments);
   const workshop = getNextWorkshop();
   // Další téma: následující publikované ve stejné skupině, jinak první další v pořadí.
   const published = getPublishedTopics().map((t) => t.topic);
@@ -50,7 +49,6 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
         {topic.aliases && topic.aliases.length > 0 && (
           <p className="mt-1 text-sm text-muted">Také: {topic.aliases.join(" · ")}</p>
         )}
-        {cost && <p className="mt-2 text-sm text-muted">Kolik to stálo je: {cost}.</p>}
       </header>
 
       {moments.length === 0 ? (
