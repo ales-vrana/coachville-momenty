@@ -24,13 +24,11 @@ export default function Home() {
   return (
     <div className="space-y-10">
       <section className="max-w-3xl">
-        <p className="eyebrow mb-2">Momenty · CoachVille Europe</p>
-        <h1 className="text-3xl leading-tight sm:text-4xl">
-          Nesestříhané rozhovory se studenty a absolventy CoachVille
-        </h1>
+        <p className="eyebrow mb-2">Momenty ze studia v CoachVille</p>
+        <h1 className="text-3xl leading-tight sm:text-4xl">Rozhovory se studenty a absolventy CoachVille</h1>
         <p className="mt-3 text-lg text-muted">
-          Vybíráte si, co potřebujete slyšet. Každý úsek vede do celého rozhovoru a řekl ho člověk, kterého si můžete
-          ověřit.
+          Vyberte si několik momentů, které vás zajímají, anebo si přehrajte celý rozhovor se studentem, jehož sdílení vás
+          zaujalo. S kýmkoliv z nich se můžete spojit.
         </p>
       </section>
 
@@ -113,4 +111,4 @@ export default function Home() {
   );
 }
 
-export const metadata = { title: `${site.siteName} · nesestříhané rozhovory se studenty CoachVille` };
+export const metadata = { title: `${site.siteName} ze studia v CoachVille · rozhovory se studenty a absolventy` };

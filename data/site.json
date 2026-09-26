@@ -1,6 +1,6 @@
 {
   "siteName": "Momenty",
-  "tagline": "Nesestříhané rozhovory se studenty a absolventy CoachVille. Vybíráte si, co potřebujete slyšet.",
+  "tagline": "Rozhovory se studenty a absolventy CoachVille. Vyberte si několik momentů, které vás zajímají, anebo si přehrajte celý rozhovor se studentem, jehož sdílení vás zaujalo. S kýmkoliv z nich se můžete spojit.",
   "baseUrl": "https://poznej.coachville.eu/coachville-momenty",
   "publishing": {
     "minMomentsPerTopic": 1,
