@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "LinkedIn pod jménem (z rozhovoru, přesný profil neověřen)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -46,5 +46,8 @@
       "label": "Dnes (přes 3 roky)",
       "text": "koučuje vedle vedení organizace, chce být profesionální koučkou vlastním tempem; zařizuje si doma koučovnu; témata rovnováha práce a život"
     }
+  ],
+  "phones": [
+    "602 190 198"
   ]
 }

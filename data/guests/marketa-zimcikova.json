@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "Instagram multi.coach (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -46,5 +46,8 @@
       "label": "Dnes (téměř rok, 200 hodin)",
       "text": "živí se koučováním (podle úvodu tazatele); 13 různých koučů a parťáků za rok; hráči: multitalentovaní tvůrci, témata nastavení mysli a sebehodnota; klienti 20 až 60 let"
     }
+  ],
+  "phones": [
+    "777 952 225"
   ]
 }

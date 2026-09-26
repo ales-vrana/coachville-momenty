@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "Web janamaksymova.cz (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -46,5 +46,8 @@
       "label": "Dnes (přes 2 roky, přes 360 hodin)",
       "text": "hráči: lidé po závislosti, závislé vztahy, přehlcenost, cesta za snem; besedy ve školách; web janamaksymova.cz"
     }
+  ],
+  "phones": [
+    "723 125 405"
   ]
 }

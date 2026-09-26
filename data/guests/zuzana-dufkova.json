@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -40,5 +40,9 @@
       "label": "Dnes (přes rok)",
       "text": "překlápí praxi z mentoringu na koučování; víc energie; příjem z koučování částečně nahrazuje mentoring; hráči: lidé, kteří chtějí změnu a neví jak; témata kariéra a vztahy"
     }
+  ],
+  "phones": [
+    "776 261 262",
+    "602 783 297"
   ]
 }

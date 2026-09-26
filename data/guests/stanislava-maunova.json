@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -21,7 +21,7 @@
   "ageBand": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -45,5 +45,9 @@
       "label": "Dnes (2 roky, přes 760 hodin)",
       "text": "OSVČ, změna finální; hráči rebelové; někteří klienti celé 2 roky; nejbližší přátelé z 90 % z komunity; pátek jako víkend"
     }
+  ],
+  "phones": [
+    "731 538 255",
+    "774 183 364"
   ]
 }

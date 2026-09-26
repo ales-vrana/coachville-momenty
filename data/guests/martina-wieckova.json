@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "do 35",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (13. měsíc)",
       "text": "změnila profesi budovanou 15 let, opustila dobře placenou práci; méně cestuje, víc rodiny; hráči hlavně ženy 28 až 35, témata kariéra a byznys; zvažuje přidat mentoring"
     }
+  ],
+  "phones": [
+    "730 145 369"
   ]
 }

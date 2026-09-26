@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -21,7 +21,7 @@
   "ageBand": "do 35",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -41,5 +41,8 @@
       "label": "Po roce",
       "text": "asi 180 hodin, 8 až 9 hráčů týdně, přicházejí přes reference; obchod a koučování 50/50; hráči kolem třicítky, kteří chtějí víc svobody"
     }
+  ],
+  "phones": [
+    "728 175 562"
   ]
 }

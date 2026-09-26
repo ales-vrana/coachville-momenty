@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (skoro 2 roky, PCC program)",
       "text": "téměř 300 hodin; hráčky: citlivé ženy v životní změně, management rodiny; „poprvé jsem šťastná“"
     }
+  ],
+  "phones": [
+    "725 779 203"
   ]
 }

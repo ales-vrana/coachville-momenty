@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -25,7 +25,7 @@
       "label": "Sdružení koučů ment.help.cz (uvedl v rozhovoru, ověřit)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -45,5 +45,8 @@
       "label": "Plán",
       "text": "koučování jako cesta po manažerské kariéře; sdružení koučů ment.help.cz"
     }
+  ],
+  "phones": [
+    "602 133 574"
   ]
 }

@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -27,7 +27,7 @@
       "label": "Instagram NaberUber (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -43,5 +43,8 @@
       "label": "Dnes (9/2026, 6 měsíců, 60 hodin)",
       "text": "3 platící hráči + 4 strategická setkání, doporučení; sazba 1 000 Kč za setkání, plán 1 500 do konce roku; nabídky bývalým zaměstnavatelům; dvě dcery, práce vedle výcviku, rezervační kalendář"
     }
+  ],
+  "phones": [
+    "702 201 500"
   ]
 }

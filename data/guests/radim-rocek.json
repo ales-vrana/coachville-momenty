@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "Web a kniha Radima Ročka"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -50,5 +50,8 @@
       "label": "Dnes",
       "text": "lídr ve firmě zaměřené na udržitelnost, koučuje majitele a lídry malých a středních firem; kniha vydána 4. prosince (rok před natáčením); míří rovnou na PCC"
     }
+  ],
+  "phones": [
+    "602 742 021"
   ]
 }

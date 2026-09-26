@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -21,7 +21,7 @@
   "ageBand": "35 až 49",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -45,5 +45,8 @@
       "label": "Dnes (3,5 roku, přes 1 200 hodin)",
       "text": "cca 15 klientů najednou, majitelé malých a středních firem; končí v 13.30 kvůli dětem; víc poptávky než kapacity, tým se dvěma kolegy; vyzkoušela 9 až 10 koučů"
     }
+  ],
+  "phones": [
+    "604 212 740"
   ]
 }

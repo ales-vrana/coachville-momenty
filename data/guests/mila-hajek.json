@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -19,7 +19,7 @@
   "regionType": "neuvedeno",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -43,5 +43,8 @@
       "label": "Dnes (téměř 2 roky)",
       "text": "přes 500 hodin, koučování hlavní zdroj příjmu; hráči šéfové a majitelé firem, jeden 1,5 roku; PCC level; učil se daně a fakturaci; ženatý, tři dospělí synové, Grónsko pěšky, 41 sportů"
     }
+  ],
+  "phones": [
+    "777 785 038"
   ]
 }

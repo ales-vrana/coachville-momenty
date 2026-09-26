@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -33,7 +33,7 @@
       "label": "LinkedIn (z rozhovoru, doplnit přímý odkaz)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -61,5 +61,8 @@
       "label": "Dnes (9/2026, 27 měsíců, 600+ hodin, PCC)",
       "text": "30 000 Kč za tříměsíční spolupráci; průměr spolupráce přes rok; stále v zaměstnání, 1 až 3 online schůzky denně po práci; 2 klienti lokálně"
     }
+  ],
+  "phones": [
+    "607 782 439"
   ]
 }

@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -19,7 +19,7 @@
   "regionType": "neuvedeno",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -47,5 +47,8 @@
       "label": "Dnes (39. měsíc)",
       "text": "vize firmy ho netáhne, po víc než 20 letech v týmu končí misi manažera a jde plně do role kouče a týmového kouče"
     }
+  ],
+  "phones": [
+    "605 458 619"
   ]
 }

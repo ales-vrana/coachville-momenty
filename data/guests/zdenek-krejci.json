@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -19,7 +19,7 @@
   "regionType": "neuvedeno",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -43,5 +43,8 @@
       "label": "Po necelém roce",
       "text": "220 odkoučovaných hodin, klienti obchodníci a podnikatelé, chce koučování na 100 %"
     }
+  ],
+  "phones": [
+    "608 125 272"
   ]
 }

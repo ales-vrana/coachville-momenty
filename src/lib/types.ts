@@ -86,6 +86,7 @@ export interface Guest {
   verifyLinks: VerifyLink[]; // aspoň jeden mimo domény CoachVille
   contactAllowed: boolean;
   contactUrl?: string; // mailto: nebo URL
+  phones?: string[]; // telefonní čísla zobrazená na profilu (jen se souhlasem hosta, consentScope.contact)
   rewardReceived: boolean; // dostal za rozhovor odměnu
   worksForSchool: boolean;
   timeline: TimelinePoint[];

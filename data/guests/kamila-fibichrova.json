@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "do 35",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -48,5 +48,8 @@
       "label": "Dnes (2,5 roku)",
       "text": "přes 500 odkoučovaných hodin, PCC level; 26 až 30 tisíc Kč za tříměsíční sezónu"
     }
+  ],
+  "phones": [
+    "774 635 167"
   ]
 }

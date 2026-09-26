@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "regionType": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -48,5 +48,8 @@
       "label": "Dnes (5. rok)",
       "text": "kolem 2 000 odkoučovaných hodin; hráči s tahem na branku (leadership, strategie, vztahy); opakuje tréninky"
     }
+  ],
+  "phones": [
+    "720 939 814"
   ]
 }

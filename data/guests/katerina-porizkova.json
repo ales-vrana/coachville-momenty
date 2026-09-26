@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "35 až 49",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (téměř rok, 200 hodin, 5. měsíc na volné noze)",
       "text": "sazba 1 500 Kč/h, návratnost investice zatím ne; klienti z firmy, přátel, kosmetiky, finančního poradenství; děti ve 13.30 místo návratu v 18; emoce z odchodu doznívaly do února"
     }
+  ],
+  "phones": [
+    "602 361 505"
   ]
 }

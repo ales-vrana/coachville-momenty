@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "35 až 49",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (13. měsíc)",
       "text": "jeden z prvních hráčů s ní zůstal; nejraději koučuje tvůrce a podnikatele; tři blízcí lidé z komunity; nejstarší syn si po otázkách z playbooku vymyslel projekt"
     }
+  ],
+  "phones": [
+    "724 044 880"
   ]
 }

@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "LinkedIn pod jménem, profil mostního inženýra (z rozhovoru, přesný profil neověřen)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -46,5 +46,8 @@
       "label": "Dnes (6 měsíců, 70 hodin)",
       "text": "strategická setkání 9 ano na 1 ne, polovina pokračuje; 1 000 Kč/h, brzy 1 500 Kč; v zaměstnání, přechod otevřený; partnerka od nedůvěry k podpoře"
     }
+  ],
+  "phones": [
+    "725 775 096"
   ]
 }

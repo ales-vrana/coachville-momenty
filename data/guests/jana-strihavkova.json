@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -27,7 +27,7 @@
       "label": "janastrihavkova.com (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -47,5 +47,8 @@
       "label": "Dnes (2 roky, 300 hodin, ACC 5/2026)",
       "text": "600 → 800 → 1 500 → 1 800 Kč za setkání, plán 2 200; spolupráce 3 až 6 měsíců, jeden klient přes rok; klient z místní FB skupiny na vesnici; příjem namixovaný (koučování + pedagogové)"
     }
+  ],
+  "phones": [
+    "603 887 100"
   ]
 }

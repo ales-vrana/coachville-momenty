@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "Instagram nemusim_kouci (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -54,5 +54,8 @@
       "label": "Dnes (14. měsíc, odhad)",
       "text": "přes 440 hodin; zaměstnání + koučování; hráči začínající podnikatelé a manažeři; téměř nulová fluktuace v týmu (tvrzení hosta)"
     }
+  ],
+  "phones": [
+    "723 046 899"
   ]
 }

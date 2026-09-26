@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -26,7 +26,7 @@
       "label": "Instagram plny_potencial (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -46,5 +46,8 @@
       "label": "Dnes (6 měsíců, přes 130 hodin)",
       "text": "hráči tvůrci (YouTube, TikTok, MLM); 5 kouček na jedno téma; komunita jako první místo, kde není sám; nabízí úvodní hodiny zdarma"
     }
+  ],
+  "phones": [
+    "+421 914 245 770"
   ]
 }

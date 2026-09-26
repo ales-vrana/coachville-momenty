@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -40,5 +40,8 @@
       "label": "Dnes (3,5 roku, přes 700 hodin)",
       "text": "kombinuje lektorování a koučování; témata sebeláska a sebepřijetí; dlouhodobý hráč, kterému nastavila hranice, zůstal"
     }
+  ],
+  "phones": [
+    "731 862 822"
   ]
 }

@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -28,7 +28,7 @@
       "label": "Profil kouče na CoachVille.eu (interní, doplnit LinkedIn nebo ICF)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -48,5 +48,8 @@
       "label": "Dnes",
       "text": "2025: 1 084 odkoučovaných hodin za necelé 3 roky, na volné noze od letoška, 2 500 až 3 500 Kč za hodinu, příjem zatím na úrovni životních nákladů"
     }
+  ],
+  "phones": [
+    "776 021 612"
   ]
 }

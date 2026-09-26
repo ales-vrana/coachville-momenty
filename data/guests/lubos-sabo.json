@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "35 až 49",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (rok a půl, skoro 300 hodin, 5. měsíc na volné noze)",
       "text": "1 600 € za herní sezónu, cíl +50 až 70 % do roka; nejdelší klient 31 setkání; persona: angažovaný hravý tvůrce; obavy s hypotékou, ale „závisí to na mně“"
     }
+  ],
+  "phones": [
+    "+421 948 481 026"
   ]
 }

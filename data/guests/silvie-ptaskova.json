@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -28,7 +28,7 @@
       "label": "Web Vysmátá koučka (z rozhovoru, neověřeno)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -56,5 +56,8 @@
       "label": "Dnes (přes 4 roky)",
       "text": "ICF PCC, přes 1 200 hodin; klienti podnikatelé a projektoví manažeři; 3 000 až 4 500 Kč; web vysmatakoucka.cz"
     }
+  ],
+  "phones": [
+    "605 909 444"
   ]
 }

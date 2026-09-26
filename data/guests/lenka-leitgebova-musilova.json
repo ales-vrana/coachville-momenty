@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -18,7 +18,7 @@
   "regionType": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -42,5 +42,8 @@
       "label": "Dnes (PCC výcvik)",
       "text": "přes 380 odkoučovaných hodin, 2 800 Kč za setkání, klientka 5. sezónu; plán 10 hráčů po 3 000+ Kč; cíl MCC; projekt koučování do škol"
     }
+  ],
+  "phones": [
+    "770 129 214"
   ]
 }

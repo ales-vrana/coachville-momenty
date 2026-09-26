@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "regionType": "neuvedeno",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (13. měsíc)",
       "text": "plný úvazek ve škole a koučování odpoledne; začala podnikat; plán: příští školní rok poloviční úvazek podle růstu praxe; partner podporuje"
     }
+  ],
+  "phones": [
+    "607 671 643"
   ]
 }

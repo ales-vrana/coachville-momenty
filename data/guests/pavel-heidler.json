@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -21,7 +21,7 @@
   "ageBand": "neuvedeno",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -45,5 +45,8 @@
       "label": "Dnes (2 roky)",
       "text": "ještě část času v zaměstnání, za měsíc, dva profesionální kouč naplno; sportovní projekty; hráči: lídři týmů, sportovci, koučové; cca 10 koučů včetně placeného"
     }
+  ],
+  "phones": [
+    "604 604 919"
   ]
 }

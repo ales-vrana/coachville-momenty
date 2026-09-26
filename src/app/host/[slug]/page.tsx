@@ -93,6 +93,21 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
           ) : (
             <p className="mt-2 text-sm text-muted">Ověřovací odkaz mimo web CoachVille doplňujeme.</p>
           )}
+          {g.contactAllowed && g.consentScope.contact && g.phones && g.phones.length > 0 && (
+            <div className="mt-4">
+              <h3 className="eyebrow">Zeptejte se studenta přímo, kontakt:</h3>
+              <p className="mt-1 text-base font-medium text-dark">
+                {g.phones.map((ph, i) => (
+                  <span key={ph}>
+                    {i > 0 && " / "}
+                    <a href={`tel:${ph.replace(/\s+/g, "")}`} className="no-underline text-dark hover:underline">
+                      {ph}
+                    </a>
+                  </span>
+                ))}
+              </p>
+            </div>
+          )}
           {g.contactAllowed && g.contactUrl && (
             <a href={g.contactUrl} className="btn-secondary mt-3">
               Napsat {g.displayName.split(" ")[0]}

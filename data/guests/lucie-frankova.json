@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "ageBand": "35 až 49",
   "gender": "žena",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -40,5 +40,8 @@
       "label": "Dnes (přes 3,5 roku, přes 1 000 hodin podle úvodu)",
       "text": "klientka od prvního tréninku dodnes (finanční poradkyně, kancelář, franšíza, tým); klienti z doporučení, web teprve tvoří; hráčky: podnikatelky a manažerky, které mají načteno, ale neaplikují"
     }
+  ],
+  "phones": [
+    "602 655 300"
   ]
 }

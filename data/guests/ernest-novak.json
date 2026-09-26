@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -20,7 +20,7 @@
   "regionType": "neuvedeno",
   "gender": "muž",
   "verifyLinks": [],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -44,5 +44,8 @@
       "label": "Dnes (PCC level)",
       "text": "míří na PCC; rezerva vytvořená; rozhoduje se podle toho, co ho baví; leden na Tenerife, koučuje odkudkoli"
     }
+  ],
+  "phones": [
+    "608 818 028"
   ]
 }
