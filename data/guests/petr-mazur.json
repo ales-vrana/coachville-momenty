@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -33,7 +33,7 @@
       "label": "ICF Credentialed Coach Finder (ACC, ověřit jménem)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -53,5 +53,8 @@
       "label": "Dnes (9/2026, 2 roky, 380 hodin, ACC)",
       "text": "2 000 až 2 500 Kč za setkání; 36 % lidí po první hodině koupilo sezónu; klient do 3. roku; jen online; „čtvrt až půl plynu“, od října opět farář"
     }
+  ],
+  "phones": [
+    "605 225 111"
   ]
 }
