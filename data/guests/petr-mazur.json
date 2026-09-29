@@ -15,10 +15,11 @@
   "phaseAtRecording": "ACC",
   "credential": "ACC",
   "monthsInTraining": 24,
-  "priorProfessionText": "střední a vyšší management v IT, souběžně evangelický farář; od 2018 v důchodu, od 10/2026 opět farář",
+  "priorProfessionText": "střední a vyšší management v IT, souběžně evangelický farář; od 2018 v důchodu",
+  "introLine": "Svůj výcvik začal v 70 letech.",
   "priorProfessionCat": "manažer / vedoucí",
   "regionType": "neuvedeno",
-  "ageBand": "50+",
+  "ageBand": "neuvedeno",
   "gender": "muž",
   "verifyLinks": [
     {
@@ -38,7 +39,7 @@
   "timeline": [
     {
       "label": "Před startem",
-      "text": "manažer v IT a evangelický farář; důchodový věk 2018; v 60 denní studium FF; motiv naučit se naslouchat"
+      "text": "manažer v IT a evangelický farář; v době startu v CoachVille mu bylo 70 let"
     },
     {
       "label": "Start (9/2024, necelých 70 let)",

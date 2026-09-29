@@ -77,6 +77,7 @@ export interface Guest {
   monthsInTraining?: number; // v době natáčení
   phaseNow?: Phase;
   phaseNowDate?: string;
+  introLine?: string; // volitelná úvodní věta před „Předtím …“ v záhlaví hosta a momentu, např. „Svůj výcvik začal v 70 letech.“
   priorProfessionText: string; // "učitelka ZŠ"
   priorProfessionCat: ProfessionCat;
   city?: string; // "Kadaň" (jen se souhlasem)

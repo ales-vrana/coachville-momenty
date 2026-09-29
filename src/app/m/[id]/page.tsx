@@ -96,7 +96,7 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
             <Link href={guestUrl(g.slug)} className="font-semibold text-navy underline">
               {guestTitle(g)}
             </Link>
-            , předtím {g.priorProfessionText}
+            {g.introLine ? `. ${g.introLine} Předtím ` : ", předtím "}{g.priorProfessionText}
             {whereLabel(g) ? `, ${whereLabel(g)}` : ""}. {phaseLabel(g) ? `${phaseLabel(g)} v době natáčení` : ""}
             {g.phaseNow ? `, dnes ${g.phaseNow}${g.phaseNowDate ? ` (${formatDateCz(g.phaseNowDate)})` : ""}` : ""}.
           </p>

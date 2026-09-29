@@ -53,7 +53,7 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
             <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-gold">Dosažená certifikace: {credentialLongLabel(g.credential)}</p>
           )}
           <p className="mt-1 text-muted">
-            Předtím {g.priorProfessionText}
+            {g.introLine ? `${g.introLine} ` : ""}Předtím {g.priorProfessionText}
             {whereLabel(g) ? `, ${whereLabel(g)}` : ""}
             {g.ageBand && g.ageBand !== "neuvedeno" ? `, ${g.ageBand}` : ""}.
             {phaseLabel(g) ? ` ${phaseLabel(g)} v době natáčení` : ""}
