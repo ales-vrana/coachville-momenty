@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import type Player from "@vimeo/player";
-import { claimPlayer, preloadVimeoSdk, releasePlayer } from "@/lib/playerRegistry";
+import { claimPlayer, ensureStart, preloadVimeoSdk, releasePlayer, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
 import { markCompleted } from "@/lib/session";
 import { track } from "@/lib/track";
 
@@ -75,37 +75,42 @@ export default function InlineMomentPlayer({
     const el = containerRef.current;
     if (!el) return null;
     const { default: VimeoPlayer } = await preloadVimeoSdk();
-    const base = {
-      autoplay: false,
-      responsive: true,
-      byline: false,
-      portrait: false,
-      title: false,
-      dnt: true,
-      playsinline: true,
-      pip: false,
-    };
-    const options = vimeoHash ? { ...base, url: `https://vimeo.com/${vimeoId}/${vimeoHash}` } : { ...base, id: Number(vimeoId) };
+    // start_time / end_time řeší začátek i konec už v iframu; autoplay nese záměr kliknutí do iframu.
+    const options = vimeoOptions(vimeoId, vimeoHash, {
+      autoplay: true,
+      start_time: Math.floor(start),
+      end_time: Math.ceil(end),
+    });
     const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
     playerRef.current = p;
-    p.on("timeupdate", ({ seconds }: { seconds: number }) => {
+    let startChecked = false;
+    const finish = () => {
       if (endedRef.current) return;
-      if (seconds >= end - 0.3) {
-        endedRef.current = true;
-        p.pause().catch(() => undefined);
-        setStatus("ended");
-        complete();
+      endedRef.current = true;
+      p.pause().catch(() => undefined);
+      setStatus("ended");
+      complete();
+    };
+    p.on("timeupdate", ({ seconds }: { seconds: number }) => {
+      if (seconds >= end - 0.3) finish();
+    });
+    p.on("ended", finish);
+    p.on("play", () => {
+      setStatus((s) => (s === "ended" ? s : "playing"));
+      if (!startChecked) {
+        startChecked = true;
+        ensureStart(p, start);
       }
     });
-    p.on("play", () => setStatus((s) => (s === "ended" ? s : "playing")));
     p.on("pause", () => setStatus((s) => (s === "ended" || s === "idle" ? s : "paused")));
     p.on("error", () => {
       setError("Video se tady nepodařilo načíst.");
       setStatus("error");
     });
-    await p.ready();
+    // Nečekat donekonečna: po 6 s se iframe ukáže tak jako tak (Vimeo má vlastní tlačítko play).
+    await withTimeout(p.ready(), 6000);
     return p;
-  }, [vimeoId, vimeoHash, end, complete]);
+  }, [vimeoId, vimeoHash, start, end, complete]);
 
   const playFrom = useCallback(
     async (t: number, how: "play" | "replay") => {
@@ -114,12 +119,14 @@ export default function InlineMomentPlayer({
       setStatus("loading");
       setError(null);
       try {
+        const existed = playerRef.current !== null;
         const p = await ensurePlayer();
         if (!p) return;
         endedRef.current = false;
-        await p.setCurrentTime(t);
+        // Iframe ukázat hned; nečekat na seek ani na play (v Safari to trvalo desítky sekund a fasáda zakrývala přehrávač).
         setStatus("playing");
-        await p.play();
+        if (existed || how === "replay") p.setCurrentTime(t).catch(() => undefined);
+        p.play().catch(() => undefined);
       } catch {
         setError("Video se tady nepodařilo načíst.");
         setStatus("error");
@@ -127,6 +134,12 @@ export default function InlineMomentPlayer({
     },
     [ensurePlayer, momentId, stopFromOutside]
   );
+
+  // SDK načíst dopředu (jeden sdílený import), aby klik na mobilu, kde není hover, nečekal na stažení.
+  useEffect(() => {
+    const id = setTimeout(() => preloadVimeoSdk(), 1500);
+    return () => clearTimeout(id);
+  }, []);
 
   useEffect(() => {
     return () => {
@@ -139,7 +152,7 @@ export default function InlineMomentPlayer({
   const circle = emphasis ? "h-16 w-16 sm:h-20 sm:w-20" : "h-14 w-14 sm:h-16 sm:w-16";
 
   return (
-    <div className="relative aspect-video w-full overflow-hidden bg-navy-deep">
+    <div className="relative aspect-video w-full overflow-hidden bg-navy-deep" data-player="v2">
       <div ref={containerRef} className={`absolute inset-0 ${showFacade || status === "error" ? "opacity-0" : ""}`} />
 
       {showFacade && (

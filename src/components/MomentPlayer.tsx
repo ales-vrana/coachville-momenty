@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import type Player from "@vimeo/player";
+import { ensureStart, preloadVimeoSdk, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
 import { markCompleted } from "@/lib/session";
 import { track } from "@/lib/track";
 
@@ -104,38 +105,39 @@ export default function MomentPlayer({
     if (!el) return null;
     setStatus("loading");
     try {
-      const { default: VimeoPlayer } = await import("@vimeo/player");
+      const { default: VimeoPlayer } = await preloadVimeoSdk();
       const startMuted = startMutedRef.current;
       setMuted(startMuted);
-      const base = {
+      // start_time / end_time řeší začátek i konec v iframu; bez čekání na setCurrentTime (Safari).
+      const options = vimeoOptions(vimeoId, vimeoHash, {
         autoplay: true,
         muted: startMuted,
-        responsive: true,
-        byline: false,
-        portrait: false,
-        title: false,
-        dnt: true,
-        playsinline: true,
-        pip: false,
-      };
-      const options = vimeoHash
-        ? { ...base, url: `https://vimeo.com/${vimeoId}/${vimeoHash}` }
-        : { ...base, id: Number(vimeoId) };
+        start_time: Math.floor(start),
+        end_time: Math.ceil(end),
+      });
       const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
       playerRef.current = p;
+      let startChecked = false;
+      const finish = () => {
+        p.pause().catch(() => undefined);
+        setStatus("ended");
+        complete("video");
+      };
       p.on("timeupdate", ({ seconds }: { seconds: number }) => {
         setCurrentTime(seconds);
-        if (seconds >= end - 0.3) {
-          p.pause().catch(() => undefined);
-          setStatus("ended");
-          complete("video");
+        if (seconds >= end - 0.3) finish();
+      });
+      p.on("ended", finish);
+      p.on("play", () => {
+        setStatus((s) => (s === "ended" ? s : "playing"));
+        if (!startChecked) {
+          startChecked = true;
+          ensureStart(p, start);
         }
       });
-      p.on("play", () => setStatus((s) => (s === "ended" ? s : "playing")));
       p.on("pause", () => setStatus((s) => (s === "ended" ? s : "paused")));
       p.on("error", (e: { message?: string }) => setError(e?.message ?? "Video se nepodařilo načíst."));
-      await p.ready();
-      await p.setCurrentTime(start);
+      await withTimeout(p.ready(), 6000);
       return p;
     } catch (e) {
       setError(e instanceof Error ? e.message : "Video se nepodařilo načíst.");
@@ -146,23 +148,20 @@ export default function MomentPlayer({
 
   const play = useCallback(async () => {
     track("moment_play", { moment_id: momentId });
+    const existed = playerRef.current !== null;
     const p = await ensurePlayer();
     if (!p) return;
     setStatus("playing");
-    try {
-      await p.setCurrentTime(start);
-      await p.play();
-    } catch {
-      /* autoplay může být blokován, uživatel klikne v přehrávači */
-    }
+    if (existed) p.setCurrentTime(start).catch(() => undefined);
+    p.play().catch(() => undefined);
   }, [ensurePlayer, momentId, start]);
 
   const replay = useCallback(async () => {
     const p = await ensurePlayer();
     if (!p) return;
     setStatus("playing");
-    await p.setCurrentTime(start);
-    await p.play();
+    p.setCurrentTime(start).catch(() => undefined);
+    p.play().catch(() => undefined);
   }, [ensurePlayer, start]);
 
   const seekTo = useCallback(
@@ -170,8 +169,8 @@ export default function MomentPlayer({
       const p = await ensurePlayer();
       if (!p) return;
       setStatus("playing");
-      await p.setCurrentTime(t);
-      await p.play();
+      p.setCurrentTime(t).catch(() => undefined);
+      p.play().catch(() => undefined);
       containerRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
     },
     [ensurePlayer]
@@ -186,7 +185,9 @@ export default function MomentPlayer({
   }, []);
 
   useEffect(() => {
+    const id = setTimeout(() => preloadVimeoSdk(), 800);
     return () => {
+      clearTimeout(id);
       playerRef.current?.destroy().catch(() => undefined);
       playerRef.current = null;
     };
@@ -201,7 +202,7 @@ export default function MomentPlayer({
   return (
     <div className="space-y-4">
       <div className="relative overflow-hidden rounded-2xl bg-black shadow-sm">
-        <div ref={containerRef} className={showFacade ? "aspect-video opacity-0" : "aspect-video"} />
+        <div ref={containerRef} data-player="v2" className={showFacade ? "aspect-video opacity-0" : "aspect-video"} />
         {showFacade && (
           <button
             type="button"

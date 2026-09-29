@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type Player from "@vimeo/player";
+import { preloadVimeoSdk, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
 import { useClientUrl } from "@/lib/useClient";
 
 export interface EpisodeChapter {
@@ -50,40 +51,34 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
     const el = containerRef.current;
     if (!el) return null;
     setStatus("loading");
-    const { default: VimeoPlayer } = await import("@vimeo/player");
-    const base = { responsive: true, byline: false, portrait: false, title: false, dnt: true, playsinline: true };
-    const options = vimeoHash ? { ...base, url: `https://vimeo.com/${vimeoId}/${vimeoHash}` } : { ...base, id: Number(vimeoId) };
+    const { default: VimeoPlayer } = await preloadVimeoSdk();
+    const options = vimeoOptions(vimeoId, vimeoHash, {
+      autoplay: true,
+      ...(pendingSeek !== null ? { start_time: Math.floor(pendingSeek) } : {}),
+    });
     const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
     playerRef.current = p;
-    await p.ready();
+    await withTimeout(p.ready(), 6000);
     setStatus("ready");
     return p;
-  }, [vimeoId, vimeoHash]);
+  }, [vimeoId, vimeoHash, pendingSeek]);
 
   const seek = useCallback(
     async (t: number) => {
+      const existed = playerRef.current !== null;
       const p = await ensurePlayer();
       if (!p) return;
-      await p.setCurrentTime(t);
-      try {
-        await p.play();
-      } catch {
-        /* uživatel klikne v přehrávači */
-      }
+      if (existed || pendingSeek === null || Math.abs(pendingSeek - t) > 1) p.setCurrentTime(t).catch(() => undefined);
+      p.play().catch(() => undefined);
     },
-    [ensurePlayer]
+    [ensurePlayer, pendingSeek]
   );
 
   const start = useCallback(async () => {
     const p = await ensurePlayer();
     if (!p) return;
-    if (pendingSeek !== null) await p.setCurrentTime(pendingSeek);
-    try {
-      await p.play();
-    } catch {
-      /* ignore */
-    }
-  }, [ensurePlayer, pendingSeek]);
+    p.play().catch(() => undefined);
+  }, [ensurePlayer]);
 
   useEffect(() => {
     return () => {
@@ -95,7 +90,7 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
   return (
     <div className="space-y-4">
       <div className="relative overflow-hidden rounded-2xl bg-black shadow-sm">
-        <div ref={containerRef} className={status === "ready" ? "aspect-video" : "aspect-video opacity-0"} />
+        <div ref={containerRef} data-player="v2" className={status === "ready" ? "aspect-video" : "aspect-video opacity-0"} />
         {status !== "ready" && (
           <button type="button" onClick={start} className="absolute inset-0 flex items-center justify-center" aria-label={`Přehrát ${title}`}>
             {thumbnailUrl ? (
