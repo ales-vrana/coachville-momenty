@@ -1,0 +1,56 @@
+{
+  "slug": "petr-mazur",
+  "displayName": "Petr Mazur",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-09-29",
+  "phaseAtRecording": "ACC",
+  "credential": "ACC",
+  "monthsInTraining": 24,
+  "priorProfessionText": "střední a vyšší management v IT, souběžně evangelický farář; od 2018 v důchodu, od 10/2026 opět farář",
+  "priorProfessionCat": "manažer / vedoucí",
+  "regionType": "neuvedeno",
+  "ageBand": "50+",
+  "gender": "muž",
+  "verifyLinks": [
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=Petr%20Mazur%20Coach",
+      "label": "LinkedIn „Petr Mazur Coach“ (z rozhovoru, doplnit přímý odkaz)"
+    },
+    {
+      "type": "ICF",
+      "url": "https://apps.coachingfederation.org/eweb/CCFDynamicPage.aspx?webcode=ccfsearch&site=icfapp",
+      "label": "ICF Credentialed Coach Finder (ACC, ověřit jménem)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "manažer v IT a evangelický farář; důchodový věk 2018; v 60 denní studium FF; motiv naučit se naslouchat"
+    },
+    {
+      "label": "Start (9/2024, necelých 70 let)",
+      "text": "první klientka samoživitelka za 500 Kč (12 setkání 6 000 Kč); 2 až 3 hodiny zdarma s doplatkem při pokračování, 80 % pokračovalo"
+    },
+    {
+      "label": "Rok",
+      "text": "klient, u kterého pochyboval o přínosu, přijal zvýšení ceny o 50 % a pokračuje; první z běhu s ACC"
+    },
+    {
+      "label": "Dnes (9/2026, 2 roky, 380 hodin, ACC)",
+      "text": "2 000 až 2 500 Kč za setkání; 36 % lidí po první hodině koupilo sezónu; klient do 3. roku; jen online; „čtvrt až půl plynu“, od října opět farář"
+    }
+  ]
+}

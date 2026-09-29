@@ -393,6 +393,15 @@
       "status": "done",
       "slug": "vaclav-benes",
       "note": "mimo startovací balíček, unlisted (embed od Aleše 25. 9. 2026), název epizody vymyšlen, Vimeo „Podcast-Vaclav-Benes“; v raw přepisu rozdělena promluva 00:22:01, kde byla otázka tazatele slepená s odpovědí hosta (vložena značka 00:22:40 CoachVille)"
+    },
+    {
+      "n": 49,
+      "title": "Petr Mazur: po sedmdesátce, 380 hodin, ACC",
+      "vimeoId": "1231319749",
+      "vimeoHash": "05e9d98797",
+      "status": "done",
+      "slug": "petr-mazur",
+      "note": "mimo startovací balíček, unlisted (embed od Aleše 29. 9. 2026), název epizody vymyšlen, Vimeo „Podcast-Petr-Mazur“; pasáž o klientce se zdravotními problémy (promluvy 119 až 122) záměrně mimo momenty"
     }
   ]
 }

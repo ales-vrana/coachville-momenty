@@ -1,0 +1,569 @@
+[
+  {
+    "id": "pm001",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 3,
+    "endUtt": 7,
+    "quote": "Dobře, tak já jsem měl vždycky takové dvě profesní oblasti, ve kterých jsem byl aktivní. Jedna byla, že jsem se pohyboval v té manažerské sféře, nejdéle v oblasti IT, a to jsem byl ve středním a pak už i v tom vyšším managementu. A zároveň mám ještě další profesi, že jsem evangelický farář, a to jsem v určitých obdobích dělal naplno a pak jsem zase byl naplno v té manažerské sféře, tak se to střídalo. A od roku 2018, to jsem dosáhl důchodového věku, tak to jsem z těch civilních manažerských funkcí odešel a ještě jsem několik let pokračoval jako farář. Pak jsem začal hledat, co teda s tím, když už mám více volného času. Tak jsem si říkal, no abych seděl u okna a počítal, kolik projelo aut, tak to není asi zrovna to optimální, protože jsem se nastěhoval do takové čtvrti, kde to je slepá ulice a nic tam nejezdí. Tak ne, to je v legraci, ale řekl jsem si, mě strašně baví furt se něco nového učit. Řekl jsem si, no tak celý život jsem furt já někoho řídil nebo někoho poučoval. Bylo by dobré něco udělat ve prospěch toho, abych se naučil víc poslouchat, naslouchat. To byla jedna z takových motivací. Říkal jsem si, že starého psa novým kouskům nenaučíš, tak jsem si říkal, tak to musím zkusit. Jsem známý spíš tím, že jsem spíš upovídaný. A koučování mi přišlo, že to je to pravé, kde mohu víc znovu začít naslouchat.",
+    "summary": "Dvě profese celý život: střední a vyšší management v IT a evangelický farář, střídavě naplno. V roce 2018 dosáhl důchodového věku, odešel z manažerských funkcí a hledal, co s volným časem. Motiv: celý život někoho řídil a poučoval, chtěl se naučit víc naslouchat. „Starého psa novým kouskům nenaučíš, tak to musím zkusit.“",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "koucovsky-typ",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň A: start po dosažení důchodového věku. Tag 7 stupeň B: sám o sobě „upovídaný“, chce naslouchat. Tag 17 stupeň C: motiv bez váhání."
+  },
+  {
+    "id": "pm002",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 15,
+    "endUtt": 21,
+    "quote": "No, to mi táhlo na sedmdesátku, a teď už mi je přes sedmdesát. OK. My se někdy setkáváme s tím, že někdo, kdo má kolem padesátky, tak vlastně říká, jestli už pro něj není moc pozdě. Co bys vzkázal někomu z kolegů, kteří třeba poslouchají, ohledně toho, kdy je teda vhodný věk se začít učit koučovat? Já to v životě mám tak, že si myslím, že na nic není nikdy pozdě. Když jsi do koučování vstupoval, měl jsi nějaké obavy nebo pochybnosti ještě předtím, než ses do toho pustil? Jaký to případně byly? No, obavy ne. Já jsem takový trošku možná kaskadérský typ. Obavy jsem určitě neměl, ale byl jsem zvědavý. Zase něco nového, rozumíš, že? To je tak jako na okraj: když mi bylo šedesát, to jsem zrovna měl období, že jsem, to tak bývá v těch vyšších manažerských pozicích, že člověk občas je bez práce, pak zase… Tak jsem si říkal, no, teď mám čas, a přihlásil jsem se na denní studium na Filozofickou fakultu. A teď jsem tam mezi těmi osmnácti-, devatenáctiletými, mně bylo šedesát let, protože jsem měl čas tam chodit. To bylo jedno. A věděl jsem, že když zase práce přijde, jakože přišla, no tak to ukončím, no a přeruším. A o to vůbec nejde, ale jde o to, že člověk stále něco nového přijímá, a tím se stává tak jakoby více člověkem.",
+    "summary": "Do koučování vstupoval, když mu táhlo na sedmdesátku; dnes je mu přes sedmdesát. Na otázku, jestli není v padesáti pozdě: „Na nic není nikdy pozdě.“ Obavy neměl, byl zvědavý. V šedesáti se přihlásil na denní studium Filozofické fakulty mezi osmnáctileté, protože měl zrovna čas; když přišla práce, přerušil. „Člověk stále něco nového přijímá, a tím se stává více člověkem.“",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "start v necelých 70 letech; v 60 denní studium na FF",
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň A: nejstarší host webu, věk uvedl sám. Tag 17 stupeň B: bez obav, zvědavost. Úsek obsahuje otázky Aleše (16, 18, 19)."
+  },
+  {
+    "id": "pm003",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 27,
+    "endUtt": 30,
+    "quote": "Ne, já jsem neabsolvoval koučování. Tušil jsem, co to je, myslím docela dost dobře. Bylo mi jasné, že to není o tom, že já budu někoho mentorovat, radit mu. Ale asi i v těch manažerských pozicích mě bavilo nechávat lidi, aby oni sami přicházeli s tím, jaká řešení je napadají. To je mi asi docela vlastní, takže jsem to teď pouze prohloubil, protože přece jenom tomu odborně rozumět je zase ještě něco jiného než jenom tak intuitivně. A CoachVille k tomu pomohl hodně.",
+    "summary": "Koučování nikdy neabsolvoval, ale tušil, co to je: ne mentorovat a radit. Už v manažerských pozicích ho bavilo nechat lidi přicházet s vlastními řešeními; CoachVille to prohloubil, protože rozumět tomu odborně je něco jiného než intuitivně.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 7 stupeň B: návyk z manažerské praxe jako výhoda. Tag 31 stupeň C: bez testu před rozhodnutím."
+  },
+  {
+    "id": "pm004",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 36,
+    "endUtt": 39,
+    "quote": "Bylo hodně zajímavé, když jsme v rámci takového toho… Když jsme si měli ty svoje partnery, se kterými jsme se navzájem koučovali. Vlastně do dneška mám jednoho takového, se kterým se navzájem pravidelně koučujeme. Tak mi bylo ze začátku divné do toho aplikovat takové otázky, které mi přišly skoro naučené. A říkal jsem si, že já chci, aby to bylo takové spontánní, nechci ty naučené, to pro mě vždycky bylo takové něco jako podezřelé. A pak najednou jsem si začal uvědomovat, že ono někdy ta otázka, která je jakoby naučená, je smysluplná, má hloubku a stojí za to ji položit. Protože skutečně otevírá dveře, otevírá nové obzory. A to jsme si častokrát, až jsme se tomu tak navzájem třeba… Jsme si z toho lehounce dělali legraci, jak jsme se koučovali a teď jsme vlastně použili třeba tvoje formulace, tvoje věty. A já jsem si říkal, hej, teď si zahraju [nesrozumitelné] a zeptám se. No, ale ono to plynutí následovalo.",
+    "summary": "S jedním parťákem z výcviku se navzájem koučují dodnes. Ze začátku mu bylo divné pokládat otázky, které mu přišly „skoro naučené“; chtěl spontánnost a naučené věty měl za podezřelé. Pak zjistil, že naučená otázka má hloubku a otevírá dveře; s parťákem si z toho dělali legraci, když použili Alešovy formulace, a ono to plynulo.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 7 stupeň A: konkrétní zlom (odpor k naučeným otázkám a jeho překonání). Tag 25 stupeň B: parťák ze školy jako trvalá opora."
+  },
+  {
+    "id": "pm005",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 43,
+    "endUtt": 51,
+    "quote": "Z toho učení asi nic. Myslím z toho, co jsem se musel naučit jako látku, nějaké informace, tak z toho asi ne. Ale to, že se, a to se stále učím, že se musím učit méně do toho dávat svoje náhledy, tak to je asi to nejtěžší pro mě. Čili náhledy v podobě rad, zkušeností. A doporučení. Tak jsem si najednou uvědomil, že rozumím manažerům, protože mě to léta živilo. No ale to je právě největší riziko, že budu mít tendenci do toho vnášet svůj náhled, jak bych situaci řešil. A častokrát ne tak, jako naplácat to hned, že bych to tomu klientovi tak říkal, ale je to tam takové návodné. V určitém období jsem si říkal, nejlepší je, když koučuji někoho, kdo je z oblasti, které vůbec nerozumím, protože tam se ptám přirozeně. Čili tady vlastně jakoby se ta zkušenost a to vědění dalo v podstatě nějak zúročit, až na to, že situace toho koučovanýho je odlišná, takže to tam může trošku překážet. Takže tak, no. Někdy i ta zdánlivě naivní otázka, právě protože tomu nerozumím, tak mě ale posunula dál v tom koučování. Protože jakmile jsem řekl něco, čemu rozumím, tak se toho ten klient velmi rychle dokázal chytit, hned si to zapisoval. Tyjo, to je zajímavá myšlenka, jak jsi to říkal přesně? A v tu ránu si říkám, aha, už se… Říkám, no to si nepiš.",
+    "summary": "Z látky nic těžké nebylo. Nejtěžší, a stále se to učí, je dávat do koučování méně vlastních náhledů, rad a doporučení: rozumí manažerům, protože ho to léta živilo, a to je největší riziko, že bude návodný. V jednom období si říkal, že nejlépe koučuje někoho z oboru, kterému vůbec nerozumí, protože se ptá přirozeně. Jakmile řekl něco, čemu rozumí, klient si to hned zapisoval: „To si nepiš.“",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "stále se učí nevnášet vlastní náhledy; zkušenost manažera při koučování překáží",
+    "topics": [
+      "co-bylo-tezsi",
+      "koucovsky-typ",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 12 stupeň A: pojmenovaná obtíž s konkrétní situací (klient si zapisuje jeho radu). Tag 7 stupeň B. Tag 22 stupeň C. Úsek obsahuje repliky Aleše (44, 47)."
+  },
+  {
+    "id": "pm006",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 54,
+    "endUtt": 57,
+    "quote": "Ačkoliv, říkám, nebylo mi to až tak cizí, ale ta zkušenost, když koučuješ několik hodin každý týden, tak je taková opakovaná. A nedá se přehlédnout, že skutečně všichni jsme originálové. A já si třeba pamatuju na jednoho klienta, mám ho dodnes, už vlastně, to už je, no, už začal třetí rok. Protože jsem ho velmi záhy získal, nebo ne, ještě nezačal, ne, on na to… Tak to bude asi za měsíc, co začne třetí rok. Ale u něj jsem měl pocit, že mu nic nepomáhám, protože to je takové, z mého pohledu, jako kdyby mu to nic nedávalo. Já jsem prodával tu sérii nějakých dvanácti setkání, teď bylo poslední, tak jsem si myslel, tak a dobrý, a teď už skončí. A on: Hele, tak dneska je to po dvanácti, tak řekni, mám poslat peníze? A já ještě v tom, jak jsem si říkal, že mu to nic nedává, tak jsem mu říkal, víš co, ale o 50 % to zvýšíme, jo. Myslel jsem, že ho tím odpinknu. Říká, jo, to nevadí, tak jak… A poslal. No a to se už opakovalo víckrát, že. Takže ho mám stále a stále si kladu tu otázku, co mu to vlastně dává. Ale on si ji neklade. Prokazatelně mu to něco dává, že.",
+    "summary": "Klient, kterého získal velmi záhy, s ním za měsíc začíná třetí rok. Přitom měl pocit, že mu nic nedává. Po dvanácti setkáních čekal, že skončí; klient se zeptal, jestli má poslat peníze. Petr, aby ho „odpinknul“, zvýšil cenu o 50 %. Klient řekl, že to nevadí, a poslal. Opakovalo se to víckrát. „Stále si kladu otázku, co mu to dává. Ale on si ji neklade.“",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "klient do 3. roku; série 12 setkání; cena zvýšena o 50 % a zůstal",
+    "isAdmission": true,
+    "costText": "dva roky pochyboval, jestli klientovi vůbec něco dává",
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "sebeduvera",
+      "po-vycviku"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: klient přijal zvýšení o 50 %. Tag 10 stupeň A: pochybnost o vlastním přínosu vs. chování klienta. Tag 6 stupeň A: klient do třetího roku."
+  },
+  {
+    "id": "pm007",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 60,
+    "endUtt": 61,
+    "quote": "On už mi to víckrát říkal, akorát je pro mě někdy až tak těžké to přijmout, protože on… Tam to dokonce přerostlo do takového, že mou rodinu pozval na svou padesátku, už mu bylo padesát, na celý víkend. A tam nás představoval, že jsem člověk, který nejvíc ovlivňuje jeho život. Tak těm ostatním přítomným. A že proto jsem tam. Takže on to jako říká, no, ale já nevím v čem.",
+    "summary": "Ten samý klient mu to říkal víckrát, jen je pro Petra těžké to přijmout: pozval jeho rodinu na svou padesátku na celý víkend a představoval ho ostatním jako člověka, který nejvíc ovlivňuje jeho život. „On to říká, ale já nevím v čem.“",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 10 stupeň B: vnější důkaz hodnoty, kterou kouč sám nevidí. Tag 13 stupeň C."
+  },
+  {
+    "id": "pm008",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 63,
+    "endUtt": 64,
+    "quote": "Byli to různí lidé, ale nejvíc mě to baví s lidmi, kteří mají v životě takovou tendenci přicházet věcem na kloub. Že to nejsou takové ty typy, že je mi to jedno, tak nějak ten život, musím si vydělat a co a co. Tak jo, měl jsem i vlastně první… První klientka, co jsem měl, tak to byla matka samoživitelka ve výpovědi, tam jsem fakt nepočítal, že za to bude ochotná zaplatit, nebo že na to vůbec bude mít. Takže i takové lidi, kde to pro ně byla dost těžká situace, někam je to posunulo, protože pak mi napsala referenci, to bylo velmi… Velmi příjemné bylo ji číst. Ale radši mám takové lidi… Bližší je mi koučování s lidma, kteří jsou buď nějací majitelé firem, nebo manažeři, častokrát vystresovaní, nevědí, jak si to všechno v životě poskládat, aby zvládali rodinu, soukromí a to podnikání, aby to jedno s druhým všechno šlo a nebyli furt ve stresu.",
+    "summary": "Nejvíc ho baví lidé, kteří chtějí věcem přijít na kloub. První klientka byla matka samoživitelka ve výpovědi; nepočítal, že bude ochotná zaplatit nebo že na to bude mít, a napsala mu referenci. Bližší jsou mu majitelé firem a manažeři, často vystresovaní, kteří nevědí, jak poskládat rodinu, soukromí a podnikání.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "kazdy-druhy-je-kouc",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň B: kdo byl první klient. Tag 13 stupeň B: niche. Tag 5 stupeň C (částka v pm012)."
+  },
+  {
+    "id": "pm009",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 66,
+    "endUtt": 69,
+    "quote": "Já to dělám většinou tak, že jim dávám dvě, tři hodiny zdarma a řeknu jim: Dobře, pak se rozhodneš, ale pokud se rozhodneš, že chceš pokračovat, tak mi budeš muset zaplatit i ty hodiny zdarma, zpětně. No, teď už to tak nedávám vždycky, ale ze začátku jsem to vždycky tak dával. Říkal jsem si, to je taková určitá pojistka, že pokud on se rozhodne pokračovat, tak mi tím jasně dává najevo, že mu to muselo něco dát, protože je ochoten zaplatit za to, za co by mi normálně vůbec nemusel zaplatit. Mohl by říct, jo, bylo to super, hezký, dvakrát, třikrát jsme se potkali, pomohlo mi to, ahoj, a zase se někdy ozvu. A tito lidé prakticky, když se rozhodli, že chtějí tu první, druhou hodinu, tak 80 % chtělo i pokračovat a zaplatili si ty předchozí. Takže přišlo mi to… A dneska proto říkám, že to už nedělám vždycky, protože si myslím, že to je až tak přehnaně korektní. Jasně, rozumím. A když i ty ceny jsou vyšší, tak oni už si to rozmyslejí dopředu.",
+    "summary": "Jeho mechanismus: dvě tři hodiny zdarma s podmínkou, že když se klient rozhodne pokračovat, doplatí zpětně i ty hodiny zdarma. Pojistka, že mu to muselo něco dát, protože platí za to, za co by platit nemusel. Kdo chtěl první dvě hodiny, z 80 % chtěl pokračovat a doplatil. Dnes už to nedělá vždy, přijde mu to „přehnaně korektní“, a při vyšších cenách si to lidé rozmyslí dopředu.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "2 až 3 hodiny zdarma, 80 % pokračovalo a doplatilo",
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "kdo-zaplati-hodinu",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň A: neprodejní mechanismus s výsledkem v procentech. Tag 4 stupeň B. Tag 1 stupeň B. Promluva 68 obsahuje vsuvku Aleše „Jasně, rozumím“."
+  },
+  {
+    "id": "pm010",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 71,
+    "endUtt": 74,
+    "quote": "No, baví mě to stále víc. Ale pro mě, to zase musím přiznat, pro mě to není hlavní zdroj obživy. Tak vím, že jsme tak normálně zajištění, a nešel jsem do toho s tím, že jsem unavený současnou prací a chci to nějak jinak, ale opravdu spíš jenom chci si rozšiřovat svůj [nesrozumitelné]. Ať už tím, že se já spoustu věcí dozvím, tak tím, že můžu zas něco rozdávat z toho, co znám. Takže já jedu tak na čtvrt plynu nebo na půl plynu, obrazně řečeno. Ale není to tak, že ten zbytek mám na zbytek času, jak jsem se zmínil. Mám ještě dítě na základce a těch jiných aktivit je tolik, že kalendář je plný. A bude asi ještě zase plnější. Baví mě to, no. Stále víc.",
+    "summary": "Baví ho to stále víc, ale přiznává: koučování pro něj není hlavní zdroj obživy, rodina je zajištěná, nešel do toho z únavy z práce. Jede „na čtvrt nebo půl plynu“. Zbytek času není prázdný: dítě na základce a plný kalendář, který bude ještě plnější.",
+    "proofElements": [
+      "situace",
+      "cena"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "koučování není jeho hlavní zdroj obživy, jede na čtvrt až půl plynu",
+    "topics": [
+      "koucovat-a-zustat-v-praci",
+      "po-vycviku"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 21 stupeň B: koučování vedle dalších rolí, bez hodin. Tag 6 stupeň C. Poctivé ohraničení, kolik z toho žije."
+  },
+  {
+    "id": "pm011",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 79,
+    "endUtt": 83,
+    "quote": "Tak to by mě asi vůbec nebavilo, být jenom v důchodu a čekat, kdy mě začnou opouštět síly, nebo já nevím jak. To určitě ne. Třeba koučování ve mně, to jsou takové výzvy, že si člověk sám položí otázku, co je teď pro mě podstatné. Tak třeba v tom vyšším věku je určitě velmi důležité se hýbat. Třeba už jenom taková věc. A to koučování, že si člověk i sám sobě říká, tak ten aktivní život je pro mě teď mnohem stěžejnější, než když mi bylo 25, 30, no tak té energie je tolik, že se přirozeně hýbe. V tom vyšším věku se už k tomu musí nějak sám přesvědčit, že to je tak důležité. A to koučování k tomu strašně pomáhá. Takže navíc já musím držet krok s tím desetiletým, jedenáctiletým klukem. Takže ten mě furt k něčemu provokuje. A ono to jde. A to koučování je vlastně pro mě cesta, kdy… Takový obraz mě napadá, že když bych chtěl vylézt na vysokou horu, tak já tam nevylezu skokem, ale po malých krůčcích. Takové učení je takové, to jsou stravitelná sousta. Nedávám si takové cíle, které by mě odradily od toho nakonec tam vylézt, ale takové, které mě tam naopak dovedou, a zároveň si říkám, je to lepší, lepší ještě, a baví mě to.",
+    "summary": "Být jen v důchodu a čekat, kdy ho opustí síly, by ho nebavilo. Koučování mu klade otázku, co je pro něj teď podstatné, třeba se hýbat, což ve vyšším věku vyžaduje přesvědčit sám sebe. Drží krok s desetiletým synem. Učení bere jako výstup na horu po malých krocích: cíle, které ho tam dovedou, ne odradí.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň B: koučování v důchodovém věku vlastními slovy. Tag 33 stupeň C."
+  },
+  {
+    "id": "pm012",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 89,
+    "endUtt": 90,
+    "quote": "No, tak na začátku jsem si dal 500 korun, to byla ta první klientka. Takže za těch 12 to bylo asi 6 tisíc, ale jak jsem říkal, pro samoživitelku ve výpovědi je i to dost. Nebylo to asi nějak těžké, protože mi bylo jasný, že ta cena není vysoká. Tím, že jsem se pohyboval v profesích, kde… No tak kromě té farářské, tam to je úplně jinak cenově, to je opravdu tak na úrovni nižších příjmů [nesrozumitelné], ale já jsem měl kromě toho právě profesi, kde to bylo úplně někde jinde, takže to nebylo moc, 500 korun. Pak jsem se dostal na nějakých těch 1000, 1500, no a 2000, přes 2000, tak to je ta současná situace, někde 2, 2,5.",
+    "summary": "Na začátku si dal 500 Kč, první klientka, za 12 setkání asi 6 000 Kč; pro samoživitelku ve výpovědi i to dost. Nebylo to těžké, věděl, že cena není vysoká: farářská profese je příjmově nízko, ale manažerská byla úplně jinde. Pak 1 000, 1 500, 2 000 a dnes 2 000 až 2 500 Kč.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "500 Kč → 1 000 → 1 500 → 2 000 až 2 500 Kč za setkání",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: celá cenová cesta s částkami. Tag 5 stupeň A: první platba (12 × 500)."
+  },
+  {
+    "id": "pm013",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 91,
+    "endUtt": 93,
+    "quote": "A já osobně nejsem… Pro mě není příjemné získávání klientů, to se přiznám, nejsem ten typ, protože jsem většinu života prožil tak, že se vždycky druzí vnucovali ke mně, takže jsem nebyl naučený někomu něco nabízet a stále mi to je tak trochu nepříjemné. Ale zároveň, kdybych se tím chtěl živit úplně naplno, abych chtěl mít těch 15 až 20 klientů, asi bych musel ještě víc zapracovat na sobě, jak to v sobě nějak překonat, transformovat ten pohled. Ale když jedu na ten menší počet klientů, tak to tak nějak přirozeně přichází a taky zůstávají dlouho, takže mě to tolik netrápí, pro mě to není tak… A navíc já se teď v současné době hodně pohybuji v tom, že ještě nabízím klientům takový test vlastně toho jejich mozku, jejich mentální kondice. A to lidi zajímá, když nějaký test mohou udělat. Rádi si to udělají a pak jsou to už oni, kteří chtějí, abych jim vysvětlil, co to znamená. Tak si nějak otočím tu roli a je to příjemné.",
+    "summary": "Získávání klientů mu není příjemné, přiznává; celý život se druzí vnucovali k němu, nabízet se nenaučil. Kdyby se tím chtěl živit naplno s 15 až 20 klienty, musel by na sobě zapracovat a překonat to. Při menším počtu klienti přicházejí přirozeně a zůstávají dlouho. Dnes nabízí test mentální kondice; lidé si ho rádi udělají a pak sami chtějí vysvětlení, role se otočí.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "na 15 až 20 klientů by musel překonat sám sebe",
+    "isAdmission": true,
+    "costText": "oslovování je mu nepříjemné; proto koučuje méně klientů, než by mohl",
+    "topics": [
+      "nechci-oslovovat",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň A: host se označí za neprodejní typ a popíše, co dělá místo prodeje (test jako vstup). Tag 12 stupeň B."
+  },
+  {
+    "id": "pm014",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 96,
+    "endUtt": 97,
+    "quote": "Hele, někdy jsem asi měl tendenci přesvědčovat taky, párkrát, ale neměl jsem z toho dobrý pocit. Třeba jsem ho přesvědčil, jo, to je jako jo, a pak jsem ho koučoval, ale… Ale jako by už ze samotného toho, že se někomu snažím vnutit, že to je pro něj užitečné… Dneska to mnohem víc nechávám. Myslím si, že vím, co lidem dávám, a pakliže by měli pocit, že jo… Nechci, aby měli pocit, že jim to vnucuji. Bavím se s nima třeba tu hodinu, dvě. Než abych jim řekl, tak si to kupte, tak jim řeknu, tak pojďme, strávíte se mnou hodinu, budeme si povídat. A najednou, bez toho, abych si já dával za cíl, že toho musím získat… Tak když s ním mluvím, tak on sám říká, ty víš co, to mě ještě nenapadlo, a to je nové. A tak co, sejdeme se ještě? No jo, to mě zajímá. Takže jde to spíš tou cestou, že on sám zjistí, že to chce.",
+    "summary": "Párkrát měl tendenci přesvědčovat a neměl z toho dobrý pocit; koučoval pak někoho, komu to vnutil. Dnes to nechává: hodinu dvě si povídají, bez cíle někoho získat, a klient sám řekne „to mě ještě nenapadlo, sejdeme se ještě?“. Jde to cestou, že on sám zjistí, že to chce.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň B: přesvědčování nefungovalo, popsaná náhrada."
+  },
+  {
+    "id": "pm015",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 104,
+    "endUtt": 106,
+    "quote": "Já jsem koučoval jenom dva lidi přímo. Ten jeden si to vysloveně natvrdo vyžádal. No vlastně oba. Ale mně mnohem víc vyhovuje online koučování. Po všech stránkách, tak jednak je to teritoriálně univerzální, že můžu koučovat odkudkoliv, kohokoliv. To je jedna věc. Druhá věc je, setkal jsem se, ale to je častější jev, že se to naopak, obzvlášť že nám, že to vyhovuje. Protože jaksi, když ona je zrovna doma, tak si dokáže tu kameru dát tak, aby to bylo přijatelné, a tím nemá ten pocit, já teď vidím, že tam není uklizeno, nebo já nevím něco. Tak je to takové příjemnější. Když jsem třeba koučoval jednoho klienta, který to chtěl vždycky v kavárně, tak nikdy nevíš, kdy tam bude, nebo nebude klid. Vždycky je to o tom, že buď… I když on mi tam pak zaplatí to kafe, no tak je to pro něj zbytečně dražší. Časově, než tam dojede. A to všechno, to je další, další cena. Takže já jedu teď jenom na online.",
+    "summary": "Osobně koučoval jen dva lidi, oba si to výslovně vyžádali. Online mu vyhovuje po všech stránkách: může koučovat odkudkoli kohokoli, klientce doma stačí natočit kameru, kavárna znamená hluk, cestu a další cenu. „Teď jedu jenom online.“",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "2 klienti osobně, ostatní online",
+    "isAdmission": false,
+    "topics": [
+      "male-mesto"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 3 stupeň B: online praxe bez vazby na město (host město neuvedl)."
+  },
+  {
+    "id": "pm016",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 108,
+    "endUtt": 111,
+    "quote": "Měl jsem jednoho podnikatele, který měl strašnou spoustu nápadů, a tak se nějak profiloval, furt se chtěl vyprofilovat do něčeho jiného. A ten potom, když se to koučování ukončilo, tak mi napsal takovou referenci, že mu to vlastně otevřelo oči, kudy cesta nevede. A teď jsem se s ním setkal před dvěma týdny po… Já jsem ho koučoval hodně dávno, my jsme skončili někdy před rokem a půl, ale teď jsme se na jedné akci potkali a bylo to hodně příjemné. Říká, hele, já teď počítám s tím, že zase budu chtít od tebe nějaké hodiny. A posunul se strašně moc. To koučování ho přivedlo k oblasti podnikání, která mu už funguje, kudy cesta vede. Ale je fakt, že on si na to všechno přišel sám. Opravdu jenom těma otázkama.",
+    "summary": "Podnikatel se spoustou nápadů, který se pořád chtěl profilovat jinam, mu po skončení napsal, že mu koučování otevřelo oči, kudy cesta nevede. Skončili před rokem a půl; před dvěma týdny se potkali na akci, posunul se, podnikání mu funguje a chce další hodiny. „Přišel si na to sám, jenom těma otázkama.“",
+    "proofElements": [
+      "situace",
+      "čas",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc",
+      "po-vycviku"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13 stupeň B: proč se klient vrací. Tag 6 stupeň B: návrat klienta po roce a půl."
+  },
+  {
+    "id": "pm017",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 113,
+    "endUtt": 115,
+    "quote": "No, tři měsíce já už vnímám jako takový docela slušný, že to je takový jeden balík, který já v zásadě nabízím. Ale takové ty úplně jako dvakrát, třikrát, tak to jsou ti, co to zkusejí, ale pak v tom nepokračují. Z těch já vlastně nic nemám, jak jsem ti říkal, toto já udělám zdarma. Ten poměr, já jsem si to dokonce počítal, minule jsem se díval na ty, kolik mám klientů, kteří… Na procenta jsem si to nějak přepočítával, až mi to přišlo neuvěřitelný, protože asi přes 30 % z těch klientů, kteří se mnou aspoň hodinu koučovali, tak nějakých 36 % si koupilo celou sezonu, a někteří z nich už jsou třeba dva roky. Teď jsem zaměřený více na ty dlouhodobé.",
+    "summary": "Tři měsíce bere jako základní balík. Dvě tři hodiny jsou ti, kdo to zkusí a nepokračují, z těch nemá nic, ty dělá zdarma. Spočítal si to: z klientů, kteří s ním koučovali aspoň hodinu, si 36 % koupilo celou sezónu a někteří jsou s ním dva roky. Teď se zaměřuje na dlouhodobé; nepamatuje, kdy naposledy někdo skončil po třech měsících.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "36 % lidí po aspoň jedné hodině koupilo celou sezónu; někteří 2 roky",
+    "isAdmission": false,
+    "topics": [
+      "po-vycviku",
+      "ziskam-klienty",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: konverze a délka spoluprací s číslem, dva roky po startu. Tag 1 stupeň A. Tag 4 stupeň B."
+  },
+  {
+    "id": "pm018",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 124,
+    "endUtt": 127,
+    "quote": "No, mně a manželce to říkal syn před asi tak půl rokem, který vstupuje do takového toho prepubertálního období, a říká, ale vy jste se tak nějak změnili. A on má neskutečně moc energie, strašně, takže to je někdy na zabití. A manželka se ptá, no jak jako změnili? No, jste takový klidnější. Ale samozřejmě, to je jednou a jindy to člověk zase nezvládne, bývají různé situace. Nicméně celkově ten feedback, který dostávám, je, že ten cíl, který já jsem si dal, abych se naučil víc naslouchat, vnímat tu různost v přístupu k životu těch jiných lidí, tak ten feedback se mi tu a tam dostane třeba takovou cestou, a to je největší odměna.",
+    "summary": "Syn v předpubertálním věku řekl před půl rokem jemu a manželce: „Vy jste se změnili. Jste takoví klidnější.“ Jindy to člověk nezvládne, ale cíl, se kterým do koučování šel, víc naslouchat a vnímat různost druhých, se mu takto vrací jako největší odměna.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: změna potvrzená třetí osobou (syn), s časem. Tag 22 stupeň B: přenos do rodiny."
+  },
+  {
+    "id": "pm019",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 129,
+    "endUtt": 130,
+    "quote": "Možná nebude. To se může stát. Jednou jsem slyšel takový příměr, když ještě v Sovětském svazu tam říkali, no, nic nám tu neroste. Říkám na to, Ukrajina, vždycky se říkalo obilnice Evropy. No, nic tu neroste. Jak to, že tu nic neroste? No, ani brambory nerostou. No, nerostou. No, musel by je někdo zasázet. No tak asi tak. Já si myslím, že to úplně samo nepřijde a jednoduché to není, ale to úžasné na tom je to, že [nesrozumitelné] se člověk může měnit a učit se něčemu, co neznal a nedělal. Takže v tom případě pak, každý si to nastaví jinak, každý z jiných důvodů. Ale každopádně já v tom koučování ten hlavní přínos vidím v tom, jak se změnilo moje myšlení. A od toho se pak odvozuje i to, že už nemám pocit, že něco někomu vnucuji, protože i v tom se změnilo to myšlení.",
+    "summary": "Komu se bojí, že nebude mít koho koučovat: „Možná nebude. To se může stát.“ Přirovnání k bramborám, které nerostou, dokud je někdo nezasází: samo to nepřijde a jednoduché to není. Hlavní přínos vidí ve změně vlastního myšlení, díky níž už nemá pocit, že něco někomu vnucuje.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň B: poctivá odpověď „možná nebude“ s mechanismem. Tag 2 stupeň B."
+  },
+  {
+    "id": "pm020",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 134,
+    "endUtt": 136,
+    "quote": "Tak úplně s negativními víceméně ne, protože si myslím, že někteří, kteří by to možná takto vyjádřili, tak zase z takové úcty ke stáří to neřeknou. S čím se spíš setkávám, tak je to jako, že to je zajímavé. Ale co mě nejvíc překvapuje, a to se mi několikrát stalo, dva takové lidi jsem koučoval, kteří se mi teď nedávno ozvali, že se dozvěděli, že jsem kouč, a chtěli by se mnou absolvovat celou sezonu. Takže se se mnou o tom ani nebavili předtím. Nevěděli to ode mě. A to je pro mě takové příjemné. A teď ten druhý, to bylo teď nedávno, a tak začal.",
+    "summary": "Negativní reakce nezažil, možná z úcty ke stáří je lidé neřeknou. Nejvíc ho překvapilo, že se mu nedávno ozvali dva lidé, kteří se odjinud dozvěděli, že je kouč, a chtěli celou sezónu, aniž se s ním o tom předtím bavil. Druhý právě začal.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "2 klienti se ozvali sami na celou sezónu",
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň A: klienti z doporučení bez oslovení. Tag 1 stupeň B."
+  },
+  {
+    "id": "pm021",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 139,
+    "endUtt": 142,
+    "quote": "Určitě jsou lidi, pro které to není. Určitě, protože… Obzvlášť to je takový ten typ lidí, kteří jsou zabetonovaní v nějakém přístupu k životu, že mají furt tendenci vidět problémy v okolnostech, v druhých lidech, že furt někdo za něco může, a já to už musím tak nějak vydržet. A pokud nemá sílu, pokud nemá dostatečně velké proč, říct si, hele, ale já to chci jinak, no tak by vlastně velmi záhy v CoachVille zjistil, že no, teď mi nikdo nebude posílat takovou výplatu, jak bych si představoval. No, nebude, protože o tom to není. V CoachVille mi právě [nesrozumitelné], a ta hodnota přijde v tom, v té proměně, ke které mi otevřeli dveře. To je ten přínos. A pokud to někdo jaksi nevnímá, že by to tak mělo být, že to je pro mě šance spoustu věcí v životě si začít žít jinak, tak to asi pak není pro něj.",
+    "summary": "Pro koho to není: lidé zabetonovaní v tom, že za všechno mohou okolnosti a druzí. Kdo nemá dost velké proč, brzy zjistí, že „mu nikdo nebude posílat takovou výplatu, jak by si představoval, protože o tom to není“. Hodnota přijde v proměně, ke které škola otevře dveře; kdo to tak nevnímá, ať nechodí.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koho-bych-odradil",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 18 stupeň A: pro koho to není, s kritériem. Tag 11 stupeň B: sám říká, že výplata nepřijde sama."
+  },
+  {
+    "id": "pm022",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 150,
+    "endUtt": 154,
+    "quote": "Spoustu jsem toho nevěděl, když jsem do CoachVille šel. Nebylo tam úplně jasně sděleno, co to všechno bude obnášet a kolik mě to bude stát. Z hlediska takových, třeba i těch financí. To se tak postupně… Anebo i taková věc, že získám certifikaci. Já si myslím, že z toho našeho, jak s oblibou říkáme, [nesrozumitelné] z toho našeho vrhu zářijového před dvěma lety jsem vlastně byl první, kdo tu certifikaci získal. Ale velmi pozdě jsem se dozvěděl, že jenom na tři roky. Není to tak, že hned na začátku tady vím, bude mě to stát tolik a tolik a pak to má takové a takové podmínky. Z hlediska… Já jsem rád, když jsou všechny informace hned na začátku jasné, protože v mém případě by to určitě nebyl žádný blokr. Já když do něčeho jdu, tak jdu, protože se chci něčemu naučit. A pak, když do toho někdo jde tak, že si myslí, teď budu mít nějakým způsobem lehčí cestu k penězům, tak najednou zjistí, že ona tak úplně lehká není. A ano, pak jsem se setkal s několika, kteří byli z toho jakoby rozladění, ale můj případ to nebyl, protože jsem si vědom, že všechno něco stojí, a pokud něco chci změnit, tak to ode mě také bude něco vyžadovat. A ten přínos, ta hloubka života, to, že člověk má najednou otevřené dveře, tak je zaplacený. Čili vlastně chyběla ta informace o tom, že ta certifikace dle ICF má vždycky platnost tři roky a je potřeba ji vlastně průběžně obnovovat. Třeba taková, ale i to, že vlastně v CoachVille udělám první část, a pak musím teprve udělat nějakou další část, abych vůbec měl šanci se přihlásit na to, že chci být certifikovaným koučem. Tak to nebylo úplně na začátku jasné, ale… Ale toto říkám jenom… Mně to spíš přijde teď jako takový technický problém, protože jak říkám, kdyby tam to všechno bylo jasné, tak jsem si jistý, že bych byl dnes také tu, v té stejné situaci.",
+    "summary": "Co by chtěl vědět na začátku a nikdo mu neřekl: co všechno výcvik obnáší a kolik bude stát, včetně financí; že certifikace platí jen tři roky (byl první z jeho zářijového běhu, kdo ji získal, a dozvěděl se to velmi pozdě); že po první části musí udělat další, aby se vůbec mohl přihlásit. Pro něj to nebyl blokr, potkal ale několik lidí, kteří byli rozladění, protože čekali lehčí cestu k penězům. „Kdyby to bylo jasné, byl bych dnes ve stejné situaci.“",
+    "proofElements": [
+      "situace",
+      "čas",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "platnost ACC 3 roky; první z běhu 9/2024 s certifikací",
+    "isAdmission": true,
+    "costText": "nevěděl předem, co výcvik obnáší a kolik bude stát; o tříleté platnosti certifikace se dozvěděl pozdě",
+    "topics": [
+      "jen-marketing",
+      "k-cemu-papir",
+      "kdyz-jsem-videl-cenu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 11 stupeň A: dvoustranné, co škola nesdělila jasně, i s reakcí Aleše (dnes se cesta volí od začátku). Tag 14 stupeň A: tříletá platnost. Tag 27 stupeň B. Úsek obsahuje otázku Aleše (152)."
+  },
+  {
+    "id": "pm023",
+    "episode": "petr-mazur",
+    "guest": "petr-mazur",
+    "startUtt": 157,
+    "endUtt": 160,
+    "quote": "S tím časem se u klientů běžně setkávám. Já bych to potřeboval, ale teď na to nemám čas. To je ten… A když se já jako kouč na to dívám, tak si uvědomuji, jaký je to paradox, vlastně až protimluv, protože častokrát ten člověk právě proto nemá čas, že to má v životě poskládané tak, jak to má. A že to koučování pomůže k tomu najednou být v pohodě, nebýt v tom stresu, mít ten čas a mít to, o čem zatím jenom sní. Takže to je takové… Ale ne vždy se to povede na začátku tomu člověku přesvědčivě sdělit. Takže můžu vždycky, když se s někým bavím, tak můžu říct, no ale jako čas nebo obava… Ještě mě napadá jedno takové přirovnání. Víš, když jako vlezu do letadla, protože to je let, kdy mám trénink, trénujeme skoky s padákem. Teď se otevřou ty dveře a já mám vyskočit. A já řeknu, no ještě ne, nemám čas. No tak se nic, nic jiného… Já nepřestanu mít ten strach, nic se nestane. Já musím vyskočit, a pak je ten wow zážitek. Ale pakliže budu furt jenom čekat, no ještě radši ne, no ale tak zavolejte za měsíc, tak to je o ničem a to nikam nevede, protože vůbec nic neřešit znamená zůstávat ve stavu, kdy tak maximálně můžu zase zpátky přistát a neužít si ten seskok.",
+    "summary": "„Potřeboval bych to, ale nemám čas“ slýchá běžně a vidí v tom paradox: člověk nemá čas právě proto, jak má život poskládaný, a koučování mu ten čas vrací. Přirovnání ke skoku s padákem: dveře se otevřou, „ještě ne, nemám čas“, ale strach nezmizí; musí se vyskočit, jinak se jen přistane bez zážitku.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vedle-prace-a-rodiny",
+      "proc-jsem-vahal",
+      "cena-cekani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 8 stupeň C: názor na námitku času. Tag 17 stupeň B. Tag 20 stupeň B: nic neřešit = zůstat stejný."
+  }
+]
