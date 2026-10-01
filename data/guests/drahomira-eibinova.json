@@ -7,7 +7,7 @@
     "moments": true,
     "name": true,
     "photo": false,
-    "contact": false,
+    "contact": true,
     "amounts": true,
     "ads": false
   },
@@ -22,11 +22,11 @@
   "verifyLinks": [
     {
       "type": "LinkedIn",
-      "url": "https://www.linkedin.com/search/results/all/?keywords=Drahom%C3%ADra%20Eibinov%C3%A1",
-      "label": "LinkedIn (z rozhovoru, doplnit přímý odkaz; v profilu má rezervační kalendář)"
+      "url": "https://www.linkedin.com/in/drahom%C3%ADra-eibinov%C3%A1-436a6673/",
+      "label": "LinkedIn (v profilu rezervační kalendář)"
     }
   ],
-  "contactAllowed": false,
+  "contactAllowed": true,
   "rewardReceived": false,
   "worksForSchool": false,
   "timeline": [
@@ -46,5 +46,8 @@
       "label": "Dnes (9/2026, 2 roky, 185 hodin)",
       "text": "1 200 až 1 600 Kč/h, cíl 2 500 až 3 000; sezóna 12 hodin, minimum 6; klientka 2 roky; niche zdravotníci; před půl rokem rozhodnutí směřovat k profesi koučky"
     }
+  ],
+  "phones": [
+    "776 733 393"
   ]
 }
