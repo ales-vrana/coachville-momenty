@@ -1,0 +1,54 @@
+{
+  "slug": "vit-penicka",
+  "displayName": "Vít Pěnička",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": true,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-10-01",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 30,
+  "priorProfessionText": "student gymnázia, dnes student vysoké školy",
+  "priorProfessionCat": "jiné",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "muž",
+  "introLine": "Do výcviku vstoupil v 18 letech, ve třetím ročníku gymnázia.",
+  "verifyLinks": [
+    {
+      "type": "jiné",
+      "url": "https://www.instagram.com/vit.penicka",
+      "label": "Instagram"
+    }
+  ],
+  "contactAllowed": true,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "student třetího ročníku gymnázia, 18 let; nesouhlasil s „nalajnovanou cestou“ gympl → vysoká, hledal alternativu; prošel startovací balíček"
+    },
+    {
+      "label": "Rozhodování",
+      "text": "obavy z času (maturita), peněz (rodina nechtěla finančně podpořit) a hlavně sebedůvěry; rozhodl se sám po krátkém hovoru s Alešem"
+    },
+    {
+      "label": "Start a první rok",
+      "text": "nejmladší v kurzu, spolužáci 40, 50, 60+; zjistil, že je introvert a že lidé „nekoušou“; perfekcionismus, dlouhé vracení se k hodinám"
+    },
+    {
+      "label": "Dnes (9/2026, 2,5 roku)",
+      "text": "pokračuje v ACC programu, studuje vysokou školu; koučování je hlavní pilíř jeho budoucí cesty; část přátel se po změně odstřihla, část se nově přidala"
+    }
+  ],
+  "phones": [
+    "604 704 254"
+  ]
+}

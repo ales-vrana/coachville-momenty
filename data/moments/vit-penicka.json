@@ -1,0 +1,543 @@
+[
+  {
+    "id": "vp001",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 2,
+    "endUtt": 3,
+    "quote": "Víte, ty jsi s náma asi dva a půl roku a nastupoval jsi do CoachVille, když ti bylo osmnáct a byl jsi na střední škole, na gymnáziu. Pojď teďka povědět něco o sobě, aby ses divákům a posluchačům trošku představil, a řekni, co tě vlastně přivedlo k zájmu o koučování. Je to přesně tak. V té době jsem byl ve třetím ročníku na gymplu a v té době jsem hodně slýchával to, že když jsem na gymplu, tak musím jít na vysokou a mám nalajnovanou cestu životem, s čímž jsem úplně nesouhlasil, a hledal jsem nějaké alternativní cesty. A k tomu jsem narazil i právě na koučování od CoachVille. Prošel jsem si startovací balíček, zjistil jsem si o tom více informací a rozhodl jsem se, že by tohle mohla být ta moje cesta.",
+    "summary": "Do CoachVille nastoupil v 18 letech, ve třetím ročníku gymnázia. Slýchal, že z gymplu se musí na vysokou a cesta životem je nalajnovaná; s tím nesouhlasil a hledal alternativy. Narazil na koučování, prošel startovací balíček a rozhodl se, že by to mohla být jeho cesta.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "start v 18 letech ve 3. ročníku gymnázia",
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň A: nejmladší host webu, věk uveden v rozhovoru. Tag 17 stupeň B: motiv (alternativa k nalajnované cestě). Úsek začíná otázkou Aleše (2), která věk uvádí."
+  },
+  {
+    "id": "vp002",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 7,
+    "endUtt": 9,
+    "quote": "Těch tam bylo spoustu. Bylo to možná i takové náročnější období. A vzpomínám si, že jsem ti krátce zavolal a chvilinku jsme to spolu probírali. Největší ty pochybnosti byly ze strany okolí, že tomu nikdo nerozuměl, nechtěli tomu moc porozumět, a nevěděl jsem, jak to s nimi úplně komunikovat. Zůstal jsem na to rozhodnutí čistě sám, a já se rozhoduju dlouho, takže jsem si na to vzal nějaký čas, a pak, když jsem si prostě všechno porovnal, tak jsem se rozhodl do toho jít.",
+    "summary": "Pochybností bylo spoustu, náročnější období. Největší přišly ze strany okolí: nikdo tomu nerozuměl, nechtěl porozumět, a nevěděl, jak to s nimi komunikovat. Na rozhodnutí zůstal čistě sám; rozhoduje se dlouho, vzal si čas, všechno si porovnal a šel do toho.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "okolí tomu nerozumělo, na rozhodnutí zůstal sám",
+    "topics": [
+      "co-rekl-partner",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 16 stupeň B: okolí (ne partner) bez podpory; co udělal. Tag 17 stupeň A: jak probíhalo rozhodování."
+  },
+  {
+    "id": "vp003",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 12,
+    "endUtt": 15,
+    "quote": "Čili oni o tom nic nevěděli, to znamená, že předpokládali, že to bude jaké, nebo že to bude co? Že to bude nějaký nesmysl, něco, co nemá užitek, a něco vymyšleného. A s jakýma reakcema se setkáváš vlastně dneska? Nastal tam třeba u někoho z těch lidí nějaký moment uvědomění, kdy se na to třeba koukali později jinak než před tím začátkem? Určitě, a myslím si, že to bylo tím, že jsem se v tom stal víc sebevědomý a začal jsem to nějak lépe komunikovat. A zároveň, že jsem o tom prostě občas mluvil a lidi si všímali, že se tomu stále věnuji, pořád je to [nesrozumitelné] priorita, a teďka zpětně už to berou jako nějakou moji součást.",
+    "summary": "Okolí předpokládalo, že to bude nesmysl, něco bez užitku, vymyšlené. Dnes to berou jako jeho součást: stal se v tom sebevědomější, lépe to komunikuje a lidé si všimli, že se tomu věnuje stále a je to pro něj priorita.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-rekl-partner",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 16 stupeň A: co okolí říkalo a co ho přesvědčilo (vytrvalost, lepší komunikace). Tag 10 stupeň B. Úsek obsahuje otázky Aleše (12, 14)."
+  },
+  {
+    "id": "vp004",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 17,
+    "endUtt": 18,
+    "quote": "Já na to strašně rád vzpomínám, protože to prožívám i teďka, když jsem v tom kurzu, něco opakuju nebo tak. Ten začátek byl určitým kusem náročný, ale bylo to tím, že jsem poznával sám sebe a že jsem sám sebe nějak měnil podle nějakých svých představ. A sahal jsem si na témata, která pro mě byla poměrně zásadní, což nemusí být vždy lehké, ale to ani není asi… Bylo to prostě super, no. Bylo to fajn, bylo pro to vytvořené příjemné a bezpečné prostředí a hodně mě v tom podporovali i ti moji spolužáci.",
+    "summary": "Na začátek vzpomíná rád, prožívá to i dnes při opakování. Byl zčásti náročný, protože poznával sám sebe, měnil se podle svých představ a sahal na témata, která pro něj byla zásadní. Bylo pro to bezpečné prostředí a spolužáci ho podporovali.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-bylo-tezsi",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 12 stupeň C: náročnost bez pojmenované ceny. Tag 7 stupeň C."
+  },
+  {
+    "id": "vp005",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 22,
+    "endUtt": 22,
+    "quote": "Nejmladší, koho jsem potkal za ty dva a půl roku, tak měl určitě přes třicet. A většinou ti moji spolužáci, se kterými jsem zkoušel, měli 40, 50, 60 plus, ale byli tomu otevření, dali mi tu možnost a byli hodně podporující, takže to bylo fajn. Bylo to super, bylo to zajímavé a díky tomu jsem se naučil komunikovat i se staršími lidmi, pochopit je, porozumět jim, a určitě z toho budu čerpat teďka dál do života.",
+    "summary": "Nejmladší spolužák, kterého za dva a půl roku potkal, měl přes třicet; většina měla 40, 50, 60 a víc. Byli otevření, dali mu možnost a podporovali ho. Naučil se tak komunikovat se staršími lidmi, chápat je a rozumět jim, a bude z toho čerpat dál.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "spolužáci 40, 50, 60+; nejmladší přes 30",
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň A: věkový rozdíl v praxi a co s ním. Tag 7 stupeň B."
+  },
+  {
+    "id": "vp006",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 24,
+    "endUtt": 26,
+    "quote": "Určitě si to ti starší lidé museli se mnou zažít, vyzkoušet, nebo mě aspoň slyšet při tom. A postupně, jak jsme procházeli tím kurzem… Je to nějaký skill, který se dá naučit, a podporují to nějaké schopnosti a superschopnosti, které v sobě máme. Takže je to takový balíček a věk to úplně neurčuje. Čili když to o věku není, tak je to spíš o čem? Jak bys to popsal? Asi o tom mindsetu, být tomu otevřený, a jako… No, prostě být otevřený při tom učení se těch technik a myšlenek.",
+    "summary": "Jestli může mnohem mladší člověk koučovat starší: ti starší si to s ním museli zažít nebo ho při tom slyšet. Koučování je dovednost, která se dá naučit, a podporují ji schopnosti, které v sobě máme; věk to neurčuje. Spíš jde o mindset a otevřenost při učení.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani",
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň B: názor podložený vlastní praxí. Úsek obsahuje otázku Aleše (25)."
+  },
+  {
+    "id": "vp007",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 28,
+    "endUtt": 30,
+    "quote": "Já jsem to zažíval tak, že to pro mě bylo mírně náročné z toho energetického hlediska, ale je to tím, že jsem poměrně perfekcionista, dával jsem si záležet, psal jsem si všechny možné poznámky, chtěl jsem vědět všechno, ale… To bylo v ten den, a pak když jsem se druhý den probudil, tak jsem z té lekce čerpal ty myšlenky, přemýšlel jsem o tom, byl jsem v kontaktu s těmi spolužáky. A pro mě to nebyla třeba jednodenní záležitost, ale byl to nějaký styl života, který jsem si tím budoval. Jak bys ten styl popsal? Napadá mě: Udělej si sám. Jak si to člověk postaví, jak si to člověk zařídí, jak to chce, tak to může mít.",
+    "summary": "Živé lekce pro něj byly energeticky mírně náročné, protože je perfekcionista: psal si všechny poznámky, chtěl vědět všechno. Druhý den z lekce čerpal myšlenky a byl v kontaktu se spolužáky; nebyla to jednodenní záležitost, ale styl života, který si tím budoval: „Udělej si sám.“",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "lekce byly energeticky mírně náročné kvůli perfekcionismu",
+    "topics": [
+      "co-bylo-tezsi",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 12 stupeň B: přiznání s příčinou (perfekcionismus). Tag 8 stupeň C: lekce vedle školy."
+  },
+  {
+    "id": "vp008",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 32,
+    "endUtt": 34,
+    "quote": "Viděl jsem víc těch přínosů než to, že to pro mě bylo těžké. Rozhodoval jsem se asi tady mezi tímhle, a to, že je něco těžké, pro mě úplně není důvod to vzdát. Čili svým způsobem je to ta obtížnost, která je pro tebe nějakým způsobem zajímavá z hlediska toho, že ji chceš prostě zdolat. Přesně tak. A co pro tebe vlastně bylo těžší, než jsi čekal? Nějaké moje myšlenkové vzorce a vzorce chování, které jsem v sobě měl, ať už z dětství, nebo z toho dospívajícího věku. A i když jsem o tom věděl, snažil jsem se s tím nějak pracovat, tak když to člověk pak vezme do hloubky a postupně to rozebírá, je to asi jako když se vrtá kaz, trošku, tak pořád se jde hloubš a hloubš, ale pak… [nesrozumitelné] pryč a je to takový čistý a svěží.",
+    "summary": "Do ACC programu šel, protože viděl víc přínosů než toho, že to bylo těžké; že je něco těžké, pro něj není důvod to vzdát. Těžší, než čekal, byly vlastní myšlenkové vzorce a vzorce chování z dětství a dospívání: když se to vezme do hloubky, je to jako vrtání kazu, pořád hlouběji, a pak je to čisté a svěží.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "nejtěžší bylo rozebírat vlastní myšlenkové vzorce z dětství a dospívání",
+    "topics": [
+      "co-bylo-tezsi",
+      "proc-jsem-vahal",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 12 stupeň A: pojmenovaná obtíž s metaforou. Tag 17 stupeň B: rozhodnutí pokračovat. Tag 33 stupeň B. Úsek obsahuje otázku Aleše (33)."
+  },
+  {
+    "id": "vp009",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 36,
+    "endUtt": 39,
+    "quote": "Nebrat to jako školu, nebo nebrat to jako nějakou práci, kde je A a B, prostě udělám toto, toto, ale brát to tak nějak hravě, stylem, že se to prostě stane součástí toho člověka. A hlavně si to prožívat a zažívat, než to brát tak, že mám tady seznam věcí, který bych se měl naučit. O tom to úplně není. Čili to je vlastně o experimentaci, o prožívání, a je to o tom nebrat to jako lineární proces, kdy si odškrtneš nějaký věci, abys to dělal správně. Tak ta správnost tam asi hraje důležitou roli. Čili co ti vlastně pomohlo v tom, aby ten perfekcionismus nebyl něčím, co tě v tom limituje? Pomohlo mi to, že mě to bavilo. Bavil mě ten proces, bavilo mě to učení, bavilo mě to praktikování a ta aplikace. A to bylo víc, než si odškrtávat nějaké věci na seznamu.",
+    "summary": "Radí perfekcionistům: nebrat výcvik jako školu nebo práci s body A a B, ale hravě, aby se stal součástí člověka; prožívat, ne odškrtávat seznam. Co mu pomohlo, aby ho perfekcionismus nelimitoval: bavilo ho to, proces, učení i praktikování, a to bylo víc než seznam.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 7 stupeň B: návyk (perfekcionismus) a co s ním. Úsek obsahuje repliky Aleše (37, 38)."
+  },
+  {
+    "id": "vp010",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 41,
+    "endUtt": 41,
+    "quote": "Objevil jsem to, že jsem velkej introvert. A teď si nesu to, že když chci poznávat nové lidi, tak je to o tom je prostě oslovit. A oni nekoušou a může to být super příležitost. A aplikuju to i teď, právě na vysoké.",
+    "summary": "V prvních hodinách objevil, že je velký introvert. Dnes si nese, že poznávat nové lidi znamená je prostě oslovit; nekoušou a může to být příležitost. Aplikuje to i na vysoké škole.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň B: introvert a oslovování, bez čísel. Tag 10 stupeň B."
+  },
+  {
+    "id": "vp011",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 45,
+    "endUtt": 47,
+    "quote": "Hlavní roli v tom hrálo to, že koučování je o lidech, je to koučování s lidmi, a tím pádem je potřeba se seznamovat s novými lidmi, poznávat nové lidi a být tomu otevřený. A zjistil jsem, že jsem v tom měl nějaké výzvy a překážky, které jsem potřeboval a chtěl překonat. A pořád se mi to vracelo v životě i v tom koučování a zjistil jsem, že to je něco, na čem si musím dát trošku víc záležet. Takže tam byl vlastně nekomfort v tom navazování kontaktu s novými lidmi, který pravděpodobně cítí spousta lidí. Co ti v tom pomohlo? Kdyby to byla jako drobnost. První, co mě napadá, tak mi v tom pomohlo to, že to tak většinou měli podobně i ti lidé na druhé straně, ti spolužáci, a byli jsme v tom jakoby nastejno. A tím pádem jsme si navzájem chtěli pomoct, chtěli jsme si to zpříjemnit, a naráželi jsme si jako klacky pod nohy. A když jsme se spojili, tak jsme se vždycky snažili maximálně vyhovět, spolupracovat.",
+    "summary": "Koučování je o lidech, takže je potřeba se seznamovat a být otevřený; zjistil, že v tom má překážky, které se vracely v životě i v koučování. Pomohlo, že to podobně měli i spolužáci na druhé straně, byli na tom nastejno, chtěli si to zpříjemnit a spolupracovali.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň B: nekomfort při navazování kontaktu a co pomohlo (parťáci). Tag 25 stupeň B. Úsek obsahuje otázku Aleše (46)."
+  },
+  {
+    "id": "vp012",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 50,
+    "endUtt": 51,
+    "quote": "Tak určitě už v těch prvních hodinách to mělo přínos pro obě dvě strany. Každá ta strana si v tom něco našla, něco uvědomila. A jsou poměrně asi základní pravidla pro to koučování, která zaručují to, aby to bylo bezpečné, důvěrné a nějak eticky prostě v pořádku pro obě dvě ty strany. A není úplně těžké je dodržet, nejspíš teda pro většinu asi. A když člověk nechce tomu druhýmu uškodit, tak mu nejspíš neuškodí, no. Záleží, jak si to ten druhý vezme. Ale každopádně byla to super příležitost, super jako ty první… Já bych rád začal od začátku, trošku jsem se v tom zamotal.",
+    "summary": "Už první hodiny měly přínos pro obě strany. Jsou základní pravidla koučování, která zaručují, že je to bezpečné, důvěrné a etické, a není těžké je dodržet. „Když člověk nechce tomu druhému uškodit, tak mu nejspíš neuškodí.“",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "abych-neublizila",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 9 stupeň B: pohled začínajícího kouče na strach z ublížení. Tag 26 stupeň B."
+  },
+  {
+    "id": "vp013",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 68,
+    "endUtt": 70,
+    "quote": "Určitě se cítím trošičku víc sebejistě. To, že je někdo introvert, třeba jako já, tak už nepoužívám jako nějaký popis té osobnosti, ale prostě vím, že třeba takový jsem, ale jsou příležitosti, kdy takový nechci být a nepotřebuji. A proto hledám jiný přístup a ten aplikuju na tu danou situaci. Takže jsem určitě víc otevřený a komunikativní, protože tím, že jsem vyhnal svoje bubáky ze skříně, tak už se nepotřebuji tolik schovávat před ostatními. A naučil jsem se obecně mluvit o tématech, která pro mě mohla být tenkrát tabu.",
+    "summary": "Dnes se cítí sebejistěji. Introvert už nepoužívá jako popis osobnosti: ví, že takový je, ale jsou situace, kdy takový být nechce, a hledá jiný přístup. Je otevřenější a komunikativnější, „vyhnal jsem svoje bubáky ze skříně“, a naučil se mluvit o tématech, která pro něj byla tabu.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 10 stupeň B: změna sebedůvěry vlastními slovy. Tag 33 stupeň B."
+  },
+  {
+    "id": "vp014",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 72,
+    "endUtt": 77,
+    "quote": "Tak primárně jsem si to začal uvědomovat už v průběhu toho výcviku, ale obzvlášť prostě po nějaké delší době, že to pro mě není jenom o tom, že se naučím nějaké techniky, jak druhým pomáhat nebo pracovat s nimi. Není to o tom, že já si uvědomím nějaké myšlenky, ale je to o tom, že se na svět dívám jinak, dostávám víc těch pohledů na ty jednotlivé situace a potom si z nich můžu vybírat to, co mně sedí třeba víc, ale většinou se snažím být hodně objektivní. Určitě to podle mě zlepšilo i vztahy s kamarády a s rodinou. Že když se s někým nacházím v jakémkoliv vztahu, tak se na to nekoukám čistě ze své perspektivy, ale i ze strany toho druhého, třeba ze strany třetí osoby, kdyby tam byla. Tím, že jsem hodně emotivní, tak si uvědomuji, že se na to dá podívat i bez těch emocí a potom s těmi emocemi, a vybrat si nějakou tu cestu. Jak bys popsal, že koučování ovlivnilo tvoje vztahy, ať už ty rodinné, nebo ty přátelské? Ovlivnilo je to tak, že když se třeba něco stane mezi mnou a někým, tak se na to nejdřív podívám z pohledu toho druhého než ze svého a nereaguju na základě toho, jak já se v ten moment cítím. Protože každý věci zažíváme jinak, prožíváme je jinak, a snažím se hledat to řešení pro ty obě dvě strany.",
+    "summary": "Dopad: ne techniky, ale jiný pohled na svět, víc perspektiv na situace. Zlepšilo to vztahy s kamarády a rodinou; když se něco stane, podívá se nejdřív z pohledu druhého, nereaguje podle toho, jak se v tu chvíli cítí, a hledá řešení pro obě strany. Je emotivní a umí se podívat bez emocí i s nimi.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-se-muselo-zmenit",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň B: změna ve vztazích bez konkrétní situace. Tag 22 stupeň C (přenos do života, ne do práce). Úsek obsahuje otázku Aleše (76)."
+  },
+  {
+    "id": "vp015",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 88,
+    "endUtt": 89,
+    "quote": "Já bych řekl, že se dá koučovat kdokoliv, a na světě je spousta lidí, opravdu spousta lidí, a nikdy se člověk nesetká se všemi, natož aby je mohl koučovat. Těch lidí je prostě hromada a je spousta cest a způsobů, jak ty lidi kontaktovat, jak se k nim dostat, jak se dostat do toho povědomí. Je to asi stejné jako v jakékoliv jiné práci, kde člověk sám hledá tu klientelu a klienty, tak je to o tom se zapsat.",
+    "summary": "Komu se bojí, že nebude mít koho koučovat: koučovat se dá kdokoli, lidí je spousta a nikdo se nesetká se všemi. Je spousta cest, jak se k nim dostat a do povědomí; jako v každé práci, kde si člověk sám hledá klienty, je to o tom se zapsat.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň C: názor bez vlastní praxe s platícími klienty."
+  },
+  {
+    "id": "vp016",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 91,
+    "endUtt": 91,
+    "quote": "To je za mě totální game changer, protože to je moje první takový… Hlavní nárok na jakoukoliv moji práci v budoucnu, že to chci být schopný dělat online, odkudkoliv, kdykoliv a kdekoliv, za jakýchkoliv podmínek. [nesrozumitelné] A díky tomu jsem si našel i další příbuzné obory, které se dají také dělat online. A je to prostě pro mě takové minimum.",
+    "summary": "Online koučování je pro něj „totální game changer“ a hlavní nárok na jakoukoli budoucí práci: dělat ji odkudkoli, kdykoli a za jakýchkoli podmínek. Díky tomu si našel i příbuzné obory, které se dají dělat online; je to pro něj minimum.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "male-mesto",
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 3 stupeň B: online jako podmínka, bez vazby na město. Tag 21 stupeň C."
+  },
+  {
+    "id": "vp017",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 94,
+    "endUtt": 94,
+    "quote": "Určitě ne, protože pokud si to člověk nevyzkouší, nezažije to, tak mě nenapadá jediný důvod, proč by to pro někoho nemělo být. To si myslím, že když ten člověk ještě nemá tu zkušenost, ten zážitek, tak nemůže říct, že to pro něj není.",
+    "summary": "Koho by odradil: nikoho, protože pokud si to člověk nevyzkouší a nezažije, nenapadá ho jediný důvod, proč by to pro někoho nemělo být. Bez zkušenosti nemůže říct, že to pro něj není.",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koho-bych-odradil"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 18 stupeň C: neodrazuje nikoho."
+  },
+  {
+    "id": "vp018",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 96,
+    "endUtt": 97,
+    "quote": "No, určitě bych s takovým človíčkem rád mluvil a víc ho navnímal, jaká je to situace, a potom bych… [nesrozumitelné] Obecně, když si představím sám sebe, tak aby si našel nebo vybral někoho ve svým okolí, kdo ho podporuje v tom, co ho baví a co dělá, dělat úplně cokoliv, a s tím člověkem se o tom pobavil. A určitě i tím, že jsem vstoupil do toho koučování, se mi tím hodně změnil okruh přátel. Protože jsou lidé, kteří mě na základě toho nějak odstřihli nebo mají svůj názor, který nechtějí měnit, a to mi umožnilo prostě prozřít a nechat si kolem sebe lidi, kteří mě budou podporovat.",
+    "summary": "Někomu v jeho tehdejší situaci by radil najít si v okolí někoho, kdo ho podporuje v tom, co ho baví, a mluvit s ním. Vstupem do koučování se mu změnil okruh přátel: někteří ho kvůli tomu odstřihli nebo mají názor, který nechtějí měnit, a to mu umožnilo nechat si kolem sebe lidi, kteří ho podporují.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "část přátel ho kvůli koučování odstřihla; okruh přátel se změnil",
+    "topics": [
+      "co-rekl-partner",
+      "co-se-muselo-zmenit",
+      "koho-bych-odradil"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 16 stupeň A: cena v okolí (ztráta části přátel) a co s tím. Tag 33 stupeň B. Tag 18 stupeň C."
+  },
+  {
+    "id": "vp019",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 101,
+    "endUtt": 102,
+    "quote": "Vzkázal bych to, že všechno má své výhody i nevýhody. A tím, že je drtivá většina lidí, kteří jsou v tomhle oboru, starší než oni, tak vidí ty jejich výhody a nevýhody. Ale ta jejich cesta bude hodně odlišná, bude mít hodně jiných příležitostí a těch cest a možností. Stejně tak výhod a nevýhod. A vždycky je to prostě, ať už je to jakékoliv, tak se s tím dá prostě pracovat. A tak no, jako, nevím, nedokážu si představit, jestli bych do toho šel v nějakém pozdějším věku, jak by to vypadalo, a jsem rád za to, jak to je, a naučil jsem se s tím prostě hrát a pracovat.",
+    "summary": "Vzkaz mladým: všechno má výhody i nevýhody. Drtivá většina lidí v oboru je starší, takže vidí jejich výhody; cesta mladého kouče bude hodně odlišná, s jinými příležitostmi i nevýhodami, a se vším se dá pracovat. Nedokáže si představit, jak by to vypadalo v pozdějším věku, a je rád za to, jak to je.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 23 stupeň B: pohled z opačné strany věkové námitky (příliš mladý)."
+  },
+  {
+    "id": "vp020",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 109,
+    "endUtt": 109,
+    "quote": "Ohledně tady toho všeho, no. Času skrz školu, peněz taky, protože mě v tom rodina tenkrát nechtěla finančně podpořit, a byl jsem student. Blížila se mi maturita, nebylo úplně v úvahu, že bych chodil do práce nebo na brigády nějak extra. A důvěry, tak to bylo to hlavní, proč jsem nejdelší dobu váhal.",
+    "summary": "Pochybnosti měl ve všem: čas kvůli škole, peníze, protože ho rodina tehdy finančně nepodpořila a jako student před maturitou nemohl chodit do práce ani na brigády, a důvěra, to bylo hlavní, proč váhal nejdéle.",
+    "proofElements": [
+      "situace",
+      "čas",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "rodina ho tehdy finančně nepodpořila; student před maturitou, bez možnosti brigád",
+    "topics": [
+      "odkud-penize-na-skolu",
+      "proc-jsem-vahal",
+      "co-rekl-partner"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 24 stupeň B: financování bez podpory rodiny; způsob platby v rozhovoru nezazněl. Tag 17 stupeň A: tři pochybnosti pojmenované. Tag 16 stupeň B."
+  },
+  {
+    "id": "vp021",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 111,
+    "endUtt": 111,
+    "quote": "Byl moment, kdy jsem byl v parku s kamarádem a kamarádkou a už jsem cítil, že je to pro mě vypjaté, že pořád se stupňovalo to, proč ano, a pořád se stupňovalo to, proč ne. A v ten moment jsem cítil, že bych se chtěl rozhodnout, a vím, že jsem ti volal, volali jsme spolu ani ne minutu. A vůbec nevím… Vím, že jsi řekl jednu jedinou otázku, a v ten moment jsem se rozhodl. Ale co to přesně bylo, to si nepamatuji, jenom si pamatuji tenhle zážitek.",
+    "summary": "Moment rozhodnutí: v parku s kamarádem a kamarádkou cítil, že je to vypjaté, proč ano a proč ne se stupňovalo. Zavolal Alešovi, volali ani ne minutu, Aleš položil jednu jedinou otázku a v ten moment se rozhodl. Jakou, si nepamatuje, jen ten zážitek.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "jak-jsem-si-overil-fit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 17 stupeň A: co rozhodlo, konkrétní situace. Tag 31 stupeň B: krátký hovor se zakladatelem místo zkušební hodiny."
+  },
+  {
+    "id": "vp022",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 115,
+    "endUtt": 118,
+    "quote": "Bohužel ne, toho… Ne, že bych toho litoval, bylo to, jak to bylo, ale nevím. To jsem si bohužel nevyzkoušel. Jasně. Je to někdy vlastně ten vlastní zážitek, a v tom může pomoct. A taky si říkám, že to rozhodování na začátku je vlastně ta nejtěžší z těch fází. A myslím, že máš taky takovou zkušenost. Dozajista. Čili co se stalo poté, co ses vlastně rozhodl a začal jsi? Čím to bylo odlišné od té fáze toho rozhodování? Já si vzpomínám, že už v ten moment, kdy jsem se rozhodl, že ano, se mi ulevilo a prostě už to byla ta moje cesta a neřešil jsem, co by bylo, kdybych se pro to nerozhodl.",
+    "summary": "Hodinu s koučem si před vstupem nevyzkoušel; nelituje toho, ale „to jsem si bohužel nevyzkoušel“. V momentě, kdy se rozhodl, se mu ulevilo: byla to jeho cesta a neřešil, co by bylo, kdyby se nerozhodl.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "jak-jsem-si-overil-fit",
+      "proc-jsem-vahal"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 31 stupeň B: poctivé „nevyzkoušel“ jako kontrast k hostům, kteří testovali. Tag 17 stupeň B: úleva po rozhodnutí. Úsek obsahuje repliky Aleše (116, 117)."
+  },
+  {
+    "id": "vp023",
+    "episode": "vit-penicka",
+    "guest": "vit-penicka",
+    "startUtt": 121,
+    "endUtt": 121,
+    "quote": "Je to hlavní pilíř nějaké mé cesty, kterou jsem si definoval, a ona je taková ještě trošku obecnější a nelze ji úplně jednoduše vystihnout. Ale chci pracovat s lidmi, chci lidem porozumět, ve většině případů je pochopit a umět s nimi pracovat na různých úrovních, pracovat s tím myšlením, chováním, ať už s vlastním, nebo druhých, a to přesně je koučování.",
+    "summary": "Koučování je hlavní pilíř cesty, kterou si definoval, i když je zatím obecnější: chce pracovat s lidmi, rozumět jim, pracovat s myšlením a chováním, vlastním i druhých, na různých úrovních. „A to přesně je koučování.“",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovat-a-zustat-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 21 stupeň C: výhled studenta vysoké školy, bez konkrétního plánu."
+  }
+]

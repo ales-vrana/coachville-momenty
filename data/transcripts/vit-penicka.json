@@ -1,0 +1,833 @@
+{
+  "episode": "vit-penicka",
+  "utterances": [
+    {
+      "i": 0,
+      "t": 1,
+      "speaker": "CoachVille",
+      "text": "Milí diváci, milí posluchači, tady je Aleš Vrána z CoachVille a já vás vítám u dalšího podcastu se studentem CoachVille. Dneska je tady s náma Vít Pěnička. Ahoj, Víte."
+    },
+    {
+      "i": 1,
+      "t": 13,
+      "speaker": "Vít Pěnička",
+      "text": "Ahoj, Aleši."
+    },
+    {
+      "i": 2,
+      "t": 15,
+      "speaker": "CoachVille",
+      "text": "Víte, ty jsi s náma asi dva a půl roku a nastupoval jsi do CoachVille, když ti bylo osmnáct a byl jsi na střední škole, na gymnáziu. Pojď teďka povědět něco o sobě, aby ses divákům a posluchačům trošku představil, a řekni, co tě vlastně přivedlo k zájmu o koučování."
+    },
+    {
+      "i": 3,
+      "t": 38,
+      "speaker": "Vít Pěnička",
+      "text": "Je to přesně tak. V té době jsem byl ve třetím ročníku na gymplu a v té době jsem hodně slýchával to, že když jsem na gymplu, tak musím jít na vysokou a mám nalajnovanou cestu životem, s čímž jsem úplně nesouhlasil, a hledal jsem nějaké alternativní cesty. A k tomu jsem narazil i právě na koučování od CoachVille. Prošel jsem si startovací balíček, zjistil jsem si o tom více informací a rozhodl jsem se, že by tohle mohla být ta moje cesta."
+    },
+    {
+      "i": 4,
+      "t": 71,
+      "speaker": "CoachVille",
+      "text": "Čili co tě na tom vlastně přitáhlo? Bylo to vlastně jako alternativa v podstatě ke klasickému studiu na vysoké škole, ale čím tě zaujalo to, co ses dozvěděl z toho startovacího balíčku?"
+    },
+    {
+      "i": 5,
+      "t": 87,
+      "speaker": "Vít Pěnička",
+      "text": "Já jsem… Nebo dosud mám v sobě takový pocit, že chci dosáhnout něčeho víc. A něčeho, čeho třeba ještě někdo jiný nedosáhl. A v tomhle pro mě bylo strašně moc nových informací a nových pojmů. A zaujalo mě to tím, jak to bylo na jednu stranu abstraktní, ale zároveň realistické. A obecně mě vždycky bavili lidé, přístup k lidem, jejich chování, myšlení a jak s tím pracovat. A tohle všechno koučování pro mě obsahovalo, obsahuje."
+    },
+    {
+      "i": 6,
+      "t": 119,
+      "speaker": "CoachVille",
+      "text": "A když jsi vlastně byl v tom období, kdy jsi zvažoval, že se k nám přidáš, měl jsi tam nějaké obavy, pochybnosti? Co se tam tehdy u tebe dělo s tím vstupem?"
+    },
+    {
+      "i": 7,
+      "t": 131,
+      "speaker": "Vít Pěnička",
+      "text": "Těch tam bylo spoustu. Bylo to možná i takové náročnější období. A vzpomínám si, že jsem ti krátce zavolal a chvilinku jsme to spolu probírali."
+    },
+    {
+      "i": 8,
+      "t": 144,
+      "speaker": "Vít Pěnička",
+      "text": "Největší ty pochybnosti byly ze strany okolí, že tomu nikdo nerozuměl, nechtěli tomu moc porozumět, a nevěděl jsem, jak to s nimi úplně komunikovat."
+    },
+    {
+      "i": 9,
+      "t": 157,
+      "speaker": "Vít Pěnička",
+      "text": "Zůstal jsem na to rozhodnutí čistě sám, a já se rozhoduju dlouho, takže jsem si na to vzal nějaký čas, a pak, když jsem si prostě všechno porovnal, tak jsem se rozhodl do toho jít."
+    },
+    {
+      "i": 10,
+      "t": 169,
+      "speaker": "CoachVille",
+      "text": "A co byla vlastně ta reakce, která byla nepodpůrná? Co ses vlastně dozvěděl a jak jsi s tím hrál?"
+    },
+    {
+      "i": 11,
+      "t": 199,
+      "speaker": "Vít Pěnička",
+      "text": "[nesrozumitelné] A díky tomu se mi prostě povedlo v tom zůstat a pokračovat a nějak to těm lidem i představit nějakou friendly formou."
+    },
+    {
+      "i": 12,
+      "t": 210,
+      "speaker": "CoachVille",
+      "text": "Čili oni o tom nic nevěděli, to znamená, že předpokládali, že to bude jaké, nebo že to bude co?"
+    },
+    {
+      "i": 13,
+      "t": 219,
+      "speaker": "Vít Pěnička",
+      "text": "Že to bude nějaký nesmysl, něco, co nemá užitek, a něco vymyšleného."
+    },
+    {
+      "i": 14,
+      "t": 230,
+      "speaker": "CoachVille",
+      "text": "A s jakýma reakcema se setkáváš vlastně dneska? Nastal tam třeba u někoho z těch lidí nějaký moment uvědomění, kdy se na to třeba koukali později jinak než před tím začátkem?"
+    },
+    {
+      "i": 15,
+      "t": 251,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě, a myslím si, že to bylo tím, že jsem se v tom stal víc sebevědomý a začal jsem to nějak lépe komunikovat. A zároveň, že jsem o tom prostě občas mluvil a lidi si všímali, že se tomu stále věnuji, pořád je to [nesrozumitelné] priorita, a teďka zpětně už to berou jako nějakou moji součást."
+    },
+    {
+      "i": 16,
+      "t": 269,
+      "speaker": "CoachVille",
+      "text": "Jo, hezký. A vlastně, když si vybavíš ten start, když ses přihlásil do výcviku a začal jsi a byl jsi tam na těch prvních lekcích, první hodiny, první týdny, jaký to pro tebe vlastně bylo, jaká to byla zkušenost?"
+    },
+    {
+      "i": 17,
+      "t": 288,
+      "speaker": "Vít Pěnička",
+      "text": "Já na to strašně rád vzpomínám, protože to prožívám i teďka, když jsem v tom kurzu, něco opakuju nebo tak. Ten začátek byl určitým kusem náročný, ale bylo to tím, že jsem poznával sám sebe a že jsem sám sebe nějak měnil podle nějakých svých představ. A sahal jsem si na témata, která pro mě byla poměrně zásadní, což nemusí být vždy lehké, ale to ani není asi…"
+    },
+    {
+      "i": 18,
+      "t": 316,
+      "speaker": "Vít Pěnička",
+      "text": "Bylo to prostě super, no. Bylo to fajn, bylo pro to vytvořené příjemné a bezpečné prostředí a hodně mě v tom podporovali i ti moji spolužáci."
+    },
+    {
+      "i": 19,
+      "t": 327,
+      "speaker": "CoachVille",
+      "text": "Jak bys to srovnal, že to pro tebe v té době byla vlastně zkušenost, kterou jsi zažíval paralelně, české školství, gymnázium, versus studium v CoachVille?"
+    },
+    {
+      "i": 20,
+      "t": 343,
+      "speaker": "Vít Pěnička",
+      "text": "Tak byly to dva úplně odlišné přístupy ke vzdělání. A v tom CoachVille jsem věděl, že jsme tam všichni s podobným záměrem, něco se učit, poznávat sami sebe a vzájemně se v tom podporovat, a asi takhle to mám primárně."
+    },
+    {
+      "i": 21,
+      "t": 363,
+      "speaker": "CoachVille",
+      "text": "Takže vlastně jsi takhle začínal s koučováním a ty ses v tom tréninku určitě setkal se spoustou lidí v různých věkových skupinách, různých oborů. Tak jaký to vlastně bylo pro tebe koučovat někoho, kdo je třeba o desítky let starší nebo o mnoho let zkušenější? Jak bys tu zkušenost někomu přiblížil?"
+    },
+    {
+      "i": 22,
+      "t": 395,
+      "speaker": "Vít Pěnička",
+      "text": "Nejmladší, koho jsem potkal za ty dva a půl roku, tak měl určitě přes třicet. A většinou ti moji spolužáci, se kterými jsem zkoušel, měli 40, 50, 60 plus, ale byli tomu otevření, dali mi tu možnost a byli hodně podporující, takže to bylo fajn. Bylo to super, bylo to zajímavé a díky tomu jsem se naučil komunikovat i se staršími lidmi, pochopit je, porozumět jim, a určitě z toho budu čerpat teďka dál do života."
+    },
+    {
+      "i": 23,
+      "t": 425,
+      "speaker": "CoachVille",
+      "text": "Jedna z častých domněnek je, jestli může koučovat někdo, kdo je mnohem mladší a má teda méně životních zkušeností. Já na to samozřejmě odpověď znám, ale vlastně ty jsi ten, kdo to zažíval. Čili čeho sis všiml o tom, jak je možné koučovat někoho, kdo je mnohem starší, že i ty mu můžeš nějakým způsobem být užitečný? Jak bys to popsal?"
+    },
+    {
+      "i": 24,
+      "t": 460,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě si to ti starší lidé museli se mnou zažít, vyzkoušet, nebo mě aspoň slyšet při tom. A postupně, jak jsme procházeli tím kurzem… Je to nějaký skill, který se dá naučit, a podporují to nějaké schopnosti a superschopnosti, které v sobě máme. Takže je to takový balíček a věk to úplně neurčuje."
+    },
+    {
+      "i": 25,
+      "t": 490,
+      "speaker": "CoachVille",
+      "text": "Čili když to o věku není, tak je to spíš o čem? Jak bys to popsal?"
+    },
+    {
+      "i": 26,
+      "t": 497,
+      "speaker": "Vít Pěnička",
+      "text": "Asi o tom mindsetu, být tomu otevřený, a jako… No, prostě být otevřený při tom učení se těch technik a myšlenek."
+    },
+    {
+      "i": 27,
+      "t": 513,
+      "speaker": "CoachVille",
+      "text": "A jak se na těch živých lekcích nebo po nich cítíš z hlediska energie? Je to pro tebe spíše náročná zátěž, nebo je to zábavná a osvěžující činnost, nebo to bývá pokaždý jinak? Jak jsi to prožíval?"
+    },
+    {
+      "i": 28,
+      "t": 532,
+      "speaker": "Vít Pěnička",
+      "text": "Já jsem to zažíval tak, že to pro mě bylo mírně náročné z toho energetického hlediska, ale je to tím, že jsem poměrně perfekcionista, dával jsem si záležet, psal jsem si všechny možné poznámky, chtěl jsem vědět všechno, ale… To bylo v ten den, a pak když jsem se druhý den probudil, tak jsem z té lekce čerpal ty myšlenky, přemýšlel jsem o tom, byl jsem v kontaktu s těmi spolužáky. A pro mě to nebyla třeba jednodenní záležitost, ale byl to nějaký styl života, který jsem si tím budoval."
+    },
+    {
+      "i": 29,
+      "t": 568,
+      "speaker": "CoachVille",
+      "text": "Jak bys ten styl popsal?"
+    },
+    {
+      "i": 30,
+      "t": 576,
+      "speaker": "Vít Pěnička",
+      "text": "Napadá mě: Udělej si sám. Jak si to člověk postaví, jak si to člověk zařídí, jak to chce, tak to může mít."
+    },
+    {
+      "i": 31,
+      "t": 586,
+      "speaker": "CoachVille",
+      "text": "Co pro tebe vlastně hrálo roli v tom, že ses rozhodl jít do ACC programu po transformačním koučování?"
+    },
+    {
+      "i": 32,
+      "t": 604,
+      "speaker": "Vít Pěnička",
+      "text": "Viděl jsem víc těch přínosů než to, že to pro mě bylo těžké. Rozhodoval jsem se asi tady mezi tímhle, a to, že je něco těžké, pro mě úplně není důvod to vzdát."
+    },
+    {
+      "i": 33,
+      "t": 619,
+      "speaker": "CoachVille",
+      "text": "Čili svým způsobem je to ta obtížnost, která je pro tebe nějakým způsobem zajímavá z hlediska toho, že ji chceš prostě zdolat. Přesně tak. A co pro tebe vlastně bylo těžší, než jsi čekal?"
+    },
+    {
+      "i": 34,
+      "t": 640,
+      "speaker": "Vít Pěnička",
+      "text": "Nějaké moje myšlenkové vzorce a vzorce chování, které jsem v sobě měl, ať už z dětství, nebo z toho dospívajícího věku. A i když jsem o tom věděl, snažil jsem se s tím nějak pracovat, tak když to člověk pak vezme do hloubky a postupně to rozebírá, je to asi jako když se vrtá kaz, trošku, tak pořád se jde hloubš a hloubš, ale pak… [nesrozumitelné] pryč a je to takový čistý a svěží."
+    },
+    {
+      "i": 35,
+      "t": 668,
+      "speaker": "CoachVille",
+      "text": "Kdyby poslouchal tenhle podcast někdo, kdo má třeba taky sklony k perfekcionistickým tendencím a zvažuje to, že začne s koučováním, co bys mu na základě svojí zkušenosti doporučil?"
+    },
+    {
+      "i": 36,
+      "t": 693,
+      "speaker": "Vít Pěnička",
+      "text": "Nebrat to jako školu, nebo nebrat to jako nějakou práci, kde je A a B, prostě udělám toto, toto, ale brát to tak nějak hravě, stylem, že se to prostě stane součástí toho člověka. A hlavně si to prožívat a zažívat, než to brát tak, že mám tady seznam věcí, který bych se měl naučit. O tom to úplně není."
+    },
+    {
+      "i": 37,
+      "t": 719,
+      "speaker": "CoachVille",
+      "text": "Čili to je vlastně o experimentaci, o prožívání, a je to o tom nebrat to jako lineární proces, kdy si odškrtneš nějaký věci, abys to dělal správně. Tak ta správnost tam asi hraje důležitou roli. Čili co ti vlastně pomohlo v tom, aby"
+    },
+    {
+      "i": 38,
+      "t": 751,
+      "speaker": "CoachVille",
+      "text": "ten perfekcionismus nebyl něčím, co tě v tom limituje?"
+    },
+    {
+      "i": 39,
+      "t": 760,
+      "speaker": "Vít Pěnička",
+      "text": "Pomohlo mi to, že mě to bavilo. Bavil mě ten proces, bavilo mě to učení, bavilo mě to praktikování a ta aplikace. A to bylo víc, než si odškrtávat nějaké věci na seznamu."
+    },
+    {
+      "i": 40,
+      "t": 771,
+      "speaker": "CoachVille",
+      "text": "Jasně. A když si vybavíš vlastně ty první hodiny s parťáky… nebo s hráči, který jsi koučoval, co jsi v těch hodinách objevil?"
+    },
+    {
+      "i": 41,
+      "t": 788,
+      "speaker": "Vít Pěnička",
+      "text": "Objevil jsem to, že jsem velkej introvert. A teď si nesu to, že když chci poznávat nové lidi, tak je to o tom je prostě oslovit. A oni nekoušou a může to být super příležitost. A aplikuju to i teď, právě na vysoké."
+    },
+    {
+      "i": 42,
+      "t": 809,
+      "speaker": "CoachVille",
+      "text": "Co vlastně hrálo roli v tom, že jsi objevil, že jsi introvert, a co tím vlastně myslíš, že jsi introvert?"
+    },
+    {
+      "i": 43,
+      "t": 819,
+      "speaker": "Vít Pěnička",
+      "text": "Teď mi trošku utekly myšlenky."
+    },
+    {
+      "i": 44,
+      "t": 826,
+      "speaker": "CoachVille",
+      "text": "Co hrálo roli v tom, že jsi objevil, že jsi introvert, a co tím vlastně myslíš, že jsi introvert?"
+    },
+    {
+      "i": 45,
+      "t": 839,
+      "speaker": "Vít Pěnička",
+      "text": "Hlavní roli v tom hrálo to, že koučování je o lidech, je to koučování s lidmi, a tím pádem je potřeba se seznamovat s novými lidmi, poznávat nové lidi a být tomu otevřený. A zjistil jsem, že jsem v tom měl nějaké výzvy a překážky, které jsem potřeboval a chtěl překonat. A pořád se mi to vracelo v životě i v tom koučování a zjistil jsem, že to je něco, na čem si musím dát trošku víc záležet."
+    },
+    {
+      "i": 46,
+      "t": 868,
+      "speaker": "CoachVille",
+      "text": "Takže tam byl vlastně nekomfort v tom navazování kontaktu s novými lidmi, který pravděpodobně cítí spousta lidí. Co ti v tom pomohlo? Kdyby to byla jako drobnost."
+    },
+    {
+      "i": 47,
+      "t": 899,
+      "speaker": "Vít Pěnička",
+      "text": "První, co mě napadá, tak mi v tom pomohlo to, že to tak většinou měli podobně i ti lidé na druhé straně, ti spolužáci, a byli jsme v tom jakoby nastejno. A tím pádem jsme si navzájem chtěli pomoct, chtěli jsme si to zpříjemnit, a naráželi jsme si jako klacky pod nohy. A když jsme se spojili, tak jsme se vždycky snažili maximálně vyhovět, spolupracovat."
+    },
+    {
+      "i": 48,
+      "t": 925,
+      "speaker": "CoachVille",
+      "text": "Čili jakou máš zkušenost s tím, že můžeš být někomu užitečný i přesto, že jsi na začátku svého výcviku? Je možný, že už třeba v těch prvních hodinách, kdy jsi někoho koučoval, ti někdo za něco poděkoval. Jakou s tím máš zkušenost? Někdo se totiž domnívá, že když je teprve na začátku, tak to určitě nebude pomáhat, nebo že by dokonce mohl někomu druhému ublížit. Čili jakou máš zkušenost s tím pomáháním,"
+    },
+    {
+      "i": 49,
+      "t": 955,
+      "speaker": "CoachVille",
+      "text": "byť jsou to prostě první hodiny koučování?"
+    },
+    {
+      "i": 50,
+      "t": 959,
+      "speaker": "Vít Pěnička",
+      "text": "Tak určitě už v těch prvních hodinách to mělo přínos pro obě dvě strany. Každá ta strana si v tom něco našla, něco uvědomila. A jsou poměrně asi základní pravidla pro to koučování, která zaručují to, aby to bylo bezpečné, důvěrné a nějak eticky prostě v pořádku pro obě dvě ty strany. A není úplně těžké je dodržet, nejspíš teda pro většinu asi."
+    },
+    {
+      "i": 51,
+      "t": 992,
+      "speaker": "Vít Pěnička",
+      "text": "A když člověk nechce tomu druhýmu uškodit, tak mu nejspíš neuškodí, no. Záleží, jak si to ten druhý vezme. Ale každopádně byla to super příležitost, super jako ty první… Já bych rád začal od začátku, trošku jsem se v tom zamotal."
+    },
+    {
+      "i": 52,
+      "t": 1018,
+      "speaker": "CoachVille",
+      "text": "Jakou máš zkušenost s tím,"
+    },
+    {
+      "i": 53,
+      "t": 1021,
+      "speaker": "CoachVille",
+      "text": "že můžeš klientovi pomoct už na začátku svýho výcviku, třeba v prvních hodinách?"
+    },
+    {
+      "i": 54,
+      "t": 1037,
+      "speaker": "Vít Pěnička",
+      "text": "Ta…"
+    },
+    {
+      "i": 55,
+      "t": 1038,
+      "speaker": "Vít Pěnička",
+      "text": "Zkušenost je určitě pozitivní, protože už je to první setkání, které nemusí řešit něco úplně do hloubky. Tak je to pro ty lidi něco nového, nějaký nový přístup, který má své výhody"
+    },
+    {
+      "i": 56,
+      "t": 1059,
+      "speaker": "Vít Pěnička",
+      "text": "a má své nějaké důsledky a tak."
+    },
+    {
+      "i": 57,
+      "t": 1064,
+      "speaker": "CoachVille",
+      "text": "Jakou máš vlastně emoci, kterou zažíváš, když vlastně někoho koučuješ a jste spolu v tom přítomném okamžiku? Jaký to pro tebe je?"
+    },
+    {
+      "i": 58,
+      "t": 1085,
+      "speaker": "Vít Pěnička",
+      "text": "Tak v první řadě se tak nějak snažím uzemnit, soustředit se čistě na toho jedince, co je přede mnou, a je to prostě čas, který mu maximálně věnuju. A je to pouze o tom hráči, a mně už hlavou většinou neběží žádné moje vlastní myšlenky. A je to takové, že jsem tady pro něj, a tomu hráči, tomu klientovi to umožňuje se otevřít a cítit se důvěrně a bezpečně."
+    },
+    {
+      "i": 59,
+      "t": 1113,
+      "speaker": "CoachVille",
+      "text": "A když si vybavíš typy hráčů, jejich témat, se kterými přicházejí, tak kdo jsou vlastně ty lidi, se kterýma se ti dobře spolupracovalo, který jsi rád koučoval? Jaké měli charakteristiky nebo jaké byly ty společné prvky?"
+    },
+    {
+      "i": 60,
+      "t": 1147,
+      "speaker": "Vít Pěnička",
+      "text": "Většinou to jsou tak nějak obecně [nesrozumitelné] lidé, kteří potřebují víc toho prostoru a cítit se fakt na 100 % bezpečně a důvěrně pro to, aby se otevřeli. A ta témata, ono na jednom setkání může být takové téma, na druhém může být úplně jiné téma, takže tématem se to nedá úplně stanovit. Ale většinou to jsou témata zaměřená na další lidi, bych asi řekl, takové."
+    },
+    {
+      "i": 61,
+      "t": 1187,
+      "speaker": "CoachVille",
+      "text": "A když si vybavíš něco ze zpětné vazby, kterou jsi dostal od někoho, koho jsi koučoval, od klientů, tak za co ti lidé poděkovali?"
+    },
+    {
+      "i": 62,
+      "t": 1204,
+      "speaker": "Vít Pěnička",
+      "text": "První takové věci, co mě napadají, je právě ta důvěra, ta intimita, to nějaké bezpečné prostředí. Že z nikoho rozhodně netahám žádné informace a na nikoho netlačím. Každý má své tempo."
+    },
+    {
+      "i": 63,
+      "t": 1225,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě i to, že cítili nějakou míru pochopení, protože se do lidí snažím a umím poměrně dobře vcítit. A potom je to cítit, no."
+    },
+    {
+      "i": 64,
+      "t": 1239,
+      "speaker": "CoachVille",
+      "text": "Jakých změn sis u nich všiml v průběhu vašich setkávání? Co jsi viděl vlastně u ostatních, který jsi koučoval, když jsi s nima byl? V průběhu těch dalších setkání, v průběhu další doby, čeho sis všiml u ostatních, že se u nich vyvíjelo nebo měnilo?"
+    },
+    {
+      "i": 65,
+      "t": 1262,
+      "speaker": "Vít Pěnička",
+      "text": "Bylo to… Když řeknu přístup k životu, tak je to takové obecné, ale byly to nějaké takové malé nuance, že ten svět přestávali vidět tolik negativně, hledali i víc toho pozitivního a hledali ty příležitosti, které je potom posouvají dál. A cokoliv si nějak třeba uvědomili nebo se naučili o sobě, tak to potom vyhledávali dál v tom životě."
+    },
+    {
+      "i": 66,
+      "t": 1295,
+      "speaker": "CoachVille",
+      "text": "A jak se cítíš dneska ve srovnání s tou dobou před vstupem do CoachVille? V čem je to pro tebe vlastně odlišné v tom, jak se cítíš?"
+    },
+    {
+      "i": 67,
+      "t": 1314,
+      "speaker": "Vít Pěnička",
+      "text": "Tak…"
+    },
+    {
+      "i": 68,
+      "t": 1315,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě se cítím trošičku víc sebejistě."
+    },
+    {
+      "i": 69,
+      "t": 1321,
+      "speaker": "Vít Pěnička",
+      "text": "To, že je někdo introvert, třeba jako já, tak už nepoužívám jako nějaký popis té osobnosti, ale prostě vím, že třeba takový jsem, ale jsou příležitosti, kdy takový nechci být a nepotřebuji. A proto hledám jiný přístup a ten aplikuju na tu danou situaci. Takže jsem určitě víc otevřený a komunikativní, protože tím, že jsem vyhnal svoje bubáky ze skříně, tak už se nepotřebuji tolik schovávat před ostatními."
+    },
+    {
+      "i": 70,
+      "t": 1354,
+      "speaker": "Vít Pěnička",
+      "text": "A naučil jsem se obecně mluvit o tématech, která pro mě mohla být tenkrát tabu."
+    },
+    {
+      "i": 71,
+      "t": 1360,
+      "speaker": "CoachVille",
+      "text": "A jak bys popsal ten dopad, který má vlastně tvá zkušenost být v CoachVille, učit se koučovat ostatní, nebo když někdo koučuje tebe? Jaký to má dopad vlastně na tvůj život? Popiš prostě různý formy toho, co je ten dopad, který to na tebe má."
+    },
+    {
+      "i": 72,
+      "t": 1384,
+      "speaker": "Vít Pěnička",
+      "text": "Tak primárně jsem si to začal uvědomovat už v průběhu toho výcviku, ale obzvlášť prostě po nějaké delší době, že to pro mě není jenom o tom, že se naučím nějaké techniky, jak druhým pomáhat nebo pracovat s nimi. Není to o tom, že já si uvědomím nějaké myšlenky, ale je to o tom, že se na svět dívám jinak, dostávám víc těch pohledů na ty jednotlivé situace a potom si z nich můžu vybírat to, co"
+    },
+    {
+      "i": 73,
+      "t": 1414,
+      "speaker": "Vít Pěnička",
+      "text": "mně sedí třeba víc, ale většinou se snažím být hodně objektivní."
+    },
+    {
+      "i": 74,
+      "t": 1423,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě to podle mě zlepšilo i vztahy s kamarády a s rodinou. Že když se s někým nacházím v jakémkoliv vztahu, tak se na to nekoukám čistě ze své perspektivy, ale i ze strany toho druhého, třeba ze strany třetí osoby, kdyby tam byla."
+    },
+    {
+      "i": 75,
+      "t": 1443,
+      "speaker": "Vít Pěnička",
+      "text": "Tím, že jsem hodně emotivní, tak si uvědomuji, že se na to dá podívat i bez těch emocí a potom s těmi emocemi, a vybrat si nějakou tu cestu."
+    },
+    {
+      "i": 76,
+      "t": 1456,
+      "speaker": "CoachVille",
+      "text": "Jak bys popsal, že koučování ovlivnilo tvoje vztahy, ať už ty rodinné, nebo ty přátelské?"
+    },
+    {
+      "i": 77,
+      "t": 1471,
+      "speaker": "Vít Pěnička",
+      "text": "Ovlivnilo je to tak, že když se třeba něco stane mezi mnou a někým, tak se na to nejdřív podívám z pohledu toho druhého než ze svého a nereaguju na základě toho, jak já se v ten moment cítím. Protože každý věci zažíváme jinak, prožíváme je jinak, a snažím se hledat to řešení pro ty obě dvě strany."
+    },
+    {
+      "i": 78,
+      "t": 1499,
+      "speaker": "CoachVille",
+      "text": "Dobrá, dobrá. Jak se vlastně v průběhu času vyvíjela tvoje představa o koučování jako o oboru?"
+    },
+    {
+      "i": 79,
+      "t": 1509,
+      "speaker": "Vít Pěnička",
+      "text": "Velice rychle a velice různorodě. Každým měsícem jsem měl úplně jinou představu, jiný názor. A když jsem do toho vstoupil a nějací kamarádi se mě ptali, co to je koučování, tak jsem prostě nevěděl. Nejradši bych jim podal nějakou příručku, kde by to bylo nějak popsané. A když jsem to v průběhu času třeba říkal, tak i oni, i já jsme si všímali, že to říkám jinak. A to bylo docela k zamyšlení, no."
+    },
+    {
+      "i": 80,
+      "t": 1541,
+      "speaker": "CoachVille",
+      "text": "Čili k zamyšlení, zkusíš to doplnit?"
+    },
+    {
+      "i": 81,
+      "t": 1546,
+      "speaker": "Vít Pěnička",
+      "text": "K zamyšlení bylo to, že… Není to úplně tím, že by se mi ten názor měnil, ale spíš se nějak vyvíjel tím, že jsem šel víc do hloubky, víc jsem poznával, o čem to je, jak to třeba vzniklo, a na čem je to založené. A postupně jsem tomu prostě rozuměl víc a víc, ale myslím si, že není nějaká finální stanice, kdy by člověk mohl říct, já vím, co je to koučování. Prostě pojď si to zažít."
+    },
+    {
+      "i": 82,
+      "t": 1575,
+      "speaker": "CoachVille",
+      "text": "A když se podíváme na ty zkušenosti, kdy jsi dal možnost, aby si to někdo třeba z tvých přátel vyzkoušel s tebou, pojď říct nějaký příklad toho, jaký to pro něj bylo, co ti k tomu řekl. Byl to třeba někdo, kdo byl vůči tomu nedůvěřivý nebo skeptický, a vyzkoušel si to a objevil vlastně rozdíl? Můžeš říct nějaký příklad?"
+    },
+    {
+      "i": 83,
+      "t": 1634,
+      "speaker": "Vít Pěnička",
+      "text": "[nesrozumitelné] Bylo to super, bylo to podle mě strašně přínosné pro obě dvě strany, hrozně mě to s ním bavilo, měli jsme víc těch setkání. A až potom, co jsem ho koučoval, tak jsme si sedli a dokázali jsme se o tom pobavit a už jsme to vnímali jakoby podobně, víc, možná i stejně. A byl to pro nás takový další most v tom přátelství."
+    },
+    {
+      "i": 84,
+      "t": 1660,
+      "speaker": "CoachVille",
+      "text": "Vybavíš si, co on k tomu řekl?"
+    },
+    {
+      "i": 85,
+      "t": 1666,
+      "speaker": "Vít Pěnička",
+      "text": "Řekl, myslím, že ho to fascinuje, že je to zvláštní, ale zajímavý. A zároveň ze své zkušenosti vím, že když se ten člověk do toho vžije a fakt hraje jako ten hráč, jako ten klient, tak už nejde udržet tu pozornost úplně nad tím, co dělá ten kouč, co dělá ten… co ho tím provází, a je to o tom jeho vlastním zážitku a prožitku."
+    },
+    {
+      "i": 86,
+      "t": 1694,
+      "speaker": "Vít Pěnička",
+      "text": "Potom vím, že to byly takové první myšlenky, a pak už prostě fakt řešil ten svůj život a bylo to koučování."
+    },
+    {
+      "i": 87,
+      "t": 1703,
+      "speaker": "CoachVille",
+      "text": "A co bys řekl někomu, kdo třeba před vstupem váhá, protože má za to, že nebude mít koho koučovat?"
+    },
+    {
+      "i": 88,
+      "t": 1718,
+      "speaker": "Vít Pěnička",
+      "text": "Já bych řekl, že se dá koučovat kdokoliv, a na světě je spousta lidí, opravdu spousta lidí, a nikdy se člověk nesetká se všemi, natož aby je mohl koučovat. Těch lidí je prostě hromada a je spousta cest a způsobů, jak ty lidi kontaktovat, jak se k nim dostat, jak se dostat do toho povědomí."
+    },
+    {
+      "i": 89,
+      "t": 1748,
+      "speaker": "Vít Pěnička",
+      "text": "Je to asi stejné jako v jakékoliv jiné práci, kde člověk sám hledá tu klientelu a klienty, tak je to o tom se zapsat."
+    },
+    {
+      "i": 90,
+      "t": 1758,
+      "speaker": "CoachVille",
+      "text": "Jaký to pro tebe je, vlastně mít možnost koučovat online oproti koučovat osobně?"
+    },
+    {
+      "i": 91,
+      "t": 1768,
+      "speaker": "Vít Pěnička",
+      "text": "To je za mě totální game changer, protože to je moje první takový… Hlavní nárok na jakoukoliv moji práci v budoucnu, že to chci být schopný dělat online, odkudkoliv, kdykoliv a kdekoliv, za jakýchkoliv podmínek. [nesrozumitelné] A díky tomu jsem si našel i další příbuzné obory, které se dají také dělat online. A je to prostě pro mě takové minimum."
+    },
+    {
+      "i": 92,
+      "t": 1796,
+      "speaker": "CoachVille",
+      "text": "A když vlastně,"
+    },
+    {
+      "i": 93,
+      "t": 1801,
+      "speaker": "CoachVille",
+      "text": "kdybys mohl říct, pro koho si myslíš, že výcvik v… [nesrozumitelné]"
+    },
+    {
+      "i": 94,
+      "t": 1811,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě ne, protože pokud si to člověk nevyzkouší, nezažije to, tak mě nenapadá jediný důvod, proč by to pro někoho nemělo být. To si myslím, že když ten člověk ještě nemá tu zkušenost, ten zážitek, tak nemůže říct, že to pro něj není."
+    },
+    {
+      "i": 95,
+      "t": 1834,
+      "speaker": "CoachVille",
+      "text": "A co bys řekl člověku, který je třeba teďka v podobné situaci, jako jsi byl ty před vstupem do výcviku? Nebo co bys mu naopak neřekl?"
+    },
+    {
+      "i": 96,
+      "t": 1848,
+      "speaker": "Vít Pěnička",
+      "text": "No, určitě bych s takovým človíčkem rád mluvil a víc ho navnímal, jaká je to situace, a potom bych… [nesrozumitelné] Obecně, když si představím sám sebe, tak aby si našel nebo vybral někoho ve svým okolí, kdo ho podporuje v tom, co ho baví a co dělá, dělat úplně cokoliv, a s tím člověkem se o tom pobavil."
+    },
+    {
+      "i": 97,
+      "t": 1884,
+      "speaker": "Vít Pěnička",
+      "text": "A určitě i tím, že jsem vstoupil do toho koučování, se mi tím hodně změnil okruh přátel. Protože jsou lidé, kteří mě na základě toho nějak odstřihli nebo mají svůj názor, který nechtějí měnit, a to mi umožnilo prostě prozřít a nechat si kolem sebe lidi, kteří mě budou podporovat."
+    },
+    {
+      "i": 98,
+      "t": 1906,
+      "speaker": "CoachVille",
+      "text": "Ty jsi vlastně vstoupil do koučování ve věku 18 let."
+    },
+    {
+      "i": 99,
+      "t": 1916,
+      "speaker": "CoachVille",
+      "text": "My jsme se o tom tehdy bavili, že… A jestli to bude, nebo nebude výhoda, nebo nevýhoda. Ale samozřejmě, když vezmeme, že bys s tím čekal na někdy později, třeba až ti bude 38, tak v té době už budeš mít 20 let zkušeností s koučováním. Čili jsi do toho vstoupil vlastně s takovou odvahou prostě v tomhle věku."
+    },
+    {
+      "i": 100,
+      "t": 1948,
+      "speaker": "CoachVille",
+      "text": "Co bys vzkázal dalším lidem, kteří o tom uvažují, ať už jsou na střední škole, nebo jsou na vysoké, o té zkušenosti celkově, o tom záměru jít do toho, i přesto, že třeba spousta lidí s tebou spolupracovat nebude, protože tam budou mít tu domněnku, že jsi o mnoho mladší? Tak vlastně s tím, co teď víš po těch dvou a půl letech, co bys vzkázal ostatním, kteří jsou v podobné věkové skupině?"
+    },
+    {
+      "i": 101,
+      "t": 1982,
+      "speaker": "Vít Pěnička",
+      "text": "Vzkázal bych to, že všechno má své výhody i nevýhody. A tím, že je drtivá většina lidí, kteří jsou v tomhle oboru, starší než oni, tak vidí ty jejich výhody a nevýhody. Ale ta jejich cesta bude hodně odlišná, bude mít hodně jiných příležitostí a těch cest a možností. Stejně tak výhod a nevýhod. A vždycky je to prostě, ať už je to jakékoliv, tak se s tím dá prostě pracovat."
+    },
+    {
+      "i": 102,
+      "t": 2013,
+      "speaker": "Vít Pěnička",
+      "text": "A tak no, jako, nevím, nedokážu si představit, jestli bych do toho šel v nějakém pozdějším věku, jak by to vypadalo, a jsem rád za to, jak to je, a naučil jsem se s tím prostě hrát a pracovat."
+    },
+    {
+      "i": 103,
+      "t": 2027,
+      "speaker": "CoachVille",
+      "text": "Je něco, co bys chtěl, aby ti někdo řekl na začátku, a nikdo ti to neřekl? Něco, co by byla taková zpráva, která by ti tehdy vlastně posloužila, ale ty ses ji tehdy nedozvěděl? Tak vlastně něco, co můžeš říct někomu dalšímu?"
+    },
+    {
+      "i": 104,
+      "t": 2052,
+      "speaker": "Vít Pěnička",
+      "text": "Asi ne, protože kdyby to bylo třeba něco z budoucnosti, nebo něco od někoho, kdo by ve mně viděl to, co jsem v sobě tenkrát neviděl, tak tím, že bych si to neprožil a nezažil, tak bych tomu neuvěřil."
+    },
+    {
+      "i": 105,
+      "t": 2066,
+      "speaker": "CoachVille",
+      "text": "A co bys řekl někomu, kdo dneska třeba… Ať už kvůli času, nebo kvůli penězům, nebo kvůli sebedůvěře. Nebo na co by ses takovýho člověka zeptal?"
+    },
+    {
+      "i": 106,
+      "t": 2081,
+      "speaker": "Vít Pěnička",
+      "text": "Asi bych se tě zeptal, jak tě to napadlo?"
+    },
+    {
+      "i": 107,
+      "t": 2090,
+      "speaker": "Vít Pěnička",
+      "text": "Nebo proč o tom vůbec uvažuje? Co jsou ty myšlenky k tomu, že třeba poslouchá tenhle podcast, anebo že si zjišťuje informace o tom, co je koučování a jakou to pro něj má hodnotu."
+    },
+    {
+      "i": 108,
+      "t": 2108,
+      "speaker": "CoachVille",
+      "text": "A měl jsi ty sám nějaké pochybnosti ohledně času, peněz nebo sebedůvěry?"
+    },
+    {
+      "i": 109,
+      "t": 2114,
+      "speaker": "Vít Pěnička",
+      "text": "Ohledně tady toho všeho, no. Času skrz školu, peněz taky, protože mě v tom rodina tenkrát nechtěla finančně podpořit, a byl jsem student. Blížila se mi maturita, nebylo úplně v úvahu, že bych chodil do práce nebo na brigády nějak extra. A důvěry, tak to bylo to hlavní, proč jsem nejdelší dobu váhal."
+    },
+    {
+      "i": 110,
+      "t": 2138,
+      "speaker": "CoachVille",
+      "text": "Co ti s tím tehdy pomohlo? Protože ses nakonec rozhodl, že do toho vstoupíš, pravděpodobně tam mohl být nějaký moment, kdy jsi prostě řekl, že už máš jasno."
+    },
+    {
+      "i": 111,
+      "t": 2154,
+      "speaker": "Vít Pěnička",
+      "text": "Byl moment, kdy jsem byl v parku s kamarádem a kamarádkou a už jsem cítil, že je to pro mě vypjaté, že pořád se stupňovalo to, proč ano, a pořád se stupňovalo to, proč ne. A v ten moment jsem cítil, že bych se chtěl rozhodnout, a vím, že jsem ti volal, volali jsme spolu ani ne minutu. A vůbec nevím… Vím, že jsi řekl jednu jedinou otázku, a v ten moment jsem se rozhodl. Ale co to přesně bylo, to si nepamatuji, jenom si pamatuji tenhle zážitek."
+    },
+    {
+      "i": 112,
+      "t": 2185,
+      "speaker": "CoachVille",
+      "text": "To já si taky nepamatuju, na co jsem se zeptal."
+    },
+    {
+      "i": 113,
+      "t": 2190,
+      "speaker": "CoachVille",
+      "text": "Nicméně to je velice zajímavý moment, kdy vlastně máme ano, nebo ne. To rozhodování je vlastně náročný, protože pořád je tam vlastně nějaký vyvažování."
+    },
+    {
+      "i": 114,
+      "t": 2205,
+      "speaker": "CoachVille",
+      "text": "A nicméně na tom je zajímavá jedna věc, že kdyby to bylo čisté ne, tak by ses o tom ani neuvažoval. Přesně tak. Tak vlastně by to nebyla ani ta možnost. Ale tím, že ti na tom třeba záleželo, tak člověk vlastně chce uspět a nechce neuspět, tak potom je tady tohle uvažování náročný. Ty jsi tehdy třeba vyzkoušel hodinu s koučem předtím, než jsi vstoupil?"
+    },
+    {
+      "i": 115,
+      "t": 2238,
+      "speaker": "Vít Pěnička",
+      "text": "Bohužel ne, toho… Ne, že bych toho litoval, bylo to, jak to bylo, ale nevím. To jsem si bohužel nevyzkoušel."
+    },
+    {
+      "i": 116,
+      "t": 2247,
+      "speaker": "CoachVille",
+      "text": "Jasně. Je to někdy vlastně ten vlastní zážitek, a v tom může pomoct. A taky si říkám, že to rozhodování na začátku je vlastně ta nejtěžší z těch fází. A myslím, že máš taky takovou zkušenost. Dozajista."
+    },
+    {
+      "i": 117,
+      "t": 2264,
+      "speaker": "CoachVille",
+      "text": "Čili co se stalo poté, co ses vlastně rozhodl a začal jsi? Čím to bylo odlišné od té fáze toho rozhodování?"
+    },
+    {
+      "i": 118,
+      "t": 2274,
+      "speaker": "Vít Pěnička",
+      "text": "Já si vzpomínám, že už v ten moment, kdy jsem se rozhodl, že ano, se mi ulevilo a prostě už to byla ta moje cesta a neřešil jsem, co by bylo, kdybych se pro to nerozhodl."
+    },
+    {
+      "i": 119,
+      "t": 2287,
+      "speaker": "CoachVille",
+      "text": "Čili cesta se vyjasnila a ta nejtěžší fáze tím mohla skončit. Přesně tak. Aby ta hezká fáze mohla začít. Hezký."
+    },
+    {
+      "i": 120,
+      "t": 2302,
+      "speaker": "CoachVille",
+      "text": "Když se podíváš vlastně do takového výhledu do budoucna, tak jak koučování patří do toho, čemu se v budoucnu chceš věnovat?"
+    },
+    {
+      "i": 121,
+      "t": 2313,
+      "speaker": "Vít Pěnička",
+      "text": "Je to hlavní pilíř nějaké mé cesty, kterou jsem si definoval, a ona je taková ještě trošku obecnější a nelze ji úplně jednoduše vystihnout. Ale chci pracovat s lidmi, chci lidem porozumět, ve většině případů je pochopit a umět s nimi pracovat na různých úrovních, pracovat s tím myšlením, chováním, ať už s vlastním, nebo druhých, a to přesně je koučování."
+    },
+    {
+      "i": 122,
+      "t": 2352,
+      "speaker": "CoachVille",
+      "text": "Čili to je vlastně pro tebe do budoucna spojení koučování s nějakou specifickou skupinou nebo skupinami lidí, kde to bude rezonovat s tím, že tady tenhle záměr teprve budeš objevovat. Ano."
+    },
+    {
+      "i": 123,
+      "t": 2371,
+      "speaker": "CoachVille",
+      "text": "Víte, máš nějaké oblíbené motto nebo citát, který tě inspiruje?"
+    },
+    {
+      "i": 124,
+      "t": 2376,
+      "speaker": "Vít Pěnička",
+      "text": "Mám. Vůbec nevím, kde jsem ho začal používat a kde vznikl. Ale je to: Co dělám, tak dělám naplno."
+    },
+    {
+      "i": 125,
+      "t": 2386,
+      "speaker": "CoachVille",
+      "text": "Co bys"
+    },
+    {
+      "i": 126,
+      "t": 2387,
+      "speaker": "CoachVille",
+      "text": "vzkázal budoucím koučům nebo lidem, kteří třeba zvažují, že si koučování vyzkouší jako klient?"
+    },
+    {
+      "i": 127,
+      "t": 2397,
+      "speaker": "Vít Pěnička",
+      "text": "Já…"
+    },
+    {
+      "i": 128,
+      "t": 2398,
+      "speaker": "Vít Pěnička",
+      "text": "Já bych vzkázal to, ať to berou jako zážitek, který si prožijou. Bylo by fajn, kdyby tomu byli nějak otevření, ať na sebe netlačí, protože asi není důvod proč. A prostě si to zažít a užít naplno."
+    },
+    {
+      "i": 129,
+      "t": 2423,
+      "speaker": "CoachVille",
+      "text": "Víte,"
+    },
+    {
+      "i": 130,
+      "t": 2424,
+      "speaker": "CoachVille",
+      "text": "je něco, na co zatím nepřišla řeč a chtěl bys to zmínit z té své dosavadní cesty výcvikem?"
+    },
+    {
+      "i": 131,
+      "t": 2434,
+      "speaker": "CoachVille",
+      "text": "Něco, na co jsem se třeba ještě nezeptal."
+    },
+    {
+      "i": 132,
+      "t": 2441,
+      "speaker": "Vít Pěnička",
+      "text": "Jenom bych chtěl zdůraznit ty parťáky, kolegy a spolužáky, i ty lektory a mentory, co jsme během toho celého výcviku měli a máme, že to je strašně super komunita, strašně super parta lidí a bez nich by ten výcvik určitě nebyl takový, jaký je."
+    },
+    {
+      "i": 133,
+      "t": 2467,
+      "speaker": "CoachVille",
+      "text": "Víte, jak se s tebou můžou posluchači a diváci spojit, kdyby si třeba s tebou chtěli zažít ukázku koučování? Kde tě můžou najít?"
+    },
+    {
+      "i": 134,
+      "t": 2478,
+      "speaker": "Vít Pěnička",
+      "text": "Určitě na Instagramu, stačí si napsat vit.penicka nebo vit.penicka, a tam do budoucna budu mít nějaký svůj profil."
+    },
+    {
+      "i": 135,
+      "t": 2492,
+      "speaker": "CoachVille",
+      "text": "Skvělý. Víte, děkuji moc, že jsme spolu mohli nahrát podcast, že jsi s náma sdílel svoje zkušenosti, a díky, že jsi přijal moje pozvání, abychom tady ukázali vlastně tu cestu, co se děje v životě člověka, který se v 18 letech rozhodne stát se koučem. Evidentně není nikdy ani příliš pozdě, ani příliš brzy."
+    },
+    {
+      "i": 136,
+      "t": 2517,
+      "speaker": "CoachVille",
+      "text": "Přichází to ve správném načasování. Tak moc děkuji, že jsi to s náma sdílel. Děkuji."
+    },
+    {
+      "i": 137,
+      "t": 2525,
+      "speaker": "CoachVille",
+      "text": "Milí diváci, milí posluchači, tohle byl rozhovor s Vítem Pěničkou. Díky moc, mějte se krásně."
+    }
+  ]
+}
