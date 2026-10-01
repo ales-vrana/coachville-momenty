@@ -1,0 +1,704 @@
+[
+  {
+    "id": "de001",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 3,
+    "endUtt": 5,
+    "quote": "Takže já jsem Dája Eibinová, celým jménem Drahomíra, ale nikdo mi tak neříká už od mých tří let, takže je to kratší, tak jsem s tím úplně v pohodě. Jsem farmaceutka, jsem lékárnice, věnuju se i manažerské činnosti v rámci jedné menší sítě lékáren. A do CoachVille mě přivedlo nějaké pokračování v mém osobním rozvoji. Ani jsem nevěděla, jaká to pak bude jízda, takže to koučování bylo spíš původně něco, co jsem chtěla využít v práci, v pracovní profesi ve farmacii, v řízení lidí, v leadershipu. A v podstatě asi někde před půl rokem se to tak nějak zlomilo, že jsem si říkala, že ten svůj potenciál můžu využít i v tom, že budu podporovat zdravotníky v koučovacích setkáních, a už se mi trošku ujasnila ta skupina těch lidí, se kterýma bych chtěla opravdu spolupracovat. Takže ten vstup do CoachVille byl jednak o tom osobním rozvoji, jednak to bylo o využití koučování v té stávající profesi. A kdo ví, třeba za dva roky natočíme nový podcast a už to bude jenom Dája koučka a už ta farmacie bude vlastně jenom stranou.",
+    "summary": "Farmaceutka, lékárnice, k tomu manažerská role v menší síti lékáren. Do CoachVille šla kvůli osobnímu rozvoji a aby koučování využila v řízení lidí a leadershipu; profesionální koučku v plánu neměla. Asi před půl rokem se to zlomilo: chce podporovat zdravotníky v koučovacích setkáních a za dva roky možná bude „jenom Dája koučka“.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "čas"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci",
+      "proc-jsem-vahal",
+      "nemam-vek-ani-vzdelani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň A: vstup kvůli využití v práci, ne kvůli nové profesi. Tag 17 stupeň B: motiv. Tag 23 stupeň C: zdravotnický obor."
+  },
+  {
+    "id": "de002",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 7,
+    "endUtt": 7,
+    "quote": "Já jsem asi byla hodně přetížená a potřebovala jsem nějaký nástroj, jakým způsobem komunikovat s velkým počtem lidí, jak je číst nebo jak je nějakým způsobem… Takže jsem to brala v rámci toho osobního růstu jako nějaký rozvoj, který mi pomůže k lepší komunikaci. A paradoxně k té lepší komunikaci mi víc pomohlo naslouchání než ta samotná komunikace, což je jedna z těch kompetencí kouče, která mi pomáhá dodnes, takže za to jsem nesmírně vděčná.",
+    "summary": "Situace před startem: hodně přetížená, potřebovala nástroj, jak komunikovat s velkým počtem lidí a jak je číst. Paradoxně jí k lepší komunikaci víc pomohlo naslouchání než mluvení, kompetence kouče, kterou používá dodnes.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň B: stav před startem vlastními slovy (přetížení), bez čísel. Tag 22 stupeň B."
+  },
+  {
+    "id": "de003",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 10,
+    "endUtt": 11,
+    "quote": "Bylo to hodně o takovém time managementu, že v podstatě jsem z práce přišla domů, najedla jsem se třeba a měla jsem za sebou tři hodiny jeden den, protože ten další den jsem věděla, že nikoho neodkoučuju, že mám dalekou cestu, třeba na druhou stranu republiky. Tak to bylo hodně o plánování času. A co se týká třeba toho výcviku samotného, tak naplánovat ten výcvik tak, aby to všechno ladilo, bylo dost náročný. Ale teď jsem si to nějakým způsobem odladila, že vím přesně, kolik hodin můžu odkoučovat, abych na to měla energii, aby to bylo kapacitně zvládnutelný. Takže bych řekla, že jsem si v tom našla tu cestu, že teď je to v pohodě, ale ze začátku to byla hodně taková dramatická jízda, no, skloubit to vlastně s tím plným úvazkem.",
+    "summary": "Dva roky koučovala při plném úvazku: z práce domů, najíst se a tři hodiny koučování za večer, další den nic, protože měla cestu na druhou stranu republiky. Naplánovat k tomu výcvik bylo dost náročné. Dnes přesně ví, kolik hodin zvládne, aby na to měla energii. „Ze začátku to byla hodně dramatická jízda, skloubit to s plným úvazkem.“",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "3 hodiny koučování za večer při plném úvazku",
+    "isAdmission": true,
+    "costText": "skloubit výcvik a klienty s plným úvazkem byla ze začátku dramatická jízda",
+    "topics": [
+      "vedle-prace-a-rodiny",
+      "koucovat-a-zustat-v-praci",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 8 stupeň A: kdy přesně a kolik, včetně ceny. Tag 21 stupeň A: práce i koučování zároveň dva roky. Tag 12 stupeň B."
+  },
+  {
+    "id": "de004",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 15,
+    "endUtt": 17,
+    "quote": "Určitě vlastně mít ten prostor i na odpočinek, protože ono nejde úplně jet jako motorová myš nebo jako křeček v kolečku. Říkat si, dobrý, tak tady mám 15 minut. Já to připodobňuji k tomu, když někdo nezná Prahu a myslí si, že na přestup z metra na tramvaj mu stačí třeba 5 minut, tak to někdy nestačí, protože když nevíš, kterým výlezem vylezeš a jestli se budeš muset vracet… Tak šetřit vlastně tu energii. Dřív jsem taky neuměla si dávat po těch setkáních třeba nějakou pauzu, že to šlo třeba ze setkání do setkání, byl výcvik, byli parťáci, byli klienti, takže vlastně skončilo jedno setkání, začalo druhý. A to už třeba dneska nedělám, takový věci. Jo, čili je to vlastně o učení se z té běžné praxe. Jo, jo, v podstatě o nakládání s tou životní energií a vůbec s tím, jak vlastně šetříš tu energii pro to, aby ty věci, který děláš, dávaly smysl. Jednak k tobě a jednak k těm lidem, se kterýma spolupracuješ.",
+    "summary": "Co pomohlo: prostor na odpočinek. Dřív jela setkání za setkáním, výcvik, parťáci, klienti bez pauzy, „jako křeček v kolečku“. Přirovnání k přestupu v Praze, na který si dáte 5 minut a nestačí. Dnes si mezi setkáními dává pauzu a hlídá energii, aby věci dávaly smysl jí i lidem.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "vedle-prace-a-rodiny"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň B: konkrétní změna návyku (pauzy), bez čísel. Tag 8 stupeň C."
+  },
+  {
+    "id": "de005",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 19,
+    "endUtt": 19,
+    "quote": "Můj úplně prvotní záměr asi nebyl být profesionální kouč, tak já jsem to brala jako investici do toho osobního rozvoje. A v podstatě až časem se to začalo vyvíjet, takže se začala navracet ta investice. A v podstatě dneska musím říct, že pro mě největší hodnotu těch investovaných peněz má taková vnitřní svoboda, kterou nevím, jak jsem mohla nabýt za celkem rychlou, za mě rychlou dobu. Protože to, že si můžu nějak organizovat čas a že vlastně dokážu skloubit i to koučování, i tu práci teďka dosavadní, tak je pro mě velká životní výhra. A co se týká toho, jestli ta návratnost bude, nebo nebude, já věřím v to, že při překlopení do toho profesního kouče se posuneme úplně někam jinam, že ta investice bude jenom minimální oproti tomu, co to všechno přinese.",
+    "summary": "Prvotní záměr nebyl být profesionální koučka, investici brala jako osobní rozvoj; návratnost se začala vracet až časem. Největší hodnotu investovaných peněz vidí ve vnitřní svobodě a v tom, že zvládá koučování i práci. Finanční návratnost poctivě spojuje až s překlopením do profese kouče, pak podle ní bude investice minimální proti tomu, co přinese.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kdyz-jsem-videl-cenu",
+      "pujcka-a-klient-neprijde"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 27 stupeň B: kritérium hodnoty (vnitřní svoboda), bez částky. Tag 15 stupeň B: návratnost zatím spíš nefinanční."
+  },
+  {
+    "id": "de006",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 21,
+    "endUtt": 24,
+    "quote": "Asi jsem spíš měla obavu z toho, jestli budu dost dobrá, dost dobrá koučka hned ze začátku toho výcviku. Ale potom to ze mě nějak opadlo, protože jsme měli spoustu materiálů, který jsme mohli používat, a i v tom výcviku ty praktické živé lekce jsou tak super na to sdílení, že tohleto celkem rychle opadlo. A asi nejvíc to opadlo tím praktikováním. Když jsem předtím ještě nikdy nekoučovala žádného parťáka, tak to bylo takové dost neotesané, nebo i ty první hodiny byly takové, ale… Já nevím, třeba se to zlomilo po nějakých dvou měsících, dvou, třech měsících. Tam už jsem opravdu začala mít pocit, že to dělám dobře a že to přináší tu hodnotu, kterou to koučování má mít. A jsem strašně ráda, že jsem vlastně neměla úplně takový ty obavy. To, co mě asi víc dostávalo, bylo, když jsem nevěděla co, když jsem vlastně byla bezradná jako kouč, protože jsem měla někoho, kdo se třeba vůbec nechtěl otevřít, nechtěl mluvit, že to strategické setkání třeba nebylo takové, jaké jsem očekávala. Ale od toho jsem se potom taky oprostila, že prostě pro někoho je to koučování až za nějaký čas a není na něj ještě teď tak připravený. Takže všechny tyhle pochybnosti nebo chyby nebo nějaký obavy tam samozřejmě na začátku byly. Určitě byly i nějaké nesluníčkové hodiny, kdy ty lidi prostě nebyli naladění a vlastně se mnou nechtěli vůbec nic sdílet. Ale něco z toho vždycky vzešlo. Nějaká informace, energie, pocit, takže určitě i zkušenost, vlastně jak pracovat, nebo udělat si sebereflexi a pak si říct, jo, tak tady příště třeba jinak.",
+    "summary": "Obava, jestli bude dost dobrá koučka hned ze začátku, opadla hlavně praktikováním; první hodiny byly „neotesané“ a zlom přišel po dvou třech měsících. Víc ji dostávalo, když byla jako kouč bezradná: hráč se nechtěl otevřít, strategické setkání nedopadlo podle očekávání. Oprostila se od toho tím, že pro někoho je koučování až za čas. Byly i „nesluníčkové hodiny“, kdy lidé nechtěli nic sdílet, a vždycky z nich něco vzešlo, aspoň sebereflexe.",
+    "proofElements": [
+      "situace",
+      "čas",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "zlom v jistotě po 2 až 3 měsících",
+    "isAdmission": true,
+    "costText": "na začátku byla jako kouč bezradná; hodiny, kdy lidé nechtěli nic sdílet",
+    "topics": [
+      "sebeduvera",
+      "bojim-se-prvniho-setkani",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 10 stupeň A: vývoj sebedůvěry s časem. Tag 26 stupeň A: konkrétní neúspěšná setkání. Tag 12 stupeň A."
+  },
+  {
+    "id": "de007",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 26,
+    "endUtt": 27,
+    "quote": "Jo, to byla jízda, to bylo nepopsatelné, já jsem vůbec nevěděla, co se děje, protože najednou začaly ty věci být víc pozitivní. Já jsem hodně strukturovaný typ, já mám ráda tu strukturu, a teď vlastně, když se [nesrozumitelné] toho to-do listu, najednou přišel Aleš, který říká, co když tam vložíš nějakou hravost? A já jsem z toho byla úplně paf, protože jsem říkala, jakou hravost? Takže ze začátku jsem vůbec nevěděla, jak k tomu mám přistoupit, a jak už jsem zmínila, bylo to trošku neotesaný i v těch mých hodinách, ale pak to začalo dávat smysl. Takže ten začátek byl takový neotesaný, no, jakože jaká hravost, co je to transformační koučování, nikdo nevěděl, a teď už to ví všichni.",
+    "summary": "Začátek byla „jízda“: strukturovaný typ s to-do listem, a najednou otázka, co kdyby tam vložila hravost. Byla z toho paf, nevěděla, jak k tomu přistoupit, první hodiny byly neotesané. Pak to začalo dávat smysl.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "koucovsky-typ",
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 7 stupeň B: návyk (struktura) vs. požadavek výcviku. Tag 25 stupeň C."
+  },
+  {
+    "id": "de008",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 33,
+    "endUtt": 35,
+    "quote": "Já bych asi rozdělila ten výcvik na časovou část a na tu energetickou část. Protože to jsou tři hodiny, tak zase musíš to, právě to jsou tři hodiny nebo tři [nesrozumitelné], musíš to naplánovat někam do toho týdne. Ono se to opakuje, takže když dobře pracuješ s Google kalendářem, tak relativně nemáš problém. Ale zase na druhou stranu, když do toho někdo ještě pracuje na ten plný úvazek, jako to mám já, tak je možná náročný bejt na každý tý živý lekci prezenčně připojená. Takže je zase fajn, že některé ty lekce jsou i distanční, že si je můžeš pustit. Takže ten čas je spíš takový, že když si to nezorganizuješ, tak je to blbý, protože o to vlastně přijdeš. Ale co se týká tý energie, tak mě to vždycky vyšvihlo úplně nahoru, protože energeticky to bylo skvělý. Stejně tak třeba i potom praktika, který byly v rámci toho výcviku, ty byly ještě delší a říkala jsem si, co tam budeme proboha dělat, no ale potom taky ten den měl úplně jinou energii, protože všechno, co jsem se tam dozvěděla nebo jak to probíhalo, bylo vlastně super. Spousta informací a zážitek.",
+    "summary": "Výcvik dělí na čas a energii. Čas: tříhodinové lekce se opakují, s Google kalendářem to jde, ale při plném úvazku je náročné být na každé živé lekci; pomáhá, že některé jsou ze záznamu. Energie: lekce ji vždy „vyšvihly nahoru“, i delší praktika, u kterých si říkala, co tam budou dělat, a den pak měl jinou energii.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "3hodinové lekce vedle plného úvazku",
+    "isAdmission": false,
+    "topics": [
+      "vedle-prace-a-rodiny",
+      "co-vycvik-udelal-s-pretizenim"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 8 stupeň A: čas vs. energie při plném úvazku, s cenou (nestihne každou lekci živě). Tag 30 stupeň B."
+  },
+  {
+    "id": "de009",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 43,
+    "endUtt": 44,
+    "quote": "Různorodí lidi, z různých oblastí, tím myslím, ale to společné pojítko je vlastně jakoby nějaká růstová osobní cesta. Je tam hodně o tom růstu a o tom být potřebný a někomu předat nějakou hodnotu, která je smysluplná. Takže ač tam byli různí lidé z různých profesních oblastí, tak tohle bylo takový velký pojítko, který já jsem vnímala, a určitě… Určitě to stálo za to pokračovat třeba s těma parťákama. Mám určitě jednu parťačku celý dva roky, takže s tou už máme i vytvořený 30 na 30, takový rychlý koučování, což pro mě ze začátku bylo úplně nemyslitelný, že bych někoho odkoučovala za 30 minut, a dneska je to taková osvěžující věc, že se toho nechceme vzdát. Takže určitě jsem potkala spoustu lidí, který se chtěli v tom životě někam posunout a chtěli vlastně něco předat, tak to bylo super.",
+    "summary": "Spolužáci z různých oborů, pojítko je růstová cesta a chuť někomu předat hodnotu. S jednou parťačkou pokračuje celé dva roky; vytvořily si „30 na 30“, rychlé koučování po půl hodině, což bylo na začátku nemyslitelné a dnes je to osvěžující věc, které se nechtějí vzdát.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "parťačka 2 roky, formát 30 na 30",
+    "isAdmission": false,
+    "topics": [
+      "co-udelala-skola-a-co-ja"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 25 stupeň A: co ze školy zůstalo po dvou letech (parťačka, formát)."
+  },
+  {
+    "id": "de010",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 46,
+    "endUtt": 48,
+    "quote": "CoachVille poskytuje spoustu materiálů a ze začátku mi přijde, že jsem vůbec nevěděla, do čeho mám koukat, a byla jsem nešťastná, protože jsem nevěděla, co všechno musím nastudovat. Ale těch materiálů je opravdu dost, těch lekcí je dost. Co jsem musela udělat? Sama si nějak vytvořit svůj autentický profil toho kouče. Kdo jsem vlastně já? Koho chci koučovat? Co je ten záměr, proč vlastně já to koučování dělám? To za tebe žádná škola nevytvoří, ani CoachVille. Takže to poskytnutí toho základu, nebo i takový ty měkký peřiny, ve kterých můžeš teda koučovat, tak to tam je. Ale to, jaký koučovací přístup budeš mít, tak to si už člověk musí vytvořit sám. Samozřejmě takový ty praktický věci, založení nějakého OSVČ, potom práce v terénu, to znamená Google kalendář a nějaké meety a tady tyhle praktické věci, tak to už taky za tebe nikdo neodmaká. Takže to pro mě bylo náročnější v tom, že v rámci svojí práce dělám trošku jiný věci. I když si myslím, že jsem dost technicky zdatná, tak ze začátku tam byly taky nějaké procesy, který jsem neměla úplně najeté, a dneska už je to v pohodě, takže tak.",
+    "summary": "Škola dává spoustu materiálů; ze začátku nevěděla, do čeho koukat, a byla z toho nešťastná. Co musela udělat sama: autentický profil kouče, koho chce koučovat a proč, „to za tebe žádná škola nevytvoří, ani CoachVille“. Plus praktické věci: OSVČ, kalendář, meety; v práci dělá jiné věci, procesy neměla najeté, dnes v pohodě.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "ze začátku nevěděla, do čeho koukat; profil kouče, OSVČ a procesy musela zvládnout sama",
+    "topics": [
+      "co-udelala-skola-a-co-ja",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 25 stupeň A: hranice podpory s konkrétním výčtem. Tag 12 stupeň B."
+  },
+  {
+    "id": "de011",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 50,
+    "endUtt": 51,
+    "quote": "Já jsem měla pocit po tom transformačním koučování, že se mi otevřely dveře do úplně jiného světa, ale i do mýho vlastního. Že po tom transformačním koučování, kdy jsem byla koučovaná svýma parťákama, jsem měla taky ten pocit, že se měním sama sobě pod rukama. Že v podstatě začíná fakt velká změna mýho vůbec smýšlení, přemýšlení, nastavení tý mysli. A i proto jsem se vlastně rozhodla pokračovat dál, spíš v rámci toho osobního rozvoje. Ale to, že vlastně [nesrozumitelné] ty lidi, byl super bonus, který dneska může být i moje další profese. Takže spíš to bylo to, že tu změnu jsem na sobě viděla jako velmi výraznou.",
+    "summary": "Proč pokračovala z prvního kurzu do ACC programu: otevřely se jí dveře do jiného světa i do vlastního. Když ji parťáci koučovali, měla pocit, že se mění sama sobě pod rukama, že začíná velká změna smýšlení. Pokračovala kvůli rozvoji; že může koučovat lidi, byl bonus, ze kterého může být profese.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "proc-jsem-vahal",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 17 stupeň B: rozhodnutí pokračovat. Tag 33 stupeň B."
+  },
+  {
+    "id": "de012",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 53,
+    "endUtt": 55,
+    "quote": "Já jsem dřív hodně věděla, co se jak má dělat, a takhle to bude. A trochu jsem, myslím si, hodně prudila ty lidi okolo sebe, i třeba v tom pracovním prostředí, že takhle to dáš, jak jsem řekla, takhle to bude. A no, to většinou fungovalo, jo. Ale začala jsem dávat větší prostor pro nějakou diskuzi a v podstatě jsem hodně začala přemýšlet o tom, že když já dávám nějaký rady, tak to nefunguje, pokud ten člověk na to není adherentní a nepřijme to za svoje. A daleko líp funguje, když si na to přijde sám, když já z něj dostanu to, co bude dělat. A to vlastně je svým způsobem základ toho koučování, jo, nikomu neradit a v podstatě jenom bejt tam. Já tomu říkám bejt v tom kokpitu jako kopilot, jo, že ten člověk si prostě řídí to svoje letadlo a já tam můžu maximálně [nesrozumitelné] hudbu, tak něco takovýho, jo, že… Mně to ohromně pomohlo v komunikaci a to je asi základ toho, proč já to i dělám.",
+    "summary": "Dřív věděla, jak se co má dělat, a „trochu prudila lidi okolo sebe“: takhle to bude. Většinou to fungovalo. Začala dávat prostor diskuzi a došlo jí, že rady nefungují, pokud je člověk nepřijme za své; funguje, když si na to přijde sám. Kopilot v kokpitu: člověk si řídí letadlo, ona nanejvýš pustí hudbu.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "dřív lidi okolo sebe prudila, že to bude tak, jak řekla",
+    "topics": [
+      "co-se-muselo-zmenit",
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 33 stupeň A: změna v chování s přiznáním stavu před. Tag 22 stupeň A: přenos do práce."
+  },
+  {
+    "id": "de013",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 57,
+    "endUtt": 58,
+    "quote": "No, někdy je to se mnou dramatické, protože zapomenu, že jsem v roli manažera, že mám něco rozhodnout a že to nemám nechávat jenom na těch lidech. Ale spíš jsou takový vtipný momenty, kdy já dávám prostor v tom tichu, co jsem se naučila, tak to využívám. Ale v té práci to nejde úplně použít, jo, protože mám nějaký pracovní hovor a někdo mi říká, a seš tam? A říkám, jo, já jenom čekám, až dokončíš myšlenku. Takže tam se to úplně nesetkává s nějakým koučovacím přístupem na 100 %. Ale ovlivnilo to určitě takové hodně komunikační vyvážení, [nesrozumitelné], že dneska už se třeba zeptám na to, jak to myslíš, nebo jak v tomhle můžu pomoct já. Je to jiný, určitě je ten můj přístup jiný, je fakt víc posunutej k nějakému kvalitnímu leadershipu s koučovacím přístupem. A takhle já jsem si to představovala, že to vlastně bude, takže to naplnilo moje očekávání.",
+    "summary": "V roli manažerky je to někdy dramatické: zapomene, že má rozhodnout, a nechává to na lidech. Ticho z koučování v pracovním hovoru nefunguje („jsi tam?“ „čekám, až dokončíš myšlenku“). Ale přístup se posunul ke kvalitnímu leadershipu s koučovacím přístupem. „Takhle jsem si to představovala, naplnilo to moje očekávání.“",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "jako manažerka někdy zapomene rozhodnout; koučovací ticho v práci nejde použít na 100 %",
+    "topics": [
+      "vyuziju-to-v-praci",
+      "jen-marketing"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň A: konkrétní pracovní situace, včetně toho, kde to nefunguje. Tag 11 stupeň B: očekávání splněno, se dvěma výhradami."
+  },
+  {
+    "id": "de014",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 69,
+    "endUtt": 69,
+    "quote": "Na začátku jsem třeba úplně nezvládla, pamatuju si jedno strategické setkání, kdy jsem měla hráčku, která se mi vůbec nechtěla otevřít, a trošku jsme to promlčely. Neříkám, že celou hodinu, ale z mýho pohledu to bylo hodně. A dneska bych se třeba taky zeptala na jiné věci, udělala některé věci jinak, jako zpětnou reflexi, že to pro mě byla zkušenost, která byla nepříjemná. A pak určitě, když nejsou takový ty sluníčkové hodiny, když to není jenom vyloženě na pozitivní vlně, když jsou tam nějaké emoce, když jsou tam slzy, když už je to třeba nezvládatelný. V rámci toho výcviku vlastně popisujeme i to, kdy předat toho klienta k terapii. Tak já jsem taky měla tuhle zkušenost a opět bych neřekla, že byla nepříjemná, jen byla obtížnější v tom ji vlastně uchopit,",
+    "summary": "Co bylo obtížné: na začátku jedno strategické setkání s hráčkou, která se nechtěla otevřít, a hodně ho promlčely; dnes by se ptala jinak. A hodiny, kdy to není sluníčkové, kde jsou emoce a slzy a je to těžší uchopit. Ve výcviku se popisuje i to, kdy předat klienta k terapii; tuto zkušenost měla a bylo obtížnější ji oslovit a nenechat projít.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "jedno strategické setkání promlčela; hodiny se slzami bylo těžší uchopit",
+    "topics": [
+      "abych-neublizila",
+      "bojim-se-prvniho-setkani",
+      "co-bylo-tezsi"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 9 stupeň A: hranice koučování (kdy předat k terapii) s vlastní situací, bez údajů o klientce; promluva 70 s detailem o konkrétní klientce záměrně mimo. Tag 26 stupeň A. Tag 12 stupeň B."
+  },
+  {
+    "id": "de015",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 78,
+    "endUtt": 79,
+    "quote": "Určitě je to nějaká zpětná vazba od všech klientů, se kterýma spolupracuju. To, že se jim daří v tom životě, že když připravíme společně nějaký strategický plán, aktivity, prostě nadesignujeme to, co se bude dít, a vyjde to, tak je to úžasný to pozorovat. Samozřejmě některé cíle jsou dlouhodobějšího charakteru, takže tam je fajn tu spolupráci mít třeba na delší dobu. Je to tohleto, že je tam viditelný ten výsledek toho, jak se ten člověk posouvá. Já používám třeba i nějaké škálování, kde jsme teď, kam se chceme dostat, co je vlastně to mistrovství, takže se k tomu třeba i vracíme. Protože mám hráče, který hodně zahazují, říkají, nic se nepovedlo, nic se nezvládlo. A pak se podíváme na tu škálu, a my jsme vlastně minule byli na trojce a dneska jsme na šestce, tak ono úplně ne, že se to nepovedlo, ale jenom třeba není ta sluníčková hodina. Takže určitě je to ta zpětná vazba a to, že to funguje, no, to je jednoduchý.",
+    "summary": "Zdroj energie: zpětná vazba a viditelný výsledek. Používá škálu: kde jsme, kam chceme, co je mistrovství. Hráči, kteří hodně zahazují („nic se nepovedlo“), vidí, že minule byli na trojce a dnes na šestce; jen to zrovna nebyla sluníčková hodina.",
+    "proofElements": [
+      "situace",
+      "číslo"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": true,
+    "numberText": "škála 3 → 6 mezi setkáními",
+    "isAdmission": false,
+    "topics": [
+      "sebeduvera",
+      "kazdy-druhy-je-kouc"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 10 stupeň B: odkud bere jistotu (měřitelný posun klientů). Tag 13 stupeň C."
+  },
+  {
+    "id": "de016",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 81,
+    "endUtt": 83,
+    "quote": "Tak úplně první lidi, který jsem koučovala, byli… Někdo byl z mýho pracovního prostředí, někdo byl z mýho blízkýho prostředí, tak tam to byla taky výzva, vlastně odlišit to prostředí přátelský od toho koučovacího, ale to se dařilo a to bylo skvělý. A lidi z blízkého prostředí mě vlastně i podpořili v tom, že jsem v tom výcviku. Pak jsem měla ještě kontakty z CoachVille, tak to zase bylo trošku jiný, protože to byli lidi, kteří mě vůbec neznali. A ty hodiny byly každá jiná, každá různá. V něčem jsem se cítila dobře, někdy jsem si řekla, že jo, tak tady jsem to úplně třeba nezvládla, ale nemůžu říct, že by mě to energeticky nějak dostávalo dolů. Vždycky to bylo nabíjející. Takže i ty první hodiny byly vlastně skvělý. Ale kdybych to měla přirovnat k tomu, jaký to je dneska a jaký to bylo tenkrát, tak to je jako když se zamiluješ. Tam jsou takové ty motýli v břiše a najednou prostě jdeš do toho a nevíš, co bude, a je tam to očekávání, jak to dopadne. A dneska bych řekla, že je to taková pevná jistá láska. Já vím, jak tu hodinu vést, jaká bude ta struktura, kam dojdeme, co jsme vlastně dělali minule, dělám si nějakou přípravu, tak je to jiný. Už se to asi nebude takhle opakovat, úplně ty začátky, ale v podstatě každá ta hodina je individuální, takže občas někdy motýl přiletí.",
+    "summary": "První koučovaní: lidé z práce a z blízkého okolí (výzva oddělit přátelské a koučovací prostředí) a kontakty z CoachVille, kteří ji neznali. Hodiny byly každá jiná, někdy si řekla, že to nezvládla, ale nikdy ji to energeticky nedostalo dolů. Tehdy jako zamilovanost s motýly v břiše, dnes „pevná jistá láska“: ví, jak hodinu vést a kam dojít.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "bojim-se-prvniho-setkani"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň B: odkud byli první lidé. Tag 26 stupeň B."
+  },
+  {
+    "id": "de017",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 85,
+    "endUtt": 85,
+    "quote": "Já jsem vlastně z těch úplně původních nějakých deseti kontaktů slyšela šestkrát ano, bylo šest strategických hodin a z toho vlastně byli tři platící hráči, takže to bylo skvělý. Určitě jsem na začátku dávala i nějaký pro bono hodiny, takže jsem koučovala i v rámci práce nebo těch přátel, abych si to vyzkoušela, takže tam to bylo třeba za kafe nebo tak. Ale vlastně to byla úspěšnost, v podstatě tři z deseti z těch úplně prvních se mnou uzavřeli spolupráci.",
+    "summary": "Z prvních asi deseti kontaktů slyšela šestkrát ano, proběhlo šest strategických hodin a z nich vzešli tři platící hráči. K tomu na začátku pro bono hodiny v práci a mezi přáteli, „za kafe“, aby si to vyzkoušela. Úspěšnost: tři z deseti uzavřeli spolupráci.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "10 oslovených → 6 strategických hodin → 3 platící",
+    "isAdmission": false,
+    "topics": [
+      "ziskam-klienty",
+      "nechci-oslovovat",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 1 stupeň A: konverze s čísly. Tag 2 stupeň B. Tag 5 stupeň C (částka v de021)."
+  },
+  {
+    "id": "de018",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 89,
+    "endUtt": 90,
+    "quote": "Nejdéle koučuju vlastně tady z té první spolupráce jednu klientku, takže už spolupracujeme vlastně druhým rokem, jako dva roky. My jsme měly mezitím nějakou pauzu, třeba tříměsíční, ale pak mě vyhledala sama, že je vlastně potřeba. Tak je to skvělý osvědčení tý práce, že si tě někdo vyhledá, protože mu to přineslo hodnotu do toho života, takže tohle je pro mě taková skvělá spolupráce. A pak jsou takové kratší spolupráce, které jsou třeba na půl roku. Teď mám ještě další jednu opakovanou spolupráci, takže za to jsem strašně ráda.",
+    "summary": "Nejdéle koučuje klientku z první spolupráce, druhým rokem; měly tříměsíční pauzu a pak ji klientka sama vyhledala, „skvělé osvědčení té práce“. Kratší spolupráce jsou na půl roku a má další opakovanou.",
+    "proofElements": [
+      "čas",
+      "situace",
+      "obrat",
+      "číslo"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "klientka 2 roky, návrat po 3měsíční pauze; spolupráce na půl roku",
+    "isAdmission": false,
+    "topics": [
+      "po-vycviku",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 6 stupeň A: délka a návrat klientky dva roky po startu. Tag 1 stupeň B."
+  },
+  {
+    "id": "de019",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 92,
+    "endUtt": 92,
+    "quote": "Většinou do toho šli, protože mě znají. Takže i tu komunitu, kterou já třeba mám v rámci stepařů, ti zas vědí, že jsem koučka stepařská, takže tam mě zas mohli vidět trošku v jiném světle, takže to bylo taky fajn. Takže většinou do toho ty lidi šli, nebylo, že by úplně řekli, že nechtějí. A pro mě takový to dnešní ne je vlastně odložený ano, takže i když mi někdo řekne ne, tak já si ho pamatuju a ještě na něj dojde.",
+    "summary": "Lidé z okolí do toho většinou šli, protože ji znají; komunita stepařů ji zná jako „koučku stepařskou“ a viděla ji v jiném světle. Dnešní ne bere jako odložené ano: pamatuje si ho a ještě na něj dojde.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "nechci-oslovovat"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 2 stupeň B: síť z koníčku jako zdroj, bez čísel."
+  },
+  {
+    "id": "de020",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 94,
+    "endUtt": 94,
+    "quote": "Poprvé vyslovit cenu bylo jako, že já to fakt už dělám, já si za to vlastně fakt nechám zaplatit. A bylo to, jo, ale vlastně, jo, já to dělám, tak to je můj čas, tak si za to nechám zaplatit. Asi poprvé to bylo náročný, pak podruhý a potřetí a podalší už ne. Takže poprvé to bylo náročný, jenom vlastně přejít tu hranici, předat tu hodnotu, směnit vlastně tu hodnotu za peníze, tak bych to asi řekla.",
+    "summary": "Poprvé vyslovit cenu: „já to fakt už dělám, já si za to nechám zaplatit“. Poprvé to bylo náročné, přejít hranici a směnit hodnotu za peníze; podruhé a potřetí už ne.",
+    "proofElements": [
+      "situace",
+      "obrat",
+      "cena"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": false,
+    "isAdmission": true,
+    "costText": "poprvé vyslovit cenu bylo náročné",
+    "topics": [
+      "sebeduvera",
+      "kdo-zaplati-hodinu"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 10 stupeň A: první vyslovení ceny nahlas. Tag 4 stupeň B."
+  },
+  {
+    "id": "de021",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 97,
+    "endUtt": 100,
+    "quote": "Na začátku jsem koučovala těch 60 minut, bylo to fakt 60 minut, za nějakých 500 korun na hodinu. Pak vlastně, když jsem měla toho třetího hráče, tak už jsem si řekla trochu víc, takže to bylo třeba nějakých 750 na hodinu, a bylo to úplně v pohodě. A dneska jsem na nějaký hranici u těch starších spoluprací třeba 1200 na hodinu, u těch novějších 1600 na hodinu. A už o tom moc ani nedebatujeme. Je to směna hodnoty za peníze. A čekáš, že se to bude vyvíjet do budoucna? Třeba v následujícím roce, dvou, s těmi hodinama? Trošku sázím na to [nesrozumitelné], že se o to opřu, [nesrozumitelné], a ta cena půjde nahoru. Ještě to nemám přesně vymyšlený, ale já bych se chtěla pohybovat třeba za hodinu v příštím roce už kolem dvou a půl, tří tisíc, potom [nesrozumitelné]. Takže to je nějakej můj měřitelný cíl, tak doufám, že až budeme točit ten další podcast za dva roky, že už tam budu.",
+    "summary": "Na začátku 60 minut za 500 Kč. U třetího hráče si řekla 750 Kč a bylo to v pohodě. Dnes u starších spoluprací 1 200 Kč, u nových 1 600 Kč za hodinu, „a už o tom moc nedebatujeme, je to směna hodnoty za peníze“. Měřitelný cíl na příští rok: 2 500 až 3 000 Kč za hodinu.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 5,
+    "hasNumber": true,
+    "numberText": "500 → 750 → 1 200 až 1 600 Kč/h; cíl 2 500 až 3 000 Kč",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "prvni-penize"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: cenová cesta s částkami a cílem. Tag 5 stupeň A. Úsek obsahuje otázku Aleše (99)."
+  },
+  {
+    "id": "de022",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 102,
+    "endUtt": 105,
+    "quote": "My to většinou nastavujeme na minimálně 6 hodin a vlastně ta sezona je 12 hodin, to znamená 12 hodin. A třeba máme jednu hráčku, se kterou jsme v rámci toho nastavení té splatnosti udělali třeba splatnost po třech sezeních, protože je tam… Takže vlastně nějaká možnost to platit takhle, tak jsem jí vyšla vstříc. Takže většinou asi nemá smysl rozvíjet kratší spolupráce než šestihodinový, nebo tak jsem si to nastavila, i když je pravda, že mě někdo osloví i ohledně jedné hodiny. Jsou to většinou lidi, který už se mnou spolupracovali a teď si potřebují vyřešit nějaký téma v rámci toho setkání, ale tak je to spíš minimálně, třeba jednou za čtyři, pět měsíců mám takovouhle nějakou volnou hodinu. Jasně. A setkala ses s tím, že by cena byla pro někoho překážkou pro tu spolupráci? Spíš než překážkou pro tu spolupráci je nějaký splátkový, jak to řeknu, kalendář. Nebo to, že když se domluvíme na té sezoně, tak to platit třeba po menších částech. Tak spíš tohle, mám zkušenost s tou jednou hráčkou, ale jinak ta cena jako taková určitě není problém.",
+    "summary": "Spolupráce nastavuje na minimálně 6 hodin, sezóna je 12 hodin. Jedné hráčce vyšla vstříc splatností po třech sezeních. Jednotlivé hodiny bere jen u lidí, kteří už s ní spolupracovali, tak jednou za čtyři pět měsíců. Cena sama překážkou nebyla, spíš splátkový kalendář.",
+    "proofElements": [
+      "číslo",
+      "čas",
+      "situace"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "minimálně 6 hodin, sezóna 12; splátky po 3 sezeních",
+    "isAdmission": false,
+    "topics": [
+      "kdo-zaplati-hodinu",
+      "po-vycviku"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 4 stupeň A: struktura balíčků a splátek. Tag 6 stupeň B. Úsek obsahuje otázku Aleše (104)."
+  },
+  {
+    "id": "de023",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 107,
+    "endUtt": 108,
+    "quote": "Zatím to byl docela takový mix, ale postupně se to začíná docela utvářet. Takže já jsem určitě měla z oblasti školství, že tam byl nějaký pedagog. Měla jsem HR a data specialistu, měla jsem nějaký farmaceuty, tam si myslím, že je to pro mě jednodušší, protože znám tu oblast, takže určitě některý ty detaily se nemusí úplně tak vysvětlovat. A měla jsem i třeba nějaký mamky na mateřských dovolených, který se chtěly vrátit vlastně do oběhu. Takže byl to zatím takový průřez, ale do budoucna určitě… Já už ten svůj rybníček mám vytipovaný.",
+    "summary": "Klienti zatím mix, ale utváří se: pedagog, HR a datový specialista, farmaceuti (tam je to jednodušší, zná obor), maminky na mateřské, které se chtějí vrátit. „Svůj rybníček už mám vytipovaný.“",
+    "proofElements": [
+      "situace"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "kazdy-druhy-je-kouc",
+      "ziskam-klienty"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 13 stupeň B: niche ze své profese (zdravotníci). Tag 1 stupeň C."
+  },
+  {
+    "id": "de024",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 110,
+    "endUtt": 111,
+    "quote": "Je to spíš o takové svobodě. Můžeš koučovat odkudkoliv. Teď jsem měla jedno setkání, kdy jsem sice byla u počítače, ale můj hráč přejížděl z Prahy do Brna, takže říkal, mně to vůbec nevadí, tu hodinu hrozně chci, takže já budu v autě, jestli tobě to nevadí. Říkám, dobře. Samozřejmě jsem radši, když je to v nějakém klidném prostředí, když jsou na to ty podmínky, ale vlastně online se to dá dělat odkudkoliv. Nemusíš nutně řešit to, jestli jsi někde na dovolený. I když jsem byla na dovolený, tak jsem koučovala z dovolený a bylo to vlastně fajn, protože to bylo pár hodin. Takže je tam taková nezávislost na tom místě, možná na tom čase. Když jsi v nějakém časovém pásmu, tak si to musíš jenom popřemýšlet, jestli to není moc brzo nebo moc pozdě. Tak to je jediné.",
+    "summary": "Online je svoboda: hráč přejížděl z Prahy do Brna a hodinu chtěl tak moc, že byl v autě; koučovala i z dovolené. Nezávislost na místě, jen časové pásmo je třeba pohlídat.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "male-mesto"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 3 stupeň B: online praxe nezávislá na místě, bez města."
+  },
+  {
+    "id": "de025",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 116,
+    "endUtt": 117,
+    "quote": "Já o tom hodně přemýšlím, jaký to bylo vlastně předtím. Neřekla bych, že bych měla nějaký špatný život nebo že bych byla smutná nebo plačtivá, ale příjemně [nesrozumitelné], že jsem teď víc vystřelená do nebes. Nebo já nevím, jak to přesně popsat. Prostě fakt ten příval té pozitivní energie je skvělej a umím si od spousty věcí poodstoupit a vlastně si i říct, že jim třeba nebudu věnovat tu energii. A to jsem dřív neuměla, takže mě to… Je to jako… Vlastně nástup do CoachVille měl ohromně energetický… Ušetřil tu negativní energii a přišel příliv tý pozitivní energie.",
+    "summary": "Před CoachVille neměla špatný život, nebyla smutná, ale dnes je „víc vystřelená do nebes“: příval pozitivní energie a schopnost od věcí poodstoupit a nevěnovat jim energii, což dřív neuměla. Nástup do CoachVille ušetřil negativní energii a přinesl příliv té pozitivní.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-vycvik-udelal-s-pretizenim",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 30 stupeň B: stav před a po, bez čísel. Tag 33 stupeň C."
+  },
+  {
+    "id": "de026",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 119,
+    "endUtt": 120,
+    "quote": "Jako velký. Já jsem si nechala odkoučovat to, že si otevřu open classy stepu. Tak jsem si je otevřela, protože jsem si řekla, že to udělám takhle a takhle, a měla jsem svýho kouče, se kterým jsme to probrali, a funguje to. A potkala jsem skvělýho partnera, který mě vlastně podporuje, kterýmu jsem říkala, že já se teď budu věnovat i pro bono hodinám a nějakýmu koučování v nezisku, takže on bude ten, kdo bude muset nosit větší obnos domů, a on řekl, tak jo. Takže vlastně je to super, že jsme se potkali v tomhle. A to vlastně moje prostředí, nebo to, kdo mě podporuje, a jak tohleto ovlivnilo můj život i to vnímání, to je velký. Já si žiju opravdu strašně skvělým kvalitním životem poslední dva roky, a neříkám, že je to jenom o CoachVille, že bych pro to sama nic nedělala, ale určitě to má výraznej dopad na můj život.",
+    "summary": "Nechala si odkoučovat, že si otevře open classy stepu, a otevřela je. Potkala partnera, který ji podporuje: řekla mu, že se bude věnovat i pro bono koučování v nezisku a on bude nosit domů větší obnos, a on řekl „tak jo“. Poslední dva roky žije skvělým životem a nepřipisuje to jen CoachVille.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "co-rekl-partner",
+      "co-se-muselo-zmenit"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 16 stupeň B: partner souhlasil s tím, že ponese větší část příjmu; bez jeho výhrad. Tag 33 stupeň B."
+  },
+  {
+    "id": "de027",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 122,
+    "endUtt": 123,
+    "quote": "Tak třeba 90 % mýho okolí říkalo, že co bych měla dělat vlastně jinýho, že jsem na to ten typ, že jsem hodně komunikativní, a že vlastně když někdo má nějakou obtíž, tak se většinou přijde svěřit ke mně, protože vždycky něco z toho vypadne. Předtím to bylo vždycky, něco vymyslíme, ale teď už to vymyslí ten člověk. Takže ta podpora tam byla. Samozřejmě byly i nějaké takové, nechci říct negativní, zpětné vazby, že to dělám strašně krátce na to, abych to mohla dělat. Ale já nežiju svůj život strašně krátce a už jsem pro to nějaké předpoklady měla, a teď jsem se jenom rozhodla, že je využiju. Takže bych vlastně těm lidem, který mě úplně nepodpořili, pak chtěla dát tu vizitku s tím QR kódem, že jsem teda osobní kouč už na full time. Tak na to se těším, no, to bych věděla.",
+    "summary": "Asi 90 % okolí říkalo, co jiného by měla dělat, že je komunikativní a lidé se jí chodí svěřovat. Byly i hlasy, že to dělá příliš krátce na to, aby to mohla dělat. Odpověď: nežije svůj život krátce, předpoklady měla, jen se rozhodla je využít. Těm, kdo ji nepodpořili, chce jednou dát vizitku s QR kódem „osobní kouč na full time“.",
+    "proofElements": [
+      "číslo",
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 3,
+    "hasNumber": true,
+    "numberText": "90 % okolí podpořilo",
+    "isAdmission": false,
+    "topics": [
+      "co-rekl-partner",
+      "sebeduvera"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 16 stupeň B: okolí, ne partner; pochybnost „děláš to krátce“ a co s ní. Tag 10 stupeň B."
+  },
+  {
+    "id": "de028",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 128,
+    "endUtt": 128,
+    "quote": "Tak v tom dnešním světě, kdy to může kdokoliv dělat odkudkoliv, asi úplně nehraje roli, jestli jsem na malém městě, nebo ne. Můžu mít kontakty kdekoliv a dostupnost sociálních sítí je opravdu velká a široká, takže já bych neřekla, že s tím úplně souvisí tohle. Možná ta otázka, kdyby mířila na to, co tomu řeknou lidi v mým okolí, tak možná jo, že jsem na malém městě. Ale když to budu dělat z domu a online, tak to v podstatě není něco, co by se muselo řešit. Takže v tom online prostředí je to v pohodě, asi s tím úplně nesouvisí to, kde se zrovna nacházíš, jestli v Big City, anebo na vesnici.",
+    "summary": "Malé město nehraje roli, když to může kdokoli dělat odkudkoli a přes sociální sítě; kontakty jsou kdekoli. Jediné, co s malým městem souvisí, je, co řeknou lidé v okolí; z domu a online se to řešit nemusí.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "male-mesto"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 3 stupeň B: názor s pojmenovaným skutečným problémem malého města (okolí)."
+  },
+  {
+    "id": "de029",
+    "episode": "drahomira-eibinova",
+    "guest": "drahomira-eibinova",
+    "startUtt": 133,
+    "endUtt": 135,
+    "quote": "Protože to přinese vlastně jednak urovnání třeba vlastní sebehodnoty, urovnání toho, kde stojíš v tom světě, co si můžeš a nemůžeš dovolit, jakou máš vnitřní svobodu, jaký máš kolem sebe prostředí. Podívat se na to z nadhledu, možná i nehodnotícím přístupem, jenom fakt si říct, takhle to je. Takže jsou to takový ty oči i někoho jinýho. Je to jízda, no, prostě pak spoustu věcí se daří jenom proto, že o tom mluvíš, to, že mluvíš a máš ten vliv, tak je to vlastně skvělý. A určitě aspoň částečný koučovací výcvik by měl mít kdokoliv v tom leadershipu, protože porozumět těm lidem, a ty lidi jsou různý, tak to je základ té komunikace. Takže rozhodně, pokud by byl někdo v nějaký manažerský pozici, komunikoval s lidma, chtěl zlepšit leadership, tak rozhodně ano, protože to přinese tu hodnotu pro život, pro práci, pro komunikaci, pro to, aby se dobře dařilo.",
+    "summary": "Co to přinese: urovnání vlastní sebehodnoty, kde stojím, co si můžu dovolit, vnitřní svobodu, pohled z nadhledu. Aspoň částečný koučovací výcvik by podle ní měl mít kdokoliv v leadershipu, protože porozumět různým lidem je základ komunikace; pro manažera to přinese hodnotu pro život, práci i komunikaci.",
+    "proofElements": [
+      "situace",
+      "obrat"
+    ],
+    "evidenceLevel": 2,
+    "hasNumber": false,
+    "isAdmission": false,
+    "topics": [
+      "vyuziju-to-v-praci"
+    ],
+    "thirdPartyName": false,
+    "status": "published",
+    "editorNote": "Tag 22 stupeň B: doporučení pro manažery z pozice manažerky."
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "slug": "drahomira-eibinova",
+  "displayName": "Drahomíra Eibinová",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": false,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-10-01",
+  "phaseAtRecording": "v ACC výcviku",
+  "monthsInTraining": 24,
+  "priorProfessionText": "farmaceutka a lékárnice, manažerka v menší síti lékáren (plný úvazek souběžně s výcvikem); lektorka stepu",
+  "priorProfessionCat": "zdravotnictví, péče a sociální služby",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "verifyLinks": [
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=Drahom%C3%ADra%20Eibinov%C3%A1",
+      "label": "LinkedIn (z rozhovoru, doplnit přímý odkaz; v profilu má rezervační kalendář)"
+    }
+  ],
+  "contactAllowed": false,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "lékárnice a manažerka v síti lékáren, přetížená; vstup kvůli osobnímu rozvoji a leadershipu, ne kvůli nové profesi"
+    },
+    {
+      "label": "Start (10/2024)",
+      "text": "první hodiny neotesané, zlom po 2 až 3 měsících; z 10 oslovených 6 strategických hodin a 3 platící; 500 Kč/h; 3 hodiny za večer při plném úvazku, „dramatická jízda“"
+    },
+    {
+      "label": "Rok",
+      "text": "pokračování do ACC programu kvůli vlastní změně; 750 Kč/h u třetího hráče; pauzy mezi setkáními"
+    },
+    {
+      "label": "Dnes (9/2026, 2 roky, 185 hodin)",
+      "text": "1 200 až 1 600 Kč/h, cíl 2 500 až 3 000; sezóna 12 hodin, minimum 6; klientka 2 roky; niche zdravotníci; před půl rokem rozhodnutí směřovat k profesi koučky"
+    }
+  ]
+}
