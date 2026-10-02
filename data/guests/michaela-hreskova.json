@@ -1,0 +1,51 @@
+{
+  "slug": "michaela-hreskova",
+  "displayName": "Michaela Hrešková",
+  "nameMode": "full",
+  "consentStatus": "granted",
+  "consentScope": {
+    "moments": true,
+    "name": true,
+    "photo": false,
+    "contact": true,
+    "amounts": true,
+    "ads": false
+  },
+  "consentDate": "2026-10-02",
+  "phaseAtRecording": "v PCC výcviku",
+  "monthsInTraining": 19,
+  "priorProfessionText": "HR v korporátu, 10 let vlastní zumba byznys, sociální pracovnice",
+  "priorProfessionCat": "HR a personalistika",
+  "regionType": "neuvedeno",
+  "ageBand": "neuvedeno",
+  "gender": "žena",
+  "introLine": "Slovenka z okolí Bratislavy, koučuje na plný úvazek, 580 hodin za rok a půl.",
+  "verifyLinks": [
+    {
+      "type": "LinkedIn",
+      "url": "https://sk.linkedin.com/in/michaela-hreskova",
+      "label": "LinkedIn"
+    }
+  ],
+  "contactAllowed": true,
+  "rewardReceived": false,
+  "worksForSchool": false,
+  "timeline": [
+    {
+      "label": "Před startem",
+      "text": "sociální práce, HR stáž v USA a projekty pro Dayco, 10 let vlastní zumba byznys (první ze 4 instruktorek na Slovensku, značka Happy To Be), korporát Dell v talent acquisition, poradkyně pracovní integrace; koučink ji „našel“ přes spolužačku z vysoké"
+    },
+    {
+      "label": "Start (3/2025)",
+      "text": "do dvou týdnů od ukázkové hodiny nastoupila; záměr od začátku: profesionální koučka; plný úvazek, domácnost, dva synové; první platící klientka kamarádka: 12 setkání za 50 €"
+    },
+    {
+      "label": "První rok",
+      "text": "plný úvazek → poloviční na 3 měsíce → koučování naplno; ceny 50 → 100 → 400 € za program; klienti hlavně z doporučení; „koho chytím, toho odkoučujem“"
+    },
+    {
+      "label": "Dnes (10/2026, 1,5 roku, 580 hodin)",
+      "text": "kompletní program ACC + PCC, před certifikací PCC; 80 až 100 € za hodinu v programech, cíl po PCC 120 až 150 €; polovina klientů déle než 6 měsíců; online, klienti i v zahraničí (Nepál); walking coaching"
+    }
+  ]
+}
