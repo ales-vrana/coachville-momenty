@@ -61,7 +61,23 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <footer className="bg-dark text-white/80">
           <div className="mx-auto max-w-5xl space-y-4 px-4 py-10 text-sm">
             <Logo inverse />
-            <p>{site.footer.operator}</p>
+            <p>
+              {site.footer.operator.split("www.coachville.eu").map((part, i, arr) => (
+                <span key={i}>
+                  {part}
+                  {i < arr.length - 1 && (
+                    <a
+                      href="https://www.coachville.eu"
+                      target="_blank"
+                      rel="noopener"
+                      className="text-white underline decoration-teal hover:text-teal"
+                    >
+                      www.coachville.eu
+                    </a>
+                  )}
+                </span>
+              ))}
+            </p>
             <p>{site.footer.consentNote}</p>
             <div className="flex flex-wrap items-center gap-x-5 gap-y-3 border-t border-white/15 pt-4">
               {SHOW_QUESTIONS_LINK && (
