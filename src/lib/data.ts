@@ -234,23 +234,29 @@ export function getMoment(id: string): MomentView | null {
 
 const STRENGTH_RANK: Record<Strength, number> = { silný: 0, střední: 1, slabý: 2 };
 
+/** Silné důkazy vždy první, pak střední, pak slabé (přání Aleše 4. 10. 2026). */
+export function byStrength(a: MomentView, b: MomentView): number {
+  return STRENGTH_RANK[a.strength] - STRENGTH_RANK[b.strength];
+}
+
 export function getMomentsForTopic(topicId: string): MomentView[] {
   const topic = getTopics().find((t) => t.id === topicId);
   const all = getMomentViews().filter((m) => m.topics.includes(topicId));
   all.sort((a, b) => {
+    const s = byStrength(a, b);
+    if (s !== 0) return s;
     const pa = a.topics[0] === topicId ? 0 : 1;
     const pb = b.topics[0] === topicId ? 0 : 1;
     if (pa !== pb) return pa - pb;
-    const sa = STRENGTH_RANK[a.strength];
-    const sb = STRENGTH_RANK[b.strength];
-    if (sa !== sb) return sa - sb;
     return b.episodeData.recordedAt.localeCompare(a.episodeData.recordedAt);
   });
   if (topic?.featuredMomentId) {
+    // Doporučený moment jde na začátek své skupiny síly, nikdy nad silnější důkaz.
     const idx = all.findIndex((m) => m.id === topic.featuredMomentId);
     if (idx > 0) {
       const [f] = all.splice(idx, 1);
-      all.unshift(f);
+      const firstSame = all.findIndex((m) => STRENGTH_RANK[m.strength] >= STRENGTH_RANK[f.strength]);
+      all.splice(firstSame === -1 ? all.length : firstSame, 0, f);
     }
   }
   return all;
@@ -303,13 +309,15 @@ export function getEpisode(slug: string): Episode | null {
 }
 
 export function getMomentsForGuest(slug: string): MomentView[] {
-  return getMomentViews().filter((m) => m.guest === slug);
+  return getMomentViews()
+    .filter((m) => m.guest === slug)
+    .sort((a, b) => byStrength(a, b) || a.start - b.start);
 }
 
 export function getMomentsForEpisode(slug: string): MomentView[] {
   return getMomentViews()
     .filter((m) => m.episode === slug)
-    .sort((a, b) => a.start - b.start);
+    .sort((a, b) => byStrength(a, b) || a.start - b.start);
 }
 
 export function getPublishedGuests(): Guest[] {

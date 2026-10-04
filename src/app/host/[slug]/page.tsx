@@ -10,6 +10,7 @@ import {
   getEpisodes,
   getGuest,
   getMomentsForGuest,
+  byStrength,
   getPublishedGuests,
   guestIsPublishable,
   hasExternalVerifyLink,
@@ -129,7 +130,10 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
         </section>
       </div>
 
-      {[...byTopic.entries()].map(([topicId, ms]) => (
+      {/* Sekce s nejsilnějším důkazem první; uvnitř sekce silné → střední → slabé (getMomentsForGuest). */}
+      {[...byTopic.entries()]
+        .sort((a, b) => byStrength(a[1][0], b[1][0]))
+        .map(([topicId, ms]) => (
         <section key={topicId} className="space-y-3">
           <h2 className="text-base">{ms[0].primaryTopic.label}</h2>
           <div className="grid gap-3 sm:grid-cols-2">

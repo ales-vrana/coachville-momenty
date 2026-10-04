@@ -61,7 +61,7 @@ export default async function Image({ params }: { params: Promise<{ id: string }
           <span>{dur ? `${dur} z nesestříhaného rozhovoru` : ""}</span>
           <span style={{ display: "flex", alignItems: "center", gap: 10 }}>
             <span style={{ width: 14, height: 14, borderRadius: 999, background: "#1f7a6d" }} />
-            Momenty · CoachVille
+            Případové studie · CoachVille
           </span>
         </div>
       </div>
