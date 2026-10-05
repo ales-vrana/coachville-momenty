@@ -52,3 +52,62 @@ export function ensureStart(p: { getCurrentTime(): Promise<number>; setCurrentTi
     })
     .catch(() => undefined);
 }
+
+/**
+ * iPhone/iPad a Safari: zvuk se smí pustit jen tehdy, když klepnutí dopadne přímo do iframu Vimea.
+ * Klepnutí na naši fasádu (stránka) se do cizího iframu nepřenese, Vimeo pak autoplay pustí jen ztlumeně.
+ * Na těchto zařízeních proto iframe připravíme dopředu (bez autoplay) a klepnutí ho trefí napřímo.
+ */
+export function prefersDirectTap(): boolean {
+  if (typeof window === "undefined") return false;
+  try {
+    const coarse = window.matchMedia("(pointer: coarse)").matches;
+    const ua = navigator.userAgent;
+    const safari = /safari/i.test(ua) && !/chrome|chromium|crios|fxios|android|edg/i.test(ua);
+    return coarse || safari;
+  } catch {
+    return false;
+  }
+}
+
+type MuteProbe = {
+  getMuted(): Promise<boolean>;
+  getVolume(): Promise<number>;
+};
+
+/** Zjistí, jestli video hraje bez zvuku (Vimeo ztlumí autoplay, když prohlížeč zvuk nepovolí). */
+export async function isSilent(p: MuteProbe): Promise<boolean> {
+  try {
+    const [muted, volume] = await Promise.all([p.getMuted(), p.getVolume()]);
+    return muted || volume === 0;
+  } catch {
+    return false;
+  }
+}
+
+type Unmutable = MuteProbe & {
+  setMuted(m: boolean): Promise<boolean>;
+  setVolume(v: number): Promise<number>;
+  getPaused(): Promise<boolean>;
+};
+
+/**
+ * Zapne zvuk. Vrací "ok", nebo "tap", když Safari při zapnutí zvuku video zastavil
+ * (pak stačí klepnout na ▶ přímo ve videu; to je klepnutí do iframu a zvuk už hraje).
+ */
+export async function unmute(p: Unmutable): Promise<"ok" | "tap"> {
+  try {
+    await p.setMuted(false);
+    await p.setVolume(1);
+  } catch {
+    /* zkontrolujeme níže */
+  }
+  await new Promise((r) => setTimeout(r, 400));
+  try {
+    const [silent, paused] = await Promise.all([isSilent(p), p.getPaused()]);
+    if (paused || silent) return "tap";
+  } catch {
+    return "tap";
+  }
+  return "ok";
+}

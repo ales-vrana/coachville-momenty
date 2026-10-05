@@ -3,7 +3,18 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import type Player from "@vimeo/player";
-import { claimPlayer, ensureStart, preloadVimeoSdk, releasePlayer, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import {
+  claimPlayer,
+  ensureStart,
+  isSilent,
+  preloadVimeoSdk,
+  releasePlayer,
+  unmute,
+  vimeoOptions,
+  withTimeout,
+} from "@/lib/playerRegistry";
+import SoundButton from "@/components/SoundButton";
+import { useDirectTap } from "@/lib/useDirectTap";
 import { markCompleted } from "@/lib/session";
 import { track } from "@/lib/track";
 
@@ -50,11 +61,20 @@ export default function InlineMomentPlayer({
   const playerRef = useRef<Player | null>(null);
   const endedRef = useRef(false);
   const completedRef = useRef(false);
+  const rootRef = useRef<HTMLDivElement>(null);
+  const playTrackedRef = useRef(false);
+  // iPhone/Safari: iframe připravený dopředu, klepnutí jde přímo do něj (zvuk povolen).
+  const direct = useDirectTap();
+  const [armed, setArmed] = useState(false);
+  const [sound, setSound] = useState<"ok" | "muted" | "tap">("ok");
 
   const destroy = useCallback(() => {
     playerRef.current?.destroy().catch(() => undefined);
     playerRef.current = null;
     endedRef.current = false;
+    playTrackedRef.current = false;
+    setArmed(false);
+    setSound("ok");
   }, []);
 
   // Jiná karta začala hrát: tuhle zastavit a vrátit na fasádu (iframe se uvolní).
@@ -70,14 +90,14 @@ export default function InlineMomentPlayer({
     track("moment_complete", { moment_id: momentId, placement: "card" });
   }, [momentId]);
 
-  const ensurePlayer = useCallback(async (): Promise<Player | null> => {
+  const ensurePlayer = useCallback(async (autoplay = true): Promise<Player | null> => {
     if (playerRef.current) return playerRef.current;
     const el = containerRef.current;
     if (!el) return null;
     const { default: VimeoPlayer } = await preloadVimeoSdk();
     // start_time / end_time řeší začátek i konec už v iframu; autoplay nese záměr kliknutí do iframu.
     const options = vimeoOptions(vimeoId, vimeoHash, {
-      autoplay: true,
+      autoplay,
       start_time: Math.floor(start),
       end_time: Math.ceil(end),
     });
@@ -96,11 +116,26 @@ export default function InlineMomentPlayer({
     });
     p.on("ended", finish);
     p.on("play", () => {
+      // Při přímém klepnutí do iframu (iPhone) se o startu dozvíme až tady.
+      claimPlayer(momentId, stopFromOutside);
+      if (!playTrackedRef.current) {
+        playTrackedRef.current = true;
+        track("moment_play", { moment_id: momentId, placement: "card" });
+      }
       setStatus((s) => (s === "ended" ? s : "playing"));
       if (!startChecked) {
         startChecked = true;
         ensureStart(p, start);
       }
+      // Hraje bez zvuku? Ukázat viditelné tlačítko „Zapnout zvuk“ (Vimeo ho na úzké kartě schovává do menu).
+      setTimeout(() => {
+        isSilent(p).then((silent) => setSound((cur) => (silent ? (cur === "tap" ? "tap" : "muted") : "ok")));
+      }, 600);
+    });
+    p.on("volumechange", () => {
+      isSilent(p).then((silent) => {
+        if (!silent) setSound("ok");
+      });
     });
     p.on("pause", () => setStatus((s) => (s === "ended" || s === "idle" ? s : "paused")));
     p.on("error", () => {
@@ -110,12 +145,15 @@ export default function InlineMomentPlayer({
     // Nečekat donekonečna: po 6 s se iframe ukáže tak jako tak (Vimeo má vlastní tlačítko play).
     await withTimeout(p.ready(), 6000);
     return p;
-  }, [vimeoId, vimeoHash, start, end, complete]);
+  }, [vimeoId, vimeoHash, start, end, complete, momentId, stopFromOutside]);
 
   const playFrom = useCallback(
     async (t: number, how: "play" | "replay") => {
       claimPlayer(momentId, stopFromOutside);
-      if (how === "play") track("moment_play", { moment_id: momentId, placement: "card" });
+      if (how === "play" && !playTrackedRef.current) {
+        playTrackedRef.current = true;
+        track("moment_play", { moment_id: momentId, placement: "card" });
+      }
       setStatus("loading");
       setError(null);
       try {
@@ -148,12 +186,51 @@ export default function InlineMomentPlayer({
     };
   }, [destroy, momentId]);
 
+  // iPhone/Safari: když je karta na obrazovce, připravit iframe bez autoplay; mimo obrazovku ho uvolnit.
+  useEffect(() => {
+    if (!direct || status !== "idle") return;
+    const el = rootRef.current;
+    if (!el || typeof IntersectionObserver === "undefined") return;
+    let cancelled = false;
+    const obs = new IntersectionObserver(
+      (entries) => {
+        const visible = entries.some((e) => e.isIntersecting);
+        if (visible && !playerRef.current) {
+          ensurePlayer(false).then((p) => {
+            if (!cancelled && p) setArmed(true);
+          });
+        } else if (!visible && playerRef.current) {
+          destroy();
+        }
+      },
+      { rootMargin: "150px 0px" }
+    );
+    obs.observe(el);
+    return () => {
+      cancelled = true;
+      obs.disconnect();
+    };
+  }, [direct, status, ensurePlayer, destroy]);
+
+  const onUnmute = useCallback(async () => {
+    const p = playerRef.current;
+    if (!p) return;
+    const r = await unmute(p);
+    setSound(r === "ok" ? "ok" : "tap");
+    track("moment_unmute", { moment_id: momentId, placement: "card", result: r });
+  }, [momentId]);
+
   const showFacade = status === "idle" || status === "loading";
+  // Připravený iframe leží pod fasádou neprůhledný; fasáda nepřijímá klepnutí, takže trefí přímo Vimeo.
+  const passThrough = direct && armed && status === "idle";
   const circle = emphasis ? "h-16 w-16 sm:h-20 sm:w-20" : "h-14 w-14 sm:h-16 sm:w-16";
 
   return (
-    <div className="relative aspect-video w-full overflow-hidden bg-navy-deep" data-player="v2">
-      <div ref={containerRef} className={`absolute inset-0 ${showFacade || status === "error" ? "opacity-0" : ""}`} />
+    <div ref={rootRef} className="relative aspect-video w-full overflow-hidden bg-navy-deep" data-player="v3">
+      <div
+        ref={containerRef}
+        className={`absolute inset-0 ${(showFacade && !passThrough) || status === "error" ? "opacity-0" : ""}`}
+      />
 
       {showFacade && (
         <button
@@ -161,7 +238,7 @@ export default function InlineMomentPlayer({
           onClick={() => playFrom(start, "play")}
           onPointerEnter={() => preloadVimeoSdk()}
           onFocus={() => preloadVimeoSdk()}
-          className="group absolute inset-0 flex items-center justify-center text-left"
+          className={`group absolute inset-0 flex items-center justify-center text-left ${passThrough ? "pointer-events-none" : ""}`}
           aria-label={`Přehrát moment ${guestName}, ${durationLabel}, od ${startLabel}`}
         >
           {thumbnailUrl ? (
@@ -195,6 +272,8 @@ export default function InlineMomentPlayer({
           </span>
         </button>
       )}
+
+      {(status === "playing" || status === "paused") && sound !== "ok" && <SoundButton mode={sound} onUnmute={onUnmute} />}
 
       {status === "ended" && (
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 bg-navy-overlay p-4 text-center text-white">

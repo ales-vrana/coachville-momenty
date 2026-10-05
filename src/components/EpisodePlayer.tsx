@@ -2,7 +2,9 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type Player from "@vimeo/player";
-import { preloadVimeoSdk, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import { isSilent, preloadVimeoSdk, unmute, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import SoundButton from "@/components/SoundButton";
+import { useDirectTap } from "@/lib/useDirectTap";
 import { useClientUrl } from "@/lib/useClient";
 
 export interface EpisodeChapter {
@@ -32,6 +34,9 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
   const containerRef = useRef<HTMLDivElement>(null);
   const playerRef = useRef<Player | null>(null);
   const [status, setStatus] = useState<"idle" | "loading" | "ready">("idle");
+  const [started, setStarted] = useState(false);
+  const direct = useDirectTap();
+  const [sound, setSound] = useState<"ok" | "muted" | "tap">("ok");
   const { search } = useClientUrl();
 
   // ?t=1234 nebo ?m=<id> z URL (klientsky, stránka zůstává statická)
@@ -46,20 +51,32 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
     return null;
   }, [search, momentStarts]);
 
-  const ensurePlayer = useCallback(async () => {
+  const ensurePlayer = useCallback(async (autoplay = true) => {
     if (playerRef.current) return playerRef.current;
     const el = containerRef.current;
     if (!el) return null;
-    setStatus("loading");
+    if (autoplay) setStatus("loading");
     const { default: VimeoPlayer } = await preloadVimeoSdk();
     const options = vimeoOptions(vimeoId, vimeoHash, {
-      autoplay: true,
+      autoplay,
       ...(pendingSeek !== null ? { start_time: Math.floor(pendingSeek) } : {}),
     });
     const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
     playerRef.current = p;
+    p.on("play", () => {
+      setStarted(true);
+      setTimeout(() => {
+        isSilent(p).then((silent) => setSound((cur) => (silent ? (cur === "tap" ? "tap" : "muted") : "ok")));
+      }, 600);
+    });
+    p.on("volumechange", () => {
+      isSilent(p).then((silent) => {
+        if (!silent) setSound("ok");
+      });
+    });
     await withTimeout(p.ready(), 6000);
     setStatus("ready");
+    if (autoplay) setStarted(true);
     return p;
   }, [vimeoId, vimeoHash, pendingSeek]);
 
@@ -87,12 +104,35 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
     };
   }, []);
 
+  // iPhone/Safari: iframe připravit hned bez autoplay, klepnutí přes fasádu dopadne přímo do Vimea (zvuk povolen).
+  useEffect(() => {
+    if (!direct) return;
+    const id = setTimeout(() => void ensurePlayer(false), 0);
+    return () => clearTimeout(id);
+  }, [direct, ensurePlayer]);
+
+  const onUnmute = useCallback(async () => {
+    const p = playerRef.current;
+    if (!p) return;
+    const r = await unmute(p);
+    setSound(r === "ok" ? "ok" : "tap");
+  }, []);
+
+  const showFacade = !started;
+  const passThrough = direct && status === "ready" && !started;
+
   return (
     <div className="space-y-4">
       <div className="relative overflow-hidden rounded-2xl bg-black shadow-sm">
-        <div ref={containerRef} data-player="v2" className={status === "ready" ? "aspect-video" : "aspect-video opacity-0"} />
-        {status !== "ready" && (
-          <button type="button" onClick={start} className="absolute inset-0 flex items-center justify-center" aria-label={`Přehrát ${title}`}>
+        <div ref={containerRef} data-player="v3" className={status === "ready" ? "aspect-video" : "aspect-video opacity-0"} />
+        {started && sound !== "ok" && <SoundButton mode={sound} onUnmute={onUnmute} />}
+        {showFacade && (
+          <button
+            type="button"
+            onClick={start}
+            className={`absolute inset-0 flex items-center justify-center ${passThrough ? "pointer-events-none" : ""}`}
+            aria-label={`Přehrát ${title}`}
+          >
             {thumbnailUrl ? (
               // eslint-disable-next-line @next/next/no-img-element
               <img src={thumbnailUrl} alt="" className="absolute inset-0 h-full w-full object-cover opacity-80" />

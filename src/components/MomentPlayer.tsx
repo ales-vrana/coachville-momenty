@@ -3,7 +3,9 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import type Player from "@vimeo/player";
-import { ensureStart, preloadVimeoSdk, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import { ensureStart, isSilent, preloadVimeoSdk, unmute, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import SoundButton from "@/components/SoundButton";
+import { useDirectTap } from "@/lib/useDirectTap";
 import { markCompleted } from "@/lib/session";
 import { track } from "@/lib/track";
 
@@ -54,7 +56,11 @@ export default function MomentPlayer({
 }: Props) {
   const [status, setStatus] = useState<Status>("idle");
   const [currentTime, setCurrentTime] = useState<number>(start);
-  const [muted, setMuted] = useState(false);
+  // "muted": hraje bez zvuku (autoplay ztlumený nebo ?ref=email) → viditelné tlačítko přes video.
+  const [sound, setSound] = useState<"ok" | "muted" | "tap">("ok");
+  const direct = useDirectTap();
+  const [armed, setArmed] = useState(false);
+  const playTrackedRef = useRef(false);
   const [error, setError] = useState<string | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const playerRef = useRef<Player | null>(null);
@@ -99,18 +105,17 @@ export default function MomentPlayer({
     return () => obs.disconnect();
   }, [complete]);
 
-  const ensurePlayer = useCallback(async (): Promise<Player | null> => {
+  const ensurePlayer = useCallback(async (autoplay = true): Promise<Player | null> => {
     if (playerRef.current) return playerRef.current;
     const el = containerRef.current;
     if (!el) return null;
-    setStatus("loading");
+    if (autoplay) setStatus("loading");
     try {
       const { default: VimeoPlayer } = await preloadVimeoSdk();
       const startMuted = startMutedRef.current;
-      setMuted(startMuted);
       // start_time / end_time řeší začátek i konec v iframu; bez čekání na setCurrentTime (Safari).
       const options = vimeoOptions(vimeoId, vimeoHash, {
-        autoplay: true,
+        autoplay,
         muted: startMuted,
         start_time: Math.floor(start),
         end_time: Math.ceil(end),
@@ -129,11 +134,23 @@ export default function MomentPlayer({
       });
       p.on("ended", finish);
       p.on("play", () => {
+        if (!playTrackedRef.current) {
+          playTrackedRef.current = true;
+          track("moment_play", { moment_id: momentId });
+        }
         setStatus((s) => (s === "ended" ? s : "playing"));
         if (!startChecked) {
           startChecked = true;
           ensureStart(p, start);
         }
+        setTimeout(() => {
+          isSilent(p).then((silent) => setSound((cur) => (silent ? (cur === "tap" ? "tap" : "muted") : "ok")));
+        }, 600);
+      });
+      p.on("volumechange", () => {
+        isSilent(p).then((silent) => {
+          if (!silent) setSound("ok");
+        });
       });
       p.on("pause", () => setStatus((s) => (s === "ended" ? s : "paused")));
       p.on("error", (e: { message?: string }) => setError(e?.message ?? "Video se nepodařilo načíst."));
@@ -144,10 +161,13 @@ export default function MomentPlayer({
       setStatus("idle");
       return null;
     }
-  }, [vimeoId, vimeoHash, start, end, complete]);
+  }, [vimeoId, vimeoHash, start, end, complete, momentId]);
 
   const play = useCallback(async () => {
-    track("moment_play", { moment_id: momentId });
+    if (!playTrackedRef.current) {
+      playTrackedRef.current = true;
+      track("moment_play", { moment_id: momentId });
+    }
     const existed = playerRef.current !== null;
     const p = await ensurePlayer();
     if (!p) return;
@@ -176,13 +196,28 @@ export default function MomentPlayer({
     [ensurePlayer]
   );
 
-  const unmute = useCallback(async () => {
+  const onUnmute = useCallback(async () => {
     const p = playerRef.current;
     if (!p) return;
-    await p.setMuted(false);
-    await p.setVolume(1);
-    setMuted(false);
-  }, []);
+    const r = await unmute(p);
+    setSound(r === "ok" ? "ok" : "tap");
+    track("moment_unmute", { moment_id: momentId, placement: "moment_page", result: r });
+  }, [momentId]);
+
+  // iPhone/Safari: iframe připravit hned bez autoplay; klepnutí přes fasádu dopadne přímo do Vimea (zvuk povolen).
+  useEffect(() => {
+    if (!direct) return;
+    let cancelled = false;
+    const id = setTimeout(() => {
+      ensurePlayer(false).then((p) => {
+        if (!cancelled && p) setArmed(true);
+      });
+    }, 0);
+    return () => {
+      cancelled = true;
+      clearTimeout(id);
+    };
+  }, [direct, ensurePlayer]);
 
   useEffect(() => {
     const id = setTimeout(() => preloadVimeoSdk(), 800);
@@ -198,16 +233,18 @@ export default function MomentPlayer({
     return currentTime >= u.t && currentTime < nextT;
   });
   const showFacade = status === "idle" || status === "loading";
+  const passThrough = direct && armed && status === "idle";
 
   return (
     <div className="space-y-4">
       <div className="relative overflow-hidden rounded-2xl bg-black shadow-sm">
-        <div ref={containerRef} data-player="v2" className={showFacade ? "aspect-video opacity-0" : "aspect-video"} />
+        <div ref={containerRef} data-player="v3" className={showFacade && !passThrough ? "aspect-video opacity-0" : "aspect-video"} />
+        {(status === "playing" || status === "paused") && sound !== "ok" && <SoundButton mode={sound} onUnmute={onUnmute} />}
         {showFacade && (
           <button
             type="button"
             onClick={play}
-            className="absolute inset-0 flex items-center justify-center"
+            className={`absolute inset-0 flex items-center justify-center ${passThrough ? "pointer-events-none" : ""}`}
             aria-label={`Přehrát moment od ${startLabel}`}
           >
             {thumbnailUrl ? (
@@ -250,14 +287,6 @@ export default function MomentPlayer({
           </div>
         )}
       </div>
-      {muted && (status === "playing" || status === "paused") && (
-        <button
-          onClick={unmute}
-          className="btn-primary w-full"
-        >
-          Zapnout zvuk
-        </button>
-      )}
       {error && <p className="text-sm text-red-700">{error}</p>}
 
       <div className="card p-4 sm:p-6">
