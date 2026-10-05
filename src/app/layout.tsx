@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import ContactBar from "@/components/ContactBar";
 import Script from "next/script";
 import "./globals.css";
 import Logo from "@/components/Logo";
@@ -30,8 +31,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-2.5">
             <Link href="/" className="flex items-center gap-3 no-underline">
               <Logo size="sm" />
-              <span className="hidden h-6 w-px bg-line sm:block" aria-hidden="true" />
-              <span className="hidden text-sm font-bold uppercase tracking-wide text-navy sm:inline">{site.siteName}</span>
+              <span className="hidden h-6 w-px bg-line lg:block" aria-hidden="true" />
+              <span className="hidden text-sm font-bold uppercase tracking-wide text-navy lg:inline">{site.siteName}</span>
             </Link>
             <nav className="flex shrink-0 gap-3 whitespace-nowrap text-[11px] font-bold uppercase tracking-wide text-navy sm:gap-6 sm:text-[13px]">
               <Link href="/#temata" className="hover:text-teal-deep">
@@ -43,10 +44,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <Link href="/pro-partnera" className="hover:text-teal-deep">
                 Pro partnera
               </Link>
-              <a href={site.links.coachReviews} className="hidden hover:text-teal-deep md:inline" target="_blank" rel="noopener">
+              <a href={site.links.coachReviews} className="hidden hover:text-teal-deep lg:inline" target="_blank" rel="noopener">
                 Zkušenosti koučů
               </a>
-              <a href={site.links.clientReferences} className="hidden hover:text-teal-deep md:inline" target="_blank" rel="noopener">
+              <a href={site.links.clientReferences} className="hidden hover:text-teal-deep lg:inline" target="_blank" rel="noopener">
                 Reference klientů
               </a>
               {SHOW_TERMS_LINKS && (
@@ -56,6 +57,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               )}
             </nav>
           </div>
+          <ContactBar />
         </header>
         <main className="mx-auto w-full max-w-5xl flex-1 px-4 pb-28 pt-6 sm:pt-8">{children}</main>
         <footer className="bg-dark text-white/80">

@@ -30,6 +30,8 @@
 @layer base {
   html {
     color-scheme: light;
+    /* Přilepená hlavička + kontaktní lišta: kotvy (#temata, #hoste, #vypis) nesmí skončit pod nimi. */
+    scroll-padding-top: 9rem;
   }
 
   body {
