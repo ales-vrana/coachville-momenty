@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import ContactBar from "@/components/ContactBar";
+import EmbedMode from "@/components/EmbedMode";
 import Script from "next/script";
 import "./globals.css";
 import Logo from "@/components/Logo";
@@ -27,6 +28,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="cs" className="h-full antialiased">
       <body className="flex min-h-full flex-col">
+        <EmbedMode />
         <header className="sticky top-0 z-30 border-b border-line bg-white/90 backdrop-blur">
           <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-2.5">
             <Link href="/" className="flex items-center gap-3 no-underline">

@@ -99,3 +99,18 @@
 .btn-link {
   @apply inline-flex items-center gap-1 text-sm font-semibold text-navy underline decoration-teal underline-offset-4 hover:text-teal-deep;
 }
+
+/* Režim ve vloženém okně (iframe, např. lekce přípravného kurzu): bez hlavičky, kontaktní lišty, patičky a spodní CTA lišty.
+   Třídu `embed` přidává komponenta EmbedMode, když web běží uvnitř <iframe>. */
+html.embed {
+  scroll-padding-top: 1rem;
+}
+html.embed body > header,
+html.embed body > footer,
+html.embed .cta-bar {
+  display: none !important;
+}
+html.embed body > main {
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
+}

@@ -31,7 +31,7 @@ export default function CtaBar({ workshop, threshold = 2 }: Props) {
   if (!workshop || !visible || dismissed || partner) return null;
 
   return (
-    <div className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-white/95 p-3 shadow-[0_-4px_16px_rgba(0,0,0,0.08)] backdrop-blur">
+    <div className="cta-bar fixed inset-x-0 bottom-0 z-40 border-t border-line bg-white/95 p-3 shadow-[0_-4px_16px_rgba(0,0,0,0.08)] backdrop-blur">
       <div className="mx-auto flex max-w-3xl items-center gap-3">
         <div className="min-w-0 flex-1">
           <p className="text-sm font-bold leading-tight text-navy">Zjistit na workshopu, jestli je to pro mě</p>
