@@ -91,7 +91,7 @@ export default function Home() {
 
       <section className="card p-5 sm:p-8">
         <Denominator d={d} />
-        <p className="mt-3 text-sm text-muted">
+        <p className="embed-hide mt-3 text-sm text-muted">
           Tohle není reklama a není to místo, kde se platí za výcvik. Když po dvou momentech budete chtít vědět, jestli je to pro vás,
           je tu workshop za 300 Kč. A když ne, nic se neděje.{" "}
           <Link href="/pro-partnera" className="btn-link">

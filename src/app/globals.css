@@ -114,3 +114,12 @@ html.embed body > main {
   padding-top: 0.5rem;
   padding-bottom: 2rem;
 }
+/* V embed módu se výška řídí obsahem, ne výškou okna (rámeček se podle ní měří). */
+html.embed,
+html.embed body {
+  height: auto !important;
+  min-height: 0 !important;
+}
+html.embed .embed-hide {
+  display: none !important;
+}
