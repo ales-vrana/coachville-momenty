@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type Player from "@vimeo/player";
-import { isSilent, preloadVimeoSdk, unmute, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import { isSilent, reportWatch, preloadVimeoSdk, unmute, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
 import SoundButton from "@/components/SoundButton";
 import { useDirectTap } from "@/lib/useDirectTap";
 import { useClientUrl } from "@/lib/useClient";
@@ -62,6 +62,7 @@ export default function EpisodePlayer({ vimeoId, vimeoHash, thumbnailUrl, title,
       ...(pendingSeek !== null ? { start_time: Math.floor(pendingSeek) } : {}),
     });
     const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
+    reportWatch(p);
     playerRef.current = p;
     p.on("play", () => {
       setStarted(true);

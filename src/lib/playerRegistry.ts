@@ -1,3 +1,5 @@
+import type Player from "@vimeo/player";
+
 // V jednu chvíli hraje jen jeden moment (výpis tématu, hosta, další momenty).
 // Modulový registr bez React kontextu: karty jsou samostatné client komponenty.
 let active: { id: string; stop: () => void } | null = null;
@@ -110,4 +112,36 @@ export async function unmute(p: Unmutable): Promise<"ok" | "tap"> {
     return "tap";
   }
   return "ok";
+}
+
+/**
+ * Měření minut sledování pro přípravný kurz: když web běží vložený v lekci 7.1 (iframe na start.coachville.eu),
+ * posílá nadřazené stránce skutečně přehrané sekundy (přeskoky a přetáčení se nepočítají).
+ * Mimo iframe nedělá nic. Kurz zprávu přijme jen od své vlastní domény.
+ */
+export function reportWatch(p: Pick<Player, "on">) {
+  if (typeof window === "undefined" || window.parent === window) return;
+  let last: number | null = null;
+  let acc = 0;
+  const flush = () => {
+    if (acc < 1) return;
+    try {
+      window.parent.postMessage({ type: "cv-watch", sec: Math.round(acc * 10) / 10 }, "*");
+    } catch {
+      /* nic */
+    }
+    acc = 0;
+  };
+  p.on("timeupdate", ({ seconds }: { seconds: number }) => {
+    if (last != null) {
+      const d = seconds - last;
+      if (d > 0 && d <= 2) acc += d;
+      if (acc >= 10) flush();
+    }
+    last = seconds;
+  });
+  p.on("pause", () => { flush(); last = null; });
+  p.on("ended", () => { flush(); last = null; });
+  p.on("seeked", () => { last = null; });
+  window.addEventListener("pagehide", flush);
 }

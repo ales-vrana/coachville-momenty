@@ -12,6 +12,7 @@ import {
   unmute,
   vimeoOptions,
   withTimeout,
+  reportWatch,
 } from "@/lib/playerRegistry";
 import SoundButton from "@/components/SoundButton";
 import { useDirectTap } from "@/lib/useDirectTap";
@@ -102,6 +103,7 @@ export default function InlineMomentPlayer({
       end_time: Math.ceil(end),
     });
     const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
+    reportWatch(p);
     playerRef.current = p;
     let startChecked = false;
     const finish = () => {

@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import type Player from "@vimeo/player";
-import { ensureStart, isSilent, preloadVimeoSdk, unmute, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
+import { ensureStart, isSilent, reportWatch, preloadVimeoSdk, unmute, vimeoOptions, withTimeout } from "@/lib/playerRegistry";
 import SoundButton from "@/components/SoundButton";
 import { useDirectTap } from "@/lib/useDirectTap";
 import { markCompleted } from "@/lib/session";
@@ -121,6 +121,7 @@ export default function MomentPlayer({
         end_time: Math.ceil(end),
       });
       const p = new VimeoPlayer(el, options as ConstructorParameters<typeof VimeoPlayer>[1]);
+      reportWatch(p);
       playerRef.current = p;
       let startChecked = false;
       const finish = () => {
