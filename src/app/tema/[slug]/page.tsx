@@ -81,7 +81,7 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
         </MomentList>
       )}
 
-      <section className="card p-5">
+      <section className="card p-5 embed-hide">
         <h2 className="text-base normal-case">Co byste potřeboval/a slyšet, abyste se rozhodl/a, ať už jakkoliv?</h2>
         <p className="mt-1 text-sm text-muted">
           Napište mi to. Čtu každou odpověď a podle nich natáčím další rozhovory.

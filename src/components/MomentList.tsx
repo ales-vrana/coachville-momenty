@@ -31,6 +31,7 @@ function plural(n: number, one: string, few: string, many: string) {
 const SHOW_FILTERS = false; // přepínač rychlých filtrů Předtím / Důkaz
 const INITIAL = 7;
 const STEP = 10;
+const EMBED_INITIAL = 25; // vloženo v přípravném kurzu: hned 25 momentů, další klik ukáže zbytek
 
 /**
  * Výpis momentů tématu: všechny karty jsou v HTML (server), na klientu se jen skrývají.
@@ -53,6 +54,12 @@ export default function MomentList({
   const [cat, setCat] = useState<string | null>(null);
   const [proof, setProof] = useState<"number" | "admission" | null>(null);
   const [shown, setShown] = useState(INITIAL);
+  const [base, setBase] = useState(INITIAL);
+  useEffect(() => {
+    let inFrame = false;
+    try { inFrame = window.self !== window.top; } catch { inFrame = true; }
+    if (inFrame) { setBase(EMBED_INITIAL); setShown((s) => Math.max(s, EMBED_INITIAL)); }
+  }, []);
   const focusRef = useRef<HTMLDivElement>(null);
   const [focusPos, setFocusPos] = useState<number | null>(null);
 
@@ -81,12 +88,12 @@ export default function MomentList({
   const filtered = cat !== null || proof !== null;
 
   function reset() {
-    setShown(INITIAL);
+    setShown(base);
     setFocusPos(null);
   }
 
   function loadMore() {
-    const next = shown === INITIAL ? shown + STEP : total;
+    const next = base === INITIAL && shown === INITIAL ? shown + STEP : total;
     setFocusPos(shown);
     setShown(next);
     track("moments_load_more", { shown: next, total });
@@ -178,7 +185,7 @@ export default function MomentList({
 
       {remaining > 0 ? (
         <button onClick={loadMore} className="btn-navy w-full sm:w-auto">
-          {shown === INITIAL && remaining > STEP
+          {base === INITIAL && shown === INITIAL && remaining > STEP
             ? `Zobrazit dalších ${STEP}`
             : `Zobrazit ${remaining === 1 ? "poslední moment" : `všech ${remaining} zbývajících`}`}
         </button>
