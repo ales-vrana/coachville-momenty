@@ -38,13 +38,13 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
 
   return (
     <div className="space-y-6">
-      <nav className="text-sm text-muted">
+      <nav className="lesson-hide text-sm text-muted">
         <Link href="/#temata" className="btn-link">
           Témata
         </Link>{" "}
         <span className="mx-1">·</span> <span className="eyebrow">{topic.group}</span>
       </nav>
-      <header className="max-w-3xl">
+      <header className="lesson-hide max-w-3xl">
         <h1 className="text-2xl leading-tight sm:text-3xl">{topic.label}</h1>
         {topic.aliases && topic.aliases.length > 0 && (
           <p className="mt-1 text-sm text-muted">Také: {topic.aliases.join(" · ")}</p>

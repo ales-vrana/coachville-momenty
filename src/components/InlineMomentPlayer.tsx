@@ -255,7 +255,14 @@ export default function InlineMomentPlayer({
           />
           {badge && (
             <span className="absolute left-3 top-3 rounded-full bg-gold px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide text-white shadow">
-              {badge}
+              {badge === "Začněte tady" ? (
+                <>
+                  <span className="embed-hide">Začněte tady</span>
+                  <span className="embed-only">Začni tady</span>
+                </>
+              ) : (
+                badge
+              )}
             </span>
           )}
           <span

@@ -31,7 +31,8 @@ function plural(n: number, one: string, few: string, many: string) {
 const SHOW_FILTERS = false; // přepínač rychlých filtrů Předtím / Důkaz
 const INITIAL = 7;
 const STEP = 10;
-const EMBED_INITIAL = 25; // vloženo v přípravném kurzu: hned 25 momentů, další klik ukáže zbytek
+const EMBED_INITIAL = 25; // vloženo v přípravném kurzu na počítači: hned 25 momentů, další klik ukáže zbytek
+const EMBED_MOBILE = 10; // vloženo v kurzu na mobilu: po 10 momentech, aby stránka nebyla desítky obrazovek dlouhá
 
 /**
  * Výpis momentů tématu: všechny karty jsou v HTML (server), na klientu se jen skrývají.
@@ -58,7 +59,10 @@ export default function MomentList({
   useEffect(() => {
     let inFrame = false;
     try { inFrame = window.self !== window.top; } catch { inFrame = true; }
-    if (inFrame) { setBase(EMBED_INITIAL); setShown((s) => Math.max(s, EMBED_INITIAL)); }
+    if (!inFrame) return;
+    const first = window.innerWidth < 640 ? EMBED_MOBILE : EMBED_INITIAL;
+    setBase(first);
+    setShown((s) => Math.max(s, first));
   }, []);
   const focusRef = useRef<HTMLDivElement>(null);
   const [focusPos, setFocusPos] = useState<number | null>(null);
@@ -93,7 +97,8 @@ export default function MomentList({
   }
 
   function loadMore() {
-    const next = base === INITIAL && shown === INITIAL ? shown + STEP : total;
+    // Web: 7 → +10 → vše. Kurz na počítači: 25 → vše. Kurz na mobilu: po deseti.
+    const next = base === EMBED_MOBILE ? Math.min(total, shown + STEP) : base === INITIAL && shown === INITIAL ? shown + STEP : total;
     setFocusPos(shown);
     setShown(next);
     track("moments_load_more", { shown: next, total });
@@ -185,7 +190,7 @@ export default function MomentList({
 
       {remaining > 0 ? (
         <button onClick={loadMore} className="btn-navy w-full sm:w-auto">
-          {base === INITIAL && shown === INITIAL && remaining > STEP
+          {(base === EMBED_MOBILE || (base === INITIAL && shown === INITIAL)) && remaining > STEP
             ? `Zobrazit dalších ${STEP}`
             : `Zobrazit ${remaining === 1 ? "poslední moment" : `všech ${remaining} zbývajících`}`}
         </button>

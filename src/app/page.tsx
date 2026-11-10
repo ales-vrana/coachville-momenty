@@ -28,13 +28,19 @@ export default function Home() {
         <p className="eyebrow mb-2">Momenty ze studia</p>
         <h1 className="text-3xl leading-tight sm:text-4xl">Případové studie CoachVille</h1>
         <p className="mt-3 text-lg text-muted">
-          Vyberte si několik momentů, které vás zajímají, anebo si přehrajte celý rozhovor se studentem, jehož sdílení vás
-          zaujalo. S kýmkoliv z nich se můžete spojit.
+          <span className="embed-hide">
+            Vyberte si několik momentů, které vás zajímají, anebo si přehrajte celý rozhovor se studentem, jehož sdílení
+            vás zaujalo. S kýmkoliv z nich se můžete spojit.
+          </span>
+          <span className="embed-only">
+            Vyber si několik momentů, které tě zajímají, anebo si přehraj celý rozhovor se studentem, jehož sdílení tě
+            zaujalo. S kýmkoliv z nich se můžeš spojit.
+          </span>
         </p>
       </section>
 
       <section id="temata" className="space-y-6">
-        <h2 className="text-xl">Co si právě teď říkáte?</h2>
+        <h2 className="text-xl"><span className="embed-hide">Co si právě teď říkáte?</span><span className="embed-only">Co si právě teď říkáš?</span></h2>
         {topics.length === 0 && (
           <p className="text-muted">Zatím tu nejsou žádná publikovaná témata. Přidejte první rozhovor.</p>
         )}

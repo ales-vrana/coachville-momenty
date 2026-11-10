@@ -123,3 +123,13 @@ html.embed body {
 html.embed .embed-hide {
   display: none !important;
 }
+/* Texty jen pro vloženou verzi (kurz tyká, web vyká). */
+.embed-only {
+  display: none;
+}
+html.embed .embed-only {
+  display: inline;
+}
+html.embed-lesson .lesson-hide {
+  display: none !important;
+}

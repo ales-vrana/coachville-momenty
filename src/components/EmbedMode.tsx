@@ -10,12 +10,17 @@ import { useEffect } from "react";
  */
 export default function EmbedMode() {
   useEffect(() => {
+    let embedded = false;
     try {
-      if (window.self !== window.top) document.documentElement.classList.add("embed");
+      embedded = window.self !== window.top;
     } catch {
       // přístup k window.top může u cizí domény vyhodit chybu = jsme v iframe
-      document.documentElement.classList.add("embed");
+      embedded = true;
     }
+    if (!embedded) return;
+    document.documentElement.classList.add("embed");
+    // Téma vložené jako samostatná lekce kurzu (?lekce=1): nadpis a drobečkovou navigaci už ukazuje kurz, tady je schováme.
+    if (new URLSearchParams(window.location.search).get("lekce") === "1") document.documentElement.classList.add("embed-lesson");
   }, []);
   return null;
 }
